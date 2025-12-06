@@ -7,8 +7,10 @@ Welcome to the **ENVISAGE Dataset** repository. This dataset has been collected 
 ## 📦 Dataset Downloads (Zenodo)
 Below are the Zenodo links where the ENVISAGE dataset components can be downloaded:
 
-- Subset Dataset for Review: [Zenodo Link 1](#)
-- Annotations: [Zenodo Link 2](#)
+- Subset Dataset for Review: [Zenodo Link 1](https://zenodo.org/records/17793304?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImQ0MGU1ZDg4LTJkYjUtNGQ0NS1iZDc0LTc5NTZkYWM1NDJmZSIsImRhdGEiOnt9LCJyYW5kb20iOiJiZGIzZWNhMjk4YjNiMzU5YjY0ZWYxY2IxYmIxYjk4MyJ9.cTOErmPT4QMZanoKmlelUVs7B6-P0_xE7ua0_Z60jrBHODFWu1dV4rkg0JpUwVez0Tk1x0n29gUNXNv1x38z-w
+)
+- Annotations: [Zenodo Link 2](https://zenodo.org/records/17833076?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA0MTBiZGQ5LWQ3ZmYtNDk2My05ODgzLTFiZjdiNGJiMDE1NCIsImRhdGEiOnt9LCJyYW5kb20iOiI0MjM0ZTE4MDQ1NGY1NjIxZTM1NDhhOTgzYjIwN2NjYiJ9.D7czUuWrSg8doIRPZiY9YoditCLIrTBh-zXeDP1tz1G9P6TwPAcv-4r1PTPM9lmzq-zVdwwbpYpykIJ1rMCqug
+)
 - Dataset Images Part 1: [Zenodo Link 3](#)
 - Dataset Images Part 2: [Zenodo Link 4](#)
 
