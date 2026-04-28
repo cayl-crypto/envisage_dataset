@@ -26,4 +26,5 @@ The ENVISAGE dataset was collected by visually impaired contributors and annotat
 - Multi‑label tags available per image using MSCOCO supercategories
 
 
-
+## 📄 Finetuned Model (BLIP2 OPT6.7B)
+https://drive.google.com/file/d/13KZD6wwr0EuFUrCB1ld0BPq-fUucdQP0/view?usp=drive_link
