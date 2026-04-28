@@ -1,0 +1,4263 @@
+{
+  "annotations": [
+    {
+      "image_id": 38079,
+      "sentence_id": "00190181",
+      "caption": "A baby care unit is in front of a cabinet",
+      "id": 190181
+    },
+    {
+      "image_id": 38079,
+      "sentence_id": "00190182",
+      "caption": "A baby care unit with some buttons",
+      "id": 190182
+    },
+    {
+      "image_id": 38079,
+      "sentence_id": "00190183",
+      "caption": "A baby unit with some writings",
+      "id": 190183
+    },
+    {
+      "image_id": 38079,
+      "sentence_id": "00190184",
+      "caption": "A baby care unit in a room",
+      "id": 190184
+    },
+    {
+      "image_id": 38079,
+      "sentence_id": "00190185",
+      "caption": "A baby incubator on a table",
+      "id": 190185
+    },
+    {
+      "image_id": 16477,
+      "sentence_id": "00082226",
+      "caption": "leather bag is near a computer",
+      "id": 82226
+    },
+    {
+      "image_id": 16477,
+      "sentence_id": "00082227",
+      "caption": "small eyeglass box is put under screen of computer",
+      "id": 82227
+    },
+    {
+      "image_id": 16477,
+      "sentence_id": "00082228",
+      "caption": "glasses box and bluetooth earphones on the table",
+      "id": 82228
+    },
+    {
+      "image_id": 16477,
+      "sentence_id": "00082229",
+      "caption": "a bag is on the right side",
+      "id": 82229
+    },
+    {
+      "image_id": 16477,
+      "sentence_id": "00082230",
+      "caption": "screen of computer at background is turned off",
+      "id": 82230
+    },
+    {
+      "image_id": 5503,
+      "sentence_id": "00027511",
+      "caption": "Patients are waiting behind the doctor's door.",
+      "id": 27511
+    },
+    {
+      "image_id": 5503,
+      "sentence_id": "00027512",
+      "caption": "patients are waiting in the hospital",
+      "id": 27512
+    },
+    {
+      "image_id": 5503,
+      "sentence_id": "00027513",
+      "caption": "kind of screen above the door is showing patient's name",
+      "id": 27513
+    },
+    {
+      "image_id": 5503,
+      "sentence_id": "00027514",
+      "caption": "Two people standing in a hospital corridor",
+      "id": 27514
+    },
+    {
+      "image_id": 5503,
+      "sentence_id": "00027515",
+      "caption": "a dermatology clinic in hospital and a sign with doctor's name",
+      "id": 27515
+    },
+    {
+      "image_id": 50418,
+      "sentence_id": "00251866",
+      "caption": "lots of small objects are placed on tv cabinet in living room",
+      "id": 251866
+    },
+    {
+      "image_id": 50418,
+      "sentence_id": "00251867",
+      "caption": "in the middle of the living room stands a boy",
+      "id": 251867
+    },
+    {
+      "image_id": 50418,
+      "sentence_id": "00251868",
+      "caption": "in the middle of the living room is a boy",
+      "id": 251868
+    },
+    {
+      "image_id": 50418,
+      "sentence_id": "00251869",
+      "caption": "a little boy on the carpet is watching tv",
+      "id": 251869
+    },
+    {
+      "image_id": 50418,
+      "sentence_id": "00251870",
+      "caption": "a boy is watching cartoon movie at home",
+      "id": 251870
+    },
+    {
+      "image_id": 23601,
+      "sentence_id": "00117821",
+      "caption": "Wall of the room is covering the background",
+      "id": 117821
+    },
+    {
+      "image_id": 23601,
+      "sentence_id": "00117822",
+      "caption": "flat screem tv is hung on the tv hanger",
+      "id": 117822
+    },
+    {
+      "image_id": 23601,
+      "sentence_id": "00117823",
+      "caption": "flamingos and the sea on tv",
+      "id": 117823
+    },
+    {
+      "image_id": 23601,
+      "sentence_id": "00117824",
+      "caption": "a tv in living room is taken",
+      "id": 117824
+    },
+    {
+      "image_id": 23601,
+      "sentence_id": "00117825",
+      "caption": "a tv is in living room",
+      "id": 117825
+    },
+    {
+      "image_id": 11394,
+      "sentence_id": "00056931",
+      "caption": "a dessert plate with dessert is right in front",
+      "id": 56931
+    },
+    {
+      "image_id": 11394,
+      "sentence_id": "00056932",
+      "caption": "The bottom layer of the dessert plate consists of cream.",
+      "id": 56932
+    },
+    {
+      "image_id": 11394,
+      "sentence_id": "00056933",
+      "caption": "a layer of biscuit was spilled on the cream",
+      "id": 56933
+    },
+    {
+      "image_id": 11394,
+      "sentence_id": "00056934",
+      "caption": "Strawberries are placed on the biscuit",
+      "id": 56934
+    },
+    {
+      "image_id": 11394,
+      "sentence_id": "00056935",
+      "caption": "dessert plate is in front of an open computer screen",
+      "id": 56935
+    },
+    {
+      "image_id": 15667,
+      "sentence_id": "00078176",
+      "caption": "curtain is next to the drum on right side",
+      "id": 78176
+    },
+    {
+      "image_id": 15667,
+      "sentence_id": "00078177",
+      "caption": "kind of drum set is located on the corner of dark room",
+      "id": 78177
+    },
+    {
+      "image_id": 15667,
+      "sentence_id": "00078178",
+      "caption": "electronic drum mounted around the chair",
+      "id": 78178
+    },
+    {
+      "image_id": 15667,
+      "sentence_id": "00078179",
+      "caption": "a poster is hung on the wall",
+      "id": 78179
+    },
+    {
+      "image_id": 15667,
+      "sentence_id": "00078180",
+      "caption": "an electronic bass drum and chair",
+      "id": 78180
+    },
+    {
+      "image_id": 10853,
+      "sentence_id": "00054231",
+      "caption": "The glassed-in section of a cafe is in the front.",
+      "id": 54231
+    },
+    {
+      "image_id": 10853,
+      "sentence_id": "00054232",
+      "caption": "A table and chair are just ahead.",
+      "id": 54232
+    },
+    {
+      "image_id": 10853,
+      "sentence_id": "00054233",
+      "caption": "some people are sitting in the cafe.",
+      "id": 54233
+    },
+    {
+      "image_id": 10853,
+      "sentence_id": "00054234",
+      "caption": "a boxing machine is on the left.",
+      "id": 54234
+    },
+    {
+      "image_id": 10853,
+      "sentence_id": "00054235",
+      "caption": "a garden is outside the cafe.",
+      "id": 54235
+    },
+    {
+      "image_id": 15161,
+      "sentence_id": "00075646",
+      "caption": "Several sheets were put between two notebooks",
+      "id": 75646
+    },
+    {
+      "image_id": 15161,
+      "sentence_id": "00075647",
+      "caption": "the study table is made of wood",
+      "id": 75647
+    },
+    {
+      "image_id": 15161,
+      "sentence_id": "00075648",
+      "caption": "two books and a watch on the table",
+      "id": 75648
+    },
+    {
+      "image_id": 15161,
+      "sentence_id": "00075649",
+      "caption": "kind of wrist watch is put on study desk behind closed books",
+      "id": 75649
+    },
+    {
+      "image_id": 15161,
+      "sentence_id": "00075650",
+      "caption": "Some books are put on the table",
+      "id": 75650
+    },
+    {
+      "image_id": 10041,
+      "sentence_id": "00050181",
+      "caption": "three handmade figures are located on a table.",
+      "id": 50181
+    },
+    {
+      "image_id": 10041,
+      "sentence_id": "00050182",
+      "caption": "an orange laptop figure is located on the table.",
+      "id": 50182
+    },
+    {
+      "image_id": 10041,
+      "sentence_id": "00050183",
+      "caption": "a green, blue and black colored wall is in the background.",
+      "id": 50183
+    },
+    {
+      "image_id": 10041,
+      "sentence_id": "00050184",
+      "caption": "the handmade figures are located on a wooden table.",
+      "id": 50184
+    },
+    {
+      "image_id": 10041,
+      "sentence_id": "00050185",
+      "caption": "the table has vertical stripes on it.",
+      "id": 50185
+    },
+    {
+      "image_id": 19274,
+      "sentence_id": "00096186",
+      "caption": "two people are sitting on the left",
+      "id": 96186
+    },
+    {
+      "image_id": 19274,
+      "sentence_id": "00096187",
+      "caption": "the person in the front is sitting in the seat",
+      "id": 96187
+    },
+    {
+      "image_id": 19274,
+      "sentence_id": "00096188",
+      "caption": "the television is on the right side of the unit",
+      "id": 96188
+    },
+    {
+      "image_id": 19274,
+      "sentence_id": "00096189",
+      "caption": "the table is in front of the seat on the left",
+      "id": 96189
+    },
+    {
+      "image_id": 19274,
+      "sentence_id": "00096190",
+      "caption": "a white keyboard is placed on the table",
+      "id": 96190
+    },
+    {
+      "image_id": 13737,
+      "sentence_id": "00068531",
+      "caption": "Hardwood floor under the computer desk.",
+      "id": 68531
+    },
+    {
+      "image_id": 13737,
+      "sentence_id": "00068532",
+      "caption": "The computer desk is opposite the sofa.",
+      "id": 68532
+    },
+    {
+      "image_id": 13737,
+      "sentence_id": "00068533",
+      "caption": "The sofa is on the right side of the computer desk.",
+      "id": 68533
+    },
+    {
+      "image_id": 13737,
+      "sentence_id": "00068534",
+      "caption": "The laptop is on the computer table, in the middle.",
+      "id": 68534
+    },
+    {
+      "image_id": 13737,
+      "sentence_id": "00068535",
+      "caption": "The triple socket is on the right under the computer desk.",
+      "id": 68535
+    },
+    {
+      "image_id": 10569,
+      "sentence_id": "00052821",
+      "caption": "several people sitting in the same place",
+      "id": 52821
+    },
+    {
+      "image_id": 10569,
+      "sentence_id": "00052822",
+      "caption": "the person with glasses playing on the phone is right in the middle",
+      "id": 52822
+    },
+    {
+      "image_id": 10569,
+      "sentence_id": "00052823",
+      "caption": "the person to the right of the person playing on the phone is wearing headphones",
+      "id": 52823
+    },
+    {
+      "image_id": 10569,
+      "sentence_id": "00052824",
+      "caption": "two people on the left are interested in the computer",
+      "id": 52824
+    },
+    {
+      "image_id": 10569,
+      "sentence_id": "00052825",
+      "caption": "A sugar bowl with s5 written on it is in the middle of the table.",
+      "id": 52825
+    },
+    {
+      "image_id": 9770,
+      "sentence_id": "00048826",
+      "caption": "a laptop is photoed in a cafe.",
+      "id": 48826
+    },
+    {
+      "image_id": 9770,
+      "sentence_id": "00048827",
+      "caption": "google webpage is open on the screen of the laptop.",
+      "id": 48827
+    },
+    {
+      "image_id": 9770,
+      "sentence_id": "00048828",
+      "caption": "a glasses is located on the right side of the laptop.",
+      "id": 48828
+    },
+    {
+      "image_id": 9770,
+      "sentence_id": "00048829",
+      "caption": "a watch is located on the left side of the laptop.",
+      "id": 48829
+    },
+    {
+      "image_id": 9770,
+      "sentence_id": "00048830",
+      "caption": "multiple tables and armchairs are visible in the background.",
+      "id": 48830
+    },
+    {
+      "image_id": 17347,
+      "sentence_id": "00086571",
+      "caption": "a keyboard is photoed on a table.",
+      "id": 86571
+    },
+    {
+      "image_id": 17347,
+      "sentence_id": "00086572",
+      "caption": "the keyboard is in black color.",
+      "id": 86572
+    },
+    {
+      "image_id": 17347,
+      "sentence_id": "00086573",
+      "caption": "Black keyboard on table with colorful lighting.",
+      "id": 86573
+    },
+    {
+      "image_id": 17347,
+      "sentence_id": "00086574",
+      "caption": "the keyboard is located on a light brown colored table.",
+      "id": 86574
+    },
+    {
+      "image_id": 17347,
+      "sentence_id": "00086575",
+      "caption": "the cable of the keyboard is on the top right side of the keyboard.",
+      "id": 86575
+    },
+    {
+      "image_id": 10258,
+      "sentence_id": "00051266",
+      "caption": "The table is next to the wall.",
+      "id": 51266
+    },
+    {
+      "image_id": 10258,
+      "sentence_id": "00051267",
+      "caption": "The wifi router is on the table.",
+      "id": 51267
+    },
+    {
+      "image_id": 10258,
+      "sentence_id": "00051268",
+      "caption": "A telecom box is above the wi-fi router.",
+      "id": 51268
+    },
+    {
+      "image_id": 10258,
+      "sentence_id": "00051269",
+      "caption": "The green cable is at the bottom of the wall.",
+      "id": 51269
+    },
+    {
+      "image_id": 10258,
+      "sentence_id": "00051270",
+      "caption": "The black jumper cable is on the right.",
+      "id": 51270
+    },
+    {
+      "image_id": 13812,
+      "sentence_id": "00068906",
+      "caption": "The table is in the middle.",
+      "id": 68906
+    },
+    {
+      "image_id": 13812,
+      "sentence_id": "00068907",
+      "caption": "The red box is on the table, on the left.",
+      "id": 68907
+    },
+    {
+      "image_id": 13812,
+      "sentence_id": "00068908",
+      "caption": "The microscope is on the red box.",
+      "id": 68908
+    },
+    {
+      "image_id": 13812,
+      "sentence_id": "00068909",
+      "caption": "The pink funnel is on the table to the right.",
+      "id": 68909
+    },
+    {
+      "image_id": 13812,
+      "sentence_id": "00068910",
+      "caption": "The duct tape is on the table, on the left.",
+      "id": 68910
+    },
+    {
+      "image_id": 52488,
+      "sentence_id": "00262216",
+      "caption": "atm is running on days time at front",
+      "id": 262216
+    },
+    {
+      "image_id": 52488,
+      "sentence_id": "00262217",
+      "caption": "ATMs are erected on weekdays in advance",
+      "id": 262217
+    },
+    {
+      "image_id": 52488,
+      "sentence_id": "00262218",
+      "caption": "ATMs are built on weekdays prior to beginning.",
+      "id": 262218
+    },
+    {
+      "image_id": 52488,
+      "sentence_id": "00262219",
+      "caption": "cash dispenser is standing on the ground",
+      "id": 262219
+    },
+    {
+      "image_id": 52488,
+      "sentence_id": "00262220",
+      "caption": "the light is illuminating the entrance of cash dispenser",
+      "id": 262220
+    },
+    {
+      "image_id": 15768,
+      "sentence_id": "00078681",
+      "caption": "a clock is on left side of area",
+      "id": 78681
+    },
+    {
+      "image_id": 15768,
+      "sentence_id": "00078682",
+      "caption": "notice board hung on ceiling is showing time of ısban",
+      "id": 78682
+    },
+    {
+      "image_id": 15768,
+      "sentence_id": "00078683",
+      "caption": "sign showing the timetable of the metro and clock on the left",
+      "id": 78683
+    },
+    {
+      "image_id": 15768,
+      "sentence_id": "00078684",
+      "caption": "the notice board is hung close to the wall",
+      "id": 78684
+    },
+    {
+      "image_id": 15768,
+      "sentence_id": "00078685",
+      "caption": "clock on the left and notification sign on the right",
+      "id": 78685
+    },
+    {
+      "image_id": 11517,
+      "sentence_id": "00057546",
+      "caption": "an open computer is on the table to the left",
+      "id": 57546
+    },
+    {
+      "image_id": 11517,
+      "sentence_id": "00057547",
+      "caption": "a person is sitting in a white chair in front of the table",
+      "id": 57547
+    },
+    {
+      "image_id": 11517,
+      "sentence_id": "00057548",
+      "caption": "he takes notes in the notebook on the left with a pen in his hand",
+      "id": 57548
+    },
+    {
+      "image_id": 11517,
+      "sentence_id": "00057549",
+      "caption": "the bed remained on the right side of the sitting girl",
+      "id": 57549
+    },
+    {
+      "image_id": 11517,
+      "sentence_id": "00057550",
+      "caption": "thick and tulle curtains hung one above the other in front of the window behind",
+      "id": 57550
+    },
+    {
+      "image_id": 9860,
+      "sentence_id": "00049276",
+      "caption": "a book is photoed on a table.",
+      "id": 49276
+    },
+    {
+      "image_id": 9860,
+      "sentence_id": "00049277",
+      "caption": "the book is located on a white table.",
+      "id": 49277
+    },
+    {
+      "image_id": 9860,
+      "sentence_id": "00049278",
+      "caption": "cover of the book is green and gray colored.",
+      "id": 49278
+    },
+    {
+      "image_id": 9860,
+      "sentence_id": "00049279",
+      "caption": "notebook is located on the table.",
+      "id": 49279
+    },
+    {
+      "image_id": 9860,
+      "sentence_id": "00049280",
+      "caption": "the notebook is in gray color.",
+      "id": 49280
+    },
+    {
+      "image_id": 37593,
+      "sentence_id": "00187751",
+      "caption": "A big box is in the middle of a room",
+      "id": 187751
+    },
+    {
+      "image_id": 37593,
+      "sentence_id": "00187752",
+      "caption": "A table and a couch in the living room",
+      "id": 187752
+    },
+    {
+      "image_id": 37593,
+      "sentence_id": "00187753",
+      "caption": "Some yellow sofas and a desk in a room",
+      "id": 187753
+    },
+    {
+      "image_id": 37593,
+      "sentence_id": "00187754",
+      "caption": "A room with some yellow couches and a desk",
+      "id": 187754
+    },
+    {
+      "image_id": 37593,
+      "sentence_id": "00187755",
+      "caption": "A long box in the middle of the room",
+      "id": 187755
+    },
+    {
+      "image_id": 16056,
+      "sentence_id": "00080121",
+      "caption": "a table lamp is on in a room",
+      "id": 80121
+    },
+    {
+      "image_id": 16056,
+      "sentence_id": "00080122",
+      "caption": "a few electronic devices are being mended on desk at right side",
+      "id": 80122
+    },
+    {
+      "image_id": 16056,
+      "sentence_id": "00080123",
+      "caption": "hospital equipment and machines on a table",
+      "id": 80123
+    },
+    {
+      "image_id": 16056,
+      "sentence_id": "00080124",
+      "caption": "a chair is on the left side",
+      "id": 80124
+    },
+    {
+      "image_id": 16056,
+      "sentence_id": "00080125",
+      "caption": "sprays are on the left side",
+      "id": 80125
+    },
+    {
+      "image_id": 31343,
+      "sentence_id": "00156511",
+      "caption": "kind of automatic pencil is placed on opened note book at bottom side",
+      "id": 156511
+    },
+    {
+      "image_id": 31343,
+      "sentence_id": "00156512",
+      "caption": "a painting is behind the laptop",
+      "id": 156512
+    },
+    {
+      "image_id": 31343,
+      "sentence_id": "00156513",
+      "caption": "paintings  and papers are around a laptop",
+      "id": 156513
+    },
+    {
+      "image_id": 31343,
+      "sentence_id": "00156514",
+      "caption": "the cup in left plan of area is diagonally from the laptop",
+      "id": 156514
+    },
+    {
+      "image_id": 31343,
+      "sentence_id": "00156515",
+      "caption": "the person is studing for the lesson",
+      "id": 156515
+    },
+    {
+      "image_id": 22250,
+      "sentence_id": "00111066",
+      "caption": "A mask machine with information on it about how to use a mask",
+      "id": 111066
+    },
+    {
+      "image_id": 22250,
+      "sentence_id": "00111067",
+      "caption": "inside a room with television certificats and view frame pasted on the wall",
+      "id": 111067
+    },
+    {
+      "image_id": 22250,
+      "sentence_id": "00111068",
+      "caption": "mask machine which gives you mask by your transportation card",
+      "id": 111068
+    },
+    {
+      "image_id": 22250,
+      "sentence_id": "00111069",
+      "caption": "views are hanged on the wall",
+      "id": 111069
+    },
+    {
+      "image_id": 22250,
+      "sentence_id": "00111070",
+      "caption": "a tv screen is on left side at background",
+      "id": 111070
+    },
+    {
+      "image_id": 44417,
+      "sentence_id": "00221871",
+      "caption": "large screen hung on wall at left is showing concert moment",
+      "id": 221871
+    },
+    {
+      "image_id": 44417,
+      "sentence_id": "00221872",
+      "caption": "the area was taken during a concert.",
+      "id": 221872
+    },
+    {
+      "image_id": 44417,
+      "sentence_id": "00221873",
+      "caption": "The view of a musician is projected onto the big screen",
+      "id": 221873
+    },
+    {
+      "image_id": 44417,
+      "sentence_id": "00221874",
+      "caption": "a man is singing song on the stage",
+      "id": 221874
+    },
+    {
+      "image_id": 44417,
+      "sentence_id": "00221875",
+      "caption": "a man is singing a song on the concert stage",
+      "id": 221875
+    },
+    {
+      "image_id": 41541,
+      "sentence_id": "00207491",
+      "caption": "A patient monitor can be seen",
+      "id": 207491
+    },
+    {
+      "image_id": 41541,
+      "sentence_id": "00207492",
+      "caption": "An electric device with a monitor",
+      "id": 207492
+    },
+    {
+      "image_id": 41541,
+      "sentence_id": "00207493",
+      "caption": "A monitor and a tablet below it on a machine",
+      "id": 207493
+    },
+    {
+      "image_id": 41541,
+      "sentence_id": "00207494",
+      "caption": "A turned off monitor of a device in a room",
+      "id": 207494
+    },
+    {
+      "image_id": 41541,
+      "sentence_id": "00207495",
+      "caption": "A black monitor and a sedan chair in the background",
+      "id": 207495
+    },
+    {
+      "image_id": 11909,
+      "sentence_id": "00059506",
+      "caption": "The TV is right in front of it.",
+      "id": 59506
+    },
+    {
+      "image_id": 11909,
+      "sentence_id": "00059507",
+      "caption": "The air conditioner is above the television.",
+      "id": 59507
+    },
+    {
+      "image_id": 11909,
+      "sentence_id": "00059508",
+      "caption": "The toys are under the TV.",
+      "id": 59508
+    },
+    {
+      "image_id": 11909,
+      "sentence_id": "00059509",
+      "caption": "The seat is immediately on the right.",
+      "id": 59509
+    },
+    {
+      "image_id": 11909,
+      "sentence_id": "00059510",
+      "caption": "The socket is behind the TV.",
+      "id": 59510
+    },
+    {
+      "image_id": 12565,
+      "sentence_id": "00062776",
+      "caption": "an ECG device is just ahead.",
+      "id": 62776
+    },
+    {
+      "image_id": 12565,
+      "sentence_id": "00062777",
+      "caption": "various buttons are on the bottom of the device.",
+      "id": 62777
+    },
+    {
+      "image_id": 12565,
+      "sentence_id": "00062778",
+      "caption": "The device's screen is at the top.",
+      "id": 62778
+    },
+    {
+      "image_id": 12565,
+      "sentence_id": "00062779",
+      "caption": "some measurements appear on the screen of the device.",
+      "id": 62779
+    },
+    {
+      "image_id": 12565,
+      "sentence_id": "00062780",
+      "caption": "A sheet of paper showing some graphics is on the left side of the device.",
+      "id": 62780
+    },
+    {
+      "image_id": 2590,
+      "sentence_id": "00012946",
+      "caption": "small girl is practising with her keyboard",
+      "id": 12946
+    },
+    {
+      "image_id": 2590,
+      "sentence_id": "00012947",
+      "caption": "A small girl with glasses is sitting on a carpet",
+      "id": 12947
+    },
+    {
+      "image_id": 2590,
+      "sentence_id": "00012948",
+      "caption": "a box is behind the girl",
+      "id": 12948
+    },
+    {
+      "image_id": 2590,
+      "sentence_id": "00012949",
+      "caption": "The TV unite is behind the girl.",
+      "id": 12949
+    },
+    {
+      "image_id": 2590,
+      "sentence_id": "00012950",
+      "caption": "The little girl has got a colorful necklace.",
+      "id": 12950
+    },
+    {
+      "image_id": 7268,
+      "sentence_id": "00036336",
+      "caption": "steel entrance door of house at left side is closed",
+      "id": 36336
+    },
+    {
+      "image_id": 7268,
+      "sentence_id": "00036337",
+      "caption": "Two people drinking something sitting by the table",
+      "id": 36337
+    },
+    {
+      "image_id": 7268,
+      "sentence_id": "00036338",
+      "caption": "A bottle of water is put on the wooden table",
+      "id": 36338
+    },
+    {
+      "image_id": 7268,
+      "sentence_id": "00036339",
+      "caption": "the reflection of the sun on the water bottle gives a sun-like shine",
+      "id": 36339
+    },
+    {
+      "image_id": 7268,
+      "sentence_id": "00036340",
+      "caption": "two carton cups of tea is put on table at front side",
+      "id": 36340
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096881",
+      "caption": "phone with screen on is on the left",
+      "id": 96881
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096882",
+      "caption": "the cake is placed on the right side of the phone",
+      "id": 96882
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096883",
+      "caption": "the cake is in a round green plate",
+      "id": 96883
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096884",
+      "caption": "the cake is on a dark wooden table",
+      "id": 96884
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096885",
+      "caption": "the cake is in a box with the brand name on it",
+      "id": 96885
+    },
+    {
+      "image_id": 35612,
+      "sentence_id": "00177846",
+      "caption": "lots of screens are being sold on shelves of technology store",
+      "id": 177846
+    },
+    {
+      "image_id": 35612,
+      "sentence_id": "00177847",
+      "caption": "some electronic devices are on sale",
+      "id": 177847
+    },
+    {
+      "image_id": 35612,
+      "sentence_id": "00177848",
+      "caption": "Monitors lined the shelves in a store",
+      "id": 177848
+    },
+    {
+      "image_id": 35612,
+      "sentence_id": "00177849",
+      "caption": "lots of cables in boxes are hanged at the tech store",
+      "id": 177849
+    },
+    {
+      "image_id": 35612,
+      "sentence_id": "00177850",
+      "caption": "unwrapped screen boxes are located on bottom shelf",
+      "id": 177850
+    },
+    {
+      "image_id": 2602,
+      "sentence_id": "00013006",
+      "caption": "the disinfection point is located behind entrance door",
+      "id": 13006
+    },
+    {
+      "image_id": 2602,
+      "sentence_id": "00013007",
+      "caption": "A black iron door is located at the left side of large building",
+      "id": 13007
+    },
+    {
+      "image_id": 2602,
+      "sentence_id": "00013008",
+      "caption": "door has iron fences in the background",
+      "id": 13008
+    },
+    {
+      "image_id": 2602,
+      "sentence_id": "00013009",
+      "caption": "Some notes are hung over and by the sanitizer on the wall.",
+      "id": 13009
+    },
+    {
+      "image_id": 2602,
+      "sentence_id": "00013010",
+      "caption": "The hand sanitiser is installed on the wall.",
+      "id": 13010
+    },
+    {
+      "image_id": 36440,
+      "sentence_id": "00181986",
+      "caption": "Two medical devices with wires in front next to each other",
+      "id": 181986
+    },
+    {
+      "image_id": 36440,
+      "sentence_id": "00181987",
+      "caption": "Two electronic devices with monitors are side by side",
+      "id": 181987
+    },
+    {
+      "image_id": 36440,
+      "sentence_id": "00181988",
+      "caption": "Two medical devices next to each other",
+      "id": 181988
+    },
+    {
+      "image_id": 36440,
+      "sentence_id": "00181989",
+      "caption": "Two electrical medical devices next to each other",
+      "id": 181989
+    },
+    {
+      "image_id": 36440,
+      "sentence_id": "00181990",
+      "caption": "Two electrical devices connected to a receiver",
+      "id": 181990
+    },
+    {
+      "image_id": 16817,
+      "sentence_id": "00083926",
+      "caption": "A view is hung on the billboard",
+      "id": 83926
+    },
+    {
+      "image_id": 16817,
+      "sentence_id": "00083927",
+      "caption": "Entrance of the building is at the background",
+      "id": 83927
+    },
+    {
+      "image_id": 16817,
+      "sentence_id": "00083928",
+      "caption": "A view hanging on the iron bar inside a building",
+      "id": 83928
+    },
+    {
+      "image_id": 16817,
+      "sentence_id": "00083929",
+      "caption": "Someone is holding a tablet in her hand",
+      "id": 83929
+    },
+    {
+      "image_id": 16817,
+      "sentence_id": "00083930",
+      "caption": "iron bar of stairs are behind a billboard",
+      "id": 83930
+    },
+    {
+      "image_id": 28889,
+      "sentence_id": "00144256",
+      "caption": "attorney's office is located on second floor above electronic shop",
+      "id": 144256
+    },
+    {
+      "image_id": 28889,
+      "sentence_id": "00144257",
+      "caption": "a man is giving pose on pavement",
+      "id": 144257
+    },
+    {
+      "image_id": 28889,
+      "sentence_id": "00144258",
+      "caption": "Someone is standing in front of a shop",
+      "id": 144258
+    },
+    {
+      "image_id": 28889,
+      "sentence_id": "00144259",
+      "caption": "man in front of telephone line shop",
+      "id": 144259
+    },
+    {
+      "image_id": 28889,
+      "sentence_id": "00144260",
+      "caption": "a man is holding teas in front of the vodafone phone dealer",
+      "id": 144260
+    },
+    {
+      "image_id": 7305,
+      "sentence_id": "00036521",
+      "caption": "A mouse with a snake pattern and monitors are at the background are taken",
+      "id": 36521
+    },
+    {
+      "image_id": 7305,
+      "sentence_id": "00036522",
+      "caption": "A closed computer and a computer mouse on the wooden table",
+      "id": 36522
+    },
+    {
+      "image_id": 7305,
+      "sentence_id": "00036523",
+      "caption": "Wifi receiver is near the monitor",
+      "id": 36523
+    },
+    {
+      "image_id": 7305,
+      "sentence_id": "00036524",
+      "caption": "A mouse placed on a table between two monitors",
+      "id": 36524
+    },
+    {
+      "image_id": 7305,
+      "sentence_id": "00036525",
+      "caption": "mouse of computer on mouse pad is taken on study desk",
+      "id": 36525
+    },
+    {
+      "image_id": 47233,
+      "sentence_id": "00235941",
+      "caption": "some old staffs are being demonstrated on display on front",
+      "id": 235941
+    },
+    {
+      "image_id": 47233,
+      "sentence_id": "00235942",
+      "caption": "old style radio is preserved in the glass cabinet.",
+      "id": 235942
+    },
+    {
+      "image_id": 47233,
+      "sentence_id": "00235943",
+      "caption": "antiques on the glass on the table",
+      "id": 235943
+    },
+    {
+      "image_id": 47233,
+      "sentence_id": "00235944",
+      "caption": "two vintage radio machines are behind the showcase",
+      "id": 235944
+    },
+    {
+      "image_id": 47233,
+      "sentence_id": "00235945",
+      "caption": "two historical radios are standing behind the glass",
+      "id": 235945
+    },
+    {
+      "image_id": 47866,
+      "sentence_id": "00239106",
+      "caption": "smart wathcs box is placed on table at front side",
+      "id": 239106
+    },
+    {
+      "image_id": 47866,
+      "sentence_id": "00239107",
+      "caption": "cardboard box is on the wooden table",
+      "id": 239107
+    },
+    {
+      "image_id": 47866,
+      "sentence_id": "00239108",
+      "caption": "smart watch box standing on the table",
+      "id": 239108
+    },
+    {
+      "image_id": 47866,
+      "sentence_id": "00239109",
+      "caption": "a smart bracelet box is on the table cloth",
+      "id": 239109
+    },
+    {
+      "image_id": 47866,
+      "sentence_id": "00239110",
+      "caption": "a box of the smart bracelet is standing on the table",
+      "id": 239110
+    },
+    {
+      "image_id": 12323,
+      "sentence_id": "00061576",
+      "caption": "The orange illuminated sign is hung up right in front",
+      "id": 61576
+    },
+    {
+      "image_id": 12323,
+      "sentence_id": "00061577",
+      "caption": "two colorful advertising posters hung up inside the shop",
+      "id": 61577
+    },
+    {
+      "image_id": 12323,
+      "sentence_id": "00061578",
+      "caption": "several door alarms lined up at the entrance",
+      "id": 61578
+    },
+    {
+      "image_id": 12323,
+      "sentence_id": "00061579",
+      "caption": "a TV set right behind the doors for promotion",
+      "id": 61579
+    },
+    {
+      "image_id": 12323,
+      "sentence_id": "00061580",
+      "caption": "brooms are lined up to the right of the door",
+      "id": 61580
+    },
+    {
+      "image_id": 7760,
+      "sentence_id": "00038796",
+      "caption": "high air flow cooler is written on a box on a hand of somebody",
+      "id": 38796
+    },
+    {
+      "image_id": 7760,
+      "sentence_id": "00038797",
+      "caption": "someone is holding a box in a room",
+      "id": 38797
+    },
+    {
+      "image_id": 7760,
+      "sentence_id": "00038798",
+      "caption": "door of wardrobe full of clothes is opened at right side",
+      "id": 38798
+    },
+    {
+      "image_id": 7760,
+      "sentence_id": "00038799",
+      "caption": "high air flow cooler is written on a box on a hand of somebody",
+      "id": 38799
+    },
+    {
+      "image_id": 7760,
+      "sentence_id": "00038800",
+      "caption": "The clothes are hanged behind the door",
+      "id": 38800
+    },
+    {
+      "image_id": 49783,
+      "sentence_id": "00248691",
+      "caption": "A person with a black cardigan standing in front of an ATM machine",
+      "id": 248691
+    },
+    {
+      "image_id": 49783,
+      "sentence_id": "00248692",
+      "caption": "Two people in front of a bank",
+      "id": 248692
+    },
+    {
+      "image_id": 49783,
+      "sentence_id": "00248693",
+      "caption": "Two men in front of a bank",
+      "id": 248693
+    },
+    {
+      "image_id": 49783,
+      "sentence_id": "00248694",
+      "caption": "A man with a hoodie is standing in front of an ATM machine",
+      "id": 248694
+    },
+    {
+      "image_id": 49783,
+      "sentence_id": "00248695",
+      "caption": "A man is passing by a bank with a yellow signboard",
+      "id": 248695
+    },
+    {
+      "image_id": 19644,
+      "sentence_id": "00098036",
+      "caption": "an electronic device is photoed on a table.",
+      "id": 98036
+    },
+    {
+      "image_id": 19644,
+      "sentence_id": "00098037",
+      "caption": "a black colored electronic device is photoed.",
+      "id": 98037
+    },
+    {
+      "image_id": 19644,
+      "sentence_id": "00098038",
+      "caption": "the electronic device has a lot of button in front of it.",
+      "id": 98038
+    },
+    {
+      "image_id": 19644,
+      "sentence_id": "00098039",
+      "caption": "the electronic device has a folded cable on top of it.",
+      "id": 98039
+    },
+    {
+      "image_id": 19644,
+      "sentence_id": "00098040",
+      "caption": "a white colored cardboard box is visible at the top left corner.",
+      "id": 98040
+    },
+    {
+      "image_id": 3422,
+      "sentence_id": "00017106",
+      "caption": "a woman is visiting the small local museum",
+      "id": 17106
+    },
+    {
+      "image_id": 3422,
+      "sentence_id": "00017107",
+      "caption": "a few historical radios are put on top shelves",
+      "id": 17107
+    },
+    {
+      "image_id": 3422,
+      "sentence_id": "00017108",
+      "caption": "Blonde woman is looking at the historical artifacts",
+      "id": 17108
+    },
+    {
+      "image_id": 3422,
+      "sentence_id": "00017109",
+      "caption": "Several different musical instruments are displayed on the shelves",
+      "id": 17109
+    },
+    {
+      "image_id": 3422,
+      "sentence_id": "00017110",
+      "caption": "drums reeds darbukas sewing machines typewriters are on shelves",
+      "id": 17110
+    },
+    {
+      "image_id": 18232,
+      "sentence_id": "00090981",
+      "caption": "two joysticks are right in front",
+      "id": 90981
+    },
+    {
+      "image_id": 18232,
+      "sentence_id": "00090982",
+      "caption": "game handles are on a chair",
+      "id": 90982
+    },
+    {
+      "image_id": 18232,
+      "sentence_id": "00090983",
+      "caption": "gray shawl is spread over the seat",
+      "id": 90983
+    },
+    {
+      "image_id": 18232,
+      "sentence_id": "00090984",
+      "caption": "several cushions are placed on the seat",
+      "id": 90984
+    },
+    {
+      "image_id": 18232,
+      "sentence_id": "00090985",
+      "caption": "one of the game handles is purple and the other is gray",
+      "id": 90985
+    },
+    {
+      "image_id": 17936,
+      "sentence_id": "00089511",
+      "caption": "a camera is just to the left.",
+      "id": 89511
+    },
+    {
+      "image_id": 17936,
+      "sentence_id": "00089512",
+      "caption": "the camera is on a tripod.",
+      "id": 89512
+    },
+    {
+      "image_id": 17936,
+      "sentence_id": "00089513",
+      "caption": "some trees and dry branches are ahead.",
+      "id": 89513
+    },
+    {
+      "image_id": 17936,
+      "sentence_id": "00089514",
+      "caption": "the ground in front is covered with dried leaves.",
+      "id": 89514
+    },
+    {
+      "image_id": 17936,
+      "sentence_id": "00089515",
+      "caption": "a building and some trees are behind the trees in front.",
+      "id": 89515
+    },
+    {
+      "image_id": 16692,
+      "sentence_id": "00083301",
+      "caption": "lots of cables are on a table",
+      "id": 83301
+    },
+    {
+      "image_id": 16692,
+      "sentence_id": "00083302",
+      "caption": "someone is trying to tie wires on wooden table at background",
+      "id": 83302
+    },
+    {
+      "image_id": 16692,
+      "sentence_id": "00083303",
+      "caption": "an electrical circuit and cables connected to a battery",
+      "id": 83303
+    },
+    {
+      "image_id": 16692,
+      "sentence_id": "00083304",
+      "caption": "a credit card is on the right top corner",
+      "id": 83304
+    },
+    {
+      "image_id": 16692,
+      "sentence_id": "00083305",
+      "caption": "Surface of the table is wooden",
+      "id": 83305
+    },
+    {
+      "image_id": 48923,
+      "sentence_id": "00244391",
+      "caption": "A kid with a grey and black sweater standing between the couch and the TV",
+      "id": 244391
+    },
+    {
+      "image_id": 48923,
+      "sentence_id": "00244392",
+      "caption": "A boy inside a building with a couch and a TV",
+      "id": 244392
+    },
+    {
+      "image_id": 48923,
+      "sentence_id": "00244393",
+      "caption": "A boy standing in a living room and looking at someone on the sofa",
+      "id": 244393
+    },
+    {
+      "image_id": 48923,
+      "sentence_id": "00244394",
+      "caption": "A boy is standing next to two pink slipperies are on the floor",
+      "id": 244394
+    },
+    {
+      "image_id": 48923,
+      "sentence_id": "00244395",
+      "caption": "Little boy wearing grey sweatshirt is standing next to the sofa",
+      "id": 244395
+    },
+    {
+      "image_id": 2200,
+      "sentence_id": "00010996",
+      "caption": "two men are standing in the office",
+      "id": 10996
+    },
+    {
+      "image_id": 2200,
+      "sentence_id": "00010997",
+      "caption": "Two men are taken a moment between computer tables",
+      "id": 10997
+    },
+    {
+      "image_id": 2200,
+      "sentence_id": "00010998",
+      "caption": "two men are standing and posing side by side in the office",
+      "id": 10998
+    },
+    {
+      "image_id": 2200,
+      "sentence_id": "00010999",
+      "caption": "One of them is wearing glasses.",
+      "id": 10999
+    },
+    {
+      "image_id": 2200,
+      "sentence_id": "00011000",
+      "caption": "The room looks like IT room cause are some computers here.",
+      "id": 11000
+    },
+    {
+      "image_id": 3721,
+      "sentence_id": "00018601",
+      "caption": "a cable charger is put on marble table",
+      "id": 18601
+    },
+    {
+      "image_id": 3721,
+      "sentence_id": "00018602",
+      "caption": "a marble table is in the kitchen",
+      "id": 18602
+    },
+    {
+      "image_id": 3721,
+      "sentence_id": "00018603",
+      "caption": "Closeup of a adapter charger with usb cable",
+      "id": 18603
+    },
+    {
+      "image_id": 3721,
+      "sentence_id": "00018604",
+      "caption": "A charger is on the table.",
+      "id": 18604
+    },
+    {
+      "image_id": 3721,
+      "sentence_id": "00018605",
+      "caption": "A cloth is folded on the floor at the corner",
+      "id": 18605
+    },
+    {
+      "image_id": 48369,
+      "sentence_id": "00241621",
+      "caption": "a few trees are standing on bush covered area at back",
+      "id": 241621
+    },
+    {
+      "image_id": 48369,
+      "sentence_id": "00241622",
+      "caption": "under the trees in the park are grassy.",
+      "id": 241622
+    },
+    {
+      "image_id": 48369,
+      "sentence_id": "00241623",
+      "caption": "The drone and its remote, standing on the ground among the trees",
+      "id": 241623
+    },
+    {
+      "image_id": 48369,
+      "sentence_id": "00241624",
+      "caption": "lots of trees are on the grasses",
+      "id": 241624
+    },
+    {
+      "image_id": 48369,
+      "sentence_id": "00241625",
+      "caption": "a drone and its remote controller are standing on the grassy cobblestone",
+      "id": 241625
+    },
+    {
+      "image_id": 49759,
+      "sentence_id": "00248571",
+      "caption": "Two flowerpots and a computer are on a brown desk next to two chairs",
+      "id": 248571
+    },
+    {
+      "image_id": 49759,
+      "sentence_id": "00248572",
+      "caption": "The plants and a computer on the table with some pictures above and two chairs",
+      "id": 248572
+    },
+    {
+      "image_id": 49759,
+      "sentence_id": "00248573",
+      "caption": "Two wooden chairs next to a computer desk",
+      "id": 248573
+    },
+    {
+      "image_id": 49759,
+      "sentence_id": "00248574",
+      "caption": "Two flower pots and a monitor on a desk",
+      "id": 248574
+    },
+    {
+      "image_id": 49759,
+      "sentence_id": "00248575",
+      "caption": "Two chairs are under the television hung on the wall",
+      "id": 248575
+    },
+    {
+      "image_id": 29252,
+      "sentence_id": "00146066",
+      "caption": "a student is studying in front of turned off lap top at front side",
+      "id": 146066
+    },
+    {
+      "image_id": 29252,
+      "sentence_id": "00146067",
+      "caption": "two pencils are on a notebook",
+      "id": 146067
+    },
+    {
+      "image_id": 29252,
+      "sentence_id": "00146068",
+      "caption": "a folder and a notebook is next to a laptop",
+      "id": 146068
+    },
+    {
+      "image_id": 29252,
+      "sentence_id": "00146069",
+      "caption": "the laptop and pen are  on desktop",
+      "id": 146069
+    },
+    {
+      "image_id": 29252,
+      "sentence_id": "00146070",
+      "caption": "books an two pencils are next to a laptop",
+      "id": 146070
+    },
+    {
+      "image_id": 39086,
+      "sentence_id": "00195216",
+      "caption": "A writing hung on the wall above some medical devices",
+      "id": 195216
+    },
+    {
+      "image_id": 39086,
+      "sentence_id": "00195217",
+      "caption": "Two medical machines with screens and cables",
+      "id": 195217
+    },
+    {
+      "image_id": 39086,
+      "sentence_id": "00195218",
+      "caption": "Three medical devices in front of a wall",
+      "id": 195218
+    },
+    {
+      "image_id": 39086,
+      "sentence_id": "00195219",
+      "caption": "Some medical devices in front of a wall",
+      "id": 195219
+    },
+    {
+      "image_id": 39086,
+      "sentence_id": "00195220",
+      "caption": "Some medical devices hung on a stand",
+      "id": 195220
+    },
+    {
+      "image_id": 16112,
+      "sentence_id": "00080401",
+      "caption": "a electronic notice board is taken",
+      "id": 80401
+    },
+    {
+      "image_id": 16112,
+      "sentence_id": "00080402",
+      "caption": "electronic notice board of printer is taken at front side",
+      "id": 80402
+    },
+    {
+      "image_id": 16112,
+      "sentence_id": "00080403",
+      "caption": "screen portion of a copier warns",
+      "id": 80403
+    },
+    {
+      "image_id": 16112,
+      "sentence_id": "00080404",
+      "caption": "a digital printer is taken  from front",
+      "id": 80404
+    },
+    {
+      "image_id": 16112,
+      "sentence_id": "00080405",
+      "caption": "A printer with functions such as faxing copying and scanning",
+      "id": 80405
+    },
+    {
+      "image_id": 23504,
+      "sentence_id": "00117336",
+      "caption": "Inside of an IT classroom is taken",
+      "id": 117336
+    },
+    {
+      "image_id": 23504,
+      "sentence_id": "00117337",
+      "caption": "a laptop is on the table",
+      "id": 117337
+    },
+    {
+      "image_id": 23504,
+      "sentence_id": "00117338",
+      "caption": "laptop next to computer in computer lab",
+      "id": 117338
+    },
+    {
+      "image_id": 23504,
+      "sentence_id": "00117339",
+      "caption": "a laptop is on a desk",
+      "id": 117339
+    },
+    {
+      "image_id": 23504,
+      "sentence_id": "00117340",
+      "caption": "four computers are on desks at background",
+      "id": 117340
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170016",
+      "caption": "tv placed over wall at background is showing basketball match",
+      "id": 170016
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170017",
+      "caption": "Different vases are placed on the shelves of the TV stand",
+      "id": 170017
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170018",
+      "caption": "coffee table into each other is placed near tv at right edge",
+      "id": 170018
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170019",
+      "caption": "a tv is in front of wall in a living room",
+      "id": 170019
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170020",
+      "caption": "television in foreground of area hangs on the wall.",
+      "id": 170020
+    },
+    {
+      "image_id": 6321,
+      "sentence_id": "00031601",
+      "caption": "A cat is yawning on the computer desk.",
+      "id": 31601
+    },
+    {
+      "image_id": 6321,
+      "sentence_id": "00031602",
+      "caption": "The cat near the keyboard is yawning.",
+      "id": 31602
+    },
+    {
+      "image_id": 6321,
+      "sentence_id": "00031603",
+      "caption": "A joystick is in front of the cat",
+      "id": 31603
+    },
+    {
+      "image_id": 6321,
+      "sentence_id": "00031604",
+      "caption": "scissors is placed on table in front of sitting cat",
+      "id": 31604
+    },
+    {
+      "image_id": 6321,
+      "sentence_id": "00031605",
+      "caption": "a cat is taken  while it was yawning on the table",
+      "id": 31605
+    },
+    {
+      "image_id": 46697,
+      "sentence_id": "00233266",
+      "caption": "tv screen hunging on wall is showing a tv programme",
+      "id": 233266
+    },
+    {
+      "image_id": 46697,
+      "sentence_id": "00233267",
+      "caption": "TV hangs on the wall of the room",
+      "id": 233267
+    },
+    {
+      "image_id": 46697,
+      "sentence_id": "00233268",
+      "caption": "TV next to the refrigerator in front of the sofa",
+      "id": 233268
+    },
+    {
+      "image_id": 46697,
+      "sentence_id": "00233269",
+      "caption": "an overweighted woman is in the tv",
+      "id": 233269
+    },
+    {
+      "image_id": 46697,
+      "sentence_id": "00233270",
+      "caption": "a television is hanging on the wall",
+      "id": 233270
+    },
+    {
+      "image_id": 12320,
+      "sentence_id": "00061561",
+      "caption": "the wall is made of colored tiles",
+      "id": 61561
+    },
+    {
+      "image_id": 12320,
+      "sentence_id": "00061562",
+      "caption": "the white socket switch is on the right",
+      "id": 61562
+    },
+    {
+      "image_id": 12320,
+      "sentence_id": "00061563",
+      "caption": "the power button is stuck on the left side of the outlet",
+      "id": 61563
+    },
+    {
+      "image_id": 12320,
+      "sentence_id": "00061564",
+      "caption": "a white object is stuck in the lower left corner of the light switch",
+      "id": 61564
+    },
+    {
+      "image_id": 12320,
+      "sentence_id": "00061565",
+      "caption": "power switch and socket are on the wall",
+      "id": 61565
+    },
+    {
+      "image_id": 22640,
+      "sentence_id": "00113016",
+      "caption": "Closeup view of a computer keyboard on the table",
+      "id": 113016
+    },
+    {
+      "image_id": 22640,
+      "sentence_id": "00113017",
+      "caption": "a medical glass are on the table",
+      "id": 113017
+    },
+    {
+      "image_id": 22640,
+      "sentence_id": "00113018",
+      "caption": "keyboard of desktop computer is placed on study desk at back",
+      "id": 113018
+    },
+    {
+      "image_id": 22640,
+      "sentence_id": "00113019",
+      "caption": "a bottle of water is on the table",
+      "id": 113019
+    },
+    {
+      "image_id": 22640,
+      "sentence_id": "00113020",
+      "caption": "a water bottle is near a keyboard",
+      "id": 113020
+    },
+    {
+      "image_id": 39015,
+      "sentence_id": "00194861",
+      "caption": "A room with a desk and a chair",
+      "id": 194861
+    },
+    {
+      "image_id": 39015,
+      "sentence_id": "00194862",
+      "caption": "A desk and a chair in the room",
+      "id": 194862
+    },
+    {
+      "image_id": 39015,
+      "sentence_id": "00194863",
+      "caption": "A desk and a chair by a wall",
+      "id": 194863
+    },
+    {
+      "image_id": 39015,
+      "sentence_id": "00194864",
+      "caption": "A desk in front of a wall",
+      "id": 194864
+    },
+    {
+      "image_id": 39015,
+      "sentence_id": "00194865",
+      "caption": "A keyboard and a screen of a computer on a table",
+      "id": 194865
+    },
+    {
+      "image_id": 25082,
+      "sentence_id": "00125221",
+      "caption": "The white sign is in front of the building",
+      "id": 125221
+    },
+    {
+      "image_id": 25082,
+      "sentence_id": "00125222",
+      "caption": "cables are hung in front of building",
+      "id": 125222
+    },
+    {
+      "image_id": 25082,
+      "sentence_id": "00125223",
+      "caption": "all outer part of store building is made of glass",
+      "id": 125223
+    },
+    {
+      "image_id": 25082,
+      "sentence_id": "00125224",
+      "caption": "two shutters are closing the garages of the building",
+      "id": 125224
+    },
+    {
+      "image_id": 25082,
+      "sentence_id": "00125225",
+      "caption": "expression çarşı is written on the banner",
+      "id": 125225
+    },
+    {
+      "image_id": 15017,
+      "sentence_id": "00074926",
+      "caption": "A rectangled computer monitor sitting on a blanket with wire near it",
+      "id": 74926
+    },
+    {
+      "image_id": 15017,
+      "sentence_id": "00074927",
+      "caption": "somebody is taking a quiz online",
+      "id": 74927
+    },
+    {
+      "image_id": 15017,
+      "sentence_id": "00074928",
+      "caption": "socket next to the laptop plugged into the charger",
+      "id": 74928
+    },
+    {
+      "image_id": 15017,
+      "sentence_id": "00074929",
+      "caption": "door of bedroom at background is closed",
+      "id": 74929
+    },
+    {
+      "image_id": 15017,
+      "sentence_id": "00074930",
+      "caption": "A laptop is put on the table",
+      "id": 74930
+    },
+    {
+      "image_id": 15149,
+      "sentence_id": "00075586",
+      "caption": "Close up view of temperature gauge in car dashboard",
+      "id": 75586
+    },
+    {
+      "image_id": 15149,
+      "sentence_id": "00075587",
+      "caption": "buttons of a car are taken",
+      "id": 75587
+    },
+    {
+      "image_id": 15149,
+      "sentence_id": "00075588",
+      "caption": "four buttons with markings on them",
+      "id": 75588
+    },
+    {
+      "image_id": 15149,
+      "sentence_id": "00075589",
+      "caption": "group of button are placed on dashboard of bus at left side",
+      "id": 75589
+    },
+    {
+      "image_id": 15149,
+      "sentence_id": "00075590",
+      "caption": "Some buttons are taken in the car",
+      "id": 75590
+    },
+    {
+      "image_id": 27131,
+      "sentence_id": "00135466",
+      "caption": "Some cardboard boxes are on top of each other",
+      "id": 135466
+    },
+    {
+      "image_id": 27131,
+      "sentence_id": "00135467",
+      "caption": "boxes of shoes are located near computer table",
+      "id": 135467
+    },
+    {
+      "image_id": 27131,
+      "sentence_id": "00135468",
+      "caption": "a box with shoes are next to computer desk",
+      "id": 135468
+    },
+    {
+      "image_id": 27131,
+      "sentence_id": "00135469",
+      "caption": "a few pairs of shoes are placed on the table",
+      "id": 135469
+    },
+    {
+      "image_id": 27131,
+      "sentence_id": "00135470",
+      "caption": "a few boxes of shoes are placed in front of computer",
+      "id": 135470
+    },
+    {
+      "image_id": 4703,
+      "sentence_id": "00023511",
+      "caption": "a desktop computer is replaced on study desk on the corner of room",
+      "id": 23511
+    },
+    {
+      "image_id": 4703,
+      "sentence_id": "00023512",
+      "caption": "a computer is near a tv in a room",
+      "id": 23512
+    },
+    {
+      "image_id": 4703,
+      "sentence_id": "00023513",
+      "caption": "A stool is in front of the TV and the curtains of the room closed",
+      "id": 23513
+    },
+    {
+      "image_id": 4703,
+      "sentence_id": "00023514",
+      "caption": "an empty water bottle is on the left side of a computer",
+      "id": 23514
+    },
+    {
+      "image_id": 4703,
+      "sentence_id": "00023515",
+      "caption": "A pair of slippers are by the wall.",
+      "id": 23515
+    },
+    {
+      "image_id": 47687,
+      "sentence_id": "00238211",
+      "caption": "a cell phone is being sold on counter of technology store",
+      "id": 238211
+    },
+    {
+      "image_id": 47687,
+      "sentence_id": "00238212",
+      "caption": "smartphone is sold on the table",
+      "id": 238212
+    },
+    {
+      "image_id": 47687,
+      "sentence_id": "00238213",
+      "caption": "the phone on display in the shop and the price sheet in front of it",
+      "id": 238213
+    },
+    {
+      "image_id": 47687,
+      "sentence_id": "00238214",
+      "caption": "the two prices of telephones are on the table",
+      "id": 238214
+    },
+    {
+      "image_id": 47687,
+      "sentence_id": "00238215",
+      "caption": "a phone and two pieces of paper with costs are standing on the table",
+      "id": 238215
+    },
+    {
+      "image_id": 6130,
+      "sentence_id": "00030646",
+      "caption": "A pose machine is on the desk by a QR reader.",
+      "id": 30646
+    },
+    {
+      "image_id": 6130,
+      "sentence_id": "00030647",
+      "caption": "a man is standing on the right side of the area",
+      "id": 30647
+    },
+    {
+      "image_id": 6130,
+      "sentence_id": "00030648",
+      "caption": "A customer is waiting for the order",
+      "id": 30648
+    },
+    {
+      "image_id": 6130,
+      "sentence_id": "00030649",
+      "caption": "a few leaflets are on display in front of standing man",
+      "id": 30649
+    },
+    {
+      "image_id": 6130,
+      "sentence_id": "00030650",
+      "caption": "mouse pads with cartoon characters are exhibited under a counter",
+      "id": 30650
+    },
+    {
+      "image_id": 44843,
+      "sentence_id": "00224001",
+      "caption": "two bottles of soda are placed behind opened notebook",
+      "id": 224001
+    },
+    {
+      "image_id": 44843,
+      "sentence_id": "00224002",
+      "caption": "two full soda bottle is on table",
+      "id": 224002
+    },
+    {
+      "image_id": 44843,
+      "sentence_id": "00224003",
+      "caption": "a drawing of a heart drawn on a notebook",
+      "id": 224003
+    },
+    {
+      "image_id": 44843,
+      "sentence_id": "00224004",
+      "caption": "an anatomy diagram on the screen",
+      "id": 224004
+    },
+    {
+      "image_id": 44843,
+      "sentence_id": "00224005",
+      "caption": "a notebook is in front of the tablet computer",
+      "id": 224005
+    },
+    {
+      "image_id": 36595,
+      "sentence_id": "00182761",
+      "caption": "The hand is touching a metal machine",
+      "id": 182761
+    },
+    {
+      "image_id": 36595,
+      "sentence_id": "00182762",
+      "caption": "A hand is touching an electrical device with some colorful cables",
+      "id": 182762
+    },
+    {
+      "image_id": 36595,
+      "sentence_id": "00182763",
+      "caption": "A hand holding an electrical device",
+      "id": 182763
+    },
+    {
+      "image_id": 36595,
+      "sentence_id": "00182764",
+      "caption": "An electrical device on a white table",
+      "id": 182764
+    },
+    {
+      "image_id": 36595,
+      "sentence_id": "00182765",
+      "caption": "Electrical device on the white table",
+      "id": 182765
+    },
+    {
+      "image_id": 35360,
+      "sentence_id": "00176586",
+      "caption": "a cooler is hung on wall of office at left front side",
+      "id": 176586
+    },
+    {
+      "image_id": 35360,
+      "sentence_id": "00176587",
+      "caption": "a couch with a table in front of it",
+      "id": 176587
+    },
+    {
+      "image_id": 35360,
+      "sentence_id": "00176588",
+      "caption": "A fan made in the ceiling of a room",
+      "id": 176588
+    },
+    {
+      "image_id": 35360,
+      "sentence_id": "00176589",
+      "caption": "manga is on the tv which is on the wall",
+      "id": 176589
+    },
+    {
+      "image_id": 35360,
+      "sentence_id": "00176590",
+      "caption": "a cooler is hung on edge on window at left back",
+      "id": 176590
+    },
+    {
+      "image_id": 48777,
+      "sentence_id": "00243661",
+      "caption": "A white telephone is hung on the wall",
+      "id": 243661
+    },
+    {
+      "image_id": 48777,
+      "sentence_id": "00243662",
+      "caption": "A white telephone on a white wall",
+      "id": 243662
+    },
+    {
+      "image_id": 48777,
+      "sentence_id": "00243663",
+      "caption": "A white telephone is on a wall",
+      "id": 243663
+    },
+    {
+      "image_id": 48777,
+      "sentence_id": "00243664",
+      "caption": "A white telephone hanging on the wall",
+      "id": 243664
+    },
+    {
+      "image_id": 48777,
+      "sentence_id": "00243665",
+      "caption": "A white house phone is hung on the beige wall",
+      "id": 243665
+    },
+    {
+      "image_id": 6301,
+      "sentence_id": "00031501",
+      "caption": "An airport information board is taken .",
+      "id": 31501
+    },
+    {
+      "image_id": 6301,
+      "sentence_id": "00031502",
+      "caption": "The information board shows the flights' times",
+      "id": 31502
+    },
+    {
+      "image_id": 6301,
+      "sentence_id": "00031503",
+      "caption": "Inside of the airport is taken",
+      "id": 31503
+    },
+    {
+      "image_id": 6301,
+      "sentence_id": "00031504",
+      "caption": "monitor is showing boarding and landing times of planes in airport",
+      "id": 31504
+    },
+    {
+      "image_id": 6301,
+      "sentence_id": "00031505",
+      "caption": "a panel of airline directory is shooted",
+      "id": 31505
+    },
+    {
+      "image_id": 15247,
+      "sentence_id": "00076076",
+      "caption": "a computer mouse is on right side",
+      "id": 76076
+    },
+    {
+      "image_id": 15247,
+      "sentence_id": "00076077",
+      "caption": "a laptop is on right side",
+      "id": 76077
+    },
+    {
+      "image_id": 15247,
+      "sentence_id": "00076078",
+      "caption": "a laptop and a laptop mouse are on wooden table",
+      "id": 76078
+    },
+    {
+      "image_id": 15247,
+      "sentence_id": "00076079",
+      "caption": "a mouse is located near laptop at bottom side",
+      "id": 76079
+    },
+    {
+      "image_id": 15247,
+      "sentence_id": "00076080",
+      "caption": "A part of a computer connects to the laptop with a cable",
+      "id": 76080
+    },
+    {
+      "image_id": 18564,
+      "sentence_id": "00092641",
+      "caption": "a robot is exhibited right in front",
+      "id": 92641
+    },
+    {
+      "image_id": 18564,
+      "sentence_id": "00092642",
+      "caption": "a white banner is behind the robot on display",
+      "id": 92642
+    },
+    {
+      "image_id": 18564,
+      "sentence_id": "00092643",
+      "caption": "the robot is stuck behind the blue rope in the front",
+      "id": 92643
+    },
+    {
+      "image_id": 18564,
+      "sentence_id": "00092644",
+      "caption": "someone wearing a yellow cardigan is taking a photo on the left",
+      "id": 92644
+    },
+    {
+      "image_id": 18564,
+      "sentence_id": "00092645",
+      "caption": "several spotlights are placed at the top",
+      "id": 92645
+    },
+    {
+      "image_id": 48712,
+      "sentence_id": "00243336",
+      "caption": "a piece of software is placed on study desk on front",
+      "id": 243336
+    },
+    {
+      "image_id": 48712,
+      "sentence_id": "00243337",
+      "caption": "plastic water bottle is on the table in background.",
+      "id": 243337
+    },
+    {
+      "image_id": 48712,
+      "sentence_id": "00243338",
+      "caption": "a circuit built on top of a motherboard lying on a table",
+      "id": 243338
+    },
+    {
+      "image_id": 48712,
+      "sentence_id": "00243339",
+      "caption": "a part of a computer is on the table",
+      "id": 243339
+    },
+    {
+      "image_id": 48712,
+      "sentence_id": "00243340",
+      "caption": "a bottle of the water is placed on the table",
+      "id": 243340
+    },
+    {
+      "image_id": 49011,
+      "sentence_id": "00244831",
+      "caption": "A heater next to a desk with a Tv on it",
+      "id": 244831
+    },
+    {
+      "image_id": 49011,
+      "sentence_id": "00244832",
+      "caption": "A TV and a heater inside a building",
+      "id": 244832
+    },
+    {
+      "image_id": 49011,
+      "sentence_id": "00244833",
+      "caption": "Inside of a living room with a television and a heater",
+      "id": 244833
+    },
+    {
+      "image_id": 49011,
+      "sentence_id": "00244834",
+      "caption": "A heather is under a gray television",
+      "id": 244834
+    },
+    {
+      "image_id": 49011,
+      "sentence_id": "00244835",
+      "caption": "Grey television is places on a brown television stand",
+      "id": 244835
+    },
+    {
+      "image_id": 44022,
+      "sentence_id": "00219896",
+      "caption": "A watch between books and a wallet near cream a cologne bottle and a picture",
+      "id": 219896
+    },
+    {
+      "image_id": 44022,
+      "sentence_id": "00219897",
+      "caption": "Some books and a mouse are on the table",
+      "id": 219897
+    },
+    {
+      "image_id": 44022,
+      "sentence_id": "00219898",
+      "caption": "Some books some sheets a mouse and a wallet on a table",
+      "id": 219898
+    },
+    {
+      "image_id": 44022,
+      "sentence_id": "00219899",
+      "caption": "Some books stacked up on each other on a desk",
+      "id": 219899
+    },
+    {
+      "image_id": 44022,
+      "sentence_id": "00219900",
+      "caption": "Books and other items are on a wooden desk",
+      "id": 219900
+    },
+    {
+      "image_id": 4558,
+      "sentence_id": "00022786",
+      "caption": "someone is doing something on opened laptop at background",
+      "id": 22786
+    },
+    {
+      "image_id": 4558,
+      "sentence_id": "00022787",
+      "caption": "a wall is behind a laptop",
+      "id": 22787
+    },
+    {
+      "image_id": 4558,
+      "sentence_id": "00022788",
+      "caption": "Computer monitor currently on a wooden computer desk",
+      "id": 22788
+    },
+    {
+      "image_id": 4558,
+      "sentence_id": "00022789",
+      "caption": "laptop with lots of text on the screen.",
+      "id": 22789
+    },
+    {
+      "image_id": 4558,
+      "sentence_id": "00022790",
+      "caption": "A wireless mouse is infront of a laptop on the table",
+      "id": 22790
+    },
+    {
+      "image_id": 50179,
+      "sentence_id": "00250671",
+      "caption": "Three chairs under a TV across a brown table with a computer and some plants",
+      "id": 250671
+    },
+    {
+      "image_id": 50179,
+      "sentence_id": "00250672",
+      "caption": "A TV is on the wall behind the table and chairs",
+      "id": 250672
+    },
+    {
+      "image_id": 50179,
+      "sentence_id": "00250673",
+      "caption": "Three chairs and a desk under a television hung on a wall",
+      "id": 250673
+    },
+    {
+      "image_id": 50179,
+      "sentence_id": "00250674",
+      "caption": "Three wooden chairs under an open television",
+      "id": 250674
+    },
+    {
+      "image_id": 50179,
+      "sentence_id": "00250675",
+      "caption": "Three chairs and a white door and a desk in a room",
+      "id": 250675
+    },
+    {
+      "image_id": 25613,
+      "sentence_id": "00127876",
+      "caption": "Three computers are on the tables",
+      "id": 127876
+    },
+    {
+      "image_id": 25613,
+      "sentence_id": "00127877",
+      "caption": "old computers are positioned on the wooden table",
+      "id": 127877
+    },
+    {
+      "image_id": 25613,
+      "sentence_id": "00127878",
+      "caption": "inner part of air conditioner is hung on ceiling",
+      "id": 127878
+    },
+    {
+      "image_id": 25613,
+      "sentence_id": "00127879",
+      "caption": "the door of the computer room is open",
+      "id": 127879
+    },
+    {
+      "image_id": 25613,
+      "sentence_id": "00127880",
+      "caption": "three computers are placed on tree tables",
+      "id": 127880
+    },
+    {
+      "image_id": 9660,
+      "sentence_id": "00048276",
+      "caption": "outside of a shop is photoed in the daytime.",
+      "id": 48276
+    },
+    {
+      "image_id": 9660,
+      "sentence_id": "00048277",
+      "caption": "the outside of the shop is all window.",
+      "id": 48277
+    },
+    {
+      "image_id": 9660,
+      "sentence_id": "00048278",
+      "caption": "an apple logo is on top of the entrance.",
+      "id": 48278
+    },
+    {
+      "image_id": 9660,
+      "sentence_id": "00048279",
+      "caption": "double glass doors are located on the entrance.",
+      "id": 48279
+    },
+    {
+      "image_id": 9660,
+      "sentence_id": "00048280",
+      "caption": "multiple people are visible inside the shop.",
+      "id": 48280
+    },
+    {
+      "image_id": 13489,
+      "sentence_id": "00067331",
+      "caption": "two different remote controllers are photoed.",
+      "id": 67331
+    },
+    {
+      "image_id": 13489,
+      "sentence_id": "00067332",
+      "caption": "a white and a black colored controllers are photoed.",
+      "id": 67332
+    },
+    {
+      "image_id": 13489,
+      "sentence_id": "00067333",
+      "caption": "the remote controllers are located on a black table.",
+      "id": 67333
+    },
+    {
+      "image_id": 13489,
+      "sentence_id": "00067334",
+      "caption": "laminated flooring is visible on the ground.",
+      "id": 67334
+    },
+    {
+      "image_id": 13489,
+      "sentence_id": "00067335",
+      "caption": "the white remote controller has white and yellow colored buttons.",
+      "id": 67335
+    },
+    {
+      "image_id": 17425,
+      "sentence_id": "00086961",
+      "caption": "an electronic device is photoed on a table.",
+      "id": 86961
+    },
+    {
+      "image_id": 17425,
+      "sentence_id": "00086962",
+      "caption": "a black colored electronic device is photoed.",
+      "id": 86962
+    },
+    {
+      "image_id": 17425,
+      "sentence_id": "00086963",
+      "caption": "a wireless earphone is photoed on a table.",
+      "id": 86963
+    },
+    {
+      "image_id": 17425,
+      "sentence_id": "00086964",
+      "caption": "the wireless earphone is located on a brown colored table.",
+      "id": 86964
+    },
+    {
+      "image_id": 17425,
+      "sentence_id": "00086965",
+      "caption": "the wireless earphones have a black colored case.",
+      "id": 86965
+    },
+    {
+      "image_id": 39676,
+      "sentence_id": "00198166",
+      "caption": "A counter with a scale on it",
+      "id": 198166
+    },
+    {
+      "image_id": 39676,
+      "sentence_id": "00198167",
+      "caption": "A counter with a scale can be seen",
+      "id": 198167
+    },
+    {
+      "image_id": 39676,
+      "sentence_id": "00198168",
+      "caption": "A scale is on a counter",
+      "id": 198168
+    },
+    {
+      "image_id": 39676,
+      "sentence_id": "00198169",
+      "caption": "A counter has a scale on it",
+      "id": 198169
+    },
+    {
+      "image_id": 39676,
+      "sentence_id": "00198170",
+      "caption": "A weight on stand in a restaurant",
+      "id": 198170
+    },
+    {
+      "image_id": 45050,
+      "sentence_id": "00225036",
+      "caption": "old kind of area machines are being showed on display of museum",
+      "id": 225036
+    },
+    {
+      "image_id": 45050,
+      "sentence_id": "00225037",
+      "caption": "antique cameras in foreground are in glass cabinet",
+      "id": 225037
+    },
+    {
+      "image_id": 45050,
+      "sentence_id": "00225038",
+      "caption": "price tags of the products inside the lantern",
+      "id": 225038
+    },
+    {
+      "image_id": 45050,
+      "sentence_id": "00225039",
+      "caption": "old cameras and rolls are behind the showcase",
+      "id": 225039
+    },
+    {
+      "image_id": 45050,
+      "sentence_id": "00225040",
+      "caption": "a few historical cameras are on display",
+      "id": 225040
+    },
+    {
+      "image_id": 14924,
+      "sentence_id": "00074461",
+      "caption": "Shelves with various ornaments are mounted on the wall",
+      "id": 74461
+    },
+    {
+      "image_id": 14924,
+      "sentence_id": "00074462",
+      "caption": "a man is taking a area of the screen declaring the champion team",
+      "id": 74462
+    },
+    {
+      "image_id": 14924,
+      "sentence_id": "00074463",
+      "caption": "TV hung on the wall in the bar",
+      "id": 74463
+    },
+    {
+      "image_id": 14924,
+      "sentence_id": "00074464",
+      "caption": "a man is taking a area of tv from bottom side",
+      "id": 74464
+    },
+    {
+      "image_id": 14924,
+      "sentence_id": "00074465",
+      "caption": "A large TV is hung on the wall",
+      "id": 74465
+    },
+    {
+      "image_id": 4258,
+      "sentence_id": "00021286",
+      "caption": "banana and a few strawberries are put into plate",
+      "id": 21286
+    },
+    {
+      "image_id": 4258,
+      "sentence_id": "00021287",
+      "caption": "a laptop is under a plate",
+      "id": 21287
+    },
+    {
+      "image_id": 4258,
+      "sentence_id": "00021288",
+      "caption": "A close up view of strawberries and banana on the plate",
+      "id": 21288
+    },
+    {
+      "image_id": 4258,
+      "sentence_id": "00021289",
+      "caption": "peeled banana standing next to strawberries on plate",
+      "id": 21289
+    },
+    {
+      "image_id": 4258,
+      "sentence_id": "00021290",
+      "caption": "The fruit tree is on the table.",
+      "id": 21290
+    },
+    {
+      "image_id": 41141,
+      "sentence_id": "00205491",
+      "caption": "Some mannequins with clothes behind a lot of different types of games at a playground",
+      "id": 205491
+    },
+    {
+      "image_id": 41141,
+      "sentence_id": "00205492",
+      "caption": "Some games and toys are in front of the mannequins",
+      "id": 205492
+    },
+    {
+      "image_id": 41141,
+      "sentence_id": "00205493",
+      "caption": "A lot of toys on a playground",
+      "id": 205493
+    },
+    {
+      "image_id": 41141,
+      "sentence_id": "00205494",
+      "caption": "A playground full of toys is seen",
+      "id": 205494
+    },
+    {
+      "image_id": 41141,
+      "sentence_id": "00205495",
+      "caption": "A clothing store behind a playground",
+      "id": 205495
+    },
+    {
+      "image_id": 17032,
+      "sentence_id": "00085001",
+      "caption": "a black colored mouse is photoed.",
+      "id": 85001
+    },
+    {
+      "image_id": 17032,
+      "sentence_id": "00085002",
+      "caption": "the black colored mouse has white colored writings on it.",
+      "id": 85002
+    },
+    {
+      "image_id": 17032,
+      "sentence_id": "00085003",
+      "caption": "the mouse has three orange colored buttons on it.",
+      "id": 85003
+    },
+    {
+      "image_id": 17032,
+      "sentence_id": "00085004",
+      "caption": "the mouse is located on top of a black colored mouse pad.",
+      "id": 85004
+    },
+    {
+      "image_id": 17032,
+      "sentence_id": "00085005",
+      "caption": "the mouse pad has a blue colored sign on it.",
+      "id": 85005
+    },
+    {
+      "image_id": 15617,
+      "sentence_id": "00077926",
+      "caption": "a medical lamp is taken at a dentist office",
+      "id": 77926
+    },
+    {
+      "image_id": 15617,
+      "sentence_id": "00077927",
+      "caption": "dentistary equipments are taken from inside at front side",
+      "id": 77927
+    },
+    {
+      "image_id": 15617,
+      "sentence_id": "00077928",
+      "caption": "lighting tool in dentists and some machines underneath",
+      "id": 77928
+    },
+    {
+      "image_id": 15617,
+      "sentence_id": "00077929",
+      "caption": "some equipments at a dentist's examination room are taken",
+      "id": 77929
+    },
+    {
+      "image_id": 15617,
+      "sentence_id": "00077930",
+      "caption": "interior of dentistry is taken while it is empty",
+      "id": 77930
+    },
+    {
+      "image_id": 37003,
+      "sentence_id": "00184801",
+      "caption": "A white device with a screen",
+      "id": 184801
+    },
+    {
+      "image_id": 37003,
+      "sentence_id": "00184802",
+      "caption": "A white medical machine with a screen",
+      "id": 184802
+    },
+    {
+      "image_id": 37003,
+      "sentence_id": "00184803",
+      "caption": "A medical device with some writings on its screen",
+      "id": 184803
+    },
+    {
+      "image_id": 37003,
+      "sentence_id": "00184804",
+      "caption": "A plugged medical device and a glue stick behind it",
+      "id": 184804
+    },
+    {
+      "image_id": 37003,
+      "sentence_id": "00184805",
+      "caption": "Electrical device hung on the shelf",
+      "id": 184805
+    },
+    {
+      "image_id": 48046,
+      "sentence_id": "00240006",
+      "caption": "a few view machine are being sold on display at front",
+      "id": 240006
+    },
+    {
+      "image_id": 48046,
+      "sentence_id": "00240007",
+      "caption": "old cameras are preserved in a glass cabinet.",
+      "id": 240007
+    },
+    {
+      "image_id": 48046,
+      "sentence_id": "00240008",
+      "caption": "Nostalgic cameras displayed in a glass dome",
+      "id": 240008
+    },
+    {
+      "image_id": 48046,
+      "sentence_id": "00240009",
+      "caption": "old machines are in the showcases",
+      "id": 240009
+    },
+    {
+      "image_id": 48046,
+      "sentence_id": "00240010",
+      "caption": "old view machines are standing on glass shelves",
+      "id": 240010
+    },
+    {
+      "image_id": 39237,
+      "sentence_id": "00195971",
+      "caption": "A television hung on a wall",
+      "id": 195971
+    },
+    {
+      "image_id": 39237,
+      "sentence_id": "00195972",
+      "caption": "A TV is on the wall",
+      "id": 195972
+    },
+    {
+      "image_id": 39237,
+      "sentence_id": "00195973",
+      "caption": "A small television on a wall",
+      "id": 195973
+    },
+    {
+      "image_id": 39237,
+      "sentence_id": "00195974",
+      "caption": "A tiny television attached to a wall",
+      "id": 195974
+    },
+    {
+      "image_id": 39237,
+      "sentence_id": "00195975",
+      "caption": "A television hung on a white wall",
+      "id": 195975
+    },
+    {
+      "image_id": 40963,
+      "sentence_id": "00204601",
+      "caption": "A patient monitor with a black cable on a white surface",
+      "id": 204601
+    },
+    {
+      "image_id": 40963,
+      "sentence_id": "00204602",
+      "caption": "A device that shows the heartbeat has some buttons",
+      "id": 204602
+    },
+    {
+      "image_id": 40963,
+      "sentence_id": "00204603",
+      "caption": "A heart monitor and a black cable plugged on it",
+      "id": 204603
+    },
+    {
+      "image_id": 40963,
+      "sentence_id": "00204604",
+      "caption": "A running heart rate monitor is seen",
+      "id": 204604
+    },
+    {
+      "image_id": 40963,
+      "sentence_id": "00204605",
+      "caption": "A white heart rate monitor and a cable attached to it",
+      "id": 204605
+    },
+    {
+      "image_id": 20487,
+      "sentence_id": "00102251",
+      "caption": "the white rectangular table is on the left",
+      "id": 102251
+    },
+    {
+      "image_id": 20487,
+      "sentence_id": "00102252",
+      "caption": "black swivel chair is in front of the table",
+      "id": 102252
+    },
+    {
+      "image_id": 20487,
+      "sentence_id": "00102253",
+      "caption": "a yellow tool kit is on the right",
+      "id": 102253
+    },
+    {
+      "image_id": 20487,
+      "sentence_id": "00102254",
+      "caption": "boxes are under the table on the left side of the tool kit",
+      "id": 102254
+    },
+    {
+      "image_id": 20487,
+      "sentence_id": "00102255",
+      "caption": "shelves made of white shelves are behind the table",
+      "id": 102255
+    },
+    {
+      "image_id": 50044,
+      "sentence_id": "00249996",
+      "caption": "A big white ring on a black stand is shown",
+      "id": 249996
+    },
+    {
+      "image_id": 50044,
+      "sentence_id": "00249997",
+      "caption": "A circular lamp next to the yellow couch",
+      "id": 249997
+    },
+    {
+      "image_id": 50044,
+      "sentence_id": "00249998",
+      "caption": "An off ring light next to a yellow couch",
+      "id": 249998
+    },
+    {
+      "image_id": 50044,
+      "sentence_id": "00249999",
+      "caption": "A circular lamp next to a sofa",
+      "id": 249999
+    },
+    {
+      "image_id": 50044,
+      "sentence_id": "00250000",
+      "caption": "A ring light is next to a sofa",
+      "id": 250000
+    },
+    {
+      "image_id": 44455,
+      "sentence_id": "00222061",
+      "caption": "wooden door of bedroom standing at back is close",
+      "id": 222061
+    },
+    {
+      "image_id": 44455,
+      "sentence_id": "00222062",
+      "caption": "empty glass water bottle is in background of the view",
+      "id": 222062
+    },
+    {
+      "image_id": 44455,
+      "sentence_id": "00222063",
+      "caption": "A water bottle is placed on a table",
+      "id": 222063
+    },
+    {
+      "image_id": 44455,
+      "sentence_id": "00222064",
+      "caption": "a man is sitting crossed his legs",
+      "id": 222064
+    },
+    {
+      "image_id": 44455,
+      "sentence_id": "00222065",
+      "caption": "a laptop is standing on the desk",
+      "id": 222065
+    },
+    {
+      "image_id": 15185,
+      "sentence_id": "00075766",
+      "caption": "Closeup view of a backup camera inside a car",
+      "id": 75766
+    },
+    {
+      "image_id": 15185,
+      "sentence_id": "00075767",
+      "caption": "the back camera of a car is taken",
+      "id": 75767
+    },
+    {
+      "image_id": 15185,
+      "sentence_id": "00075768",
+      "caption": "view of the rear on the screen of the front of the car",
+      "id": 75768
+    },
+    {
+      "image_id": 15185,
+      "sentence_id": "00075769",
+      "caption": "a car is about parking on road at night",
+      "id": 75769
+    },
+    {
+      "image_id": 15185,
+      "sentence_id": "00075770",
+      "caption": "Some cars are parked at both sides of the road",
+      "id": 75770
+    },
+    {
+      "image_id": 9470,
+      "sentence_id": "00047336",
+      "caption": "shelves of a bookstore is photoed.",
+      "id": 47336
+    },
+    {
+      "image_id": 9470,
+      "sentence_id": "00047337",
+      "caption": "five shelves are clearly visible in the photo.",
+      "id": 47337
+    },
+    {
+      "image_id": 9470,
+      "sentence_id": "00047338",
+      "caption": "a monitor is located on the wall.",
+      "id": 47338
+    },
+    {
+      "image_id": 9470,
+      "sentence_id": "00047339",
+      "caption": "a keyboard and a mouse is located below the monitor.",
+      "id": 47339
+    },
+    {
+      "image_id": 9470,
+      "sentence_id": "00047340",
+      "caption": "multiple colored books are located on the shelves.",
+      "id": 47340
+    },
+    {
+      "image_id": 43527,
+      "sentence_id": "00217421",
+      "caption": "An elevator beside a door in front of the stairs can be seen",
+      "id": 217421
+    },
+    {
+      "image_id": 43527,
+      "sentence_id": "00217422",
+      "caption": "An elevator is beside the stairs",
+      "id": 217422
+    },
+    {
+      "image_id": 43527,
+      "sentence_id": "00217423",
+      "caption": "An elevator is seen next to a glass door",
+      "id": 217423
+    },
+    {
+      "image_id": 43527,
+      "sentence_id": "00217424",
+      "caption": "An elevator next to the entrance door of a building",
+      "id": 217424
+    },
+    {
+      "image_id": 43527,
+      "sentence_id": "00217425",
+      "caption": "The view of an elevator in front of the stairs",
+      "id": 217425
+    },
+    {
+      "image_id": 20551,
+      "sentence_id": "00102571",
+      "caption": "a light-colored table is right in front",
+      "id": 102571
+    },
+    {
+      "image_id": 20551,
+      "sentence_id": "00102572",
+      "caption": "a black magic monitor is on the light table",
+      "id": 102572
+    },
+    {
+      "image_id": 20551,
+      "sentence_id": "00102573",
+      "caption": "a thick textbook is under the monitor",
+      "id": 102573
+    },
+    {
+      "image_id": 20551,
+      "sentence_id": "00102574",
+      "caption": "the black speaker is on the left side of the monitor",
+      "id": 102574
+    },
+    {
+      "image_id": 20551,
+      "sentence_id": "00102575",
+      "caption": "the keyboard is on the front of the computer monitor",
+      "id": 102575
+    },
+    {
+      "image_id": 26510,
+      "sentence_id": "00132361",
+      "caption": "Two monitors are on the desks",
+      "id": 132361
+    },
+    {
+      "image_id": 26510,
+      "sentence_id": "00132362",
+      "caption": "pin board is positioned to wall above  table",
+      "id": 132362
+    },
+    {
+      "image_id": 26510,
+      "sentence_id": "00132363",
+      "caption": "notice board is placed on wall above study desk",
+      "id": 132363
+    },
+    {
+      "image_id": 26510,
+      "sentence_id": "00132364",
+      "caption": "two computer screens are placed on the wooden desks",
+      "id": 132364
+    },
+    {
+      "image_id": 26510,
+      "sentence_id": "00132365",
+      "caption": "two loudspeakers are placed next to the computer",
+      "id": 132365
+    },
+    {
+      "image_id": 8456,
+      "sentence_id": "00042276",
+      "caption": "The piano is just ahead and downstairs.",
+      "id": 42276
+    },
+    {
+      "image_id": 8456,
+      "sentence_id": "00042277",
+      "caption": "A sheet of music is on the piano.",
+      "id": 42277
+    },
+    {
+      "image_id": 8456,
+      "sentence_id": "00042278",
+      "caption": "notes from a piece called School Days are on the sheet music.",
+      "id": 42278
+    },
+    {
+      "image_id": 8456,
+      "sentence_id": "00042279",
+      "caption": "The teacher's section is at the top and the student's section is at the bottom.",
+      "id": 42279
+    },
+    {
+      "image_id": 8456,
+      "sentence_id": "00042280",
+      "caption": "The piano is made of wood.",
+      "id": 42280
+    },
+    {
+      "image_id": 39073,
+      "sentence_id": "00195151",
+      "caption": "A few computers can be seen on a large table",
+      "id": 195151
+    },
+    {
+      "image_id": 39073,
+      "sentence_id": "00195152",
+      "caption": "A couple of computers are on the tables",
+      "id": 195152
+    },
+    {
+      "image_id": 39073,
+      "sentence_id": "00195153",
+      "caption": "A bunch of computers on a long table",
+      "id": 195153
+    },
+    {
+      "image_id": 39073,
+      "sentence_id": "00195154",
+      "caption": "Several computers arranged on a long table",
+      "id": 195154
+    },
+    {
+      "image_id": 39073,
+      "sentence_id": "00195155",
+      "caption": "Many keyboards and screens on a long table",
+      "id": 195155
+    },
+    {
+      "image_id": 42485,
+      "sentence_id": "00212211",
+      "caption": "An orange device with two wheels near a black notebook",
+      "id": 212211
+    },
+    {
+      "image_id": 42485,
+      "sentence_id": "00212212",
+      "caption": "An orange device is in front of a black notebook",
+      "id": 212212
+    },
+    {
+      "image_id": 42485,
+      "sentence_id": "00212213",
+      "caption": "An orange electric device with two wheels",
+      "id": 212213
+    },
+    {
+      "image_id": 42485,
+      "sentence_id": "00212214",
+      "caption": "An electrical device with two wheels on a surface",
+      "id": 212214
+    },
+    {
+      "image_id": 42485,
+      "sentence_id": "00212215",
+      "caption": "An object and a notebook on the desk",
+      "id": 212215
+    },
+    {
+      "image_id": 29227,
+      "sentence_id": "00145941",
+      "caption": "mending desk is taken from above by someone",
+      "id": 145941
+    },
+    {
+      "image_id": 29227,
+      "sentence_id": "00145942",
+      "caption": "some tools are on a table",
+      "id": 145942
+    },
+    {
+      "image_id": 29227,
+      "sentence_id": "00145943",
+      "caption": "A monitor of a machine is turned on",
+      "id": 145943
+    },
+    {
+      "image_id": 29227,
+      "sentence_id": "00145944",
+      "caption": "a desk with hospital equipment repaired at front",
+      "id": 145944
+    },
+    {
+      "image_id": 29227,
+      "sentence_id": "00145945",
+      "caption": "tools that its brand belonging to Ender are on the table",
+      "id": 145945
+    },
+    {
+      "image_id": 48969,
+      "sentence_id": "00244621",
+      "caption": "A laptop and a white glass next to it illuminated with a little lamp",
+      "id": 244621
+    },
+    {
+      "image_id": 48969,
+      "sentence_id": "00244622",
+      "caption": "A laptop between a white mug and a little lamp",
+      "id": 244622
+    },
+    {
+      "image_id": 48969,
+      "sentence_id": "00244623",
+      "caption": "A laptop with a written document on the screen",
+      "id": 244623
+    },
+    {
+      "image_id": 48969,
+      "sentence_id": "00244624",
+      "caption": "A bowl of fruit next to an open laptop on a desk",
+      "id": 244624
+    },
+    {
+      "image_id": 48969,
+      "sentence_id": "00244625",
+      "caption": "A white cup and fruit bowl next to a laptop are on the brown desk",
+      "id": 244625
+    },
+    {
+      "image_id": 16383,
+      "sentence_id": "00081756",
+      "caption": "a robot is taken in tech expo",
+      "id": 81756
+    },
+    {
+      "image_id": 16383,
+      "sentence_id": "00081757",
+      "caption": "man shape robot is being adverted in technologhy fair",
+      "id": 81757
+    },
+    {
+      "image_id": 16383,
+      "sentence_id": "00081758",
+      "caption": "robot with cables and wiring visible",
+      "id": 81758
+    },
+    {
+      "image_id": 16383,
+      "sentence_id": "00081759",
+      "caption": "two men in suits are at the background",
+      "id": 81759
+    },
+    {
+      "image_id": 16383,
+      "sentence_id": "00081760",
+      "caption": "inside of expo area is taken from in front of men shape robot",
+      "id": 81760
+    },
+    {
+      "image_id": 8323,
+      "sentence_id": "00041611",
+      "caption": "An office with a computer on the desk.",
+      "id": 41611
+    },
+    {
+      "image_id": 8323,
+      "sentence_id": "00041612",
+      "caption": "The computer is on the table in the back.",
+      "id": 41612
+    },
+    {
+      "image_id": 8323,
+      "sentence_id": "00041613",
+      "caption": "The chair at the back of the desk is in front of the computer desk.",
+      "id": 41613
+    },
+    {
+      "image_id": 8323,
+      "sentence_id": "00041614",
+      "caption": "Colorful lab research tubes on computer desk.",
+      "id": 41614
+    },
+    {
+      "image_id": 8323,
+      "sentence_id": "00041615",
+      "caption": "The ends of the research tubes are colorful.",
+      "id": 41615
+    },
+    {
+      "image_id": 1657,
+      "sentence_id": "00008281",
+      "caption": "A rectangle television monitor hanging on a wall with wires near it",
+      "id": 8281
+    },
+    {
+      "image_id": 1657,
+      "sentence_id": "00008282",
+      "caption": "the plug of the television is at the bottom right",
+      "id": 8282
+    },
+    {
+      "image_id": 1657,
+      "sentence_id": "00008283",
+      "caption": "the television is slightly below the ceiling and its cables are hanging down",
+      "id": 8283
+    },
+    {
+      "image_id": 1657,
+      "sentence_id": "00008284",
+      "caption": "a television is on the wall",
+      "id": 8284
+    },
+    {
+      "image_id": 1657,
+      "sentence_id": "00008285",
+      "caption": "The wires are hung from the TV.",
+      "id": 8285
+    },
+    {
+      "image_id": 18349,
+      "sentence_id": "00091566",
+      "caption": "green area is just in front",
+      "id": 91566
+    },
+    {
+      "image_id": 18349,
+      "sentence_id": "00091567",
+      "caption": "the small dirt surface is on the left side of the greens.",
+      "id": 91567
+    },
+    {
+      "image_id": 18349,
+      "sentence_id": "00091568",
+      "caption": "two weather vane is behind the opposite mountain",
+      "id": 91568
+    },
+    {
+      "image_id": 18349,
+      "sentence_id": "00091569",
+      "caption": "the mountain in the fog is to the right of the wind roses",
+      "id": 91569
+    },
+    {
+      "image_id": 18349,
+      "sentence_id": "00091570",
+      "caption": "small boulders are visible in the front area",
+      "id": 91570
+    },
+    {
+      "image_id": 42506,
+      "sentence_id": "00212316",
+      "caption": "a white paper and a book are on the table below some cables",
+      "id": 212316
+    },
+    {
+      "image_id": 42506,
+      "sentence_id": "00212317",
+      "caption": "Some cables are on a piece of wood above the paper",
+      "id": 212317
+    },
+    {
+      "image_id": 42506,
+      "sentence_id": "00212318",
+      "caption": "Some cables on a wooden piece on a desk",
+      "id": 212318
+    },
+    {
+      "image_id": 42506,
+      "sentence_id": "00212319",
+      "caption": "Some plugged cables next to a monitor and a keyboard",
+      "id": 212319
+    },
+    {
+      "image_id": 42506,
+      "sentence_id": "00212320",
+      "caption": "Colorful and short cables on a paper",
+      "id": 212320
+    },
+    {
+      "image_id": 8486,
+      "sentence_id": "00042426",
+      "caption": "An electrical cabinet is open on the sidewalk.",
+      "id": 42426
+    },
+    {
+      "image_id": 8486,
+      "sentence_id": "00042427",
+      "caption": "The electrical cabinet is surrounded by a yellow canvas.",
+      "id": 42427
+    },
+    {
+      "image_id": 8486,
+      "sentence_id": "00042428",
+      "caption": "The escalator is just behind the electrical cabinet.",
+      "id": 42428
+    },
+    {
+      "image_id": 8486,
+      "sentence_id": "00042429",
+      "caption": "Yellow embossed dots are on the floor for the visually impaired.",
+      "id": 42429
+    },
+    {
+      "image_id": 8486,
+      "sentence_id": "00042430",
+      "caption": "Many wires are inside the electrical cabinet.",
+      "id": 42430
+    },
+    {
+      "image_id": 12531,
+      "sentence_id": "00062611",
+      "caption": "an open phone is in the middle.",
+      "id": 62611
+    },
+    {
+      "image_id": 12531,
+      "sentence_id": "00062612",
+      "caption": "a music player application is open on the phone.",
+      "id": 62612
+    },
+    {
+      "image_id": 12531,
+      "sentence_id": "00062613",
+      "caption": "a charging cable is connected to the dashboard of the car.",
+      "id": 62613
+    },
+    {
+      "image_id": 12531,
+      "sentence_id": "00062614",
+      "caption": "the gear of the car is to the left of the phone.",
+      "id": 62614
+    },
+    {
+      "image_id": 12531,
+      "sentence_id": "00062615",
+      "caption": "crying face emoji is in the middle on the right.",
+      "id": 62615
+    },
+    {
+      "image_id": 34455,
+      "sentence_id": "00172071",
+      "caption": "gym center's inside is taken while it is nearly empty",
+      "id": 172071
+    },
+    {
+      "image_id": 34455,
+      "sentence_id": "00172072",
+      "caption": "The person doing sports in the hall is visible",
+      "id": 172072
+    },
+    {
+      "image_id": 34455,
+      "sentence_id": "00172073",
+      "caption": "lots of sports equipments are scattered around gym center",
+      "id": 172073
+    },
+    {
+      "image_id": 34455,
+      "sentence_id": "00172074",
+      "caption": "a young man is walking at gym",
+      "id": 172074
+    },
+    {
+      "image_id": 34455,
+      "sentence_id": "00172075",
+      "caption": "lonely man in foreground of the area is in gym.",
+      "id": 172075
+    },
+    {
+      "image_id": 37746,
+      "sentence_id": "00188516",
+      "caption": "An air conditioner hung on the wall of a room",
+      "id": 188516
+    },
+    {
+      "image_id": 37746,
+      "sentence_id": "00188517",
+      "caption": "A laptop is on the desk in the room",
+      "id": 188517
+    },
+    {
+      "image_id": 37746,
+      "sentence_id": "00188518",
+      "caption": "A living room with a desk",
+      "id": 188518
+    },
+    {
+      "image_id": 37746,
+      "sentence_id": "00188519",
+      "caption": "A wooden desk in a room",
+      "id": 188519
+    },
+    {
+      "image_id": 37746,
+      "sentence_id": "00188520",
+      "caption": "A fridge near a blue table",
+      "id": 188520
+    },
+    {
+      "image_id": 16456,
+      "sentence_id": "00082121",
+      "caption": "a lamp is on on right side of view",
+      "id": 82121
+    },
+    {
+      "image_id": 16456,
+      "sentence_id": "00082122",
+      "caption": "mending table at background is being lightened by reading lamp",
+      "id": 82122
+    },
+    {
+      "image_id": 16456,
+      "sentence_id": "00082123",
+      "caption": "old and new hospital monitors on table",
+      "id": 82123
+    },
+    {
+      "image_id": 16456,
+      "sentence_id": "00082124",
+      "caption": "a couple of boxes are under the table",
+      "id": 82124
+    },
+    {
+      "image_id": 16456,
+      "sentence_id": "00082125",
+      "caption": "shelves at background are full of maintenance goods",
+      "id": 82125
+    },
+    {
+      "image_id": 11713,
+      "sentence_id": "00058526",
+      "caption": "The monitor faces the cabinet above.",
+      "id": 58526
+    },
+    {
+      "image_id": 11713,
+      "sentence_id": "00058527",
+      "caption": "The cabinet is above the monitor.",
+      "id": 58527
+    },
+    {
+      "image_id": 11713,
+      "sentence_id": "00058528",
+      "caption": "A liquor bottle is in the cupboard.",
+      "id": 58528
+    },
+    {
+      "image_id": 11713,
+      "sentence_id": "00058529",
+      "caption": "The socket is on the back of the monitor.",
+      "id": 58529
+    },
+    {
+      "image_id": 11713,
+      "sentence_id": "00058530",
+      "caption": "The papers are in the cabinet under the monitor.",
+      "id": 58530
+    },
+    {
+      "image_id": 17843,
+      "sentence_id": "00089046",
+      "caption": "a white table is right in front",
+      "id": 89046
+    },
+    {
+      "image_id": 17843,
+      "sentence_id": "00089047",
+      "caption": "black and red wires are on the table",
+      "id": 89047
+    },
+    {
+      "image_id": 17843,
+      "sentence_id": "00089048",
+      "caption": "a person's hand is on the right side of the table",
+      "id": 89048
+    },
+    {
+      "image_id": 17843,
+      "sentence_id": "00089049",
+      "caption": "the phone with the screen off is on the table",
+      "id": 89049
+    },
+    {
+      "image_id": 17843,
+      "sentence_id": "00089050",
+      "caption": "a mechanism where the cables are tangled is right in the middle",
+      "id": 89050
+    },
+    {
+      "image_id": 3556,
+      "sentence_id": "00017776",
+      "caption": "a jazz bas guitar is leaning on marble wall",
+      "id": 17776
+    },
+    {
+      "image_id": 3556,
+      "sentence_id": "00017777",
+      "caption": "all back ground is covered by marble wall",
+      "id": 17777
+    },
+    {
+      "image_id": 3556,
+      "sentence_id": "00017778",
+      "caption": "a wire is laying on ground in kitchen",
+      "id": 17778
+    },
+    {
+      "image_id": 3556,
+      "sentence_id": "00017779",
+      "caption": "All floor is covered with small rectangular tiles",
+      "id": 17779
+    },
+    {
+      "image_id": 3556,
+      "sentence_id": "00017780",
+      "caption": "a plugged socket is on the back of a burgundy electric guitar against a wall",
+      "id": 17780
+    },
+    {
+      "image_id": 40529,
+      "sentence_id": "00202431",
+      "caption": "A black remote control with buttons on on a wooden surface",
+      "id": 202431
+    },
+    {
+      "image_id": 40529,
+      "sentence_id": "00202432",
+      "caption": "A black remote control on a wooden surface",
+      "id": 202432
+    },
+    {
+      "image_id": 40529,
+      "sentence_id": "00202433",
+      "caption": "A black remote controller on a wooden surface",
+      "id": 202433
+    },
+    {
+      "image_id": 40529,
+      "sentence_id": "00202434",
+      "caption": "A remote controller on a wooden table",
+      "id": 202434
+    },
+    {
+      "image_id": 40529,
+      "sentence_id": "00202435",
+      "caption": "A black remote controller on a wooden surface",
+      "id": 202435
+    },
+    {
+      "image_id": 23718,
+      "sentence_id": "00118406",
+      "caption": "A cup of coffee is put near the keyboard",
+      "id": 118406
+    },
+    {
+      "image_id": 23718,
+      "sentence_id": "00118407",
+      "caption": "a cup is standing next to a computer devices",
+      "id": 118407
+    },
+    {
+      "image_id": 23718,
+      "sentence_id": "00118408",
+      "caption": "coffee mug in front of mouse",
+      "id": 118408
+    },
+    {
+      "image_id": 23718,
+      "sentence_id": "00118409",
+      "caption": "a computer mouse is in front of keyboard",
+      "id": 118409
+    },
+    {
+      "image_id": 23718,
+      "sentence_id": "00118410",
+      "caption": "a computer is on right side of table",
+      "id": 118410
+    },
+    {
+      "image_id": 12428,
+      "sentence_id": "00062101",
+      "caption": "A glass of coffee is left on the right",
+      "id": 62101
+    },
+    {
+      "image_id": 12428,
+      "sentence_id": "00062102",
+      "caption": "a baby park area with toys is on the left",
+      "id": 62102
+    },
+    {
+      "image_id": 12428,
+      "sentence_id": "00062103",
+      "caption": "the tv is on the unit in front of the park",
+      "id": 62103
+    },
+    {
+      "image_id": 12428,
+      "sentence_id": "00062104",
+      "caption": "a few toys remained on the carpet",
+      "id": 62104
+    },
+    {
+      "image_id": 12428,
+      "sentence_id": "00062105",
+      "caption": "thick background curtains are on the right side of the television",
+      "id": 62105
+    },
+    {
+      "image_id": 15720,
+      "sentence_id": "00078441",
+      "caption": "a big shopping mall is on right side of road",
+      "id": 78441
+    },
+    {
+      "image_id": 15720,
+      "sentence_id": "00078442",
+      "caption": "a few people are walking on pavement located on left side",
+      "id": 78442
+    },
+    {
+      "image_id": 15720,
+      "sentence_id": "00078443",
+      "caption": "a building with banners and flags on it",
+      "id": 78443
+    },
+    {
+      "image_id": 15720,
+      "sentence_id": "00078444",
+      "caption": "huge billboard of a brand is on the right side",
+      "id": 78444
+    },
+    {
+      "image_id": 15720,
+      "sentence_id": "00078445",
+      "caption": "people walking on the sidewalk and advertisement on the right",
+      "id": 78445
+    },
+    {
+      "image_id": 11942,
+      "sentence_id": "00059671",
+      "caption": "The man in the sweater is directly opposite.",
+      "id": 59671
+    },
+    {
+      "image_id": 11942,
+      "sentence_id": "00059672",
+      "caption": "The stripes of the sweater are red and white.",
+      "id": 59672
+    },
+    {
+      "image_id": 11942,
+      "sentence_id": "00059673",
+      "caption": "The electric mechanism is in front of the man.",
+      "id": 59673
+    },
+    {
+      "image_id": 11942,
+      "sentence_id": "00059674",
+      "caption": "The switch is on the opposite wall.",
+      "id": 59674
+    },
+    {
+      "image_id": 11942,
+      "sentence_id": "00059675",
+      "caption": "The sockets are just to the left of the switch.",
+      "id": 59675
+    },
+    {
+      "image_id": 33784,
+      "sentence_id": "00168716",
+      "caption": "someone is listening to music from its laptop at front",
+      "id": 168716
+    },
+    {
+      "image_id": 33784,
+      "sentence_id": "00168717",
+      "caption": "Students can listen to music while studying",
+      "id": 168717
+    },
+    {
+      "image_id": 33784,
+      "sentence_id": "00168718",
+      "caption": "music list is being showed on screen of computer at right",
+      "id": 168718
+    },
+    {
+      "image_id": 33784,
+      "sentence_id": "00168719",
+      "caption": "a laptop is on a desk",
+      "id": 168719
+    },
+    {
+      "image_id": 33784,
+      "sentence_id": "00168720",
+      "caption": "open laptop is in the foreground of the view",
+      "id": 168720
+    }
+  ],
+  "images": [
+    {
+      "id": 1657
+    },
+    {
+      "id": 2200
+    },
+    {
+      "id": 2590
+    },
+    {
+      "id": 2602
+    },
+    {
+      "id": 3422
+    },
+    {
+      "id": 3556
+    },
+    {
+      "id": 3721
+    },
+    {
+      "id": 4258
+    },
+    {
+      "id": 4558
+    },
+    {
+      "id": 4703
+    },
+    {
+      "id": 5503
+    },
+    {
+      "id": 6130
+    },
+    {
+      "id": 6301
+    },
+    {
+      "id": 6321
+    },
+    {
+      "id": 7268
+    },
+    {
+      "id": 7305
+    },
+    {
+      "id": 7760
+    },
+    {
+      "id": 8323
+    },
+    {
+      "id": 8456
+    },
+    {
+      "id": 8486
+    },
+    {
+      "id": 9470
+    },
+    {
+      "id": 9660
+    },
+    {
+      "id": 9770
+    },
+    {
+      "id": 9860
+    },
+    {
+      "id": 10041
+    },
+    {
+      "id": 10258
+    },
+    {
+      "id": 10569
+    },
+    {
+      "id": 10853
+    },
+    {
+      "id": 11394
+    },
+    {
+      "id": 11517
+    },
+    {
+      "id": 11713
+    },
+    {
+      "id": 11909
+    },
+    {
+      "id": 11942
+    },
+    {
+      "id": 12320
+    },
+    {
+      "id": 12323
+    },
+    {
+      "id": 12428
+    },
+    {
+      "id": 12531
+    },
+    {
+      "id": 12565
+    },
+    {
+      "id": 13489
+    },
+    {
+      "id": 13737
+    },
+    {
+      "id": 13812
+    },
+    {
+      "id": 14924
+    },
+    {
+      "id": 15017
+    },
+    {
+      "id": 15149
+    },
+    {
+      "id": 15161
+    },
+    {
+      "id": 15185
+    },
+    {
+      "id": 15247
+    },
+    {
+      "id": 15617
+    },
+    {
+      "id": 15667
+    },
+    {
+      "id": 15720
+    },
+    {
+      "id": 15768
+    },
+    {
+      "id": 16056
+    },
+    {
+      "id": 16112
+    },
+    {
+      "id": 16383
+    },
+    {
+      "id": 16456
+    },
+    {
+      "id": 16477
+    },
+    {
+      "id": 16692
+    },
+    {
+      "id": 16817
+    },
+    {
+      "id": 17032
+    },
+    {
+      "id": 17347
+    },
+    {
+      "id": 17425
+    },
+    {
+      "id": 17843
+    },
+    {
+      "id": 17936
+    },
+    {
+      "id": 18232
+    },
+    {
+      "id": 18349
+    },
+    {
+      "id": 18564
+    },
+    {
+      "id": 19274
+    },
+    {
+      "id": 19413
+    },
+    {
+      "id": 19644
+    },
+    {
+      "id": 20487
+    },
+    {
+      "id": 20551
+    },
+    {
+      "id": 22250
+    },
+    {
+      "id": 22640
+    },
+    {
+      "id": 23504
+    },
+    {
+      "id": 23601
+    },
+    {
+      "id": 23718
+    },
+    {
+      "id": 25082
+    },
+    {
+      "id": 25613
+    },
+    {
+      "id": 26510
+    },
+    {
+      "id": 27131
+    },
+    {
+      "id": 28889
+    },
+    {
+      "id": 29227
+    },
+    {
+      "id": 29252
+    },
+    {
+      "id": 31343
+    },
+    {
+      "id": 33784
+    },
+    {
+      "id": 34044
+    },
+    {
+      "id": 34455
+    },
+    {
+      "id": 35360
+    },
+    {
+      "id": 35612
+    },
+    {
+      "id": 36440
+    },
+    {
+      "id": 36595
+    },
+    {
+      "id": 37003
+    },
+    {
+      "id": 37593
+    },
+    {
+      "id": 37746
+    },
+    {
+      "id": 38079
+    },
+    {
+      "id": 39015
+    },
+    {
+      "id": 39073
+    },
+    {
+      "id": 39086
+    },
+    {
+      "id": 39237
+    },
+    {
+      "id": 39676
+    },
+    {
+      "id": 40529
+    },
+    {
+      "id": 40963
+    },
+    {
+      "id": 41141
+    },
+    {
+      "id": 41541
+    },
+    {
+      "id": 42485
+    },
+    {
+      "id": 42506
+    },
+    {
+      "id": 43527
+    },
+    {
+      "id": 44022
+    },
+    {
+      "id": 44417
+    },
+    {
+      "id": 44455
+    },
+    {
+      "id": 44843
+    },
+    {
+      "id": 45050
+    },
+    {
+      "id": 46697
+    },
+    {
+      "id": 47233
+    },
+    {
+      "id": 47687
+    },
+    {
+      "id": 47866
+    },
+    {
+      "id": 48046
+    },
+    {
+      "id": 48369
+    },
+    {
+      "id": 48712
+    },
+    {
+      "id": 48777
+    },
+    {
+      "id": 48923
+    },
+    {
+      "id": 48969
+    },
+    {
+      "id": 49011
+    },
+    {
+      "id": 49759
+    },
+    {
+      "id": 49783
+    },
+    {
+      "id": 50044
+    },
+    {
+      "id": 50179
+    },
+    {
+      "id": 50418
+    },
+    {
+      "id": 52488
+    }
+  ]
+}

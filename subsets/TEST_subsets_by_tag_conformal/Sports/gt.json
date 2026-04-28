@@ -1,0 +1,1722 @@
+{
+  "annotations": [
+    {
+      "image_id": 1528,
+      "sentence_id": "00007636",
+      "caption": "Two girls are ice-skating at the shopping mall",
+      "id": 7636
+    },
+    {
+      "image_id": 1528,
+      "sentence_id": "00007637",
+      "caption": "the ice skating rink's around full of shops in a big Mall",
+      "id": 7637
+    },
+    {
+      "image_id": 1528,
+      "sentence_id": "00007638",
+      "caption": "all the people on the ice rink are girls not even a boy is skating",
+      "id": 7638
+    },
+    {
+      "image_id": 1528,
+      "sentence_id": "00007639",
+      "caption": "people are ice-skating at shopping mall",
+      "id": 7639
+    },
+    {
+      "image_id": 1528,
+      "sentence_id": "00007640",
+      "caption": "Some girls and boys are ice skating at the shopping mall.",
+      "id": 7640
+    },
+    {
+      "image_id": 47495,
+      "sentence_id": "00237251",
+      "caption": "street basketball court is being protected by steel net row",
+      "id": 237251
+    },
+    {
+      "image_id": 47495,
+      "sentence_id": "00237252",
+      "caption": "Trees are planted behind the iron wires.",
+      "id": 237252
+    },
+    {
+      "image_id": 47495,
+      "sentence_id": "00237253",
+      "caption": "writings on the rim on the field",
+      "id": 237253
+    },
+    {
+      "image_id": 47495,
+      "sentence_id": "00237254",
+      "caption": "a basketball hoop is taken from below",
+      "id": 237254
+    },
+    {
+      "image_id": 47495,
+      "sentence_id": "00237255",
+      "caption": "the basketball hoop is standing in the court",
+      "id": 237255
+    },
+    {
+      "image_id": 44797,
+      "sentence_id": "00223771",
+      "caption": "inside of bowling salloon is shot while being played",
+      "id": 223771
+    },
+    {
+      "image_id": 44797,
+      "sentence_id": "00223772",
+      "caption": "bowling pins are line up in background",
+      "id": 223772
+    },
+    {
+      "image_id": 44797,
+      "sentence_id": "00223773",
+      "caption": "game score on screen suspended from ceiling in bowling alley",
+      "id": 223773
+    },
+    {
+      "image_id": 44797,
+      "sentence_id": "00223774",
+      "caption": "a bowling saloon with a huge screen",
+      "id": 223774
+    },
+    {
+      "image_id": 44797,
+      "sentence_id": "00223775",
+      "caption": "a tv showing the scores hanged on the ceiling of a bowling hall",
+      "id": 223775
+    },
+    {
+      "image_id": 5245,
+      "sentence_id": "00026221",
+      "caption": "A shopping mall is built on the hills by the road.",
+      "id": 26221
+    },
+    {
+      "image_id": 5245,
+      "sentence_id": "00026222",
+      "caption": "A tall building is rising into the sky at the background of the view",
+      "id": 26222
+    },
+    {
+      "image_id": 5245,
+      "sentence_id": "00026223",
+      "caption": "a few trees are rising into sky from garden at background",
+      "id": 26223
+    },
+    {
+      "image_id": 5245,
+      "sentence_id": "00026224",
+      "caption": "A traffic sign on the roadside weeds is under the street light",
+      "id": 26224
+    },
+    {
+      "image_id": 5245,
+      "sentence_id": "00026225",
+      "caption": "men in team uniforms are crossing and behind the big stadium",
+      "id": 26225
+    },
+    {
+      "image_id": 27899,
+      "sentence_id": "00139306",
+      "caption": "large chess board is made on grass at front side",
+      "id": 139306
+    },
+    {
+      "image_id": 27899,
+      "sentence_id": "00139307",
+      "caption": "a chess board in size of people on the ground",
+      "id": 139307
+    },
+    {
+      "image_id": 27899,
+      "sentence_id": "00139308",
+      "caption": "a huge chess board with its pieces is in the park",
+      "id": 139308
+    },
+    {
+      "image_id": 27899,
+      "sentence_id": "00139309",
+      "caption": "Lots of pine trees rise into the sky in the park",
+      "id": 139309
+    },
+    {
+      "image_id": 27899,
+      "sentence_id": "00139310",
+      "caption": "a big chess set is in the park",
+      "id": 139310
+    },
+    {
+      "image_id": 20967,
+      "sentence_id": "00104651",
+      "caption": "The sports gym is field across a single tree is surrounded by round seats",
+      "id": 104651
+    },
+    {
+      "image_id": 20967,
+      "sentence_id": "00104652",
+      "caption": "A sitting circled shaped bench is around a long tree",
+      "id": 104652
+    },
+    {
+      "image_id": 20967,
+      "sentence_id": "00104653",
+      "caption": "a tree is located near the tennis court",
+      "id": 104653
+    },
+    {
+      "image_id": 20967,
+      "sentence_id": "00104654",
+      "caption": "Partly cloudy sky is covering the top of the background of the view",
+      "id": 104654
+    },
+    {
+      "image_id": 20967,
+      "sentence_id": "00104655",
+      "caption": "two women are sitting on the concrete bench at left background",
+      "id": 104655
+    },
+    {
+      "image_id": 22612,
+      "sentence_id": "00112876",
+      "caption": "Balls on a pool table during play",
+      "id": 112876
+    },
+    {
+      "image_id": 22612,
+      "sentence_id": "00112877",
+      "caption": "a game that is played with a cue which is used to strike billiard ball",
+      "id": 112877
+    },
+    {
+      "image_id": 22612,
+      "sentence_id": "00112878",
+      "caption": "a mirror is hung on wall of billiards game store",
+      "id": 112878
+    },
+    {
+      "image_id": 22612,
+      "sentence_id": "00112879",
+      "caption": "billiard balls are on the table",
+      "id": 112879
+    },
+    {
+      "image_id": 22612,
+      "sentence_id": "00112880",
+      "caption": "people are playing billiard in a cafe",
+      "id": 112880
+    },
+    {
+      "image_id": 48974,
+      "sentence_id": "00244646",
+      "caption": "A couple of people standing at a tennis court with some trees in the background",
+      "id": 244646
+    },
+    {
+      "image_id": 48974,
+      "sentence_id": "00244647",
+      "caption": "A crowd in a sports arena that has palm trees around and the blue sky",
+      "id": 244647
+    },
+    {
+      "image_id": 48974,
+      "sentence_id": "00244648",
+      "caption": "A bunch of people standing at a tennis court",
+      "id": 244648
+    },
+    {
+      "image_id": 48974,
+      "sentence_id": "00244649",
+      "caption": "People are standing in a sports field",
+      "id": 244649
+    },
+    {
+      "image_id": 48974,
+      "sentence_id": "00244650",
+      "caption": "People gathered on the corner of a large field are talking to each other",
+      "id": 244650
+    },
+    {
+      "image_id": 42475,
+      "sentence_id": "00212161",
+      "caption": "People at a football pitch with yellow and blue cones seen behind green fences",
+      "id": 212161
+    },
+    {
+      "image_id": 42475,
+      "sentence_id": "00212162",
+      "caption": "Some people are on the football field behind the green fences",
+      "id": 212162
+    },
+    {
+      "image_id": 42475,
+      "sentence_id": "00212163",
+      "caption": "Some boys and some cones on a football field",
+      "id": 212163
+    },
+    {
+      "image_id": 42475,
+      "sentence_id": "00212164",
+      "caption": "A bunch of kids playing football in a football field",
+      "id": 212164
+    },
+    {
+      "image_id": 42475,
+      "sentence_id": "00212165",
+      "caption": "Kids are playing ball game in a field",
+      "id": 212165
+    },
+    {
+      "image_id": 37187,
+      "sentence_id": "00185721",
+      "caption": "Many people are sitting behind the basketball court",
+      "id": 185721
+    },
+    {
+      "image_id": 37187,
+      "sentence_id": "00185722",
+      "caption": "Many people are on a basketball court",
+      "id": 185722
+    },
+    {
+      "image_id": 37187,
+      "sentence_id": "00185723",
+      "caption": "Some people holding a banner on a basketball court",
+      "id": 185723
+    },
+    {
+      "image_id": 37187,
+      "sentence_id": "00185724",
+      "caption": "A basketball team holding a banner in a basketball court",
+      "id": 185724
+    },
+    {
+      "image_id": 37187,
+      "sentence_id": "00185725",
+      "caption": "Some people holding a black sign plate",
+      "id": 185725
+    },
+    {
+      "image_id": 373,
+      "sentence_id": "00001861",
+      "caption": "So many young people are playing basketball in field.",
+      "id": 1861
+    },
+    {
+      "image_id": 373,
+      "sentence_id": "00001862",
+      "caption": "a goalkeeper is trying to catch the shoot",
+      "id": 1862
+    },
+    {
+      "image_id": 373,
+      "sentence_id": "00001863",
+      "caption": "lamp on the pole is illuminating the field",
+      "id": 1863
+    },
+    {
+      "image_id": 373,
+      "sentence_id": "00001864",
+      "caption": "people are playing basketball at night",
+      "id": 1864
+    },
+    {
+      "image_id": 373,
+      "sentence_id": "00001865",
+      "caption": "The basketball field is surrounded by fences.",
+      "id": 1865
+    },
+    {
+      "image_id": 3729,
+      "sentence_id": "00018641",
+      "caption": "all ground is covered by snow on the top of mountain",
+      "id": 18641
+    },
+    {
+      "image_id": 3729,
+      "sentence_id": "00018642",
+      "caption": "mountain and trees are covered with snow",
+      "id": 18642
+    },
+    {
+      "image_id": 3729,
+      "sentence_id": "00018643",
+      "caption": "Landscape of cable car and snow coated pine trees",
+      "id": 18643
+    },
+    {
+      "image_id": 3729,
+      "sentence_id": "00018644",
+      "caption": "in a snowy landscape people crossing by elevator and enjoying the view",
+      "id": 18644
+    },
+    {
+      "image_id": 3729,
+      "sentence_id": "00018645",
+      "caption": "A couple are taken  on a cable car.",
+      "id": 18645
+    },
+    {
+      "image_id": 10534,
+      "sentence_id": "00052646",
+      "caption": "table tennis area is right in front",
+      "id": 52646
+    },
+    {
+      "image_id": 10534,
+      "sentence_id": "00052647",
+      "caption": "Two people play table tennis with red rackets.",
+      "id": 52647
+    },
+    {
+      "image_id": 10534,
+      "sentence_id": "00052648",
+      "caption": "the color of the rackets that people hold in their hands is red",
+      "id": 52648
+    },
+    {
+      "image_id": 10534,
+      "sentence_id": "00052649",
+      "caption": "many iron chairs are left on the left",
+      "id": 52649
+    },
+    {
+      "image_id": 10534,
+      "sentence_id": "00052650",
+      "caption": "yellow and white curtains are on the right",
+      "id": 52650
+    },
+    {
+      "image_id": 47704,
+      "sentence_id": "00238296",
+      "caption": "a few trees without leaves are standing on front side",
+      "id": 238296
+    },
+    {
+      "image_id": 47704,
+      "sentence_id": "00238297",
+      "caption": "stray dog lies on the concrete floor in the park",
+      "id": 238297
+    },
+    {
+      "image_id": 47704,
+      "sentence_id": "00238298",
+      "caption": "boxing gloves standing on the sports field inside the park",
+      "id": 238298
+    },
+    {
+      "image_id": 47704,
+      "sentence_id": "00238299",
+      "caption": "the boxing gloves are on the table outside",
+      "id": 238299
+    },
+    {
+      "image_id": 47704,
+      "sentence_id": "00238300",
+      "caption": "a dog in front of the tree is sleeping on the ground",
+      "id": 238300
+    },
+    {
+      "image_id": 35057,
+      "sentence_id": "00175071",
+      "caption": "large coast side covered by grass is taken from inside of car",
+      "id": 175071
+    },
+    {
+      "image_id": 35057,
+      "sentence_id": "00175072",
+      "caption": "an electric pole is on the left",
+      "id": 175072
+    },
+    {
+      "image_id": 35057,
+      "sentence_id": "00175073",
+      "caption": "Palm trees on the beach at night taken",
+      "id": 175073
+    },
+    {
+      "image_id": 35057,
+      "sentence_id": "00175074",
+      "caption": "a tram way is taken from inside a car",
+      "id": 175074
+    },
+    {
+      "image_id": 35057,
+      "sentence_id": "00175075",
+      "caption": "large area next to running path is covered by grass",
+      "id": 175075
+    },
+    {
+      "image_id": 31009,
+      "sentence_id": "00154846",
+      "caption": "a lot of people are gathering in basketball pitch to watch the match",
+      "id": 154846
+    },
+    {
+      "image_id": 31009,
+      "sentence_id": "00154847",
+      "caption": "a portrait of a man is between two flags",
+      "id": 154847
+    },
+    {
+      "image_id": 31009,
+      "sentence_id": "00154848",
+      "caption": "two men among the men on the basketball court are standing on one leg",
+      "id": 154848
+    },
+    {
+      "image_id": 31009,
+      "sentence_id": "00154849",
+      "caption": "basketball game is taking place in foreground of the view",
+      "id": 154849
+    },
+    {
+      "image_id": 31009,
+      "sentence_id": "00154850",
+      "caption": "a few gamers are waiting on the basketball court which is full of the viewers",
+      "id": 154850
+    },
+    {
+      "image_id": 48622,
+      "sentence_id": "00242886",
+      "caption": "a single equipment is standing on marble covered surface",
+      "id": 242886
+    },
+    {
+      "image_id": 48622,
+      "sentence_id": "00242887",
+      "caption": "the emergency exit door in background is closed",
+      "id": 242887
+    },
+    {
+      "image_id": 48622,
+      "sentence_id": "00242888",
+      "caption": "multifunctional gym equipment standing on the bottom floor of an apartment building",
+      "id": 242888
+    },
+    {
+      "image_id": 48622,
+      "sentence_id": "00242889",
+      "caption": "a flying machine  is in the gym",
+      "id": 242889
+    },
+    {
+      "image_id": 48622,
+      "sentence_id": "00242890",
+      "caption": "the tool of bodybuilding is standing the gym",
+      "id": 242890
+    },
+    {
+      "image_id": 31544,
+      "sentence_id": "00157516",
+      "caption": "football field is surrounded by metal made fence line",
+      "id": 157516
+    },
+    {
+      "image_id": 31544,
+      "sentence_id": "00157517",
+      "caption": "men are playing football on the field",
+      "id": 157517
+    },
+    {
+      "image_id": 31544,
+      "sentence_id": "00157518",
+      "caption": "three people are in the lawn area covered with wire mesh",
+      "id": 157518
+    },
+    {
+      "image_id": 31544,
+      "sentence_id": "00157519",
+      "caption": "field in foreground of the view is protected by wires.",
+      "id": 157519
+    },
+    {
+      "image_id": 31544,
+      "sentence_id": "00157520",
+      "caption": "a turkish flag is waving behind the football ground",
+      "id": 157520
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170016",
+      "caption": "tv placed over wall at background is showing basketball match",
+      "id": 170016
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170017",
+      "caption": "Different vases are placed on the shelves of the TV stand",
+      "id": 170017
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170018",
+      "caption": "coffee table into each other is placed near tv at right edge",
+      "id": 170018
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170019",
+      "caption": "a tv is in front of wall in a living room",
+      "id": 170019
+    },
+    {
+      "image_id": 34044,
+      "sentence_id": "00170020",
+      "caption": "television in foreground of area hangs on the wall.",
+      "id": 170020
+    },
+    {
+      "image_id": 40860,
+      "sentence_id": "00204086",
+      "caption": "Some red and blue chairs in front of a green open field",
+      "id": 204086
+    },
+    {
+      "image_id": 40860,
+      "sentence_id": "00204087",
+      "caption": "A lot of red and blue chairs in front of the green field",
+      "id": 204087
+    },
+    {
+      "image_id": 40860,
+      "sentence_id": "00204088",
+      "caption": "A lot of empty seats on a tribune",
+      "id": 204088
+    },
+    {
+      "image_id": 40860,
+      "sentence_id": "00204089",
+      "caption": "A lot of chairs on a tribune under a cloudy sky",
+      "id": 204089
+    },
+    {
+      "image_id": 40860,
+      "sentence_id": "00204090",
+      "caption": "The view of empty tribunes in an area",
+      "id": 204090
+    },
+    {
+      "image_id": 2187,
+      "sentence_id": "00010931",
+      "caption": "teenagers are playing basketball in hoops",
+      "id": 10931
+    },
+    {
+      "image_id": 2187,
+      "sentence_id": "00010932",
+      "caption": "A basketball court is near the wooden walking trails",
+      "id": 10932
+    },
+    {
+      "image_id": 2187,
+      "sentence_id": "00010933",
+      "caption": "people are playing basketball on the court",
+      "id": 10933
+    },
+    {
+      "image_id": 2187,
+      "sentence_id": "00010934",
+      "caption": "Street lights are on at night.",
+      "id": 10934
+    },
+    {
+      "image_id": 2187,
+      "sentence_id": "00010935",
+      "caption": "pavement is made of wood in middle of grass",
+      "id": 10935
+    },
+    {
+      "image_id": 32061,
+      "sentence_id": "00160101",
+      "caption": "two apartments behind the football field",
+      "id": 160101
+    },
+    {
+      "image_id": 32061,
+      "sentence_id": "00160102",
+      "caption": "Empty football pitch surrounded iron fence",
+      "id": 160102
+    },
+    {
+      "image_id": 32061,
+      "sentence_id": "00160103",
+      "caption": "a football field with grassy ground",
+      "id": 160103
+    },
+    {
+      "image_id": 32061,
+      "sentence_id": "00160104",
+      "caption": "two apartments are at the background",
+      "id": 160104
+    },
+    {
+      "image_id": 32061,
+      "sentence_id": "00160105",
+      "caption": "the soccer turf is covered with wire mesh except for ground",
+      "id": 160105
+    },
+    {
+      "image_id": 14191,
+      "sentence_id": "00070796",
+      "caption": "View of empty stadium without any spectators",
+      "id": 70796
+    },
+    {
+      "image_id": 14191,
+      "sentence_id": "00070797",
+      "caption": "a stadium is taken  from outside",
+      "id": 70797
+    },
+    {
+      "image_id": 14191,
+      "sentence_id": "00070798",
+      "caption": "football field ahead and seating on the right",
+      "id": 70798
+    },
+    {
+      "image_id": 14191,
+      "sentence_id": "00070799",
+      "caption": "a small area at front side is partly covered grass and bushes",
+      "id": 70799
+    },
+    {
+      "image_id": 14191,
+      "sentence_id": "00070800",
+      "caption": "Clear sky is covering the half of the background of the view",
+      "id": 70800
+    },
+    {
+      "image_id": 18800,
+      "sentence_id": "00093816",
+      "caption": "the wire mesh attached to the green pole is just in front",
+      "id": 93816
+    },
+    {
+      "image_id": 18800,
+      "sentence_id": "00093817",
+      "caption": "green carpet pitch is inside wire fences",
+      "id": 93817
+    },
+    {
+      "image_id": 18800,
+      "sentence_id": "00093818",
+      "caption": "a few people dressed in jerseys are on the AstroTurf",
+      "id": 93818
+    },
+    {
+      "image_id": 18800,
+      "sentence_id": "00093819",
+      "caption": "the goal of the field is opposite the people playing football",
+      "id": 93819
+    },
+    {
+      "image_id": 18800,
+      "sentence_id": "00093820",
+      "caption": "Many buildings are lined up on the hill at the back right.",
+      "id": 93820
+    },
+    {
+      "image_id": 17118,
+      "sentence_id": "00085431",
+      "caption": "an indoor basketball court is photoed.",
+      "id": 85431
+    },
+    {
+      "image_id": 17118,
+      "sentence_id": "00085432",
+      "caption": "multiple people are visible on the court.",
+      "id": 85432
+    },
+    {
+      "image_id": 17118,
+      "sentence_id": "00085433",
+      "caption": "blue colored seats are visible in the background.",
+      "id": 85433
+    },
+    {
+      "image_id": 17118,
+      "sentence_id": "00085434",
+      "caption": "a volleyball net is located on the right.",
+      "id": 85434
+    },
+    {
+      "image_id": 17118,
+      "sentence_id": "00085435",
+      "caption": "the ground of the basketball court is brown and blue.",
+      "id": 85435
+    },
+    {
+      "image_id": 40048,
+      "sentence_id": "00200026",
+      "caption": "A couple of people ice skating on an ice field",
+      "id": 200026
+    },
+    {
+      "image_id": 40048,
+      "sentence_id": "00200027",
+      "caption": "Some people are ice-skating in an ice-skating area",
+      "id": 200027
+    },
+    {
+      "image_id": 40048,
+      "sentence_id": "00200028",
+      "caption": "An ice skating rink with people ice skating",
+      "id": 200028
+    },
+    {
+      "image_id": 40048,
+      "sentence_id": "00200029",
+      "caption": "An ice skating rink with multiple triangle shaped ceiling",
+      "id": 200029
+    },
+    {
+      "image_id": 40048,
+      "sentence_id": "00200030",
+      "caption": "Children are ice skating in an ice rink",
+      "id": 200030
+    },
+    {
+      "image_id": 46593,
+      "sentence_id": "00232746",
+      "caption": "group of fans are watching match seating area of court",
+      "id": 232746
+    },
+    {
+      "image_id": 46593,
+      "sentence_id": "00232747",
+      "caption": "woman under the hoop is holding a volleyball ball.",
+      "id": 232747
+    },
+    {
+      "image_id": 46593,
+      "sentence_id": "00232748",
+      "caption": "men watching women playing indoor volleyball",
+      "id": 232748
+    },
+    {
+      "image_id": 46593,
+      "sentence_id": "00232749",
+      "caption": "the digital screen showing the score is on the wall",
+      "id": 232749
+    },
+    {
+      "image_id": 46593,
+      "sentence_id": "00232750",
+      "caption": "several supporters are in volleyball court",
+      "id": 232750
+    },
+    {
+      "image_id": 34745,
+      "sentence_id": "00173516",
+      "caption": "football field laying at front side is covered by snow flake",
+      "id": 173516
+    },
+    {
+      "image_id": 34745,
+      "sentence_id": "00173517",
+      "caption": "Due to the snowfall the carpet field is covered with snow",
+      "id": 173517
+    },
+    {
+      "image_id": 34745,
+      "sentence_id": "00173518",
+      "caption": "football field laying at front side is surrounded by steel made fence",
+      "id": 173518
+    },
+    {
+      "image_id": 34745,
+      "sentence_id": "00173519",
+      "caption": "ground of a football field is covered by snow at night",
+      "id": 173519
+    },
+    {
+      "image_id": 34745,
+      "sentence_id": "00173520",
+      "caption": "carpet pitch in foreground of area is covered with snow.",
+      "id": 173520
+    },
+    {
+      "image_id": 34832,
+      "sentence_id": "00173951",
+      "caption": "sheep is eating grass under trees on large field",
+      "id": 173951
+    },
+    {
+      "image_id": 34832,
+      "sentence_id": "00173952",
+      "caption": "a kick boxs sand bag is outside",
+      "id": 173952
+    },
+    {
+      "image_id": 34832,
+      "sentence_id": "00173953",
+      "caption": "A punching bag hung in the middle of a garden",
+      "id": 173953
+    },
+    {
+      "image_id": 34832,
+      "sentence_id": "00173954",
+      "caption": "some sheeps are behind the palm trees",
+      "id": 173954
+    },
+    {
+      "image_id": 34832,
+      "sentence_id": "00173955",
+      "caption": "two thin and tall palm trees are rising among other short ones",
+      "id": 173955
+    },
+    {
+      "image_id": 37626,
+      "sentence_id": "00187916",
+      "caption": "Some people are standing on the football pitch",
+      "id": 187916
+    },
+    {
+      "image_id": 37626,
+      "sentence_id": "00187917",
+      "caption": "Some people are standing side-by-side on the football field",
+      "id": 187917
+    },
+    {
+      "image_id": 37626,
+      "sentence_id": "00187918",
+      "caption": "A few men standing next to each other",
+      "id": 187918
+    },
+    {
+      "image_id": 37626,
+      "sentence_id": "00187919",
+      "caption": "Some men standing in a group",
+      "id": 187919
+    },
+    {
+      "image_id": 37626,
+      "sentence_id": "00187920",
+      "caption": "Four people have the golden medal",
+      "id": 187920
+    },
+    {
+      "image_id": 45412,
+      "sentence_id": "00226846",
+      "caption": "football pitch is laying on side of area under sun",
+      "id": 226846
+    },
+    {
+      "image_id": 45412,
+      "sentence_id": "00226847",
+      "caption": "Turkish flag hangs on wall of public building",
+      "id": 226847
+    },
+    {
+      "image_id": 45412,
+      "sentence_id": "00226848",
+      "caption": "running area next to the football field",
+      "id": 226848
+    },
+    {
+      "image_id": 45412,
+      "sentence_id": "00226849",
+      "caption": "a jogging track is near the basketball court",
+      "id": 226849
+    },
+    {
+      "image_id": 45412,
+      "sentence_id": "00226850",
+      "caption": "a turkish flag is waving on the wall of building",
+      "id": 226850
+    },
+    {
+      "image_id": 28020,
+      "sentence_id": "00139911",
+      "caption": "two towery buildings are standing among houses at far background",
+      "id": 139911
+    },
+    {
+      "image_id": 28020,
+      "sentence_id": "00139912",
+      "caption": "soccer field is in front lots of buildings",
+      "id": 139912
+    },
+    {
+      "image_id": 28020,
+      "sentence_id": "00139913",
+      "caption": "a football field is taken  from afar",
+      "id": 139913
+    },
+    {
+      "image_id": 28020,
+      "sentence_id": "00139914",
+      "caption": "View of football pitch with two goal posts",
+      "id": 139914
+    },
+    {
+      "image_id": 28020,
+      "sentence_id": "00139915",
+      "caption": "a big soccer field is in front of the houses",
+      "id": 139915
+    },
+    {
+      "image_id": 7244,
+      "sentence_id": "00036216",
+      "caption": "entrance of luxury building is being hidden by steel fence",
+      "id": 36216
+    },
+    {
+      "image_id": 7244,
+      "sentence_id": "00036217",
+      "caption": "Tactile paving for visually impaired is along the pavement",
+      "id": 36217
+    },
+    {
+      "image_id": 7244,
+      "sentence_id": "00036218",
+      "caption": "The sun is shining between the leafs",
+      "id": 36218
+    },
+    {
+      "image_id": 7244,
+      "sentence_id": "00036219",
+      "caption": "A turkish football flag hanged on a road to attract supporters",
+      "id": 36219
+    },
+    {
+      "image_id": 7244,
+      "sentence_id": "00036220",
+      "caption": "flag of Turkish football team is hung between tree and door",
+      "id": 36220
+    },
+    {
+      "image_id": 12926,
+      "sentence_id": "00064521",
+      "caption": "red green two big trash cans are opposite",
+      "id": 64521
+    },
+    {
+      "image_id": 12926,
+      "sentence_id": "00064522",
+      "caption": "The area with many basketball hoops is at the back.",
+      "id": 64522
+    },
+    {
+      "image_id": 12926,
+      "sentence_id": "00064523",
+      "caption": "The area where the crucibles are is surrounded by white wire mesh.",
+      "id": 64523
+    },
+    {
+      "image_id": 12926,
+      "sentence_id": "00064524",
+      "caption": "several tall streetlights illuminate the inside of the fence",
+      "id": 64524
+    },
+    {
+      "image_id": 12926,
+      "sentence_id": "00064525",
+      "caption": "zein made of small tiles is on the front",
+      "id": 64525
+    },
+    {
+      "image_id": 29842,
+      "sentence_id": "00149011",
+      "caption": "ceiling of tent is taken from bottom to top from inside",
+      "id": 149011
+    },
+    {
+      "image_id": 29842,
+      "sentence_id": "00149012",
+      "caption": "different countries flags are on ceiling",
+      "id": 149012
+    },
+    {
+      "image_id": 29842,
+      "sentence_id": "00149013",
+      "caption": "Chandelier with diamond is hanged on a ceiling",
+      "id": 149013
+    },
+    {
+      "image_id": 29842,
+      "sentence_id": "00149014",
+      "caption": "various country flags hanging from the ceiling",
+      "id": 149014
+    },
+    {
+      "image_id": 29842,
+      "sentence_id": "00149015",
+      "caption": "all Turkic flags are hanging from the ceiling of the nomadic tent",
+      "id": 149015
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251101",
+      "caption": "Some kids with green vests standing with two men with police vests",
+      "id": 251101
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251102",
+      "caption": "Many kids with vests and other people are standing beside a train",
+      "id": 251102
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251103",
+      "caption": "Two police officers standing behind some kids",
+      "id": 251103
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251104",
+      "caption": "Two police men and a bunch of kids with neon vests are standing",
+      "id": 251104
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251105",
+      "caption": "Two policemen behind children wearing neon vests",
+      "id": 251105
+    },
+    {
+      "image_id": 29000,
+      "sentence_id": "00144811",
+      "caption": "two teams are playing football on field at bottom side",
+      "id": 144811
+    },
+    {
+      "image_id": 29000,
+      "sentence_id": "00144812",
+      "caption": "lots of people are watching soccer game",
+      "id": 144812
+    },
+    {
+      "image_id": 29000,
+      "sentence_id": "00144813",
+      "caption": "A lots of sport fan is watching a football match",
+      "id": 144813
+    },
+    {
+      "image_id": 29000,
+      "sentence_id": "00144814",
+      "caption": "the stands are  on the football field",
+      "id": 144814
+    },
+    {
+      "image_id": 29000,
+      "sentence_id": "00144815",
+      "caption": "footballers are playing soccer in the stadium among audience",
+      "id": 144815
+    },
+    {
+      "image_id": 5916,
+      "sentence_id": "00029576",
+      "caption": "So many people are watching the football match at the stadium.",
+      "id": 29576
+    },
+    {
+      "image_id": 5916,
+      "sentence_id": "00029577",
+      "caption": "lots of men are watching football match",
+      "id": 29577
+    },
+    {
+      "image_id": 5916,
+      "sentence_id": "00029578",
+      "caption": "two football teams are on competition on pitch at background",
+      "id": 29578
+    },
+    {
+      "image_id": 5916,
+      "sentence_id": "00029579",
+      "caption": "Lots of football fans watching the match by standing or sitting in stadium",
+      "id": 29579
+    },
+    {
+      "image_id": 5916,
+      "sentence_id": "00029580",
+      "caption": "fans fill seats sporadically and almost no one in opposite tribune",
+      "id": 29580
+    },
+    {
+      "image_id": 48136,
+      "sentence_id": "00240456",
+      "caption": "lots of trees are standing on park behind basketball court",
+      "id": 240456
+    },
+    {
+      "image_id": 48136,
+      "sentence_id": "00240457",
+      "caption": "trees are planted behind the basketball hoop.",
+      "id": 240457
+    },
+    {
+      "image_id": 48136,
+      "sentence_id": "00240458",
+      "caption": "Water pooled next to the hoop on the basketball court",
+      "id": 240458
+    },
+    {
+      "image_id": 48136,
+      "sentence_id": "00240459",
+      "caption": "a basketball court  with trees around it",
+      "id": 240459
+    },
+    {
+      "image_id": 48136,
+      "sentence_id": "00240460",
+      "caption": "lots of trees are standing behind the basketball court",
+      "id": 240460
+    },
+    {
+      "image_id": 42180,
+      "sentence_id": "00210686",
+      "caption": "A diver in front of some seaweed under the water",
+      "id": 210686
+    },
+    {
+      "image_id": 42180,
+      "sentence_id": "00210687",
+      "caption": "A diver and some plants are under the water",
+      "id": 210687
+    },
+    {
+      "image_id": 42180,
+      "sentence_id": "00210688",
+      "caption": "A diver with a red and black diving suit underwater",
+      "id": 210688
+    },
+    {
+      "image_id": 42180,
+      "sentence_id": "00210689",
+      "caption": "A view of a diver under the water",
+      "id": 210689
+    },
+    {
+      "image_id": 42180,
+      "sentence_id": "00210690",
+      "caption": "A diver is under the sea",
+      "id": 210690
+    },
+    {
+      "image_id": 6976,
+      "sentence_id": "00034876",
+      "caption": "Young boys are diving into the pool.",
+      "id": 34876
+    },
+    {
+      "image_id": 6976,
+      "sentence_id": "00034877",
+      "caption": "Three boys are about to jump into the pool.",
+      "id": 34877
+    },
+    {
+      "image_id": 6976,
+      "sentence_id": "00034878",
+      "caption": "Lots of trees are growing next to each other at the background",
+      "id": 34878
+    },
+    {
+      "image_id": 6976,
+      "sentence_id": "00034879",
+      "caption": "Kids are having fun at a water park",
+      "id": 34879
+    },
+    {
+      "image_id": 6976,
+      "sentence_id": "00034880",
+      "caption": "young men are waiting on queue to jump into pool on sunny day",
+      "id": 34880
+    },
+    {
+      "image_id": 40383,
+      "sentence_id": "00201701",
+      "caption": "People with white shirts holding colourful pieces of cloth on a green field",
+      "id": 201701
+    },
+    {
+      "image_id": 40383,
+      "sentence_id": "00201702",
+      "caption": "Many kids with special clothes are dancing in the green field",
+      "id": 201702
+    },
+    {
+      "image_id": 40383,
+      "sentence_id": "00201703",
+      "caption": "Some children are dancing on a football field",
+      "id": 201703
+    },
+    {
+      "image_id": 40383,
+      "sentence_id": "00201704",
+      "caption": "Many children are standing on a green field",
+      "id": 201704
+    },
+    {
+      "image_id": 40383,
+      "sentence_id": "00201705",
+      "caption": "Children holding colorful items in hand",
+      "id": 201705
+    },
+    {
+      "image_id": 12359,
+      "sentence_id": "00061756",
+      "caption": "the tribune where many people sit is on the opposite side",
+      "id": 61756
+    },
+    {
+      "image_id": 12359,
+      "sentence_id": "00061757",
+      "caption": "posters with inscriptions were hung in the stands",
+      "id": 61757
+    },
+    {
+      "image_id": 12359,
+      "sentence_id": "00061758",
+      "caption": "many players are on the field",
+      "id": 61758
+    },
+    {
+      "image_id": 12359,
+      "sentence_id": "00061759",
+      "caption": "the bench and the technical team remained on the right side of the pitch.",
+      "id": 61759
+    },
+    {
+      "image_id": 12359,
+      "sentence_id": "00061760",
+      "caption": "players move in front of the goal",
+      "id": 61760
+    },
+    {
+      "image_id": 7345,
+      "sentence_id": "00036721",
+      "caption": "A mostly-male spectator group taken  at a football match",
+      "id": 36721
+    },
+    {
+      "image_id": 7345,
+      "sentence_id": "00036722",
+      "caption": "Crowd of football fans watching the match at the stadium",
+      "id": 36722
+    },
+    {
+      "image_id": 7345,
+      "sentence_id": "00036723",
+      "caption": "A man is looking at the camera at the bottom of the view",
+      "id": 36723
+    },
+    {
+      "image_id": 7345,
+      "sentence_id": "00036724",
+      "caption": "some fans are discussing while waitingd for the beginning of the match",
+      "id": 36724
+    },
+    {
+      "image_id": 7345,
+      "sentence_id": "00036725",
+      "caption": "group of football players are warming up on pitch at night",
+      "id": 36725
+    },
+    {
+      "image_id": 37500,
+      "sentence_id": "00187286",
+      "caption": "A kid with a black t-shirt is playing football",
+      "id": 187286
+    },
+    {
+      "image_id": 37500,
+      "sentence_id": "00187287",
+      "caption": "A kid is playing on the football field",
+      "id": 187287
+    },
+    {
+      "image_id": 37500,
+      "sentence_id": "00187288",
+      "caption": "Some cones and a boy with a football on a football field",
+      "id": 187288
+    },
+    {
+      "image_id": 37500,
+      "sentence_id": "00187289",
+      "caption": "Four cones and a boy with a ball on a football field",
+      "id": 187289
+    },
+    {
+      "image_id": 37500,
+      "sentence_id": "00187290",
+      "caption": "A boy is playing football on a court",
+      "id": 187290
+    },
+    {
+      "image_id": 21307,
+      "sentence_id": "00106351",
+      "caption": "street tennis court is taken at night from front side",
+      "id": 106351
+    },
+    {
+      "image_id": 21307,
+      "sentence_id": "00106352",
+      "caption": "Two wooden benches are next to a basketball court",
+      "id": 106352
+    },
+    {
+      "image_id": 21307,
+      "sentence_id": "00106353",
+      "caption": "tripping trail is laying at front bottom side at night",
+      "id": 106353
+    },
+    {
+      "image_id": 21307,
+      "sentence_id": "00106354",
+      "caption": "Grassy area is located at the left side of the view",
+      "id": 106354
+    },
+    {
+      "image_id": 21307,
+      "sentence_id": "00106355",
+      "caption": "sports courts are covered the left background at night",
+      "id": 106355
+    },
+    {
+      "image_id": 23513,
+      "sentence_id": "00117381",
+      "caption": "Two teams are playing football in the large stadium",
+      "id": 117381
+    },
+    {
+      "image_id": 23513,
+      "sentence_id": "00117382",
+      "caption": "football match is being played in the stadium",
+      "id": 117382
+    },
+    {
+      "image_id": 23513,
+      "sentence_id": "00117383",
+      "caption": "players playing matches on the football field",
+      "id": 117383
+    },
+    {
+      "image_id": 23513,
+      "sentence_id": "00117384",
+      "caption": "people are sitting and watching football game",
+      "id": 117384
+    },
+    {
+      "image_id": 23513,
+      "sentence_id": "00117385",
+      "caption": "men are playing football on sunny day",
+      "id": 117385
+    },
+    {
+      "image_id": 21698,
+      "sentence_id": "00108306",
+      "caption": "small rectangular shape rug is placed on wooden surface at left background",
+      "id": 108306
+    },
+    {
+      "image_id": 21698,
+      "sentence_id": "00108307",
+      "caption": "Some weights are on a carpet in a room",
+      "id": 108307
+    },
+    {
+      "image_id": 21698,
+      "sentence_id": "00108308",
+      "caption": "newly purchased sports equipment are scattered around room's surface",
+      "id": 108308
+    },
+    {
+      "image_id": 21698,
+      "sentence_id": "00108309",
+      "caption": "Surface of the ground is covered by wooden tiles",
+      "id": 108309
+    },
+    {
+      "image_id": 21698,
+      "sentence_id": "00108310",
+      "caption": "a sofa is located on wooden surface at left edge",
+      "id": 108310
+    },
+    {
+      "image_id": 37595,
+      "sentence_id": "00187761",
+      "caption": "A lot of children are playing football",
+      "id": 187761
+    },
+    {
+      "image_id": 37595,
+      "sentence_id": "00187762",
+      "caption": "Some people are on the football field",
+      "id": 187762
+    },
+    {
+      "image_id": 37595,
+      "sentence_id": "00187763",
+      "caption": "Some boys on a football field",
+      "id": 187763
+    },
+    {
+      "image_id": 37595,
+      "sentence_id": "00187764",
+      "caption": "Some boys playing football on a field",
+      "id": 187764
+    },
+    {
+      "image_id": 37595,
+      "sentence_id": "00187765",
+      "caption": "Some children play football at the turf",
+      "id": 187765
+    },
+    {
+      "image_id": 28353,
+      "sentence_id": "00141576",
+      "caption": "football court at background is being protected by iron made fence line",
+      "id": 141576
+    },
+    {
+      "image_id": 28353,
+      "sentence_id": "00141577",
+      "caption": "a soccer field behind the iron wires",
+      "id": 141577
+    },
+    {
+      "image_id": 28353,
+      "sentence_id": "00141578",
+      "caption": "someone is in the football field at night",
+      "id": 141578
+    },
+    {
+      "image_id": 28353,
+      "sentence_id": "00141579",
+      "caption": "Two trees grow in front of the iron fence",
+      "id": 141579
+    },
+    {
+      "image_id": 28353,
+      "sentence_id": "00141580",
+      "caption": "a lamppost is shining over the soccer turf at night",
+      "id": 141580
+    },
+    {
+      "image_id": 2938,
+      "sentence_id": "00014686",
+      "caption": "some teenagers are playing basketball in the sports area",
+      "id": 14686
+    },
+    {
+      "image_id": 2938,
+      "sentence_id": "00014687",
+      "caption": "people are sitting on grassy area near the hoop",
+      "id": 14687
+    },
+    {
+      "image_id": 2938,
+      "sentence_id": "00014688",
+      "caption": "people are playing basketball and some people are watching them at night",
+      "id": 14688
+    },
+    {
+      "image_id": 2938,
+      "sentence_id": "00014689",
+      "caption": "Men and women sitting on chairs and standing on the grass",
+      "id": 14689
+    },
+    {
+      "image_id": 2938,
+      "sentence_id": "00014690",
+      "caption": "People are playing basketball at the field near the seaside.",
+      "id": 14690
+    },
+    {
+      "image_id": 35773,
+      "sentence_id": "00178651",
+      "caption": "two tennis courts are placed next to each other at front side",
+      "id": 178651
+    },
+    {
+      "image_id": 35773,
+      "sentence_id": "00178652",
+      "caption": "a tennis racket and a ball is on top of each other",
+      "id": 178652
+    },
+    {
+      "image_id": 35773,
+      "sentence_id": "00178653",
+      "caption": "Ball left on a racket on a tennis court",
+      "id": 178653
+    },
+    {
+      "image_id": 35773,
+      "sentence_id": "00178654",
+      "caption": "two tennis courts are next to each other",
+      "id": 178654
+    },
+    {
+      "image_id": 35773,
+      "sentence_id": "00178655",
+      "caption": "two tennis courts are divided into twice by steel made fence",
+      "id": 178655
+    }
+  ],
+  "images": [
+    {
+      "id": 373
+    },
+    {
+      "id": 1528
+    },
+    {
+      "id": 2187
+    },
+    {
+      "id": 2938
+    },
+    {
+      "id": 3729
+    },
+    {
+      "id": 5245
+    },
+    {
+      "id": 5916
+    },
+    {
+      "id": 6976
+    },
+    {
+      "id": 7244
+    },
+    {
+      "id": 7345
+    },
+    {
+      "id": 10534
+    },
+    {
+      "id": 12359
+    },
+    {
+      "id": 12926
+    },
+    {
+      "id": 14191
+    },
+    {
+      "id": 17118
+    },
+    {
+      "id": 18800
+    },
+    {
+      "id": 20967
+    },
+    {
+      "id": 21307
+    },
+    {
+      "id": 21698
+    },
+    {
+      "id": 22612
+    },
+    {
+      "id": 23513
+    },
+    {
+      "id": 27899
+    },
+    {
+      "id": 28020
+    },
+    {
+      "id": 28353
+    },
+    {
+      "id": 29000
+    },
+    {
+      "id": 29842
+    },
+    {
+      "id": 31009
+    },
+    {
+      "id": 31544
+    },
+    {
+      "id": 32061
+    },
+    {
+      "id": 34044
+    },
+    {
+      "id": 34745
+    },
+    {
+      "id": 34832
+    },
+    {
+      "id": 35057
+    },
+    {
+      "id": 35773
+    },
+    {
+      "id": 37187
+    },
+    {
+      "id": 37500
+    },
+    {
+      "id": 37595
+    },
+    {
+      "id": 37626
+    },
+    {
+      "id": 40048
+    },
+    {
+      "id": 40383
+    },
+    {
+      "id": 40860
+    },
+    {
+      "id": 42180
+    },
+    {
+      "id": 42475
+    },
+    {
+      "id": 44797
+    },
+    {
+      "id": 45412
+    },
+    {
+      "id": 46593
+    },
+    {
+      "id": 47495
+    },
+    {
+      "id": 47704
+    },
+    {
+      "id": 48136
+    },
+    {
+      "id": 48622
+    },
+    {
+      "id": 48974
+    },
+    {
+      "id": 50265
+    }
+  ]
+}

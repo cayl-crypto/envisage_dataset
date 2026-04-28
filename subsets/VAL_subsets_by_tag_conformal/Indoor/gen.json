@@ -1,0 +1,5422 @@
+[
+  {
+    "image_id": 22,
+    "caption": "a cat is sitting on the tv unit"
+  },
+  {
+    "image_id": 75,
+    "caption": "a toy car is in front of the window"
+  },
+  {
+    "image_id": 80,
+    "caption": "bride and groom are sitting in the wedding hall"
+  },
+  {
+    "image_id": 94,
+    "caption": "a little boy is sleeping on the couch"
+  },
+  {
+    "image_id": 125,
+    "caption": "three women are sitting on the bed"
+  },
+  {
+    "image_id": 145,
+    "caption": "the entrance of a building is covered with glass"
+  },
+  {
+    "image_id": 155,
+    "caption": "some people are sitting at the table in the restaurant"
+  },
+  {
+    "image_id": 191,
+    "caption": "an old woman is sitting on the chair in the office"
+  },
+  {
+    "image_id": 198,
+    "caption": "a book is on the table in front of the desk"
+  },
+  {
+    "image_id": 355,
+    "caption": "the paintings are hung on the stone wall"
+  },
+  {
+    "image_id": 405,
+    "caption": "a little boy is eating his birthday cake"
+  },
+  {
+    "image_id": 447,
+    "caption": "a chandelier is hanging from the ceiling"
+  },
+  {
+    "image_id": 457,
+    "caption": "a baby is lying on the quilt"
+  },
+  {
+    "image_id": 460,
+    "caption": "a pan is on the table in the kitchen"
+  },
+  {
+    "image_id": 564,
+    "caption": "a little girl is lying on the hospital bed"
+  },
+  {
+    "image_id": 582,
+    "caption": "a man is standing in front of the car"
+  },
+  {
+    "image_id": 583,
+    "caption": "a painting is on the wall"
+  },
+  {
+    "image_id": 593,
+    "caption": "two leather bags are placed on the bed"
+  },
+  {
+    "image_id": 703,
+    "caption": "an armchair is in front of the radiator"
+  },
+  {
+    "image_id": 717,
+    "caption": "a man is sitting on the chair and playing guitar"
+  },
+  {
+    "image_id": 773,
+    "caption": "several people are sitting on the ground in front of the paintings"
+  },
+  {
+    "image_id": 803,
+    "caption": "a bottle of water is on the right side of the stand"
+  },
+  {
+    "image_id": 861,
+    "caption": "two frames are hung on the wall"
+  },
+  {
+    "image_id": 1019,
+    "caption": "a white paper box is photoed in a classroom"
+  },
+  {
+    "image_id": 1061,
+    "caption": "a woman is standing in front of the newspaper stand"
+  },
+  {
+    "image_id": 1067,
+    "caption": "a tomb is standing in front of the wall"
+  },
+  {
+    "image_id": 1096,
+    "caption": "a woman with glasses is holding a baby"
+  },
+  {
+    "image_id": 1113,
+    "caption": "a man is standing in front of the car"
+  },
+  {
+    "image_id": 1118,
+    "caption": "a little girl is sitting in the stroller"
+  },
+  {
+    "image_id": 1139,
+    "caption": "lots of people are visiting the museum"
+  },
+  {
+    "image_id": 1208,
+    "caption": "a dog is lying on the ground in front of the clothes"
+  },
+  {
+    "image_id": 1256,
+    "caption": "a trash can is on the left side of the stairs"
+  },
+  {
+    "image_id": 1258,
+    "caption": "lots of desks and chairs are in the classroom"
+  },
+  {
+    "image_id": 1308,
+    "caption": "a girl is looking at herself in the mirror"
+  },
+  {
+    "image_id": 1319,
+    "caption": "a man with a bag is standing in front of the tables"
+  },
+  {
+    "image_id": 1329,
+    "caption": "a birthday cake is on the table"
+  },
+  {
+    "image_id": 1337,
+    "caption": "an ancient stone is on display in the museum"
+  },
+  {
+    "image_id": 1383,
+    "caption": "two mannequins are standing in front of the clothes"
+  },
+  {
+    "image_id": 1388,
+    "caption": "three figurines are placed on the shelf"
+  },
+  {
+    "image_id": 1429,
+    "caption": "a little boy is sitting on the carpet"
+  },
+  {
+    "image_id": 1459,
+    "caption": "a cat and two kittens are in a box"
+  },
+  {
+    "image_id": 1494,
+    "caption": "a birthday cake is on the table"
+  },
+  {
+    "image_id": 1521,
+    "caption": "lots of wooden frames are in the room"
+  },
+  {
+    "image_id": 1542,
+    "caption": "a glass of tea is on the table"
+  },
+  {
+    "image_id": 1576,
+    "caption": "some people are sitting on the seats of the subway"
+  },
+  {
+    "image_id": 1577,
+    "caption": "a few people are standing in front of the paintings"
+  },
+  {
+    "image_id": 1611,
+    "caption": "lots of wooden stands are standing in the room"
+  },
+  {
+    "image_id": 1695,
+    "caption": "a man is standing in front of the clothes shop"
+  },
+  {
+    "image_id": 1830,
+    "caption": "some students are wearing masks in the classroom"
+  },
+  {
+    "image_id": 1897,
+    "caption": "lots of plates are in the glass cabinet"
+  },
+  {
+    "image_id": 2009,
+    "caption": "some students are wearing masks in the classroom"
+  },
+  {
+    "image_id": 2093,
+    "caption": "people are walking in the mall"
+  },
+  {
+    "image_id": 2119,
+    "caption": "three women are standing in the store"
+  },
+  {
+    "image_id": 2126,
+    "caption": "a little boy is standing in front of the sofa"
+  },
+  {
+    "image_id": 2134,
+    "caption": "a flower pot is on the table in the middle of the room"
+  },
+  {
+    "image_id": 2375,
+    "caption": "a trash bin is next to the wall"
+  },
+  {
+    "image_id": 2414,
+    "caption": "a big teddy bear is in front of the shop"
+  },
+  {
+    "image_id": 2432,
+    "caption": "a lot of handmade items are being shown in the museum"
+  },
+  {
+    "image_id": 2451,
+    "caption": "a fire extinguisher is on the wall"
+  },
+  {
+    "image_id": 2459,
+    "caption": "an old man is cutting the cake with a knife"
+  },
+  {
+    "image_id": 2562,
+    "caption": "a man is standing in the hallway"
+  },
+  {
+    "image_id": 2573,
+    "caption": "a man is posing in front of the bakery"
+  },
+  {
+    "image_id": 2607,
+    "caption": "inside of a church is taken"
+  },
+  {
+    "image_id": 2613,
+    "caption": "two chairs and a table are in front of the wall"
+  },
+  {
+    "image_id": 2632,
+    "caption": "a bride and groom are dancing at night"
+  },
+  {
+    "image_id": 2688,
+    "caption": "three tea glasses are on the table"
+  },
+  {
+    "image_id": 2700,
+    "caption": "a man with curly hair is playing guitar"
+  },
+  {
+    "image_id": 2830,
+    "caption": "a little girl is holding hands with a man at night"
+  },
+  {
+    "image_id": 2946,
+    "caption": "a man is sitting on a chair"
+  },
+  {
+    "image_id": 2968,
+    "caption": "a baby is lying on the blanket"
+  },
+  {
+    "image_id": 3012,
+    "caption": "old cameras are on the shelves"
+  },
+  {
+    "image_id": 3016,
+    "caption": "a lot of people are sitting around the tables"
+  },
+  {
+    "image_id": 3026,
+    "caption": "a door is on the left side of the view"
+  },
+  {
+    "image_id": 3033,
+    "caption": "a few soldiers are posing in the room"
+  },
+  {
+    "image_id": 3047,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 3065,
+    "caption": "a glass of water is on the table"
+  },
+  {
+    "image_id": 3087,
+    "caption": "some chairs are in the hall of the school"
+  },
+  {
+    "image_id": 3191,
+    "caption": "a man in a suit is standing in front of the door"
+  },
+  {
+    "image_id": 3196,
+    "caption": "a piano is in the middle of the room"
+  },
+  {
+    "image_id": 3215,
+    "caption": "a man is sitting on the chair"
+  },
+  {
+    "image_id": 3306,
+    "caption": "a water dispenser is on the table"
+  },
+  {
+    "image_id": 3321,
+    "caption": "lots of fruits are in the greengrocer"
+  },
+  {
+    "image_id": 3428,
+    "caption": "students in the classroom are looking at the teacher"
+  },
+  {
+    "image_id": 3438,
+    "caption": "a clock is taken from above"
+  },
+  {
+    "image_id": 3451,
+    "caption": "the door of the room is closed"
+  },
+  {
+    "image_id": 3473,
+    "caption": "a little baby is sitting on the lap of a man"
+  },
+  {
+    "image_id": 3550,
+    "caption": "lots of files are in the cabinet"
+  },
+  {
+    "image_id": 3592,
+    "caption": "a plant is in a pot on the table"
+  },
+  {
+    "image_id": 3616,
+    "caption": "a plant in a flower pot on a table"
+  },
+  {
+    "image_id": 3655,
+    "caption": "a speaker is on the left side of the speaker box"
+  },
+  {
+    "image_id": 3687,
+    "caption": "a painting is on the wall"
+  },
+  {
+    "image_id": 3732,
+    "caption": "an armchair is located in the middle of the room"
+  },
+  {
+    "image_id": 3753,
+    "caption": "a pair of sneakers is on the carpet"
+  },
+  {
+    "image_id": 3767,
+    "caption": "a whiteboard is photoed in a classroom"
+  },
+  {
+    "image_id": 3780,
+    "caption": "the cat is wearing a pink hat"
+  },
+  {
+    "image_id": 3793,
+    "caption": "a fire extinguisher is on the right side of the railing"
+  },
+  {
+    "image_id": 3839,
+    "caption": "hallway of a house is taken"
+  },
+  {
+    "image_id": 3843,
+    "caption": "a white wall is on the right side of the stairs"
+  },
+  {
+    "image_id": 3857,
+    "caption": "inside of a subway is taken"
+  },
+  {
+    "image_id": 3963,
+    "caption": "inside of a supermarket is photoed"
+  },
+  {
+    "image_id": 4130,
+    "caption": "two chairs are in front of the table"
+  },
+  {
+    "image_id": 4141,
+    "caption": "stairs of a building are taken"
+  },
+  {
+    "image_id": 4167,
+    "caption": "the entrance door of the building is closed"
+  },
+  {
+    "image_id": 4249,
+    "caption": "a flower pot is photoed in a room"
+  },
+  {
+    "image_id": 4311,
+    "caption": "a plant is on the left side of the bookshelf"
+  },
+  {
+    "image_id": 4317,
+    "caption": "two cars are parked side by side in a parking lot"
+  },
+  {
+    "image_id": 4330,
+    "caption": "the turnstiles are on the right"
+  },
+  {
+    "image_id": 4348,
+    "caption": "the charger is on the right side of the box"
+  },
+  {
+    "image_id": 4400,
+    "caption": "a mailbox is photoed in the daytime"
+  },
+  {
+    "image_id": 4473,
+    "caption": "a motorcycle is in front of the window"
+  },
+  {
+    "image_id": 4484,
+    "caption": "an indoor swimming pool is taken"
+  },
+  {
+    "image_id": 4491,
+    "caption": "two armchairs are placed in front of the brick wall"
+  },
+  {
+    "image_id": 4494,
+    "caption": "a few people are sitting in a cafe"
+  },
+  {
+    "image_id": 4496,
+    "caption": "a glass of tea and a plate of nuts are on the table"
+  },
+  {
+    "image_id": 4518,
+    "caption": "inside of a store is taken"
+  },
+  {
+    "image_id": 4670,
+    "caption": "a cat is looking at the bird cage"
+  },
+  {
+    "image_id": 4690,
+    "caption": "lots of wicker baskets are on the shelves"
+  },
+  {
+    "image_id": 4859,
+    "caption": "a dog is sleeping on the bed"
+  },
+  {
+    "image_id": 4902,
+    "caption": "a man is sitting in front of the fire"
+  },
+  {
+    "image_id": 4982,
+    "caption": "a cat is sitting in front of the door"
+  },
+  {
+    "image_id": 5001,
+    "caption": "people are playing card game on table at front side"
+  },
+  {
+    "image_id": 5008,
+    "caption": "a door is on the left side of the room"
+  },
+  {
+    "image_id": 5026,
+    "caption": "inside of a mosque is taken"
+  },
+  {
+    "image_id": 5044,
+    "caption": "a pot is on the table"
+  },
+  {
+    "image_id": 5121,
+    "caption": "two glasses of wine are on the table"
+  },
+  {
+    "image_id": 5187,
+    "caption": "a staircase is photoed in a building"
+  },
+  {
+    "image_id": 5188,
+    "caption": "a laptop is on the right side of the notebook"
+  },
+  {
+    "image_id": 5191,
+    "caption": "a few people are playing the pinball machine"
+  },
+  {
+    "image_id": 5207,
+    "caption": "inside of a house is photoed"
+  },
+  {
+    "image_id": 5272,
+    "caption": "a laptop is on the desk"
+  },
+  {
+    "image_id": 5307,
+    "caption": "some people are going down the escalator"
+  },
+  {
+    "image_id": 5324,
+    "caption": "a few frames are hung on the wall"
+  },
+  {
+    "image_id": 5573,
+    "caption": "a puppy is standing on a towel"
+  },
+  {
+    "image_id": 5651,
+    "caption": "two budgies are side by side in a cage"
+  },
+  {
+    "image_id": 5802,
+    "caption": "a woman is depicted on the wall of the museum"
+  },
+  {
+    "image_id": 5827,
+    "caption": "a bedside table is on the left side of the room"
+  },
+  {
+    "image_id": 5871,
+    "caption": "a rug is on the floor of the kitchen"
+  },
+  {
+    "image_id": 5912,
+    "caption": "a glass of water is on the coffee table"
+  },
+  {
+    "image_id": 5917,
+    "caption": "a laptop is on the table"
+  },
+  {
+    "image_id": 5949,
+    "caption": "an empty hallway with two doors"
+  },
+  {
+    "image_id": 5969,
+    "caption": "a few people are sitting in cafe at front side"
+  },
+  {
+    "image_id": 5973,
+    "caption": "two candles are on the desk"
+  },
+  {
+    "image_id": 5993,
+    "caption": "the stairs of an apartment are taken"
+  },
+  {
+    "image_id": 6024,
+    "caption": "inside of a supermarket is taken"
+  },
+  {
+    "image_id": 6078,
+    "caption": "a plastic bag is on the red tray"
+  },
+  {
+    "image_id": 6193,
+    "caption": "a chandelier is hung on the ceiling of the room"
+  },
+  {
+    "image_id": 6255,
+    "caption": "a dog is sitting on the bed"
+  },
+  {
+    "image_id": 6258,
+    "caption": "beauty products are located on the right side of the aisle"
+  },
+  {
+    "image_id": 6287,
+    "caption": "a cat is standing on the bed"
+  },
+  {
+    "image_id": 6348,
+    "caption": "lots of books are on the shelves of the bookcase"
+  },
+  {
+    "image_id": 6377,
+    "caption": "an air conditioner is on the wall"
+  },
+  {
+    "image_id": 6389,
+    "caption": "a man made out of soda cans is on display"
+  },
+  {
+    "image_id": 6417,
+    "caption": "a baby seat is on the heater"
+  },
+  {
+    "image_id": 6575,
+    "caption": "a christmas tree is decorated with ornaments"
+  },
+  {
+    "image_id": 6595,
+    "caption": "escalators are located on the left and right sides of the stairs"
+  },
+  {
+    "image_id": 6678,
+    "caption": "two cups of coffee are on the table"
+  },
+  {
+    "image_id": 6770,
+    "caption": "two parrots are next to each other"
+  },
+  {
+    "image_id": 6799,
+    "caption": "lots of books are on the shelves"
+  },
+  {
+    "image_id": 6812,
+    "caption": "a man and a woman are sitting on the bench"
+  },
+  {
+    "image_id": 6848,
+    "caption": "two drinks are photoed in front of a white table"
+  },
+  {
+    "image_id": 6862,
+    "caption": "two paper rolls are photoed on a white table"
+  },
+  {
+    "image_id": 6946,
+    "caption": "tactile paving for the visually impaired is in front of the subway station"
+  },
+  {
+    "image_id": 6970,
+    "caption": "the heater core is located on the left side of the room"
+  },
+  {
+    "image_id": 6985,
+    "caption": "a christmas tree is standing in the middle of the cafe"
+  },
+  {
+    "image_id": 7098,
+    "caption": "a yellow warning sign is on the ground in front of the stairs"
+  },
+  {
+    "image_id": 7104,
+    "caption": "a headphone is on the left side of the computer"
+  },
+  {
+    "image_id": 7132,
+    "caption": "two stools are on the left side of the stairs"
+  },
+  {
+    "image_id": 7145,
+    "caption": "a fire alarm cabinet is photoed in the daytime"
+  },
+  {
+    "image_id": 7160,
+    "caption": "a black suitcase is on the left side of the wardrobe"
+  },
+  {
+    "image_id": 7171,
+    "caption": "the window is on the left side of the bed"
+  },
+  {
+    "image_id": 7261,
+    "caption": "the inside of a subway is taken"
+  },
+  {
+    "image_id": 7281,
+    "caption": "a purple flower is in the pot on the table"
+  },
+  {
+    "image_id": 7287,
+    "caption": "a hanger is hung on the ironing board"
+  },
+  {
+    "image_id": 7318,
+    "caption": "a clock is on the wall of the museum"
+  },
+  {
+    "image_id": 7427,
+    "caption": "four trash cans are in front of the fire cabinet"
+  },
+  {
+    "image_id": 7448,
+    "caption": "a woman is looking at the man in front of her"
+  },
+  {
+    "image_id": 7492,
+    "caption": "lots of books are on the shelves in the library"
+  },
+  {
+    "image_id": 7512,
+    "caption": "two people are standing on the stairs"
+  },
+  {
+    "image_id": 7535,
+    "caption": "a warning sign is hung on the door"
+  },
+  {
+    "image_id": 7644,
+    "caption": "a plate is photoed in a room"
+  },
+  {
+    "image_id": 7683,
+    "caption": "a red crescent worker is standing in front of the stairs"
+  },
+  {
+    "image_id": 7735,
+    "caption": "a white cable is on the wall"
+  },
+  {
+    "image_id": 7753,
+    "caption": "inside of a shopping mall is taken"
+  },
+  {
+    "image_id": 7768,
+    "caption": "a fire extinguisher is hung on the wall of the subway station"
+  },
+  {
+    "image_id": 7775,
+    "caption": "lots of old stuffs are on the shelves"
+  },
+  {
+    "image_id": 7887,
+    "caption": "inside of a bus is photoed"
+  },
+  {
+    "image_id": 7967,
+    "caption": "the fire extinguishers are located on the wall"
+  },
+  {
+    "image_id": 7987,
+    "caption": "a vacuum cleaner is photoed in a room"
+  },
+  {
+    "image_id": 7996,
+    "caption": "a painting of a man is hung on the wall"
+  },
+  {
+    "image_id": 8048,
+    "caption": "inside of a store is photoed"
+  },
+  {
+    "image_id": 8074,
+    "caption": "a stone wall is behind the iron bars"
+  },
+  {
+    "image_id": 8103,
+    "caption": "a white pipe is on the right side of the view"
+  },
+  {
+    "image_id": 8136,
+    "caption": "the door of the house is open"
+  },
+  {
+    "image_id": 8257,
+    "caption": "a blue bag is on the table"
+  },
+  {
+    "image_id": 8349,
+    "caption": "different kinds of animals are on display"
+  },
+  {
+    "image_id": 8368,
+    "caption": "the shelves are made of metal"
+  },
+  {
+    "image_id": 8401,
+    "caption": "a cat is sitting on the carpet"
+  },
+  {
+    "image_id": 8459,
+    "caption": "four people are walking on the tiled floor"
+  },
+  {
+    "image_id": 8537,
+    "caption": "a lot of shoes are on the shelf"
+  },
+  {
+    "image_id": 8545,
+    "caption": "a birthday cake is on the table"
+  },
+  {
+    "image_id": 8549,
+    "caption": "inside of a fast food restaurant is taken"
+  },
+  {
+    "image_id": 8552,
+    "caption": "a man in a mask is sitting on the chair"
+  },
+  {
+    "image_id": 8559,
+    "caption": "a person is holding a box in his hand"
+  },
+  {
+    "image_id": 8565,
+    "caption": "a person is holding a bird in his hand"
+  },
+  {
+    "image_id": 8582,
+    "caption": "some people are looking at a machine in a museum"
+  },
+  {
+    "image_id": 8862,
+    "caption": "a statue is photoed in the daytime"
+  },
+  {
+    "image_id": 8915,
+    "caption": "a bookcase is located on the left side of the cabinet"
+  },
+  {
+    "image_id": 8928,
+    "caption": "an empty classroom is photoed"
+  },
+  {
+    "image_id": 8936,
+    "caption": "a car is parked in front of the building"
+  },
+  {
+    "image_id": 9013,
+    "caption": "some flowers are in the vase on the table"
+  },
+  {
+    "image_id": 9065,
+    "caption": "a backpack is on the left side of the water bottle"
+  },
+  {
+    "image_id": 9080,
+    "caption": "a basket of flowers is on the table"
+  },
+  {
+    "image_id": 9131,
+    "caption": "a lot of books are placed in the bookshelf"
+  },
+  {
+    "image_id": 9160,
+    "caption": "a bedroom is photoed in the daytime"
+  },
+  {
+    "image_id": 9185,
+    "caption": "a metal pipe is located on the right side of the area"
+  },
+  {
+    "image_id": 9276,
+    "caption": "three boxes of medicines are on the table"
+  },
+  {
+    "image_id": 9317,
+    "caption": "a teapot and a glass are on the table"
+  },
+  {
+    "image_id": 9321,
+    "caption": "a view is hung on the wall"
+  },
+  {
+    "image_id": 9335,
+    "caption": "the green carpet is located on the left"
+  },
+  {
+    "image_id": 9446,
+    "caption": "a lot of chairs are located in front of the doors"
+  },
+  {
+    "image_id": 9460,
+    "caption": "a puzzle is photoed on a table"
+  },
+  {
+    "image_id": 9481,
+    "caption": "inside of a factory is taken"
+  },
+  {
+    "image_id": 9497,
+    "caption": "four people are sitting at the table"
+  },
+  {
+    "image_id": 9555,
+    "caption": "a cup of coffee and a glass of water are on the table"
+  },
+  {
+    "image_id": 9689,
+    "caption": "a window is on the left side of the bed"
+  },
+  {
+    "image_id": 9717,
+    "caption": "someone is holding a glass in their hand"
+  },
+  {
+    "image_id": 9735,
+    "caption": "yellow dots are on the ground for the visually impaired"
+  },
+  {
+    "image_id": 9803,
+    "caption": "a man is standing on the stairs"
+  },
+  {
+    "image_id": 9811,
+    "caption": "inside of a cafe is photoed"
+  },
+  {
+    "image_id": 9816,
+    "caption": "two cups of coffee are on the table"
+  },
+  {
+    "image_id": 9881,
+    "caption": "a mannequin dressed in a blue dress in a room"
+  },
+  {
+    "image_id": 9921,
+    "caption": "a man is sitting on a chair in the middle of the room"
+  },
+  {
+    "image_id": 9941,
+    "caption": "a gold plate is photoed in a room"
+  },
+  {
+    "image_id": 10000,
+    "caption": "inside of a clothing store is taken"
+  },
+  {
+    "image_id": 10066,
+    "caption": "a glass of tea is on the table"
+  },
+  {
+    "image_id": 10114,
+    "caption": "a woman is holding a cat in her hands"
+  },
+  {
+    "image_id": 10129,
+    "caption": "a window is photoed in a house"
+  },
+  {
+    "image_id": 10190,
+    "caption": "two armchairs are next to each other"
+  },
+  {
+    "image_id": 10194,
+    "caption": "wall of bedroom at background is covered by wooden table"
+  },
+  {
+    "image_id": 10250,
+    "caption": "a fluffy cat is sitting on the bed"
+  },
+  {
+    "image_id": 10280,
+    "caption": "inside of a plane is taken"
+  },
+  {
+    "image_id": 10281,
+    "caption": "a portrait of a woman is hung on the wall"
+  },
+  {
+    "image_id": 10286,
+    "caption": "a painting is hung on the wall behind the bird"
+  },
+  {
+    "image_id": 10327,
+    "caption": "a plant is in a pot on the floor"
+  },
+  {
+    "image_id": 10394,
+    "caption": "an old typewriter is on the table"
+  },
+  {
+    "image_id": 10425,
+    "caption": "an old typewriter is on display in a museum"
+  },
+  {
+    "image_id": 10442,
+    "caption": "the corridor of the hospital is empty"
+  },
+  {
+    "image_id": 10465,
+    "caption": "a glass is photoed in a kitchen"
+  },
+  {
+    "image_id": 10469,
+    "caption": "two budgies are standing on the sofa"
+  },
+  {
+    "image_id": 10503,
+    "caption": "wooden shelves are in front of the wall"
+  },
+  {
+    "image_id": 10520,
+    "caption": "a bed is in front of the wall"
+  },
+  {
+    "image_id": 10548,
+    "caption": "a miniature palace is taken at night"
+  },
+  {
+    "image_id": 10554,
+    "caption": "an electric fan is photoed in a room"
+  },
+  {
+    "image_id": 10560,
+    "caption": "inside of a clothing store is taken"
+  },
+  {
+    "image_id": 10577,
+    "caption": "inside of a building is taken"
+  },
+  {
+    "image_id": 10578,
+    "caption": "a few people are playing games in the amusement center"
+  },
+  {
+    "image_id": 10599,
+    "caption": "a mirror is on the wall of the room"
+  },
+  {
+    "image_id": 10655,
+    "caption": "an escalator is photoed in the daytime"
+  },
+  {
+    "image_id": 10663,
+    "caption": "a dog is sitting on the wooden floor"
+  },
+  {
+    "image_id": 10713,
+    "caption": "a glass is on the table"
+  },
+  {
+    "image_id": 10721,
+    "caption": "a black object is on the right side of the window"
+  },
+  {
+    "image_id": 10790,
+    "caption": "a table is photoed in a room"
+  },
+  {
+    "image_id": 10802,
+    "caption": "an office chair is located in front of the window"
+  },
+  {
+    "image_id": 10862,
+    "caption": "a toilet paper holder is on the left side of the table"
+  },
+  {
+    "image_id": 10867,
+    "caption": "some people are eating food on the table"
+  },
+  {
+    "image_id": 10899,
+    "caption": "a chandelier hangs from the ceiling"
+  },
+  {
+    "image_id": 10933,
+    "caption": "a volleyball court is photoed in the daytime"
+  },
+  {
+    "image_id": 10999,
+    "caption": "a water bottle is on the table"
+  },
+  {
+    "image_id": 11014,
+    "caption": "wall of cafe at front side is made of concrete"
+  },
+  {
+    "image_id": 11015,
+    "caption": "a water bottle is on the ground"
+  },
+  {
+    "image_id": 11061,
+    "caption": "two trash bins are located on the left side of the hallway"
+  },
+  {
+    "image_id": 11074,
+    "caption": "yellow dots are on the ground for the visually impaired"
+  },
+  {
+    "image_id": 11079,
+    "caption": "a man is sitting on the bed in the bedroom"
+  },
+  {
+    "image_id": 11104,
+    "caption": "a dog is standing in front of the door"
+  },
+  {
+    "image_id": 11115,
+    "caption": "four red chairs are in front of the white wall"
+  },
+  {
+    "image_id": 11131,
+    "caption": "a woman is holding a pill box on the kitchen counter"
+  },
+  {
+    "image_id": 11139,
+    "caption": "two old men are sitting next to each other"
+  },
+  {
+    "image_id": 11171,
+    "caption": "a person is standing in front of the coats"
+  },
+  {
+    "image_id": 11210,
+    "caption": "a cat is sleeping on the bed in the background"
+  },
+  {
+    "image_id": 11211,
+    "caption": "a tv is hung on the wall in the living room"
+  },
+  {
+    "image_id": 11214,
+    "caption": "a white cabinet is on the left side of the living room"
+  },
+  {
+    "image_id": 11282,
+    "caption": "lots of people are watching the performance"
+  },
+  {
+    "image_id": 11317,
+    "caption": "a bread is in a plastic bag"
+  },
+  {
+    "image_id": 11353,
+    "caption": "a black bag is located on the left side of the desk"
+  },
+  {
+    "image_id": 11371,
+    "caption": "two teddy bears are on the back seat"
+  },
+  {
+    "image_id": 11379,
+    "caption": "inside of a cafe is photoed"
+  },
+  {
+    "image_id": 11419,
+    "caption": "a glass of tea is on the table"
+  },
+  {
+    "image_id": 11428,
+    "caption": "a coffee table is located in front of the armchair"
+  },
+  {
+    "image_id": 11461,
+    "caption": "a man is standing in front of the window"
+  },
+  {
+    "image_id": 11488,
+    "caption": "a television is located on the left side of the room"
+  },
+  {
+    "image_id": 11500,
+    "caption": "two caps are on the table"
+  },
+  {
+    "image_id": 11524,
+    "caption": "three mannequins are photoed in front of the glass"
+  },
+  {
+    "image_id": 11560,
+    "caption": "a laptop is on the table in front of the heater"
+  },
+  {
+    "image_id": 11574,
+    "caption": "inside of a train is taken"
+  },
+  {
+    "image_id": 11679,
+    "caption": "a bed is located in the middle of the room"
+  },
+  {
+    "image_id": 11832,
+    "caption": "a cute dog is standing on wooden floor at front side"
+  },
+  {
+    "image_id": 11879,
+    "caption": "a piano is photoed in the daytime"
+  },
+  {
+    "image_id": 11893,
+    "caption": "the back of a person with long hair is photoed"
+  },
+  {
+    "image_id": 11904,
+    "caption": "inside of a building with a lot of pipes and machines"
+  },
+  {
+    "image_id": 11927,
+    "caption": "a trash can is located on the right side of the door"
+  },
+  {
+    "image_id": 11932,
+    "caption": "a coffee cup is photoed in a cafe"
+  },
+  {
+    "image_id": 11956,
+    "caption": "a trash can is located on the right side of the machine"
+  },
+  {
+    "image_id": 11979,
+    "caption": "the stairs of an apartment are taken"
+  },
+  {
+    "image_id": 12024,
+    "caption": "a coffee table is photoed in a room"
+  },
+  {
+    "image_id": 12043,
+    "caption": "wall of the room is covering the background of the view"
+  },
+  {
+    "image_id": 12048,
+    "caption": "a flower pot is on the table"
+  },
+  {
+    "image_id": 12074,
+    "caption": "a cat is photoed in a cafe"
+  },
+  {
+    "image_id": 12082,
+    "caption": "a cupboard is located on the right side of the water dispenser"
+  },
+  {
+    "image_id": 12182,
+    "caption": "people are waiting for the subway at the station"
+  },
+  {
+    "image_id": 12239,
+    "caption": "a coat is on the chair in front of the wall"
+  },
+  {
+    "image_id": 12250,
+    "caption": "a chair is in front of the white cabinet"
+  },
+  {
+    "image_id": 12328,
+    "caption": "two baby cows are in the barn"
+  },
+  {
+    "image_id": 12347,
+    "caption": "a window is located on the left side of the office"
+  },
+  {
+    "image_id": 12352,
+    "caption": "a brown sofa is located in the living room"
+  },
+  {
+    "image_id": 12372,
+    "caption": "a computer is on the table in front of the tv"
+  },
+  {
+    "image_id": 12415,
+    "caption": "a cat is standing on the carpet"
+  },
+  {
+    "image_id": 12475,
+    "caption": "a book is placed on the table in front of the computer"
+  },
+  {
+    "image_id": 12492,
+    "caption": "inside of a museum is taken"
+  },
+  {
+    "image_id": 12555,
+    "caption": "inside of a bus is taken"
+  },
+  {
+    "image_id": 12586,
+    "caption": "a medical device is on a shelf"
+  },
+  {
+    "image_id": 12611,
+    "caption": "a wooden door is on the left side of the view"
+  },
+  {
+    "image_id": 12693,
+    "caption": "a cat is photoed in the daytime"
+  },
+  {
+    "image_id": 12787,
+    "caption": "a drawing of many people is on the wall"
+  },
+  {
+    "image_id": 12788,
+    "caption": "a laptop is on the wooden table"
+  },
+  {
+    "image_id": 12815,
+    "caption": "a car is parked in front of the building"
+  },
+  {
+    "image_id": 12881,
+    "caption": "a bottle of water is located on the right side of the paper ship"
+  },
+  {
+    "image_id": 12882,
+    "caption": "a stadium is photoed in the daytime"
+  },
+  {
+    "image_id": 12944,
+    "caption": "a small table is on the left side of the view"
+  },
+  {
+    "image_id": 13000,
+    "caption": "a wooden table is covering the background of the view"
+  },
+  {
+    "image_id": 13027,
+    "caption": "an escalator is taken from above"
+  },
+  {
+    "image_id": 13164,
+    "caption": "a lot of toys are hung on the wall"
+  },
+  {
+    "image_id": 13249,
+    "caption": "some food is on the table"
+  },
+  {
+    "image_id": 13288,
+    "caption": "a big key is on the wall"
+  },
+  {
+    "image_id": 13300,
+    "caption": "a warning sign is on the ground"
+  },
+  {
+    "image_id": 13304,
+    "caption": "inside of a shopping mall is taken"
+  },
+  {
+    "image_id": 13313,
+    "caption": "lots of computers are on the left side of the room"
+  },
+  {
+    "image_id": 13329,
+    "caption": "a man is standing in front of the store"
+  },
+  {
+    "image_id": 13437,
+    "caption": "lots of views are hung on the walls of the exhibition"
+  },
+  {
+    "image_id": 13456,
+    "caption": "inside of a bus is taken at night"
+  },
+  {
+    "image_id": 13675,
+    "caption": "inside of a room is photoed"
+  },
+  {
+    "image_id": 13725,
+    "caption": "inside of a shopping mall is photoed"
+  },
+  {
+    "image_id": 13763,
+    "caption": "a television is located on the left side of the table"
+  },
+  {
+    "image_id": 13774,
+    "caption": "a woman is holding a slice of pizza"
+  },
+  {
+    "image_id": 13775,
+    "caption": "some go-kart cars in a parking lot"
+  },
+  {
+    "image_id": 13814,
+    "caption": "inside of a church is photoed"
+  },
+  {
+    "image_id": 13819,
+    "caption": "men's clothes are taken in a clothing store"
+  },
+  {
+    "image_id": 13903,
+    "caption": "inside of a clothing store is taken"
+  },
+  {
+    "image_id": 13922,
+    "caption": "someone is petting a cute cat"
+  },
+  {
+    "image_id": 13943,
+    "caption": "a chandelier is hanging from the ceiling"
+  },
+  {
+    "image_id": 13972,
+    "caption": "a sink is on the right side of the mirror"
+  },
+  {
+    "image_id": 14000,
+    "caption": "a three-tiered cake stand is on the table"
+  },
+  {
+    "image_id": 14046,
+    "caption": "windows of a building are photoed"
+  },
+  {
+    "image_id": 14132,
+    "caption": "a white cat is sitting on the bed"
+  },
+  {
+    "image_id": 14171,
+    "caption": "a table is located on the left side of the view"
+  },
+  {
+    "image_id": 14196,
+    "caption": "four machines are photoed in a laundromat"
+  },
+  {
+    "image_id": 14321,
+    "caption": "some people are playing games in a casino"
+  },
+  {
+    "image_id": 14386,
+    "caption": "the floor of the room is made of parquet"
+  },
+  {
+    "image_id": 14438,
+    "caption": "a lot of scarfs are hung on the rack"
+  },
+  {
+    "image_id": 14501,
+    "caption": "a cat is looking at the camera"
+  },
+  {
+    "image_id": 14504,
+    "caption": "a glass with a candle is on the table"
+  },
+  {
+    "image_id": 14509,
+    "caption": "inside of a building is photoed"
+  },
+  {
+    "image_id": 14520,
+    "caption": "the window of the house is made of bricks"
+  },
+  {
+    "image_id": 14523,
+    "caption": "a model of a tram is on the right"
+  },
+  {
+    "image_id": 14547,
+    "caption": "a gift box is on the table"
+  },
+  {
+    "image_id": 14579,
+    "caption": "a lot of papers are standing on the table"
+  },
+  {
+    "image_id": 14618,
+    "caption": "some views are hung on the wall"
+  },
+  {
+    "image_id": 14659,
+    "caption": "someone is holding a cardboard cup"
+  },
+  {
+    "image_id": 14661,
+    "caption": "a car is parked on the right side of the window"
+  },
+  {
+    "image_id": 14676,
+    "caption": "an airport is photoed in the daytime"
+  },
+  {
+    "image_id": 14737,
+    "caption": "the door of the subway is blue in color"
+  },
+  {
+    "image_id": 14746,
+    "caption": "two turkish soldiers are on display in the museum"
+  },
+  {
+    "image_id": 14754,
+    "caption": "a cube is on the parquet floor"
+  },
+  {
+    "image_id": 14801,
+    "caption": "lots of different kinds of food are on the table"
+  },
+  {
+    "image_id": 14821,
+    "caption": "some pictures are hung on the wall"
+  },
+  {
+    "image_id": 14852,
+    "caption": "two spoons are in the two plates"
+  },
+  {
+    "image_id": 14865,
+    "caption": "someone is holding a plate full of strawberries and chocolate"
+  },
+  {
+    "image_id": 14871,
+    "caption": "the floor is made of wooden laminates"
+  },
+  {
+    "image_id": 14928,
+    "caption": "a trash can is located on the right side of the kitchen"
+  },
+  {
+    "image_id": 14962,
+    "caption": "a wall is on the left side of the photo"
+  },
+  {
+    "image_id": 14977,
+    "caption": "the name of the place is written on the sign"
+  },
+  {
+    "image_id": 15019,
+    "caption": "the baby is wearing a black t-shirt"
+  },
+  {
+    "image_id": 15042,
+    "caption": "a small table is next to the chair"
+  },
+  {
+    "image_id": 15056,
+    "caption": "a jacket is hung on the wall"
+  },
+  {
+    "image_id": 15094,
+    "caption": "lots of people are shopping in the mall"
+  },
+  {
+    "image_id": 15096,
+    "caption": "a rug is on the floor in front of the seats"
+  },
+  {
+    "image_id": 15123,
+    "caption": "a cat is photoed in a room"
+  },
+  {
+    "image_id": 15131,
+    "caption": "three people are sitting at the table"
+  },
+  {
+    "image_id": 15196,
+    "caption": "two mammoth skeletons are on display in a museum"
+  },
+  {
+    "image_id": 15276,
+    "caption": "a bowl is on the right side of the white bowl"
+  },
+  {
+    "image_id": 15285,
+    "caption": "a round shaped picture is on the wall"
+  },
+  {
+    "image_id": 15303,
+    "caption": "a man is praying in the mosque"
+  },
+  {
+    "image_id": 15369,
+    "caption": "a man is sitting on the left side of the seat"
+  },
+  {
+    "image_id": 15373,
+    "caption": "four views are hung on the wall"
+  },
+  {
+    "image_id": 15377,
+    "caption": "four men in military uniforms are standing in front of a table"
+  },
+  {
+    "image_id": 15482,
+    "caption": "a wooden box is photoed in a museum"
+  },
+  {
+    "image_id": 15563,
+    "caption": "ancient ruins are on display in a museum"
+  },
+  {
+    "image_id": 15565,
+    "caption": "two pieces of chicken are on the grill"
+  },
+  {
+    "image_id": 15597,
+    "caption": "two people are sitting on the sofa in the mall"
+  },
+  {
+    "image_id": 15670,
+    "caption": "inside of a cafe is taken"
+  },
+  {
+    "image_id": 15672,
+    "caption": "a mosaic floor is in front of the columns"
+  },
+  {
+    "image_id": 15686,
+    "caption": "inside of a room is photoed in the daytime"
+  },
+  {
+    "image_id": 15691,
+    "caption": "old guns are on display in a glass box"
+  },
+  {
+    "image_id": 15841,
+    "caption": "a glass showcase is photoed in the daytime"
+  },
+  {
+    "image_id": 15843,
+    "caption": "a view is hung on the wall"
+  },
+  {
+    "image_id": 15916,
+    "caption": "a christmas tree is located on the right side of the statue"
+  },
+  {
+    "image_id": 15938,
+    "caption": "inside of a shopping mall is photoed"
+  },
+  {
+    "image_id": 15979,
+    "caption": "doors of a building are photoed"
+  },
+  {
+    "image_id": 16002,
+    "caption": "people are waiting at the entrance of the subway station"
+  },
+  {
+    "image_id": 16021,
+    "caption": "a cat is sitting on the back of a sofa"
+  },
+  {
+    "image_id": 16174,
+    "caption": "a chair and a table are next to each other"
+  },
+  {
+    "image_id": 16194,
+    "caption": "a cat is photoed in the daytime"
+  },
+  {
+    "image_id": 16211,
+    "caption": "an electric guitar is photoed in a store"
+  },
+  {
+    "image_id": 16226,
+    "caption": "a hand is holding a bottle of cologne"
+  },
+  {
+    "image_id": 16266,
+    "caption": "wall of the room is made of parquet"
+  },
+  {
+    "image_id": 16295,
+    "caption": "a pair of black slippers on the floor"
+  },
+  {
+    "image_id": 16310,
+    "caption": "a statue of a man with curly hair"
+  },
+  {
+    "image_id": 16364,
+    "caption": "a flower pot is in front of the balcony"
+  },
+  {
+    "image_id": 16422,
+    "caption": "a cat is sitting on a bed in front of the window"
+  },
+  {
+    "image_id": 16461,
+    "caption": "a man is standing in front of the restaurant"
+  },
+  {
+    "image_id": 16466,
+    "caption": "a water bottle is on the table"
+  },
+  {
+    "image_id": 16535,
+    "caption": "a table is located on the left side of the view"
+  },
+  {
+    "image_id": 16552,
+    "caption": "a plant is in front of the white cabinets"
+  },
+  {
+    "image_id": 16581,
+    "caption": "ground of the market is covered by ceramic tiles"
+  },
+  {
+    "image_id": 16606,
+    "caption": "the entrance of a shopping mall is photoed"
+  },
+  {
+    "image_id": 16609,
+    "caption": "some souvenirs are being sold in the souvenir shop"
+  },
+  {
+    "image_id": 16634,
+    "caption": "inside of a supermarket is taken"
+  },
+  {
+    "image_id": 16639,
+    "caption": "a water bottle is on the right side of the plate"
+  },
+  {
+    "image_id": 16665,
+    "caption": "two bottles of wine are on the table"
+  },
+  {
+    "image_id": 16681,
+    "caption": "a television is on in a living room"
+  },
+  {
+    "image_id": 16771,
+    "caption": "an ancient tile is on display in a museum"
+  },
+  {
+    "image_id": 16834,
+    "caption": "a book with an open page and a candle on it"
+  },
+  {
+    "image_id": 16839,
+    "caption": "a light is on the right side of the view"
+  },
+  {
+    "image_id": 16848,
+    "caption": "a chess board is photoed in a room"
+  },
+  {
+    "image_id": 16941,
+    "caption": "miniature houses are on the shelves"
+  },
+  {
+    "image_id": 17018,
+    "caption": "yellow lines are visible on the ground"
+  },
+  {
+    "image_id": 17053,
+    "caption": "inside of a supermarket is taken"
+  },
+  {
+    "image_id": 17059,
+    "caption": "a cat is standing in front of the bus stop"
+  },
+  {
+    "image_id": 17143,
+    "caption": "a person is singing on the stage"
+  },
+  {
+    "image_id": 17155,
+    "caption": "an empty room has two windows"
+  },
+  {
+    "image_id": 17195,
+    "caption": "a man in an iron man costume is standing in front of the children"
+  },
+  {
+    "image_id": 17197,
+    "caption": "a cardboard box is on the right"
+  },
+  {
+    "image_id": 17201,
+    "caption": "a man is coming out of the kitchen"
+  },
+  {
+    "image_id": 17229,
+    "caption": "a salt shaker is on the table"
+  },
+  {
+    "image_id": 17260,
+    "caption": "a ladder is in the middle of the room"
+  },
+  {
+    "image_id": 17305,
+    "caption": "a cat is photoed in a room"
+  },
+  {
+    "image_id": 17402,
+    "caption": "the books are on the right side of the bookshelf"
+  },
+  {
+    "image_id": 17431,
+    "caption": "a photo is hung on the railings"
+  },
+  {
+    "image_id": 17462,
+    "caption": "a chandelier is hanging from the ceiling"
+  },
+  {
+    "image_id": 17544,
+    "caption": "a black pipe is on the right side of the window"
+  },
+  {
+    "image_id": 17603,
+    "caption": "a man in an iron man costume is standing next to two children"
+  },
+  {
+    "image_id": 17656,
+    "caption": "the photo is located on the right side of the frame"
+  },
+  {
+    "image_id": 17789,
+    "caption": "a wooden bench is in front of the glass wall"
+  },
+  {
+    "image_id": 17797,
+    "caption": "black and white striped flooring is visible on the ground"
+  },
+  {
+    "image_id": 17927,
+    "caption": "a television is hung on the wall"
+  },
+  {
+    "image_id": 17946,
+    "caption": "a dog is photoed in a room"
+  },
+  {
+    "image_id": 18025,
+    "caption": "some cloths are in a suitcase"
+  },
+  {
+    "image_id": 18125,
+    "caption": "a chandelier is hanging from the ceiling of the restaurant"
+  },
+  {
+    "image_id": 18146,
+    "caption": "a computer monitor is on the table"
+  },
+  {
+    "image_id": 18188,
+    "caption": "a plant in a flower pot is in front of the window"
+  },
+  {
+    "image_id": 18193,
+    "caption": "some views are hung on the wall"
+  },
+  {
+    "image_id": 18262,
+    "caption": "tv is hung on wall of living room at background"
+  },
+  {
+    "image_id": 18363,
+    "caption": "a window is photoed in the daytime"
+  },
+  {
+    "image_id": 18371,
+    "caption": "sofas and armchairs are in the living room"
+  },
+  {
+    "image_id": 18378,
+    "caption": "a dog is lying on the carpet in the living room"
+  },
+  {
+    "image_id": 18388,
+    "caption": "a flower pot is in front of the window"
+  },
+  {
+    "image_id": 18453,
+    "caption": "someone's feet are on the bed"
+  },
+  {
+    "image_id": 18531,
+    "caption": "a round table is located in the middle of the room"
+  },
+  {
+    "image_id": 18678,
+    "caption": "an orange and white cat is in front of the window"
+  },
+  {
+    "image_id": 18679,
+    "caption": "a green table is in the middle of the area"
+  },
+  {
+    "image_id": 18737,
+    "caption": "some views are hung on the wall"
+  },
+  {
+    "image_id": 18803,
+    "caption": "the floor of the exhibition is made of wood"
+  },
+  {
+    "image_id": 18818,
+    "caption": "a person is sitting in front of a computer"
+  },
+  {
+    "image_id": 18862,
+    "caption": "a tv is located on the wall"
+  },
+  {
+    "image_id": 18874,
+    "caption": "two plastic chairs are in front of the wall"
+  },
+  {
+    "image_id": 18876,
+    "caption": "three paintings are hung on the wall"
+  },
+  {
+    "image_id": 18926,
+    "caption": "inside of a room is photoed"
+  },
+  {
+    "image_id": 18937,
+    "caption": "a ceiling fan is on the right side of the door"
+  },
+  {
+    "image_id": 19012,
+    "caption": "an open door in an empty room"
+  },
+  {
+    "image_id": 19019,
+    "caption": "an ancient stone is on display in a museum"
+  },
+  {
+    "image_id": 19030,
+    "caption": "lots of pencils are on the table"
+  },
+  {
+    "image_id": 19032,
+    "caption": "lots of people are in the shopping mall"
+  },
+  {
+    "image_id": 19070,
+    "caption": "the door of the apartment is black"
+  },
+  {
+    "image_id": 19081,
+    "caption": "a knife and a glass are on the table"
+  },
+  {
+    "image_id": 19084,
+    "caption": "air conditioner is located on the wall on the right"
+  },
+  {
+    "image_id": 19092,
+    "caption": "some people are sitting on the chairs"
+  },
+  {
+    "image_id": 19097,
+    "caption": "a boy is cleaning the wall with a mop"
+  },
+  {
+    "image_id": 19131,
+    "caption": "a hand is holding the sculpture"
+  },
+  {
+    "image_id": 19133,
+    "caption": "some views are hung on the wall"
+  },
+  {
+    "image_id": 19154,
+    "caption": "several people are standing in the room"
+  },
+  {
+    "image_id": 19155,
+    "caption": "inside of a museum is photoed"
+  },
+  {
+    "image_id": 19181,
+    "caption": "two spoons are in the two plates"
+  },
+  {
+    "image_id": 19242,
+    "caption": "a bust is in front of the wall"
+  },
+  {
+    "image_id": 19505,
+    "caption": "lots of metal sticks are in the room"
+  },
+  {
+    "image_id": 19510,
+    "caption": "a painting is hung on wall of room at left side"
+  },
+  {
+    "image_id": 19554,
+    "caption": "inside of a cafe is photoed"
+  },
+  {
+    "image_id": 19592,
+    "caption": "a black table is photoed in a restaurant"
+  },
+  {
+    "image_id": 19624,
+    "caption": "the door of the building is on the left"
+  },
+  {
+    "image_id": 19662,
+    "caption": "iron railings are on the left side of the photo"
+  },
+  {
+    "image_id": 19744,
+    "caption": "a map of the city is hung on the wall"
+  },
+  {
+    "image_id": 19770,
+    "caption": "a car is parked on the right side of the road"
+  },
+  {
+    "image_id": 19784,
+    "caption": "a black counter is located on the left side of the photo"
+  },
+  {
+    "image_id": 19796,
+    "caption": "inside of a ferry is photoed"
+  },
+  {
+    "image_id": 19830,
+    "caption": "the table is covered with a white tablecloth"
+  },
+  {
+    "image_id": 19911,
+    "caption": "lots of people are in the market"
+  },
+  {
+    "image_id": 19948,
+    "caption": "a clock is on the wall"
+  },
+  {
+    "image_id": 19964,
+    "caption": "the wall of the building is made of bricks"
+  },
+  {
+    "image_id": 19983,
+    "caption": "a mouse is on the left side of the laptop"
+  },
+  {
+    "image_id": 20021,
+    "caption": "a gold and green patterned box is on the counter"
+  },
+  {
+    "image_id": 20051,
+    "caption": "a white plate is located on the right side of the table"
+  },
+  {
+    "image_id": 20056,
+    "caption": "some people are sitting on the train"
+  },
+  {
+    "image_id": 20160,
+    "caption": "shopping trolleys are taken in a supermarket"
+  },
+  {
+    "image_id": 20174,
+    "caption": "some people are sitting on the seats in the subway"
+  },
+  {
+    "image_id": 20175,
+    "caption": "a few people are walking in the bazaar"
+  },
+  {
+    "image_id": 20177,
+    "caption": "a bottle of water is on the table"
+  },
+  {
+    "image_id": 20189,
+    "caption": "a mosaic floor is in front of the columns"
+  },
+  {
+    "image_id": 20235,
+    "caption": "a spoon is located on the right side of the bowl"
+  },
+  {
+    "image_id": 20252,
+    "caption": "four plates of food are on the table"
+  },
+  {
+    "image_id": 20339,
+    "caption": "inside of a furniture store is taken"
+  },
+  {
+    "image_id": 20342,
+    "caption": "some views are hung on the wall"
+  },
+  {
+    "image_id": 20468,
+    "caption": "lots of white plates are located on the marble counter"
+  },
+  {
+    "image_id": 20492,
+    "caption": "a phone is on the kitchen counter"
+  },
+  {
+    "image_id": 20547,
+    "caption": "the door of the room is open"
+  },
+  {
+    "image_id": 20564,
+    "caption": "yellow lines for the visually impaired are visible on the ground"
+  },
+  {
+    "image_id": 20692,
+    "caption": "a cat is photoed in the daytime"
+  },
+  {
+    "image_id": 20791,
+    "caption": "a candle is photoed in a room"
+  },
+  {
+    "image_id": 20798,
+    "caption": "a blue lamp is located on the right side of the white cabinet"
+  },
+  {
+    "image_id": 20905,
+    "caption": "inside of a room is photoed"
+  },
+  {
+    "image_id": 20928,
+    "caption": "a person is laying on the carpet in front of the television"
+  },
+  {
+    "image_id": 20936,
+    "caption": "stairs are located on the left side of the photo"
+  },
+  {
+    "image_id": 21049,
+    "caption": "inside of a store is taken"
+  },
+  {
+    "image_id": 21069,
+    "caption": "a china cabinet is photoed in a home"
+  },
+  {
+    "image_id": 21118,
+    "caption": "inside of a shopping mall is taken"
+  },
+  {
+    "image_id": 21146,
+    "caption": "two yellow flowers are in a plastic bag"
+  },
+  {
+    "image_id": 21167,
+    "caption": "a lot of drones are on the table"
+  },
+  {
+    "image_id": 21224,
+    "caption": "a pen holder is on the left side of the table"
+  },
+  {
+    "image_id": 21245,
+    "caption": "inside of a shopping mall is taken"
+  },
+  {
+    "image_id": 21276,
+    "caption": "lots of magazines are on the shelves"
+  },
+  {
+    "image_id": 21321,
+    "caption": "a plate of food is on the table"
+  },
+  {
+    "image_id": 21348,
+    "caption": "a glass of water is on the table"
+  },
+  {
+    "image_id": 21423,
+    "caption": "a lot of plastic crates stacked on top of each other"
+  },
+  {
+    "image_id": 21464,
+    "caption": "an open door in an empty room"
+  },
+  {
+    "image_id": 21479,
+    "caption": "inside of a church is photoed"
+  },
+  {
+    "image_id": 21487,
+    "caption": "inside of a newly built building is taken"
+  },
+  {
+    "image_id": 21507,
+    "caption": "a lot of people are sitting in the room"
+  },
+  {
+    "image_id": 21514,
+    "caption": "some succulents are in a flowerpot"
+  },
+  {
+    "image_id": 21525,
+    "caption": "lots of products are on the shelves"
+  },
+  {
+    "image_id": 21571,
+    "caption": "a person is lying on the bed"
+  },
+  {
+    "image_id": 21606,
+    "caption": "inside of a church is photoed"
+  },
+  {
+    "image_id": 21627,
+    "caption": "a single bed is located in the middle of the room"
+  },
+  {
+    "image_id": 21668,
+    "caption": "ancient items are on display in a museum"
+  },
+  {
+    "image_id": 21737,
+    "caption": "yellow dots for the visually impaired are on the stairs"
+  },
+  {
+    "image_id": 21750,
+    "caption": "some plates and utensils are on the two shelves of the kitchen cupboard"
+  },
+  {
+    "image_id": 21753,
+    "caption": "inside of a building is photoed"
+  },
+  {
+    "image_id": 21794,
+    "caption": "two posters are hung on the wall"
+  },
+  {
+    "image_id": 21903,
+    "caption": "a medical machine with cables on it"
+  },
+  {
+    "image_id": 21909,
+    "caption": "the seats of the conference hall are empty"
+  },
+  {
+    "image_id": 21948,
+    "caption": "a few dumbbells are on the floor"
+  },
+  {
+    "image_id": 21961,
+    "caption": "four people are smiling at the camera"
+  },
+  {
+    "image_id": 21993,
+    "caption": "a flower pot is located on the table"
+  },
+  {
+    "image_id": 21997,
+    "caption": "the inside of a building with some stairs"
+  },
+  {
+    "image_id": 21999,
+    "caption": "a chess board is photoed in the daytime"
+  },
+  {
+    "image_id": 22008,
+    "caption": "a little girl is standing in the hallway"
+  },
+  {
+    "image_id": 22011,
+    "caption": "the shelves are made of wood"
+  },
+  {
+    "image_id": 22048,
+    "caption": "the inside of a building is taken"
+  },
+  {
+    "image_id": 22081,
+    "caption": "a view is hung on the wall"
+  },
+  {
+    "image_id": 22082,
+    "caption": "some tables and chairs are in front of the cafe"
+  },
+  {
+    "image_id": 22118,
+    "caption": "a black table is right in front"
+  },
+  {
+    "image_id": 22225,
+    "caption": "a warning sign is hung on the right side of the plant pots"
+  },
+  {
+    "image_id": 22390,
+    "caption": "a wooden table is located on the left side of the kitchen"
+  },
+  {
+    "image_id": 22435,
+    "caption": "a dog is photoed in a room"
+  },
+  {
+    "image_id": 22480,
+    "caption": "lots of money are on the table"
+  },
+  {
+    "image_id": 22505,
+    "caption": "a christmas tree is in front of the glass"
+  },
+  {
+    "image_id": 22621,
+    "caption": "a man is standing in front of the counter"
+  },
+  {
+    "image_id": 22650,
+    "caption": "a chandelier is located on the ceiling of the room"
+  },
+  {
+    "image_id": 22705,
+    "caption": "a white slipper is on the left side of the table"
+  },
+  {
+    "image_id": 22717,
+    "caption": "a t-shirt is on the hanger on the left"
+  },
+  {
+    "image_id": 22755,
+    "caption": "three flower pots are on the coffee table"
+  },
+  {
+    "image_id": 22782,
+    "caption": "a painting is hung on the wall"
+  },
+  {
+    "image_id": 22804,
+    "caption": "a lot of bicycles are sold in a shop"
+  },
+  {
+    "image_id": 22825,
+    "caption": "wall of the building is covering the background of the view"
+  },
+  {
+    "image_id": 22845,
+    "caption": "an empty classroom is photoed in the daytime"
+  },
+  {
+    "image_id": 22880,
+    "caption": "someone is holding a charger in their hand"
+  },
+  {
+    "image_id": 22945,
+    "caption": "inside of a market is taken"
+  },
+  {
+    "image_id": 22951,
+    "caption": "inside of a supermarket is photoed"
+  },
+  {
+    "image_id": 23095,
+    "caption": "a white shirt is hung on the hanger"
+  },
+  {
+    "image_id": 23264,
+    "caption": "a watermelon is located on the left side of the buffet"
+  },
+  {
+    "image_id": 23280,
+    "caption": "different kinds of plates are hung on the wall"
+  },
+  {
+    "image_id": 23294,
+    "caption": "a wooden chair in front of a white wall"
+  },
+  {
+    "image_id": 23333,
+    "caption": "two armchairs are on the left side of the table"
+  },
+  {
+    "image_id": 23362,
+    "caption": "lots of plates and glasses are on the table"
+  },
+  {
+    "image_id": 23400,
+    "caption": "a door is on the left side of the table"
+  },
+  {
+    "image_id": 23423,
+    "caption": "a notebook is on the left side of the notebook"
+  },
+  {
+    "image_id": 23437,
+    "caption": "lots of toys are being sold in a shop"
+  },
+  {
+    "image_id": 23516,
+    "caption": "a yellow colored food is photoed in a white bowl"
+  },
+  {
+    "image_id": 23537,
+    "caption": "a sofa is in front of the wall"
+  },
+  {
+    "image_id": 23543,
+    "caption": "a gun is on display in a museum"
+  },
+  {
+    "image_id": 23548,
+    "caption": "a white table is located in the middle of the room"
+  },
+  {
+    "image_id": 23637,
+    "caption": "a man in traditional clothes sitting on a chair"
+  },
+  {
+    "image_id": 23680,
+    "caption": "hospital equipments are taken in a hospital"
+  },
+  {
+    "image_id": 23704,
+    "caption": "a marble counter is right in front"
+  },
+  {
+    "image_id": 23743,
+    "caption": "two men are standing in front of the refrigerator"
+  },
+  {
+    "image_id": 23760,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 23820,
+    "caption": "some people are sitting on the stage"
+  },
+  {
+    "image_id": 23849,
+    "caption": "a person is standing in front of the flag"
+  },
+  {
+    "image_id": 23872,
+    "caption": "a woman with glasses is sitting at the table"
+  },
+  {
+    "image_id": 23883,
+    "caption": "a lot of people are sitting around the circle tables"
+  },
+  {
+    "image_id": 23913,
+    "caption": "a lot of people are sitting in the building"
+  },
+  {
+    "image_id": 23944,
+    "caption": "a woman is sitting on the right side of the seats"
+  },
+  {
+    "image_id": 23959,
+    "caption": "a lot of people are sitting on the chairs"
+  },
+  {
+    "image_id": 23961,
+    "caption": "two men are standing in front of the flag"
+  },
+  {
+    "image_id": 23978,
+    "caption": "a few plastic sticks are in the box"
+  },
+  {
+    "image_id": 24024,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 24036,
+    "caption": "a man in a suit is sitting at the table"
+  },
+  {
+    "image_id": 24037,
+    "caption": "some people are sitting on the chairs in the room"
+  },
+  {
+    "image_id": 24053,
+    "caption": "a woman with glasses is sitting on the pilates mat"
+  },
+  {
+    "image_id": 24064,
+    "caption": "some people are standing in the room"
+  },
+  {
+    "image_id": 24107,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 24113,
+    "caption": "a lot of people are sitting around the circle tables"
+  },
+  {
+    "image_id": 24148,
+    "caption": "some people are sitting on the sofas in the room"
+  },
+  {
+    "image_id": 24151,
+    "caption": "two women are walking in the church"
+  },
+  {
+    "image_id": 24157,
+    "caption": "a few people are standing in the building"
+  },
+  {
+    "image_id": 24190,
+    "caption": "two people are sitting at the table"
+  },
+  {
+    "image_id": 24309,
+    "caption": "some people are standing in front of the door"
+  },
+  {
+    "image_id": 24316,
+    "caption": "some people are standing on the red carpet"
+  },
+  {
+    "image_id": 24336,
+    "caption": "some people are holding prizes on the stage"
+  },
+  {
+    "image_id": 24337,
+    "caption": "a lot of people are sitting at the table"
+  },
+  {
+    "image_id": 24341,
+    "caption": "a lot of items are standing on the table"
+  },
+  {
+    "image_id": 24369,
+    "caption": "a lot of people are sitting around the circle tables"
+  },
+  {
+    "image_id": 24374,
+    "caption": "some people are standing in front of the boxes"
+  },
+  {
+    "image_id": 24398,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 24415,
+    "caption": "a lot of people are sitting at the table"
+  },
+  {
+    "image_id": 24436,
+    "caption": "a man in a suit is standing in front of the door"
+  },
+  {
+    "image_id": 24446,
+    "caption": "some people are sitting in front of the table"
+  },
+  {
+    "image_id": 24521,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 24581,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 24606,
+    "caption": "three men are sitting behind the table"
+  },
+  {
+    "image_id": 24625,
+    "caption": "some people are standing behind the plants"
+  },
+  {
+    "image_id": 24637,
+    "caption": "some people are sitting around the table"
+  },
+  {
+    "image_id": 24647,
+    "caption": "a man is standing in front of the chair"
+  },
+  {
+    "image_id": 24652,
+    "caption": "a man and a woman are dancing at night"
+  },
+  {
+    "image_id": 24682,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 24697,
+    "caption": "some people are sitting around the circle tables"
+  },
+  {
+    "image_id": 24701,
+    "caption": "a man in a suit is sitting at the table"
+  },
+  {
+    "image_id": 24739,
+    "caption": "a little girl is smiling at the camera"
+  },
+  {
+    "image_id": 24747,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 24752,
+    "caption": "a person is standing in front of the flag"
+  },
+  {
+    "image_id": 24759,
+    "caption": "a lot of people are sitting on the chairs"
+  },
+  {
+    "image_id": 24779,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 24792,
+    "caption": "a person is standing in front of the flag"
+  },
+  {
+    "image_id": 24801,
+    "caption": "three women are sitting on the mats"
+  },
+  {
+    "image_id": 24820,
+    "caption": "two armchairs are in front of the bookshelf"
+  },
+  {
+    "image_id": 24879,
+    "caption": "a bride and groom are dancing at night"
+  },
+  {
+    "image_id": 24922,
+    "caption": "a lot of shoe boxes are standing in the room"
+  },
+  {
+    "image_id": 24931,
+    "caption": "some people are sitting in front of the flag"
+  },
+  {
+    "image_id": 24978,
+    "caption": "some people are sitting in the room"
+  },
+  {
+    "image_id": 24985,
+    "caption": "a man is standing on the red carpet"
+  },
+  {
+    "image_id": 25002,
+    "caption": "some people are holding prizes on the stage"
+  },
+  {
+    "image_id": 25005,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 25029,
+    "caption": "a few men are standing in the building"
+  },
+  {
+    "image_id": 25031,
+    "caption": "a man is speaking on the stage"
+  },
+  {
+    "image_id": 25033,
+    "caption": "a man and a woman are standing on the stage"
+  },
+  {
+    "image_id": 25050,
+    "caption": "some people are sitting around the table"
+  },
+  {
+    "image_id": 25057,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 25080,
+    "caption": "four people are sitting at the table"
+  },
+  {
+    "image_id": 25085,
+    "caption": "boxes are stacked on top of each other in the room"
+  },
+  {
+    "image_id": 25088,
+    "caption": "a lot of men in suits are standing in the building"
+  },
+  {
+    "image_id": 25104,
+    "caption": "four men are sitting on the chairs in the room"
+  },
+  {
+    "image_id": 25116,
+    "caption": "a lot of people are sitting on the chairs"
+  },
+  {
+    "image_id": 25137,
+    "caption": "a man is standing behind the lectern"
+  },
+  {
+    "image_id": 25140,
+    "caption": "two people are standing in front of the table"
+  },
+  {
+    "image_id": 25197,
+    "caption": "a lot of people are sitting in the building"
+  },
+  {
+    "image_id": 25203,
+    "caption": "two people are standing on the stage"
+  },
+  {
+    "image_id": 25237,
+    "caption": "a woman with glasses is holding a baby"
+  },
+  {
+    "image_id": 25244,
+    "caption": "the building is behind the wall"
+  },
+  {
+    "image_id": 25295,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 25314,
+    "caption": "some turkish desserts are being sold on the bazaar"
+  },
+  {
+    "image_id": 25320,
+    "caption": "a man in a suit is sitting at the table"
+  },
+  {
+    "image_id": 25336,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 25355,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 25378,
+    "caption": "two men are standing next to each other"
+  },
+  {
+    "image_id": 25386,
+    "caption": "a lot of people are standing in front of the table"
+  },
+  {
+    "image_id": 25398,
+    "caption": "some people are standing in the building"
+  },
+  {
+    "image_id": 25412,
+    "caption": "two people are sitting at the table"
+  },
+  {
+    "image_id": 25426,
+    "caption": "some people are standing in the building"
+  },
+  {
+    "image_id": 25431,
+    "caption": "a lot of people are sitting around the circle table"
+  },
+  {
+    "image_id": 25440,
+    "caption": "a man is standing in front of the train"
+  },
+  {
+    "image_id": 25449,
+    "caption": "some people are holding prizes on the stage"
+  },
+  {
+    "image_id": 25465,
+    "caption": "a woman is sitting on the bed"
+  },
+  {
+    "image_id": 25480,
+    "caption": "some people are in front of the table"
+  },
+  {
+    "image_id": 25482,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 25535,
+    "caption": "a woman is sitting on the sofa"
+  },
+  {
+    "image_id": 25537,
+    "caption": "two men are standing on the red carpet"
+  },
+  {
+    "image_id": 25571,
+    "caption": "a man in a suit is sitting on the armchair"
+  },
+  {
+    "image_id": 25575,
+    "caption": "some people are sitting on the seats of the subway"
+  },
+  {
+    "image_id": 25587,
+    "caption": "some people are sitting on the stage"
+  },
+  {
+    "image_id": 25599,
+    "caption": "some people are standing in the building"
+  },
+  {
+    "image_id": 25630,
+    "caption": "some people are standing in the room"
+  },
+  {
+    "image_id": 25633,
+    "caption": "a lot of people are sitting in the building"
+  },
+  {
+    "image_id": 25665,
+    "caption": "some people are sitting around the table"
+  },
+  {
+    "image_id": 25718,
+    "caption": "a lot of people are sitting in the room"
+  },
+  {
+    "image_id": 25747,
+    "caption": "some people are sitting on the chairs in the room"
+  },
+  {
+    "image_id": 25775,
+    "caption": "a man is standing in front of the food"
+  },
+  {
+    "image_id": 25828,
+    "caption": "some people are standing in front of the wall"
+  },
+  {
+    "image_id": 25850,
+    "caption": "a lot of people are standing in the building"
+  },
+  {
+    "image_id": 25929,
+    "caption": "two people are standing on the stage"
+  },
+  {
+    "image_id": 25950,
+    "caption": "three men are sitting on the marble floor"
+  },
+  {
+    "image_id": 25959,
+    "caption": "a lot of people are standing in the room"
+  },
+  {
+    "image_id": 25985,
+    "caption": "a few people are standing in the room"
+  },
+  {
+    "image_id": 26013,
+    "caption": "the trees are behind the wall"
+  },
+  {
+    "image_id": 26016,
+    "caption": "some people are sitting at the table in the room"
+  },
+  {
+    "image_id": 26027,
+    "caption": "some bags are displayed on the glass of a shop"
+  },
+  {
+    "image_id": 26049,
+    "caption": "a lot of people are standing in the building"
+  },
+  {
+    "image_id": 26054,
+    "caption": "some people are sitting at the tables"
+  },
+  {
+    "image_id": 26058,
+    "caption": "some people are sitting and standing at night"
+  },
+  {
+    "image_id": 26084,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 26118,
+    "caption": "a few people are sitting around the table"
+  },
+  {
+    "image_id": 26138,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 26152,
+    "caption": "some people are standing in the room"
+  },
+  {
+    "image_id": 26196,
+    "caption": "a lot of people are sitting at the tables"
+  },
+  {
+    "image_id": 26200,
+    "caption": "a lot of people are sitting at the tables in the restaurant"
+  },
+  {
+    "image_id": 26242,
+    "caption": "a little girl is sitting on the chair"
+  },
+  {
+    "image_id": 26247,
+    "caption": "an old woman is playing the guitar"
+  },
+  {
+    "image_id": 26285,
+    "caption": "a man in a suit is holding a pen"
+  },
+  {
+    "image_id": 26298,
+    "caption": "a man and a woman are dancing at night"
+  },
+  {
+    "image_id": 26331,
+    "caption": "some people are sitting on the chairs in the building"
+  },
+  {
+    "image_id": 26343,
+    "caption": "a religious place is being protected by rope at front side"
+  },
+  {
+    "image_id": 26364,
+    "caption": "a woman with a mask is sitting on the wooden chair"
+  },
+  {
+    "image_id": 26368,
+    "caption": "a person is standing in front of the flag"
+  },
+  {
+    "image_id": 26373,
+    "caption": "some people are standing in front of the wall"
+  },
+  {
+    "image_id": 26399,
+    "caption": "a man with a mask is standing in the store"
+  },
+  {
+    "image_id": 26400,
+    "caption": "four people are sitting around the table"
+  },
+  {
+    "image_id": 26418,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 26426,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 26437,
+    "caption": "two people are standing in front of the table"
+  },
+  {
+    "image_id": 26443,
+    "caption": "a man is sitting on the chair in the room"
+  },
+  {
+    "image_id": 26465,
+    "caption": "four people are sitting in the room"
+  },
+  {
+    "image_id": 26488,
+    "caption": "two paintings are hung on the wall"
+  },
+  {
+    "image_id": 26500,
+    "caption": "a lot of people are standing in the room"
+  },
+  {
+    "image_id": 26615,
+    "caption": "a lot of people are standing in the building"
+  },
+  {
+    "image_id": 26629,
+    "caption": "the trees are in front of the buildings"
+  },
+  {
+    "image_id": 26633,
+    "caption": "a few flower pots are placed in the room"
+  },
+  {
+    "image_id": 26637,
+    "caption": "the inside of a store with red curtains"
+  },
+  {
+    "image_id": 26658,
+    "caption": "some people are sitting at the table in the room"
+  },
+  {
+    "image_id": 26699,
+    "caption": "an old man and a woman are sitting on an old man's lap"
+  },
+  {
+    "image_id": 26733,
+    "caption": "a man is sitting at the table in front of the flag"
+  },
+  {
+    "image_id": 26772,
+    "caption": "some people are standing in the room"
+  },
+  {
+    "image_id": 26819,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 26822,
+    "caption": "a man with a mask is in front of the flag"
+  },
+  {
+    "image_id": 26830,
+    "caption": "four people are sitting at the table"
+  },
+  {
+    "image_id": 26845,
+    "caption": "some people are sitting in the room"
+  },
+  {
+    "image_id": 26851,
+    "caption": "a lot of people are sitting on the seats"
+  },
+  {
+    "image_id": 26916,
+    "caption": "some people are sitting in the room"
+  },
+  {
+    "image_id": 26922,
+    "caption": "four people are sitting on the floor in front of the paintings"
+  },
+  {
+    "image_id": 26931,
+    "caption": "a lot of people are sitting at the tables in the restaurant"
+  },
+  {
+    "image_id": 26932,
+    "caption": "two men are shaking hands in the corridor"
+  },
+  {
+    "image_id": 26946,
+    "caption": "an old man and a woman are sitting on the couch"
+  },
+  {
+    "image_id": 26994,
+    "caption": "two people are sitting in front of the vase"
+  },
+  {
+    "image_id": 27055,
+    "caption": "a man in a suit is holding a prize at night"
+  },
+  {
+    "image_id": 27065,
+    "caption": "a man is standing in front of the boxes"
+  },
+  {
+    "image_id": 27069,
+    "caption": "some people are sitting in the room"
+  },
+  {
+    "image_id": 27095,
+    "caption": "some people are standing in front of the flag"
+  },
+  {
+    "image_id": 27117,
+    "caption": "a lot of people are sitting in the building"
+  },
+  {
+    "image_id": 27121,
+    "caption": "some people are standing in front of the table"
+  },
+  {
+    "image_id": 27137,
+    "caption": "a birthday cake is placed on the table"
+  },
+  {
+    "image_id": 27158,
+    "caption": "a lot of people are dancing at night"
+  },
+  {
+    "image_id": 27165,
+    "caption": "some people are looking at the paintings on the wall"
+  },
+  {
+    "image_id": 27186,
+    "caption": "some people are sitting in the room"
+  },
+  {
+    "image_id": 27200,
+    "caption": "four people are sitting at the table"
+  },
+  {
+    "image_id": 27222,
+    "caption": "five men are standing in the room"
+  },
+  {
+    "image_id": 27241,
+    "caption": "some people are standing in front of the flags"
+  },
+  {
+    "image_id": 27300,
+    "caption": "a few cheeses are placed on the table"
+  },
+  {
+    "image_id": 27383,
+    "caption": "a woman's face is on the poster"
+  },
+  {
+    "image_id": 27400,
+    "caption": "a tv is hung on the wall in the living room"
+  },
+  {
+    "image_id": 27421,
+    "caption": "a dog is sleeping in front of the whiteboard"
+  },
+  {
+    "image_id": 27423,
+    "caption": "two beer bottles are on the table"
+  },
+  {
+    "image_id": 27499,
+    "caption": "a carpet is on the floor in the living room"
+  },
+  {
+    "image_id": 27658,
+    "caption": "a cat is sleeping on the armchair"
+  },
+  {
+    "image_id": 27665,
+    "caption": "a painting of jesus is on the wall of the church"
+  },
+  {
+    "image_id": 27840,
+    "caption": "a man is looking at the cat"
+  },
+  {
+    "image_id": 27875,
+    "caption": "lots of people are studying in the library"
+  },
+  {
+    "image_id": 27970,
+    "caption": "a ruler is on the table"
+  },
+  {
+    "image_id": 28026,
+    "caption": "two men are sitting in a cafe"
+  },
+  {
+    "image_id": 28048,
+    "caption": "a chandelier is hanging from the ceiling"
+  },
+  {
+    "image_id": 28085,
+    "caption": "inside of a cafe is taken"
+  },
+  {
+    "image_id": 28129,
+    "caption": "inside of a public bus is taken"
+  },
+  {
+    "image_id": 28230,
+    "caption": "lots of bags of chips are on the shelves"
+  },
+  {
+    "image_id": 28245,
+    "caption": "the umbrella is on the right side of the stone wall"
+  },
+  {
+    "image_id": 28367,
+    "caption": "a statue of a man is in front of the red wall"
+  },
+  {
+    "image_id": 28430,
+    "caption": "a flower pot is on the right side of the table"
+  },
+  {
+    "image_id": 28441,
+    "caption": "a wooden table is taken in a cafe"
+  },
+  {
+    "image_id": 28507,
+    "caption": "an aquarium with some fish in it on a table"
+  },
+  {
+    "image_id": 28529,
+    "caption": "two televisions hang on the wall of the cafe"
+  },
+  {
+    "image_id": 28556,
+    "caption": "someone is holding a bottle of perfume"
+  },
+  {
+    "image_id": 28709,
+    "caption": "inside of a shopping mall is photoed"
+  },
+  {
+    "image_id": 28769,
+    "caption": "inside of a furniture store is taken"
+  },
+  {
+    "image_id": 28868,
+    "caption": "inside of a gym is taken"
+  },
+  {
+    "image_id": 28976,
+    "caption": "ataturk is sitting at the table in front of the bookshelf"
+  },
+  {
+    "image_id": 29011,
+    "caption": "a book is photoed in a library"
+  },
+  {
+    "image_id": 29050,
+    "caption": "two children's bikes are side by side"
+  },
+  {
+    "image_id": 29051,
+    "caption": "stairs of a building are photoed"
+  },
+  {
+    "image_id": 29140,
+    "caption": "some mirrors are hung on the wall"
+  },
+  {
+    "image_id": 29191,
+    "caption": "a bicycle is in the middle of the room"
+  },
+  {
+    "image_id": 29311,
+    "caption": "a mirror on the wall of a room"
+  },
+  {
+    "image_id": 29411,
+    "caption": "the heater is in front of the window"
+  },
+  {
+    "image_id": 29496,
+    "caption": "a blue and white machine is in a building"
+  },
+  {
+    "image_id": 29592,
+    "caption": "a plant in a white vase is in front of the window"
+  },
+  {
+    "image_id": 29684,
+    "caption": "two beer bottles are on the table"
+  },
+  {
+    "image_id": 29704,
+    "caption": "inside of a amusement park is taken"
+  },
+  {
+    "image_id": 29712,
+    "caption": "some statues on the walls of a building"
+  },
+  {
+    "image_id": 29853,
+    "caption": "a man with a mask is walking in the subway"
+  },
+  {
+    "image_id": 29897,
+    "caption": "a chair with a brown cover is in front of the curtain"
+  },
+  {
+    "image_id": 29946,
+    "caption": "the door of the house is on the left"
+  },
+  {
+    "image_id": 29995,
+    "caption": "lots of snacks are on the boxes in the supermarket"
+  },
+  {
+    "image_id": 30028,
+    "caption": "a pen and a water bottle are on the notebook"
+  },
+  {
+    "image_id": 30091,
+    "caption": "a chandelier hangs from the ceiling"
+  },
+  {
+    "image_id": 30100,
+    "caption": "a whiteboard is visible on the left side of the classroom"
+  },
+  {
+    "image_id": 30128,
+    "caption": "lots of people are walking in the bazaar"
+  },
+  {
+    "image_id": 30249,
+    "caption": "a clock is photoed in a room"
+  },
+  {
+    "image_id": 30297,
+    "caption": "inside of a building is taken"
+  },
+  {
+    "image_id": 30384,
+    "caption": "a cat is standing in front of the window"
+  },
+  {
+    "image_id": 30389,
+    "caption": "a framed mirror is on the wall"
+  },
+  {
+    "image_id": 30445,
+    "caption": "lots of plants are in the pots"
+  },
+  {
+    "image_id": 30531,
+    "caption": "snow covered trees are visible on the other side of the window"
+  },
+  {
+    "image_id": 30558,
+    "caption": "bananas are on the left side of the market"
+  },
+  {
+    "image_id": 30725,
+    "caption": "two people are playing a game on the table"
+  },
+  {
+    "image_id": 30817,
+    "caption": "stairs of the subway station are taken"
+  },
+  {
+    "image_id": 30850,
+    "caption": "an empty room with an open door"
+  },
+  {
+    "image_id": 30894,
+    "caption": "two bowls of food are on the table"
+  },
+  {
+    "image_id": 30922,
+    "caption": "inside of the airport is taken"
+  },
+  {
+    "image_id": 30954,
+    "caption": "a painting of a panda is on the wall"
+  },
+  {
+    "image_id": 30955,
+    "caption": "a statue of a man lying on the ground"
+  },
+  {
+    "image_id": 30986,
+    "caption": "inside of a museum is photoed"
+  },
+  {
+    "image_id": 31065,
+    "caption": "a laptop is on the left side of the table"
+  },
+  {
+    "image_id": 31074,
+    "caption": "lots of desserts are on the shelves"
+  },
+  {
+    "image_id": 31107,
+    "caption": "inside of a gym is taken"
+  },
+  {
+    "image_id": 31241,
+    "caption": "two armchairs are next to each other"
+  },
+  {
+    "image_id": 31304,
+    "caption": "two budgies are in a bird cage"
+  },
+  {
+    "image_id": 31441,
+    "caption": "a water bottle is on the left side of the table"
+  },
+  {
+    "image_id": 31549,
+    "caption": "a red flower pot is on the right side of the entrance"
+  },
+  {
+    "image_id": 31619,
+    "caption": "a miniature model is photoed in the daytime"
+  },
+  {
+    "image_id": 31637,
+    "caption": "some people are sitting on the seats on the stage"
+  },
+  {
+    "image_id": 31666,
+    "caption": "an empty movie theater with a big screen"
+  },
+  {
+    "image_id": 31691,
+    "caption": "two people are walking on the corridor"
+  },
+  {
+    "image_id": 31692,
+    "caption": "a student is posing in the classroom"
+  },
+  {
+    "image_id": 31753,
+    "caption": "miniature figures of men and women are on display"
+  },
+  {
+    "image_id": 31881,
+    "caption": "a cup of coffee is on the table"
+  },
+  {
+    "image_id": 31949,
+    "caption": "a round table is located in the middle of the room"
+  },
+  {
+    "image_id": 31951,
+    "caption": "some paintings are hung on the wall behind the statue"
+  },
+  {
+    "image_id": 31973,
+    "caption": "a large mirror is hung on the wall"
+  },
+  {
+    "image_id": 32033,
+    "caption": "inside of a big building is taken"
+  },
+  {
+    "image_id": 32069,
+    "caption": "a man is posing in front of a statue"
+  },
+  {
+    "image_id": 32095,
+    "caption": "the dome of a mosque is taken"
+  },
+  {
+    "image_id": 32310,
+    "caption": "a water bottle is on the table"
+  },
+  {
+    "image_id": 32327,
+    "caption": "a black bag is on the left side of the table"
+  },
+  {
+    "image_id": 32349,
+    "caption": "a lot of books are on the bookshelf"
+  },
+  {
+    "image_id": 32358,
+    "caption": "people are sitting on the seats in the classroom"
+  },
+  {
+    "image_id": 32435,
+    "caption": "inside of a gym is taken"
+  },
+  {
+    "image_id": 32521,
+    "caption": "an empty classroom is photoed in the daytime"
+  },
+  {
+    "image_id": 32524,
+    "caption": "a man is standing in the kitchen"
+  },
+  {
+    "image_id": 32542,
+    "caption": "a jar of cinnamon is on the table"
+  },
+  {
+    "image_id": 32785,
+    "caption": "a few posters are hung on the wall"
+  },
+  {
+    "image_id": 32880,
+    "caption": "inside of a restaurant is photoed"
+  },
+  {
+    "image_id": 32891,
+    "caption": "a laptop is on the left side of the table"
+  },
+  {
+    "image_id": 32955,
+    "caption": "a subway is photoed in the daytime"
+  },
+  {
+    "image_id": 33099,
+    "caption": "a bag is on the ground in the middle of the market"
+  },
+  {
+    "image_id": 33107,
+    "caption": "traditional clothes are taken in a tent"
+  },
+  {
+    "image_id": 33153,
+    "caption": "subway station is taken from inside of train station"
+  },
+  {
+    "image_id": 33235,
+    "caption": "people are waiting for the train at the station"
+  },
+  {
+    "image_id": 33277,
+    "caption": "a man is sitting on the wooden chair"
+  },
+  {
+    "image_id": 33378,
+    "caption": "two men are standing in front of the mirror"
+  },
+  {
+    "image_id": 33393,
+    "caption": "some people are working in a hospital"
+  },
+  {
+    "image_id": 33430,
+    "caption": "a door is on the right side of the corridor"
+  },
+  {
+    "image_id": 33436,
+    "caption": "some machines are in a building"
+  },
+  {
+    "image_id": 33531,
+    "caption": "inside of a cafe is photoed"
+  },
+  {
+    "image_id": 33548,
+    "caption": "a plant in a flower pot is in front of the door"
+  },
+  {
+    "image_id": 33607,
+    "caption": "the sun is shining through the window"
+  },
+  {
+    "image_id": 33658,
+    "caption": "a painting is hung on the wall of the cafe"
+  },
+  {
+    "image_id": 33660,
+    "caption": "some plants are in front of the window"
+  },
+  {
+    "image_id": 33748,
+    "caption": "a dog is standing in front of the whiteboard"
+  },
+  {
+    "image_id": 33779,
+    "caption": "some people are sitting on the seats in the theatre"
+  },
+  {
+    "image_id": 33803,
+    "caption": "lots of people are watching a basketball game"
+  },
+  {
+    "image_id": 33821,
+    "caption": "lots of antique items are being sold on the street"
+  },
+  {
+    "image_id": 33995,
+    "caption": "empty chairs and tables are on the left side of the area"
+  },
+  {
+    "image_id": 34115,
+    "caption": "a mug is next to the book on the table"
+  },
+  {
+    "image_id": 34128,
+    "caption": "traditional handcrafts are being sold in a shop"
+  },
+  {
+    "image_id": 34237,
+    "caption": "an air conditioner is on the wall behind the window"
+  },
+  {
+    "image_id": 34275,
+    "caption": "a flower in a flower pot is photoed"
+  },
+  {
+    "image_id": 34359,
+    "caption": "a man is taking a photo with his phone"
+  },
+  {
+    "image_id": 34376,
+    "caption": "a laptop is on the left side of the table"
+  },
+  {
+    "image_id": 34459,
+    "caption": "a coffee mug is on the coffee table"
+  },
+  {
+    "image_id": 34549,
+    "caption": "a woman is standing in front of the table"
+  },
+  {
+    "image_id": 34655,
+    "caption": "some cars are in a car showroom"
+  },
+  {
+    "image_id": 34824,
+    "caption": "a fluffy cat is lying on the pillow"
+  },
+  {
+    "image_id": 35141,
+    "caption": "a few people are walking on the corridor"
+  },
+  {
+    "image_id": 35172,
+    "caption": "inside of a cafe is taken"
+  },
+  {
+    "image_id": 35428,
+    "caption": "antique cars are on display in a gallery"
+  },
+  {
+    "image_id": 35431,
+    "caption": "inside of a restaurant is taken"
+  },
+  {
+    "image_id": 35579,
+    "caption": "inside of a church is taken"
+  },
+  {
+    "image_id": 35671,
+    "caption": "a book is on the market shelf"
+  },
+  {
+    "image_id": 35811,
+    "caption": "lots of rugs are hung on the wall of the room"
+  },
+  {
+    "image_id": 35863,
+    "caption": "a man is posing in a tunnel"
+  },
+  {
+    "image_id": 35898,
+    "caption": "lots of books are on the shelves in the library"
+  },
+  {
+    "image_id": 35976,
+    "caption": "a glass of water is on the right side of the plate"
+  },
+  {
+    "image_id": 36093,
+    "caption": "a clock is on the wall of the room"
+  },
+  {
+    "image_id": 36125,
+    "caption": "a plug is on the wall"
+  },
+  {
+    "image_id": 36215,
+    "caption": "a cat is photoed in the daytime"
+  },
+  {
+    "image_id": 36289,
+    "caption": "a ladder is in front of the wall"
+  },
+  {
+    "image_id": 36339,
+    "caption": "a box of toothbrushes is on the wall"
+  },
+  {
+    "image_id": 36407,
+    "caption": "a board is on the wall"
+  },
+  {
+    "image_id": 36423,
+    "caption": "flower pots are placed on the wooden table"
+  },
+  {
+    "image_id": 36429,
+    "caption": "wooden benches are on the left side of the room"
+  },
+  {
+    "image_id": 36502,
+    "caption": "a bed is in front of the window"
+  },
+  {
+    "image_id": 36534,
+    "caption": "an empty room with white walls"
+  },
+  {
+    "image_id": 36664,
+    "caption": "a lot of vases are on the floor"
+  },
+  {
+    "image_id": 36687,
+    "caption": "an open door of an apartment"
+  },
+  {
+    "image_id": 36735,
+    "caption": "an altar with a painting on it"
+  },
+  {
+    "image_id": 36746,
+    "caption": "an empty room with white walls"
+  },
+  {
+    "image_id": 36756,
+    "caption": "a wooden chest with a lot of engravings"
+  },
+  {
+    "image_id": 36763,
+    "caption": "a man is standing in front of the table"
+  },
+  {
+    "image_id": 36845,
+    "caption": "a duster on a washing machine"
+  },
+  {
+    "image_id": 36888,
+    "caption": "a dining table and chairs in a room"
+  },
+  {
+    "image_id": 36910,
+    "caption": "a couch and a table in a living room"
+  },
+  {
+    "image_id": 36934,
+    "caption": "some people are walking on a street"
+  },
+  {
+    "image_id": 36936,
+    "caption": "inside of a building is photoed"
+  },
+  {
+    "image_id": 37018,
+    "caption": "a white toilet in a bathroom"
+  },
+  {
+    "image_id": 37034,
+    "caption": "a kid is standing in front of the window"
+  },
+  {
+    "image_id": 37100,
+    "caption": "some trash cans in a hallway"
+  },
+  {
+    "image_id": 37180,
+    "caption": "a man is walking on the corridor"
+  },
+  {
+    "image_id": 37190,
+    "caption": "inside of a historical building is taken"
+  },
+  {
+    "image_id": 37198,
+    "caption": "an empty bathroom with a mirror"
+  },
+  {
+    "image_id": 37220,
+    "caption": "an empty hallway with a white wall"
+  },
+  {
+    "image_id": 37221,
+    "caption": "an empty kitchen with white cabinets"
+  },
+  {
+    "image_id": 37243,
+    "caption": "a painting of a man is hung on the wall"
+  },
+  {
+    "image_id": 37258,
+    "caption": "a painting on the wall of a building"
+  },
+  {
+    "image_id": 37409,
+    "caption": "four trash bins are next to each other"
+  },
+  {
+    "image_id": 37438,
+    "caption": "a kitchen with white cupboards is taken"
+  },
+  {
+    "image_id": 37452,
+    "caption": "a bed in a room with a carpet"
+  },
+  {
+    "image_id": 37476,
+    "caption": "lots of jars are on the table"
+  },
+  {
+    "image_id": 37487,
+    "caption": "a framed painting of some people"
+  },
+  {
+    "image_id": 37490,
+    "caption": "a baby's bed is located in front of the window"
+  },
+  {
+    "image_id": 37506,
+    "caption": "a blue bicycle in front of the stairs"
+  },
+  {
+    "image_id": 37528,
+    "caption": "a brown wooden wardrobe in front of a chair"
+  },
+  {
+    "image_id": 37544,
+    "caption": "an empty kitchen with a black hose"
+  },
+  {
+    "image_id": 37611,
+    "caption": "an orange couch and a white refrigerator in a kitchen"
+  },
+  {
+    "image_id": 37631,
+    "caption": "a sink is in front of a mirror"
+  },
+  {
+    "image_id": 37667,
+    "caption": "an empty hallway with white walls"
+  },
+  {
+    "image_id": 37700,
+    "caption": "an empty room with white walls"
+  },
+  {
+    "image_id": 37720,
+    "caption": "a woman is raising her hand in front of computer"
+  },
+  {
+    "image_id": 37745,
+    "caption": "a man standing in front of some clothes in a store"
+  },
+  {
+    "image_id": 37789,
+    "caption": "a woman and a man in front of a seashell"
+  },
+  {
+    "image_id": 37800,
+    "caption": "the door of the room is on the left"
+  },
+  {
+    "image_id": 37808,
+    "caption": "a sink and a toilet in a bathroom"
+  },
+  {
+    "image_id": 37834,
+    "caption": "an empty room with a window"
+  },
+  {
+    "image_id": 37845,
+    "caption": "inside of a room is photoed"
+  },
+  {
+    "image_id": 37898,
+    "caption": "lots of flower pots are on the shelves"
+  },
+  {
+    "image_id": 37922,
+    "caption": "two glass doors in an empty room"
+  },
+  {
+    "image_id": 37999,
+    "caption": "an open door of an empty room"
+  },
+  {
+    "image_id": 38044,
+    "caption": "an empty hallway with red walls"
+  },
+  {
+    "image_id": 38084,
+    "caption": "a toilet and a sink in a bathroom"
+  },
+  {
+    "image_id": 38108,
+    "caption": "some faucets are in front of the wall"
+  },
+  {
+    "image_id": 38110,
+    "caption": "inside of a building is photoed"
+  },
+  {
+    "image_id": 38139,
+    "caption": "some bookshelves in front of a wall"
+  },
+  {
+    "image_id": 38161,
+    "caption": "some paintings on the ceiling of a church"
+  },
+  {
+    "image_id": 38222,
+    "caption": "a bookcase with some books on it"
+  },
+  {
+    "image_id": 38243,
+    "caption": "a man and a woman are standing in the room"
+  },
+  {
+    "image_id": 38285,
+    "caption": "an air conditioner is on the table"
+  },
+  {
+    "image_id": 38297,
+    "caption": "an orange couch and a coffee table in a room"
+  },
+  {
+    "image_id": 38305,
+    "caption": "an empty kitchen with white cabinets"
+  },
+  {
+    "image_id": 38316,
+    "caption": "some people are in a building"
+  },
+  {
+    "image_id": 38338,
+    "caption": "a kitchen with white cabinets and a carpet"
+  },
+  {
+    "image_id": 38445,
+    "caption": "an empty hallway of an apartment"
+  },
+  {
+    "image_id": 38450,
+    "caption": "an empty church with statues on the walls"
+  },
+  {
+    "image_id": 38516,
+    "caption": "an empty room with a window"
+  },
+  {
+    "image_id": 38536,
+    "caption": "inside of a mosque is taken"
+  },
+  {
+    "image_id": 38601,
+    "caption": "a billboard is on the wall of the subway station"
+  },
+  {
+    "image_id": 38721,
+    "caption": "an empty room with a window"
+  },
+  {
+    "image_id": 38855,
+    "caption": "a wooden chest with a lot of engravings on it"
+  },
+  {
+    "image_id": 38870,
+    "caption": "two women are sitting in a cafe"
+  },
+  {
+    "image_id": 38934,
+    "caption": "lots of evil eye beads are hung on the ceiling"
+  },
+  {
+    "image_id": 38952,
+    "caption": "lots of books are on the shelves"
+  },
+  {
+    "image_id": 39023,
+    "caption": "a bed in a room"
+  },
+  {
+    "image_id": 39039,
+    "caption": "a wooden chest with a lot of engravings on it"
+  },
+  {
+    "image_id": 39092,
+    "caption": "an empty room with a window"
+  },
+  {
+    "image_id": 39128,
+    "caption": "a vacuum cleaner is on the floor"
+  },
+  {
+    "image_id": 39161,
+    "caption": "a mosque is photoed in the daytime"
+  },
+  {
+    "image_id": 39198,
+    "caption": "an empty building with white walls"
+  },
+  {
+    "image_id": 39209,
+    "caption": "some people in a room with computers"
+  },
+  {
+    "image_id": 39309,
+    "caption": "some utensils are on the kitchen counter"
+  },
+  {
+    "image_id": 39421,
+    "caption": "an empty kitchen with new cabinets"
+  },
+  {
+    "image_id": 39438,
+    "caption": "some clothes are on the shelves"
+  },
+  {
+    "image_id": 39483,
+    "caption": "a big machine in a room"
+  },
+  {
+    "image_id": 39520,
+    "caption": "an old stove is in the kitchen"
+  },
+  {
+    "image_id": 39530,
+    "caption": "a wooden chair in front of two couches"
+  },
+  {
+    "image_id": 39554,
+    "caption": "a lot of plants and trees in a garden"
+  },
+  {
+    "image_id": 39578,
+    "caption": "a lot of people are standing in the corridor"
+  },
+  {
+    "image_id": 39590,
+    "caption": "two women sitting at a table"
+  },
+  {
+    "image_id": 39632,
+    "caption": "a lot of seats in a classroom"
+  },
+  {
+    "image_id": 39634,
+    "caption": "an empty hallway with a brown door"
+  },
+  {
+    "image_id": 39707,
+    "caption": "a cat is sleeping on a sofa"
+  },
+  {
+    "image_id": 39747,
+    "caption": "an empty hallway with some lights"
+  },
+  {
+    "image_id": 39792,
+    "caption": "some tables and chairs in a room"
+  },
+  {
+    "image_id": 39808,
+    "caption": "two women are sitting at the table"
+  },
+  {
+    "image_id": 39872,
+    "caption": "the inside of a building with an indoor pool"
+  },
+  {
+    "image_id": 39919,
+    "caption": "an empty kitchen with brown and white cabinets"
+  },
+  {
+    "image_id": 39989,
+    "caption": "a couch and a table in a living room"
+  },
+  {
+    "image_id": 40020,
+    "caption": "two women sitting at a table"
+  },
+  {
+    "image_id": 40047,
+    "caption": "an empty hallway with a stroller"
+  },
+  {
+    "image_id": 40052,
+    "caption": "a lot of people are sitting at the table"
+  },
+  {
+    "image_id": 40064,
+    "caption": "a soil area is taken"
+  },
+  {
+    "image_id": 40084,
+    "caption": "two sockets are on the table"
+  },
+  {
+    "image_id": 40166,
+    "caption": "a view of a store with glass windows"
+  },
+  {
+    "image_id": 40176,
+    "caption": "a white door is on the right side of the view"
+  },
+  {
+    "image_id": 40238,
+    "caption": "the inside of a shopping mall"
+  },
+  {
+    "image_id": 40270,
+    "caption": "a hand is holding a glass of lemonade"
+  },
+  {
+    "image_id": 40296,
+    "caption": "an open door of a building"
+  },
+  {
+    "image_id": 40337,
+    "caption": "a rose in a glass on a table"
+  },
+  {
+    "image_id": 40414,
+    "caption": "a wicker bag on a bed"
+  },
+  {
+    "image_id": 40426,
+    "caption": "a glass of tea is on the table"
+  },
+  {
+    "image_id": 40477,
+    "caption": "lots of people are sitting in the cafe"
+  },
+  {
+    "image_id": 40537,
+    "caption": "some metal bars in a room"
+  },
+  {
+    "image_id": 40578,
+    "caption": "a man is looking at the chandeliers"
+  },
+  {
+    "image_id": 40659,
+    "caption": "a hand is holding a cup of tea"
+  },
+  {
+    "image_id": 40675,
+    "caption": "inside of a church is photoed"
+  },
+  {
+    "image_id": 40832,
+    "caption": "a yellow armchair is in front of the window"
+  },
+  {
+    "image_id": 40855,
+    "caption": "an electronic circuit is on a table"
+  },
+  {
+    "image_id": 40884,
+    "caption": "an elephant figurine is on the left side of the bowl"
+  },
+  {
+    "image_id": 40909,
+    "caption": "two chandeliers are on the ceiling of the building"
+  },
+  {
+    "image_id": 40912,
+    "caption": "a mirror is on the dresser"
+  },
+  {
+    "image_id": 40965,
+    "caption": "an empty bathroom with a shower cabin"
+  },
+  {
+    "image_id": 40985,
+    "caption": "different kinds of jams are on the shelves"
+  },
+  {
+    "image_id": 41023,
+    "caption": "a white door is on the right side of the view"
+  },
+  {
+    "image_id": 41027,
+    "caption": "some santa claus figures are on display in a shop"
+  },
+  {
+    "image_id": 41045,
+    "caption": "a man is standing in front of a cave"
+  },
+  {
+    "image_id": 41123,
+    "caption": "a girl is holding a t-shirt in a clothing store"
+  },
+  {
+    "image_id": 41143,
+    "caption": "a hand is holding a cup of coffee in front of a christmas tree"
+  },
+  {
+    "image_id": 41164,
+    "caption": "a statue of a man holding a child"
+  },
+  {
+    "image_id": 41197,
+    "caption": "a plant in a flowerpot on a table"
+  },
+  {
+    "image_id": 41211,
+    "caption": "a pair of slippers is on the floor"
+  },
+  {
+    "image_id": 41277,
+    "caption": "inside of a building is photoed"
+  },
+  {
+    "image_id": 41324,
+    "caption": "some golden colored utensils are on the tables"
+  },
+  {
+    "image_id": 41346,
+    "caption": "a glass box is photoed in a room"
+  },
+  {
+    "image_id": 41361,
+    "caption": "some plants in small pots on a tray"
+  },
+  {
+    "image_id": 41385,
+    "caption": "a crocheted rug is on the parquet floor"
+  },
+  {
+    "image_id": 41442,
+    "caption": "a curtain is hung on the right side of the room"
+  },
+  {
+    "image_id": 41514,
+    "caption": "a cup of coffee on a glass table"
+  },
+  {
+    "image_id": 41555,
+    "caption": "a rose in a glass on a table"
+  },
+  {
+    "image_id": 41654,
+    "caption": "a clock is on the wall behind the chair"
+  },
+  {
+    "image_id": 41672,
+    "caption": "a christmas tree is located in the middle of the room"
+  },
+  {
+    "image_id": 41685,
+    "caption": "some people in front of a church"
+  },
+  {
+    "image_id": 41802,
+    "caption": "the ceiling of the building is made of glass"
+  },
+  {
+    "image_id": 41845,
+    "caption": "some paintings on the wall of a church"
+  },
+  {
+    "image_id": 41877,
+    "caption": "a view of a store with glass windows"
+  },
+  {
+    "image_id": 41890,
+    "caption": "a jet plane is taken in a hangar"
+  },
+  {
+    "image_id": 41922,
+    "caption": "a candle is on the table next to the flower pot"
+  },
+  {
+    "image_id": 41955,
+    "caption": "lots of books are on the shelves"
+  },
+  {
+    "image_id": 41965,
+    "caption": "some pieces of wood are in the room"
+  },
+  {
+    "image_id": 41985,
+    "caption": "metal poles are located on the right side of the entrance"
+  },
+  {
+    "image_id": 42042,
+    "caption": "an empty building with glass walls"
+  },
+  {
+    "image_id": 42091,
+    "caption": "a violin in a case on the floor"
+  },
+  {
+    "image_id": 42151,
+    "caption": "a tv unit is on the right side of the tv"
+  },
+  {
+    "image_id": 42193,
+    "caption": "a plant is in a flower pot on the table"
+  },
+  {
+    "image_id": 42199,
+    "caption": "a map is photoed on a wall"
+  },
+  {
+    "image_id": 42242,
+    "caption": "a plastic bowl is photoed in a room"
+  },
+  {
+    "image_id": 42302,
+    "caption": "a white stool is on the left side of the bed"
+  },
+  {
+    "image_id": 42318,
+    "caption": "three mannequins are in the room"
+  },
+  {
+    "image_id": 42413,
+    "caption": "a lion statue is on the left"
+  },
+  {
+    "image_id": 42416,
+    "caption": "a statue of a man and a woman in a church"
+  },
+  {
+    "image_id": 42458,
+    "caption": "a mirror is hung on the wall above the sink"
+  },
+  {
+    "image_id": 42482,
+    "caption": "a christmas tree is in front of the television"
+  },
+  {
+    "image_id": 42483,
+    "caption": "a hand is holding a cup of turkish coffee"
+  },
+  {
+    "image_id": 42534,
+    "caption": "a sign hung on the wall of a restaurant"
+  },
+  {
+    "image_id": 42582,
+    "caption": "an empty hallway of a building"
+  },
+  {
+    "image_id": 42661,
+    "caption": "the inside of a barn is taken"
+  },
+  {
+    "image_id": 42664,
+    "caption": "three armchairs are in front of the coffee table"
+  },
+  {
+    "image_id": 42772,
+    "caption": "some people are walking in the train station"
+  },
+  {
+    "image_id": 42803,
+    "caption": "a hand is holding a cup of coffee"
+  },
+  {
+    "image_id": 42819,
+    "caption": "someone is holding walnuts in a white bowl"
+  },
+  {
+    "image_id": 42857,
+    "caption": "some pink flowers in flower pots on a balcony"
+  },
+  {
+    "image_id": 42999,
+    "caption": "an armchair is in front of the wall"
+  },
+  {
+    "image_id": 43006,
+    "caption": "the glass door of a room with some stairs"
+  },
+  {
+    "image_id": 43035,
+    "caption": "a lot of tires on a truck in a room"
+  },
+  {
+    "image_id": 43057,
+    "caption": "lots of different kinds of honey are on the shelves"
+  },
+  {
+    "image_id": 43077,
+    "caption": "a plant in a flower pot on a table"
+  },
+  {
+    "image_id": 43247,
+    "caption": "a cup of coffee and a glass of water on the table"
+  },
+  {
+    "image_id": 43285,
+    "caption": "a pair of sneakers on the shelves"
+  },
+  {
+    "image_id": 43387,
+    "caption": "a pine tree is located on the right side of the table"
+  },
+  {
+    "image_id": 43453,
+    "caption": "a plant in a flowerpot on a balcony"
+  },
+  {
+    "image_id": 43458,
+    "caption": "a shower head is hung on the wall"
+  },
+  {
+    "image_id": 43468,
+    "caption": "three flower pots are in front of the window"
+  },
+  {
+    "image_id": 43493,
+    "caption": "inside of a building is photoed"
+  },
+  {
+    "image_id": 43512,
+    "caption": "inside of a building is wet and dirty"
+  },
+  {
+    "image_id": 43564,
+    "caption": "an armchair is in the middle of the room"
+  },
+  {
+    "image_id": 43600,
+    "caption": "curtains of room at background are closed on sunny day"
+  },
+  {
+    "image_id": 43608,
+    "caption": "an aquarium with some plants in it"
+  },
+  {
+    "image_id": 43635,
+    "caption": "the window is made of stone"
+  },
+  {
+    "image_id": 43686,
+    "caption": "a coffee cup is on the parquet floor"
+  },
+  {
+    "image_id": 43774,
+    "caption": "a succulent plant is in a flower pot"
+  },
+  {
+    "image_id": 43780,
+    "caption": "a cup of coffee on a table"
+  },
+  {
+    "image_id": 43781,
+    "caption": "lots of souvenirs are being sold in the souvenir shop"
+  },
+  {
+    "image_id": 43791,
+    "caption": "a gun is on the table in a shooting range"
+  },
+  {
+    "image_id": 43802,
+    "caption": "artificial flowers are in the vase on the table"
+  },
+  {
+    "image_id": 43859,
+    "caption": "some daisies in a vase on a table"
+  },
+  {
+    "image_id": 43874,
+    "caption": "inside of a sports hall is taken"
+  },
+  {
+    "image_id": 43924,
+    "caption": "the entrance of a building has glass doors"
+  },
+  {
+    "image_id": 43937,
+    "caption": "an empty hallway with some columns"
+  },
+  {
+    "image_id": 43971,
+    "caption": "tangerine, apple and orange are on the plate"
+  },
+  {
+    "image_id": 44011,
+    "caption": "a view of an old building with balconies"
+  },
+  {
+    "image_id": 44063,
+    "caption": "a tv screen is hung on the wall of the airplane"
+  },
+  {
+    "image_id": 44110,
+    "caption": "a clock is hung on the wall above the tv"
+  },
+  {
+    "image_id": 44137,
+    "caption": "a staircase is photoed in the daytime"
+  },
+  {
+    "image_id": 44177,
+    "caption": "artificial flowers are photoed in a room"
+  },
+  {
+    "image_id": 44305,
+    "caption": "a man is wearing a mask in front of the bakery"
+  },
+  {
+    "image_id": 44307,
+    "caption": "a cup of coffee on a wooden table"
+  },
+  {
+    "image_id": 44402,
+    "caption": "a sculpture of a woman is in the middle of the room"
+  },
+  {
+    "image_id": 44407,
+    "caption": "an empty room with a white door"
+  },
+  {
+    "image_id": 44432,
+    "caption": "an old car is on display in the museum"
+  },
+  {
+    "image_id": 44481,
+    "caption": "lots of books are on the shelves"
+  },
+  {
+    "image_id": 44482,
+    "caption": "a lot of books are on the shelves"
+  },
+  {
+    "image_id": 44548,
+    "caption": "a carpet is on the ground in front of the door"
+  },
+  {
+    "image_id": 44565,
+    "caption": "inside of a cafe is taken"
+  },
+  {
+    "image_id": 44575,
+    "caption": "the inside of a building is taken"
+  },
+  {
+    "image_id": 44576,
+    "caption": "lots of old signs are hung on the wall"
+  },
+  {
+    "image_id": 44590,
+    "caption": "a security camera is on the wall"
+  },
+  {
+    "image_id": 44601,
+    "caption": "some posters are hung on the wall"
+  },
+  {
+    "image_id": 44611,
+    "caption": "a man is standing in front of the shelves"
+  },
+  {
+    "image_id": 44615,
+    "caption": "four statues of soldiers are standing in the room"
+  },
+  {
+    "image_id": 44725,
+    "caption": "a chair is placed in front of the window"
+  },
+  {
+    "image_id": 44733,
+    "caption": "a bottle of disinfectant is on the table"
+  },
+  {
+    "image_id": 44763,
+    "caption": "two men are shooting at the shooting range"
+  },
+  {
+    "image_id": 44768,
+    "caption": "a subway train is waiting for passengers at the station"
+  },
+  {
+    "image_id": 44792,
+    "caption": "a cat is sitting on someone's lap"
+  },
+  {
+    "image_id": 44808,
+    "caption": "a framed picture of a man and a woman is hung on the wall"
+  },
+  {
+    "image_id": 44834,
+    "caption": "two parrots are on the branches of the tree"
+  },
+  {
+    "image_id": 44838,
+    "caption": "a computer is on the table in front of the wall"
+  },
+  {
+    "image_id": 44961,
+    "caption": "two slippers are on the table"
+  },
+  {
+    "image_id": 44977,
+    "caption": "two glasses of red drinks on a table"
+  },
+  {
+    "image_id": 45103,
+    "caption": "a laptop is on the wooden table"
+  },
+  {
+    "image_id": 45142,
+    "caption": "a motorbike is in the garden of a house"
+  },
+  {
+    "image_id": 45153,
+    "caption": "the information board is located on a white wall"
+  },
+  {
+    "image_id": 45164,
+    "caption": "three little girls are sitting on the sofa"
+  },
+  {
+    "image_id": 45336,
+    "caption": "inside of a hotel is photoed"
+  },
+  {
+    "image_id": 45343,
+    "caption": "a wooden table is right in front"
+  },
+  {
+    "image_id": 45379,
+    "caption": "a plaque is hung on the wooden wall"
+  },
+  {
+    "image_id": 45414,
+    "caption": "inside of a church is taken"
+  },
+  {
+    "image_id": 45418,
+    "caption": "a cup of coffee and a glass of water are on the table"
+  },
+  {
+    "image_id": 45434,
+    "caption": "a bottle of water is on the table"
+  },
+  {
+    "image_id": 45474,
+    "caption": "a woman is holding a book in her hand"
+  },
+  {
+    "image_id": 45574,
+    "caption": "inside of a church is taken"
+  },
+  {
+    "image_id": 45592,
+    "caption": "two people are sitting on the train"
+  },
+  {
+    "image_id": 45680,
+    "caption": "the ceiling of the building is decorated with paintings"
+  },
+  {
+    "image_id": 45737,
+    "caption": "long bamboo sticks are planted in the flower pots"
+  },
+  {
+    "image_id": 45778,
+    "caption": "a cup of coffee is on the table"
+  },
+  {
+    "image_id": 45783,
+    "caption": "a group of people are sitting in a cafe"
+  },
+  {
+    "image_id": 45786,
+    "caption": "a glass of water is on the table"
+  },
+  {
+    "image_id": 45808,
+    "caption": "a painting is on the right side of the bookshelf"
+  },
+  {
+    "image_id": 45915,
+    "caption": "some coffee jars on a wooden shelf"
+  },
+  {
+    "image_id": 45991,
+    "caption": "inside of a church is taken"
+  },
+  {
+    "image_id": 46002,
+    "caption": "inside of a religious building is taken"
+  },
+  {
+    "image_id": 46024,
+    "caption": "a cat is in the bag"
+  },
+  {
+    "image_id": 46035,
+    "caption": "people are watching the scene on the stage at night"
+  },
+  {
+    "image_id": 46036,
+    "caption": "cars are parked in front of the building"
+  },
+  {
+    "image_id": 46050,
+    "caption": "a notebook and a pen are on the table in front of the window"
+  },
+  {
+    "image_id": 46078,
+    "caption": "someone is reading a book in the library"
+  },
+  {
+    "image_id": 46095,
+    "caption": "two cacti in flower pots in front of the window"
+  },
+  {
+    "image_id": 46136,
+    "caption": "lots of plastic jars are on the floor"
+  },
+  {
+    "image_id": 46324,
+    "caption": "window of the house is covered by curtains"
+  },
+  {
+    "image_id": 46337,
+    "caption": "stone weights are on display in museum"
+  },
+  {
+    "image_id": 46457,
+    "caption": "a pencil case is on the table"
+  },
+  {
+    "image_id": 46495,
+    "caption": "artificial flowers are on the ceiling"
+  },
+  {
+    "image_id": 46581,
+    "caption": "ancient weapons are on display in museum"
+  },
+  {
+    "image_id": 46592,
+    "caption": "a statue is standing in front of the wall"
+  },
+  {
+    "image_id": 46610,
+    "caption": "a globe is on the desk"
+  },
+  {
+    "image_id": 46648,
+    "caption": "a coffee cup is located on the right side of the sculpture"
+  },
+  {
+    "image_id": 46696,
+    "caption": "a figurine of a mermaid is on the table"
+  },
+  {
+    "image_id": 46699,
+    "caption": "a cute dog is in front of the cage"
+  },
+  {
+    "image_id": 46713,
+    "caption": "a backpack is placed on the seat of the bus"
+  },
+  {
+    "image_id": 46753,
+    "caption": "a bookcase is photoed in a library"
+  },
+  {
+    "image_id": 46765,
+    "caption": "lots of wine bottles are on the shelves"
+  },
+  {
+    "image_id": 46800,
+    "caption": "a lot of clothes are hung on the hangers"
+  },
+  {
+    "image_id": 46842,
+    "caption": "a lot of books are on the shelves"
+  },
+  {
+    "image_id": 46847,
+    "caption": "some people are waiting for their flight at the airport"
+  },
+  {
+    "image_id": 46876,
+    "caption": "lots of books are on the shelves"
+  },
+  {
+    "image_id": 46965,
+    "caption": "empty tables and chairs are in the restaurant"
+  },
+  {
+    "image_id": 46971,
+    "caption": "a chandelier is hanging from the ceiling"
+  },
+  {
+    "image_id": 46977,
+    "caption": "a handmade cloth is on the ground"
+  },
+  {
+    "image_id": 47019,
+    "caption": "a classroom is photoed in the daytime"
+  },
+  {
+    "image_id": 47023,
+    "caption": "wooden ceiling of a building is taken from inside"
+  },
+  {
+    "image_id": 47027,
+    "caption": "a bag is on the desk in the classroom"
+  },
+  {
+    "image_id": 47029,
+    "caption": "curtains are hung on the left side of the room"
+  },
+  {
+    "image_id": 47069,
+    "caption": "three flower pots are in front of the window"
+  },
+  {
+    "image_id": 47086,
+    "caption": "flowers are on the shelves of the flower shop"
+  },
+  {
+    "image_id": 47134,
+    "caption": "inside of a public bus is taken"
+  },
+  {
+    "image_id": 47155,
+    "caption": "a black chair is photoed in a store"
+  },
+  {
+    "image_id": 47166,
+    "caption": "a mannequin dressed in a suit is in the glass box"
+  },
+  {
+    "image_id": 47271,
+    "caption": "lots of sushi plates are on the table"
+  },
+  {
+    "image_id": 47282,
+    "caption": "a clock is hung on the wall"
+  },
+  {
+    "image_id": 47323,
+    "caption": "a few people are visiting the historical site"
+  },
+  {
+    "image_id": 47331,
+    "caption": "a lego set is on the table"
+  },
+  {
+    "image_id": 47338,
+    "caption": "inside of a subway is taken"
+  },
+  {
+    "image_id": 47385,
+    "caption": "inside of a shopping mall is taken"
+  },
+  {
+    "image_id": 47402,
+    "caption": "three speakers are on the table"
+  },
+  {
+    "image_id": 47440,
+    "caption": "iron railings are on the left side of the building"
+  },
+  {
+    "image_id": 47478,
+    "caption": "an empty room with big windows"
+  },
+  {
+    "image_id": 47498,
+    "caption": "a glass of tea is on the table"
+  },
+  {
+    "image_id": 47585,
+    "caption": "a painting is hung on the wall of the house"
+  },
+  {
+    "image_id": 47612,
+    "caption": "a little girl and a little boy are posing in front of the window"
+  },
+  {
+    "image_id": 47631,
+    "caption": "a cat is lying on the marble floor"
+  },
+  {
+    "image_id": 47646,
+    "caption": "a teapot and a cup are on display in a glass box"
+  },
+  {
+    "image_id": 47751,
+    "caption": "someone is sitting on the chair in front of the computer"
+  },
+  {
+    "image_id": 47776,
+    "caption": "two cans of coke and two cans of energy drink on the table"
+  },
+  {
+    "image_id": 47791,
+    "caption": "a classroom is photoed in the daytime"
+  },
+  {
+    "image_id": 47799,
+    "caption": "inside of a shopping mall is taken"
+  },
+  {
+    "image_id": 47911,
+    "caption": "a yellow gadget is on the table"
+  },
+  {
+    "image_id": 47943,
+    "caption": "a human skeleton is in a glass box"
+  },
+  {
+    "image_id": 47970,
+    "caption": "inside of a car park is taken"
+  },
+  {
+    "image_id": 47976,
+    "caption": "the bed is located on the right side of the room"
+  },
+  {
+    "image_id": 47987,
+    "caption": "a water bottle is on the coffee table"
+  },
+  {
+    "image_id": 48005,
+    "caption": "a cat is sitting on the sofa in the living room"
+  },
+  {
+    "image_id": 48021,
+    "caption": "the gym equipment is in front of the wall"
+  },
+  {
+    "image_id": 48023,
+    "caption": "lots of columns are standing on the ground"
+  },
+  {
+    "image_id": 48154,
+    "caption": "a few lamps are hung on the wall of the cafe"
+  },
+  {
+    "image_id": 48226,
+    "caption": "a machine is taken in a museum"
+  },
+  {
+    "image_id": 48272,
+    "caption": "some plants in pots on a hallway"
+  },
+  {
+    "image_id": 48279,
+    "caption": "a cat is standing on the table"
+  },
+  {
+    "image_id": 48285,
+    "caption": "someone is sitting on an armchair in front of the window"
+  },
+  {
+    "image_id": 48320,
+    "caption": "lots of desks and chairs are in the classroom"
+  },
+  {
+    "image_id": 48360,
+    "caption": "inside of a historical building is taken"
+  },
+  {
+    "image_id": 48372,
+    "caption": "two men are playing a game in a room"
+  },
+  {
+    "image_id": 48384,
+    "caption": "the door of a building is open"
+  },
+  {
+    "image_id": 48396,
+    "caption": "a cat is lying on the carpet"
+  },
+  {
+    "image_id": 48425,
+    "caption": "a man in a suit is playing billiards"
+  },
+  {
+    "image_id": 48498,
+    "caption": "a statue of a man with a striped hat"
+  },
+  {
+    "image_id": 48553,
+    "caption": "a table is in the middle of the room"
+  },
+  {
+    "image_id": 48630,
+    "caption": "inside of a church is taken"
+  },
+  {
+    "image_id": 48648,
+    "caption": "two flower pots are placed in front of the window"
+  },
+  {
+    "image_id": 48690,
+    "caption": "a rug is hung on the wall of the cafe"
+  },
+  {
+    "image_id": 48773,
+    "caption": "a little boy is standing in front of the sofa"
+  },
+  {
+    "image_id": 48837,
+    "caption": "two girls with luminous vests are sitting and smiling"
+  },
+  {
+    "image_id": 48838,
+    "caption": "a man is standing in front of a blue bucket"
+  },
+  {
+    "image_id": 48878,
+    "caption": "the inside of a grocery store with fruits and vegetables"
+  },
+  {
+    "image_id": 48906,
+    "caption": "two pillows and a blanket on a sofa"
+  },
+  {
+    "image_id": 48926,
+    "caption": "a woman is looking at the camera"
+  },
+  {
+    "image_id": 48955,
+    "caption": "a man with a black vest standing in front of a restaurant"
+  },
+  {
+    "image_id": 48958,
+    "caption": "a little boy is sitting on a chair in the kitchen"
+  },
+  {
+    "image_id": 48988,
+    "caption": "the inside of an eyeglass store can be seen from the outside"
+  },
+  {
+    "image_id": 48994,
+    "caption": "a brown utensil on a wooden shelf"
+  },
+  {
+    "image_id": 49070,
+    "caption": "a blue plastic bag next to a white door"
+  },
+  {
+    "image_id": 49077,
+    "caption": "the door of a room is open"
+  },
+  {
+    "image_id": 49148,
+    "caption": "a woman is talking on the phone in front of an appliance store"
+  },
+  {
+    "image_id": 49157,
+    "caption": "a lot of kids in black t-shirts on the stage"
+  },
+  {
+    "image_id": 49163,
+    "caption": "the inside of a store with glass doors"
+  },
+  {
+    "image_id": 49176,
+    "caption": "a bar of soap is on the left side of the sink"
+  },
+  {
+    "image_id": 49257,
+    "caption": "a little boy is playing with his teeth"
+  },
+  {
+    "image_id": 49278,
+    "caption": "a turkish flag hung on a door"
+  },
+  {
+    "image_id": 49319,
+    "caption": "some plants in front of a wall"
+  },
+  {
+    "image_id": 49330,
+    "caption": "a washing machine is on the left side of the view"
+  },
+  {
+    "image_id": 49410,
+    "caption": "the inside of a store is seen from the outside"
+  },
+  {
+    "image_id": 49421,
+    "caption": "a man is standing in front of the school"
+  },
+  {
+    "image_id": 49466,
+    "caption": "two remote controls and a tv remote on a table"
+  },
+  {
+    "image_id": 49468,
+    "caption": "some items are on the table in front of the wall"
+  },
+  {
+    "image_id": 49479,
+    "caption": "a lot of items are being sold in front of the store"
+  },
+  {
+    "image_id": 49516,
+    "caption": "a lot of packages are standing in front of the store"
+  },
+  {
+    "image_id": 49564,
+    "caption": "some luggages are hung on the wall of the store"
+  },
+  {
+    "image_id": 49607,
+    "caption": "a few students are walking in the school corridor"
+  },
+  {
+    "image_id": 49618,
+    "caption": "a writing on a wall under a yellow pipe"
+  },
+  {
+    "image_id": 49622,
+    "caption": "some mannequins and clothes in a clothing store"
+  },
+  {
+    "image_id": 49627,
+    "caption": "some plants in front of the wall"
+  },
+  {
+    "image_id": 49631,
+    "caption": "a boy is running on the carpet in the living room"
+  },
+  {
+    "image_id": 49642,
+    "caption": "some plants in flower pots on a table"
+  },
+  {
+    "image_id": 49651,
+    "caption": "the door of the building is on the left"
+  },
+  {
+    "image_id": 49702,
+    "caption": "a chandelier is on the ceiling"
+  },
+  {
+    "image_id": 49716,
+    "caption": "a pair of shoes and a pair of slippers on a blue shoe rack"
+  },
+  {
+    "image_id": 49734,
+    "caption": "a bust of a man is displayed on a column"
+  },
+  {
+    "image_id": 49755,
+    "caption": "two pairs of shoes on a brown table"
+  },
+  {
+    "image_id": 49765,
+    "caption": "a boy and a man are sitting on an armchair"
+  },
+  {
+    "image_id": 49776,
+    "caption": "a showerhead is on the wall"
+  },
+  {
+    "image_id": 49788,
+    "caption": "some paintings hung on a black wall"
+  },
+  {
+    "image_id": 49813,
+    "caption": "a plastic bag on a white towel in front of a white wall"
+  },
+  {
+    "image_id": 49827,
+    "caption": "a chandelier is hung on the ceiling"
+  },
+  {
+    "image_id": 49829,
+    "caption": "a man is sitting on the chair in front of the restaurant"
+  },
+  {
+    "image_id": 49832,
+    "caption": "a blue bucket and a red bucket next to each other in a shower"
+  },
+  {
+    "image_id": 49845,
+    "caption": "a pink bucket and a dustpan next to the wall"
+  },
+  {
+    "image_id": 49880,
+    "caption": "a little boy is sitting on the sofa in the living room"
+  },
+  {
+    "image_id": 49942,
+    "caption": "a boy is standing in the living room"
+  },
+  {
+    "image_id": 49947,
+    "caption": "a lot of kids are sitting on yellow chairs and drawing"
+  },
+  {
+    "image_id": 49981,
+    "caption": "a paper towel and some bottles on a table"
+  },
+  {
+    "image_id": 50000,
+    "caption": "a boy and a man are sitting on an armchair"
+  },
+  {
+    "image_id": 50089,
+    "caption": "the view of a store from the outside"
+  },
+  {
+    "image_id": 50114,
+    "caption": "a tv hung on the wall above some chairs and a table"
+  },
+  {
+    "image_id": 50118,
+    "caption": "a lot of kids are standing in front of the whiteboard"
+  },
+  {
+    "image_id": 50132,
+    "caption": "a water bottle and a cardboard box in a closet"
+  },
+  {
+    "image_id": 50156,
+    "caption": "a television is hung on the wall"
+  },
+  {
+    "image_id": 50159,
+    "caption": "a red flag is hung on the glass of a store"
+  },
+  {
+    "image_id": 50164,
+    "caption": "two dogs and a pair of slippers are on the ground"
+  },
+  {
+    "image_id": 50204,
+    "caption": "two framed paintings hung on a black wall"
+  },
+  {
+    "image_id": 50223,
+    "caption": "a little boy is laying on the bed"
+  },
+  {
+    "image_id": 50370,
+    "caption": "a lot of household items are being sold in a store"
+  },
+  {
+    "image_id": 50538,
+    "caption": "a boy with long hair is sitting on the seat of the train"
+  },
+  {
+    "image_id": 50563,
+    "caption": "plastic bags are covering the computers on the table"
+  },
+  {
+    "image_id": 50578,
+    "caption": "a lot of people are sitting on plastic chairs"
+  },
+  {
+    "image_id": 50781,
+    "caption": "some people are sitting at the table"
+  },
+  {
+    "image_id": 50811,
+    "caption": "a boy in pyjamas is sitting in a green plastic chair"
+  },
+  {
+    "image_id": 50847,
+    "caption": "a jacket is hung on the hanger"
+  },
+  {
+    "image_id": 50848,
+    "caption": "a group of people are sitting on the ground"
+  },
+  {
+    "image_id": 50929,
+    "caption": "a coffee vending machine is standing in front of the door"
+  },
+  {
+    "image_id": 51003,
+    "caption": "the paintings are hung on the stone wall"
+  },
+  {
+    "image_id": 51042,
+    "caption": "a toy car is on the table"
+  },
+  {
+    "image_id": 51144,
+    "caption": "a man is holding a microphone in front of the paintings"
+  },
+  {
+    "image_id": 51188,
+    "caption": "a man is giving a speech in front of the paintings"
+  },
+  {
+    "image_id": 51197,
+    "caption": "some people are walking in a bazaar"
+  },
+  {
+    "image_id": 51211,
+    "caption": "a few women are sitting on the sofa"
+  },
+  {
+    "image_id": 51243,
+    "caption": "some people are sitting on the chairs in the room"
+  },
+  {
+    "image_id": 51255,
+    "caption": "a lot of people are sitting at the table"
+  },
+  {
+    "image_id": 51291,
+    "caption": "a hospital room is photoed in the daytime"
+  },
+  {
+    "image_id": 51547,
+    "caption": "a man is sleeping on the seat of the train"
+  },
+  {
+    "image_id": 51620,
+    "caption": "a birthday cake is on the table"
+  },
+  {
+    "image_id": 51636,
+    "caption": "three frames are hung on the wall"
+  },
+  {
+    "image_id": 51681,
+    "caption": "a little girl is sitting on lap of woman"
+  },
+  {
+    "image_id": 51800,
+    "caption": "lots of people are sitting on chairs in the hall"
+  },
+  {
+    "image_id": 51902,
+    "caption": "a lot of people are sitting and standing in the corridor"
+  },
+  {
+    "image_id": 51912,
+    "caption": "a lot of boxes are standing in the room"
+  },
+  {
+    "image_id": 51941,
+    "caption": "a man and a boy are lying on an orange sofa"
+  },
+  {
+    "image_id": 52011,
+    "caption": "a boy with black pyjamas sitting on a white stool"
+  },
+  {
+    "image_id": 52204,
+    "caption": "a man and a boy are lying on an orange sofa"
+  },
+  {
+    "image_id": 52217,
+    "caption": "a few people are standing in front of the tables"
+  },
+  {
+    "image_id": 52221,
+    "caption": "a boy in pyjamas is playing with a toy"
+  },
+  {
+    "image_id": 52300,
+    "caption": "a little girl is sitting in the chair"
+  },
+  {
+    "image_id": 52361,
+    "caption": "lots of people are sitting on the seats in the conference hall"
+  },
+  {
+    "image_id": 52397,
+    "caption": "a boy is standing in the living room"
+  },
+  {
+    "image_id": 52409,
+    "caption": "some people are sitting on the stage"
+  },
+  {
+    "image_id": 52474,
+    "caption": "some people are standing in front of the computer"
+  },
+  {
+    "image_id": 52507,
+    "caption": "a few teacups are placed on the china cabinet"
+  },
+  {
+    "image_id": 52668,
+    "caption": "a lot of people are sitting in the corridor"
+  },
+  {
+    "image_id": 52669,
+    "caption": "a little boy is standing in front of the couch"
+  },
+  {
+    "image_id": 52723,
+    "caption": "emergency exit is written on window of train"
+  },
+  {
+    "image_id": 52789,
+    "caption": "a little girl is blowing out the candles on her birthday cake"
+  },
+  {
+    "image_id": 52792,
+    "caption": "a dog is lying on the iron bars of the window"
+  },
+  {
+    "image_id": 52868,
+    "caption": "a blanket is covering the couch"
+  },
+  {
+    "image_id": 52928,
+    "caption": "a little boy is sitting behind a finished puzzle"
+  },
+  {
+    "image_id": 52943,
+    "caption": "a boy in pyjamas sitting on a couch"
+  },
+  {
+    "image_id": 52947,
+    "caption": "a boy is standing in the living room"
+  },
+  {
+    "image_id": 52954,
+    "caption": "lots of paintings are on the easels"
+  },
+  {
+    "image_id": 52969,
+    "caption": "four women are standing in the room"
+  },
+  {
+    "image_id": 53019,
+    "caption": "a little girl is sitting on the couch"
+  },
+  {
+    "image_id": 53117,
+    "caption": "a little girl is sitting on the couch"
+  },
+  {
+    "image_id": 53128,
+    "caption": "three girls are sitting on the sofa"
+  },
+  {
+    "image_id": 53194,
+    "caption": "a few people are travelling by isban on sunny day"
+  },
+  {
+    "image_id": 53252,
+    "caption": "a lot of people are standing in front of the glass"
+  },
+  {
+    "image_id": 53280,
+    "caption": "a little boy is sitting on a chair in the kitchen"
+  },
+  {
+    "image_id": 53281,
+    "caption": "a man is sitting on the seat of the train"
+  },
+  {
+    "image_id": 53316,
+    "caption": "a chocolate cake is standing on the coffee table"
+  },
+  {
+    "image_id": 53380,
+    "caption": "a few frames are hung on the wall"
+  },
+  {
+    "image_id": 53425,
+    "caption": "a man and a boy lying on an orange sofa"
+  },
+  {
+    "image_id": 53480,
+    "caption": "a little girl is standing on the coffee table"
+  },
+  {
+    "image_id": 53488,
+    "caption": "a man is standing in front of the shop"
+  }
+]

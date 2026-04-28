@@ -1,0 +1,24 @@
+{
+  "token_nll_quantiles": {
+    "0.68": 8.289626758188845,
+    "0.95": 11.793744052066511,
+    "0.997": 17.38133543268081
+  },
+  "seq_avg_nll_quantiles": {
+    "0.68": 7.01634313328037,
+    "0.95": 8.709471362825056,
+    "0.997": 10.294334541250558
+  },
+  "decoding_config": {
+    "decode": "beam",
+    "beams": 5,
+    "top_p": 0.9,
+    "temperature": 1.0,
+    "max_new_tokens": 20,
+    "min_new_tokens": 5
+  },
+  "counts": {
+    "tokens": 81669,
+    "captions": 8017
+  }
+}

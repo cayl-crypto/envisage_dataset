@@ -1,0 +1,3537 @@
+{
+  "annotations": [
+    {
+      "image_id": 10493,
+      "sentence_id": "00052441",
+      "caption": "a corner of the dining table is viewed",
+      "id": 52441
+    },
+    {
+      "image_id": 10493,
+      "sentence_id": "00052442",
+      "caption": "a dinner plate is right in front with it full",
+      "id": 52442
+    },
+    {
+      "image_id": 10493,
+      "sentence_id": "00052443",
+      "caption": "a small salt shaker is on the table in front",
+      "id": 52443
+    },
+    {
+      "image_id": 10493,
+      "sentence_id": "00052444",
+      "caption": "A person is sitting at the other end of the table.",
+      "id": 52444
+    },
+    {
+      "image_id": 10493,
+      "sentence_id": "00052445",
+      "caption": "two sauce packets are on the table to the left",
+      "id": 52445
+    },
+    {
+      "image_id": 12384,
+      "sentence_id": "00061881",
+      "caption": "a pan is on the stove right in front",
+      "id": 61881
+    },
+    {
+      "image_id": 12384,
+      "sentence_id": "00061882",
+      "caption": "mushrooms are cooking in the pan",
+      "id": 61882
+    },
+    {
+      "image_id": 12384,
+      "sentence_id": "00061883",
+      "caption": "wooden spoon left inside the mushrooms",
+      "id": 61883
+    },
+    {
+      "image_id": 12384,
+      "sentence_id": "00061884",
+      "caption": "a blue salt shaker is on the left side of the ceiling",
+      "id": 61884
+    },
+    {
+      "image_id": 12384,
+      "sentence_id": "00061885",
+      "caption": "white oven button and oven opening handle are under the hob",
+      "id": 61885
+    },
+    {
+      "image_id": 19480,
+      "sentence_id": "00097216",
+      "caption": "a food is photoed in a plate.",
+      "id": 97216
+    },
+    {
+      "image_id": 19480,
+      "sentence_id": "00097217",
+      "caption": "cake is photoed in a plate.",
+      "id": 97217
+    },
+    {
+      "image_id": 19480,
+      "sentence_id": "00097218",
+      "caption": "the plate has flower drawings on it.",
+      "id": 97218
+    },
+    {
+      "image_id": 19480,
+      "sentence_id": "00097219",
+      "caption": "a fork and a spoon is located on the right side of the plate.",
+      "id": 97219
+    },
+    {
+      "image_id": 19480,
+      "sentence_id": "00097220",
+      "caption": "the plate is located on a wooden table.",
+      "id": 97220
+    },
+    {
+      "image_id": 39968,
+      "sentence_id": "00199626",
+      "caption": "A teapot and a pot on a white stove",
+      "id": 199626
+    },
+    {
+      "image_id": 39968,
+      "sentence_id": "00199627",
+      "caption": "A teapot and a pot are on the stove",
+      "id": 199627
+    },
+    {
+      "image_id": 39968,
+      "sentence_id": "00199628",
+      "caption": "A pot and a teapot on a white stovetop",
+      "id": 199628
+    },
+    {
+      "image_id": 39968,
+      "sentence_id": "00199629",
+      "caption": "A white stovetop with a pot and a teapot",
+      "id": 199629
+    },
+    {
+      "image_id": 39968,
+      "sentence_id": "00199630",
+      "caption": "A red coffee machine on a stand of a kitchen",
+      "id": 199630
+    },
+    {
+      "image_id": 5270,
+      "sentence_id": "00026346",
+      "caption": "The woman's nail is too long and red.",
+      "id": 26346
+    },
+    {
+      "image_id": 5270,
+      "sentence_id": "00026347",
+      "caption": "The wall of the room is covering the background",
+      "id": 26347
+    },
+    {
+      "image_id": 5270,
+      "sentence_id": "00026348",
+      "caption": "lots of mini pockets of coffee is put on table under woman's hand",
+      "id": 26348
+    },
+    {
+      "image_id": 5270,
+      "sentence_id": "00026349",
+      "caption": "Someone is holding a packet on the kitchen table",
+      "id": 26349
+    },
+    {
+      "image_id": 5270,
+      "sentence_id": "00026350",
+      "caption": "salt and pepper shakers and pomegranate syrup are on the table",
+      "id": 26350
+    },
+    {
+      "image_id": 15314,
+      "sentence_id": "00076411",
+      "caption": "keyboard of a computer is on left side",
+      "id": 76411
+    },
+    {
+      "image_id": 15314,
+      "sentence_id": "00076412",
+      "caption": "pide with meat is in a plate",
+      "id": 76412
+    },
+    {
+      "image_id": 15314,
+      "sentence_id": "00076413",
+      "caption": "a table cover is under plate and keyboard",
+      "id": 76413
+    },
+    {
+      "image_id": 15314,
+      "sentence_id": "00076414",
+      "caption": "ceramic plate with two pieces of pide is placed in front of keyboard",
+      "id": 76414
+    },
+    {
+      "image_id": 15314,
+      "sentence_id": "00076415",
+      "caption": "A traditional food is split half",
+      "id": 76415
+    },
+    {
+      "image_id": 21750,
+      "sentence_id": "00108566",
+      "caption": "shelf range is covering the background",
+      "id": 108566
+    },
+    {
+      "image_id": 21750,
+      "sentence_id": "00108567",
+      "caption": "Some coffee cups are on a shelf",
+      "id": 108567
+    },
+    {
+      "image_id": 21750,
+      "sentence_id": "00108568",
+      "caption": "cupboard of kitchen is hung on wall at background",
+      "id": 108568
+    },
+    {
+      "image_id": 21750,
+      "sentence_id": "00108569",
+      "caption": "Lots of plates are put on the shelves",
+      "id": 108569
+    },
+    {
+      "image_id": 21750,
+      "sentence_id": "00108570",
+      "caption": "plates are placed organisedly on middle shelf of cupboard",
+      "id": 108570
+    },
+    {
+      "image_id": 45270,
+      "sentence_id": "00226136",
+      "caption": "a bowl of ayran is served on side at top",
+      "id": 226136
+    },
+    {
+      "image_id": 45270,
+      "sentence_id": "00226137",
+      "caption": "food on plate is kind of legume patty on front side",
+      "id": 226137
+    },
+    {
+      "image_id": 45270,
+      "sentence_id": "00226138",
+      "caption": "Stuffed meatballs on the plate and yoghurt in a bowl",
+      "id": 226138
+    },
+    {
+      "image_id": 45270,
+      "sentence_id": "00226139",
+      "caption": "stuffed meat balls are on the table",
+      "id": 226139
+    },
+    {
+      "image_id": 45270,
+      "sentence_id": "00226140",
+      "caption": "a few koftes are on the plate",
+      "id": 226140
+    },
+    {
+      "image_id": 40017,
+      "sentence_id": "00199871",
+      "caption": "Four glasses on a tray and two coffee pots buried in the sand",
+      "id": 199871
+    },
+    {
+      "image_id": 40017,
+      "sentence_id": "00199872",
+      "caption": "Two cups and two glasses on the golden tray beside two coffee pots",
+      "id": 199872
+    },
+    {
+      "image_id": 40017,
+      "sentence_id": "00199873",
+      "caption": "Two coffee pots heated in hot sand",
+      "id": 199873
+    },
+    {
+      "image_id": 40017,
+      "sentence_id": "00199874",
+      "caption": "Two cups of coffees served with two glasses of water",
+      "id": 199874
+    },
+    {
+      "image_id": 40017,
+      "sentence_id": "00199875",
+      "caption": "Coffee pots are put in the sand and two cups of coffee on a tray",
+      "id": 199875
+    },
+    {
+      "image_id": 49827,
+      "sentence_id": "00248911",
+      "caption": "An on lamp with a white microvawe on a refrigerator in the background",
+      "id": 248911
+    },
+    {
+      "image_id": 49827,
+      "sentence_id": "00248912",
+      "caption": "The lamp is on above the fridge and microwave",
+      "id": 248912
+    },
+    {
+      "image_id": 49827,
+      "sentence_id": "00248913",
+      "caption": "A bright lamp on the kitchen ceiling",
+      "id": 248913
+    },
+    {
+      "image_id": 49827,
+      "sentence_id": "00248914",
+      "caption": "A microwave located on a fridge",
+      "id": 248914
+    },
+    {
+      "image_id": 49827,
+      "sentence_id": "00248915",
+      "caption": "Microwave is put on a fridge and the light is on",
+      "id": 248915
+    },
+    {
+      "image_id": 9127,
+      "sentence_id": "00045626",
+      "caption": "a pitcher is photoed in the daytime.",
+      "id": 45626
+    },
+    {
+      "image_id": 9127,
+      "sentence_id": "00045627",
+      "caption": "the pitcher is full of water.",
+      "id": 45627
+    },
+    {
+      "image_id": 9127,
+      "sentence_id": "00045628",
+      "caption": "the pitcher is glass with a handle.",
+      "id": 45628
+    },
+    {
+      "image_id": 9127,
+      "sentence_id": "00045629",
+      "caption": "multiple trees are located in the background.",
+      "id": 45629
+    },
+    {
+      "image_id": 9127,
+      "sentence_id": "00045630",
+      "caption": "multiple buildings are located behind the trees.",
+      "id": 45630
+    },
+    {
+      "image_id": 37875,
+      "sentence_id": "00189161",
+      "caption": "An aspirator is on a stand of a kitchen",
+      "id": 189161
+    },
+    {
+      "image_id": 37875,
+      "sentence_id": "00189162",
+      "caption": "An aspirator is on the kitchen counter",
+      "id": 189162
+    },
+    {
+      "image_id": 37875,
+      "sentence_id": "00189163",
+      "caption": "A broken aspirator on the kitchen counter",
+      "id": 189163
+    },
+    {
+      "image_id": 37875,
+      "sentence_id": "00189164",
+      "caption": "An aspirator fallen on a kitchen counter",
+      "id": 189164
+    },
+    {
+      "image_id": 37875,
+      "sentence_id": "00189165",
+      "caption": "A black stand in a kitchen",
+      "id": 189165
+    },
+    {
+      "image_id": 39309,
+      "sentence_id": "00196331",
+      "caption": "Some dishes are in a cupboard",
+      "id": 196331
+    },
+    {
+      "image_id": 39309,
+      "sentence_id": "00196332",
+      "caption": "The utensils are in the cupboards",
+      "id": 196332
+    },
+    {
+      "image_id": 39309,
+      "sentence_id": "00196333",
+      "caption": "Some plates and glasses in kitchen cabinets",
+      "id": 196333
+    },
+    {
+      "image_id": 39309,
+      "sentence_id": "00196334",
+      "caption": "Glasses and plates are present in the kitchen cabinets",
+      "id": 196334
+    },
+    {
+      "image_id": 39309,
+      "sentence_id": "00196335",
+      "caption": "Several plates on some shelves of a kitchen",
+      "id": 196335
+    },
+    {
+      "image_id": 48494,
+      "sentence_id": "00242246",
+      "caption": "two loaves of bread are placed on tray behind carton cup of tea",
+      "id": 242246
+    },
+    {
+      "image_id": 48494,
+      "sentence_id": "00242247",
+      "caption": "A cardboard glass of hot drink is on the tray.",
+      "id": 242247
+    },
+    {
+      "image_id": 48494,
+      "sentence_id": "00242248",
+      "caption": "Packaged breakfast items and tea on a tray",
+      "id": 242248
+    },
+    {
+      "image_id": 48494,
+      "sentence_id": "00242249",
+      "caption": "a cucumber tomato jam a slice of cheese and salamis on the plate",
+      "id": 242249
+    },
+    {
+      "image_id": 48494,
+      "sentence_id": "00242250",
+      "caption": "two slices of bread and a cup of tea are standing on the tray",
+      "id": 242250
+    },
+    {
+      "image_id": 40152,
+      "sentence_id": "00200546",
+      "caption": "Eight onion rings in the pan on a picnic tube standing on a cardboard",
+      "id": 200546
+    },
+    {
+      "image_id": 40152,
+      "sentence_id": "00200547",
+      "caption": "Some onion rings are on the pan",
+      "id": 200547
+    },
+    {
+      "image_id": 40152,
+      "sentence_id": "00200548",
+      "caption": "Eight onion rings in a pan on a picnic tube",
+      "id": 200548
+    },
+    {
+      "image_id": 40152,
+      "sentence_id": "00200549",
+      "caption": "Some orion rings in a pan on a picnic tube",
+      "id": 200549
+    },
+    {
+      "image_id": 40152,
+      "sentence_id": "00200550",
+      "caption": "Onion rings are fried on a pan",
+      "id": 200550
+    },
+    {
+      "image_id": 41354,
+      "sentence_id": "00206556",
+      "caption": "Three bottles of pickle standing upside down on a pink cloth",
+      "id": 206556
+    },
+    {
+      "image_id": 41354,
+      "sentence_id": "00206557",
+      "caption": "Three jars of pickles are on a pink cloth",
+      "id": 206557
+    },
+    {
+      "image_id": 41354,
+      "sentence_id": "00206558",
+      "caption": "Three bottles of pickled cabbages upside down on a pink rag",
+      "id": 206558
+    },
+    {
+      "image_id": 41354,
+      "sentence_id": "00206559",
+      "caption": "Three bottles of pickle turned upside down on a pink towel",
+      "id": 206559
+    },
+    {
+      "image_id": 41354,
+      "sentence_id": "00206560",
+      "caption": "Three bottles turned upside down have yellow covers",
+      "id": 206560
+    },
+    {
+      "image_id": 9317,
+      "sentence_id": "00046571",
+      "caption": "a teapot is located on a table.",
+      "id": 46571
+    },
+    {
+      "image_id": 9317,
+      "sentence_id": "00046572",
+      "caption": "an empty glass is located next to the teapot.",
+      "id": 46572
+    },
+    {
+      "image_id": 9317,
+      "sentence_id": "00046573",
+      "caption": "bread in a plastic bag is located on the left side.",
+      "id": 46573
+    },
+    {
+      "image_id": 9317,
+      "sentence_id": "00046574",
+      "caption": "a person's arm is visible on the top right side of the photo.",
+      "id": 46574
+    },
+    {
+      "image_id": 9317,
+      "sentence_id": "00046575",
+      "caption": "the teapot is standing on a tablemat.",
+      "id": 46575
+    },
+    {
+      "image_id": 45915,
+      "sentence_id": "00229361",
+      "caption": "pockets of coffee are placed on shelf leaned on wall",
+      "id": 229361
+    },
+    {
+      "image_id": 45915,
+      "sentence_id": "00229362",
+      "caption": "coffee pockets are placed on shelf leaned on wall",
+      "id": 229362
+    },
+    {
+      "image_id": 45915,
+      "sentence_id": "00229363",
+      "caption": "Coffee jar and empty plate on wooden shelf on the wall",
+      "id": 229363
+    },
+    {
+      "image_id": 45915,
+      "sentence_id": "00229364",
+      "caption": "three different types of coffees are on the shelf",
+      "id": 229364
+    },
+    {
+      "image_id": 45915,
+      "sentence_id": "00229365",
+      "caption": "a coffee box and jar are placed on the shelf",
+      "id": 229365
+    },
+    {
+      "image_id": 26714,
+      "sentence_id": "00133381",
+      "caption": "The pavement is in front of the building",
+      "id": 133381
+    },
+    {
+      "image_id": 26714,
+      "sentence_id": "00133382",
+      "caption": "vendor brand name that above entrance is displayed",
+      "id": 133382
+    },
+    {
+      "image_id": 26714,
+      "sentence_id": "00133383",
+      "caption": "brand name of suppliers are placed above entrance",
+      "id": 133383
+    },
+    {
+      "image_id": 26714,
+      "sentence_id": "00133384",
+      "caption": "lots of kitchen tools are placed in the store",
+      "id": 133384
+    },
+    {
+      "image_id": 26714,
+      "sentence_id": "00133385",
+      "caption": "a number of signs are monted enrance of a store",
+      "id": 133385
+    },
+    {
+      "image_id": 3900,
+      "sentence_id": "00019496",
+      "caption": "a terrace of a house is covering nearly all size of view",
+      "id": 19496
+    },
+    {
+      "image_id": 3900,
+      "sentence_id": "00019497",
+      "caption": "a teapot is on a wood stove",
+      "id": 19497
+    },
+    {
+      "image_id": 3900,
+      "sentence_id": "00019498",
+      "caption": "view of old samovar with metal teapot",
+      "id": 19498
+    },
+    {
+      "image_id": 3900,
+      "sentence_id": "00019499",
+      "caption": "outdoors on the terrace with a charcoal stove and a teapot is on it",
+      "id": 19499
+    },
+    {
+      "image_id": 3900,
+      "sentence_id": "00019500",
+      "caption": "Two sattelites are on the roof of a house.",
+      "id": 19500
+    },
+    {
+      "image_id": 7033,
+      "sentence_id": "00035161",
+      "caption": "Decorative salt and pepper shakers are on the table.",
+      "id": 35161
+    },
+    {
+      "image_id": 7033,
+      "sentence_id": "00035162",
+      "caption": "The salt and pepper shakers are like owels.",
+      "id": 35162
+    },
+    {
+      "image_id": 7033,
+      "sentence_id": "00035163",
+      "caption": "Two of three shakers have same color",
+      "id": 35163
+    },
+    {
+      "image_id": 7033,
+      "sentence_id": "00035164",
+      "caption": "A salt cellar is standing on the table",
+      "id": 35164
+    },
+    {
+      "image_id": 7033,
+      "sentence_id": "00035165",
+      "caption": "window of kitchen is closed behind table",
+      "id": 35165
+    },
+    {
+      "image_id": 37438,
+      "sentence_id": "00186976",
+      "caption": "Some white cabinets of a kitchen",
+      "id": 186976
+    },
+    {
+      "image_id": 37438,
+      "sentence_id": "00186977",
+      "caption": "A kitchen with white cabinets and a refrigerator",
+      "id": 186977
+    },
+    {
+      "image_id": 37438,
+      "sentence_id": "00186978",
+      "caption": "Some items on a kitchen counter",
+      "id": 186978
+    },
+    {
+      "image_id": 37438,
+      "sentence_id": "00186979",
+      "caption": "A lot of utensils on a kitchen counter",
+      "id": 186979
+    },
+    {
+      "image_id": 37438,
+      "sentence_id": "00186980",
+      "caption": "Some cabinets of the kitchen are white",
+      "id": 186980
+    },
+    {
+      "image_id": 21348,
+      "sentence_id": "00106556",
+      "caption": "kitchen table is placed in front of wall at front side",
+      "id": 106556
+    },
+    {
+      "image_id": 21348,
+      "sentence_id": "00106557",
+      "caption": "Few fruits are on a glass bowl on a table",
+      "id": 106557
+    },
+    {
+      "image_id": 21348,
+      "sentence_id": "00106558",
+      "caption": "light curtains of kitchen at background are closed in the morning",
+      "id": 106558
+    },
+    {
+      "image_id": 21348,
+      "sentence_id": "00106559",
+      "caption": "An empty cup of glass is put on the table",
+      "id": 106559
+    },
+    {
+      "image_id": 21348,
+      "sentence_id": "00106560",
+      "caption": "wooden made chair is placed under table in the kitchen at left side",
+      "id": 106560
+    },
+    {
+      "image_id": 22532,
+      "sentence_id": "00112476",
+      "caption": "Plate of potato chips served with a fork",
+      "id": 112476
+    },
+    {
+      "image_id": 22532,
+      "sentence_id": "00112477",
+      "caption": "fried chips together with acup of tea and bread",
+      "id": 112477
+    },
+    {
+      "image_id": 22532,
+      "sentence_id": "00112478",
+      "caption": "wrapped chewing gum is placed on tray at right edge",
+      "id": 112478
+    },
+    {
+      "image_id": 22532,
+      "sentence_id": "00112479",
+      "caption": "a cup of tea is on the left",
+      "id": 112479
+    },
+    {
+      "image_id": 22532,
+      "sentence_id": "00112480",
+      "caption": "someone is eating french fries and olives in a cafe",
+      "id": 112480
+    },
+    {
+      "image_id": 23569,
+      "sentence_id": "00117661",
+      "caption": "Wall of the kitchen is covered by ceramic tiles",
+      "id": 117661
+    },
+    {
+      "image_id": 23569,
+      "sentence_id": "00117662",
+      "caption": "cucumber pickless and green paper pickless are in the jar",
+      "id": 117662
+    },
+    {
+      "image_id": 23569,
+      "sentence_id": "00117663",
+      "caption": "four pickle cans on the counter",
+      "id": 117663
+    },
+    {
+      "image_id": 23569,
+      "sentence_id": "00117664",
+      "caption": "four bottles of pickle are on countertop",
+      "id": 117664
+    },
+    {
+      "image_id": 23569,
+      "sentence_id": "00117665",
+      "caption": "four bottles are side by side",
+      "id": 117665
+    },
+    {
+      "image_id": 15411,
+      "sentence_id": "00076896",
+      "caption": "a table has a tablecloth at background",
+      "id": 76896
+    },
+    {
+      "image_id": 15411,
+      "sentence_id": "00076897",
+      "caption": "a bowl of dried fruit is on table",
+      "id": 76897
+    },
+    {
+      "image_id": 15411,
+      "sentence_id": "00076898",
+      "caption": "lots of dried friut are in a bowl",
+      "id": 76898
+    },
+    {
+      "image_id": 15411,
+      "sentence_id": "00076899",
+      "caption": "all background is covered by covered table under glass bowl",
+      "id": 76899
+    },
+    {
+      "image_id": 15411,
+      "sentence_id": "00076900",
+      "caption": "A bowl made of glass is on a table",
+      "id": 76900
+    },
+    {
+      "image_id": 39520,
+      "sentence_id": "00197386",
+      "caption": "A heater inside of a room",
+      "id": 197386
+    },
+    {
+      "image_id": 39520,
+      "sentence_id": "00197387",
+      "caption": "A heater is in the room",
+      "id": 197387
+    },
+    {
+      "image_id": 39520,
+      "sentence_id": "00197388",
+      "caption": "A teapot and two old water boilers on a heater",
+      "id": 197388
+    },
+    {
+      "image_id": 39520,
+      "sentence_id": "00197389",
+      "caption": "A heater with a teapot and two vintage water boilers",
+      "id": 197389
+    },
+    {
+      "image_id": 39520,
+      "sentence_id": "00197390",
+      "caption": "A heater in the middle of a room",
+      "id": 197390
+    },
+    {
+      "image_id": 52808,
+      "sentence_id": "00263816",
+      "caption": "eletrical appliances are being showed on display",
+      "id": 263816
+    },
+    {
+      "image_id": 52808,
+      "sentence_id": "00263817",
+      "caption": "round signpost is erected in front of the cottage.",
+      "id": 263817
+    },
+    {
+      "image_id": 52808,
+      "sentence_id": "00263818",
+      "caption": "several domestic workers are placed in the store",
+      "id": 263818
+    },
+    {
+      "image_id": 52808,
+      "sentence_id": "00263819",
+      "caption": "several home staff are standing in the shop",
+      "id": 263819
+    },
+    {
+      "image_id": 52808,
+      "sentence_id": "00263820",
+      "caption": "a few vacuum cleaners are placed on the store",
+      "id": 263820
+    },
+    {
+      "image_id": 38305,
+      "sentence_id": "00191311",
+      "caption": "The walls of a large vacant kitchen are white",
+      "id": 191311
+    },
+    {
+      "image_id": 38305,
+      "sentence_id": "00191312",
+      "caption": "A kitchen with cabinets and a door",
+      "id": 191312
+    },
+    {
+      "image_id": 38305,
+      "sentence_id": "00191313",
+      "caption": "A big empty kitchen with white walls",
+      "id": 191313
+    },
+    {
+      "image_id": 38305,
+      "sentence_id": "00191314",
+      "caption": "A sizable vacant kitchen has white walls",
+      "id": 191314
+    },
+    {
+      "image_id": 38305,
+      "sentence_id": "00191315",
+      "caption": "An empty new kitchen has some new cabinets",
+      "id": 191315
+    },
+    {
+      "image_id": 20492,
+      "sentence_id": "00102276",
+      "caption": "dark iron door is on the left",
+      "id": 102276
+    },
+    {
+      "image_id": 20492,
+      "sentence_id": "00102277",
+      "caption": "many pairs of shoes are in front of the door on the left",
+      "id": 102277
+    },
+    {
+      "image_id": 20492,
+      "sentence_id": "00102278",
+      "caption": "a thin and long bench is made in the front",
+      "id": 102278
+    },
+    {
+      "image_id": 20492,
+      "sentence_id": "00102279",
+      "caption": "several masks and phones are on the counter",
+      "id": 102279
+    },
+    {
+      "image_id": 20492,
+      "sentence_id": "00102280",
+      "caption": "table and chair placed behind the counter",
+      "id": 102280
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118531",
+      "caption": "Two men are wearing red hats in the room",
+      "id": 118531
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118532",
+      "caption": "middle elderly men in hats are inside living room",
+      "id": 118532
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118533",
+      "caption": "curtain of kitchen at back is halfly opened",
+      "id": 118533
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118534",
+      "caption": "two men in the kitchen are wearing hats",
+      "id": 118534
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118535",
+      "caption": "a middle aged man is wearing a glassess",
+      "id": 118535
+    },
+    {
+      "image_id": 34970,
+      "sentence_id": "00174636",
+      "caption": "cartons of eggs are placed onto each other at front",
+      "id": 174636
+    },
+    {
+      "image_id": 34970,
+      "sentence_id": "00174637",
+      "caption": "the eggs are placed in the packages",
+      "id": 174637
+    },
+    {
+      "image_id": 34970,
+      "sentence_id": "00174638",
+      "caption": "some papers on the wall behind the eggs.",
+      "id": 174638
+    },
+    {
+      "image_id": 34970,
+      "sentence_id": "00174639",
+      "caption": "the prices of the eggs are on the wall",
+      "id": 174639
+    },
+    {
+      "image_id": 34970,
+      "sentence_id": "00174640",
+      "caption": "background is covered by wall of grocery",
+      "id": 174640
+    },
+    {
+      "image_id": 12795,
+      "sentence_id": "00063891",
+      "caption": "A deep plastic tray is on the table.",
+      "id": 63891
+    },
+    {
+      "image_id": 12795,
+      "sentence_id": "00063892",
+      "caption": "two round trays are on the table to the left.",
+      "id": 63892
+    },
+    {
+      "image_id": 12795,
+      "sentence_id": "00063893",
+      "caption": "the trays on the left are filled with some pastries.",
+      "id": 63893
+    },
+    {
+      "image_id": 12795,
+      "sentence_id": "00063894",
+      "caption": "some containers are behind the tray on the table.",
+      "id": 63894
+    },
+    {
+      "image_id": 12795,
+      "sentence_id": "00063895",
+      "caption": "a rug is under the table in front.",
+      "id": 63895
+    },
+    {
+      "image_id": 5319,
+      "sentence_id": "00026591",
+      "caption": "The black coffee cups are on sale.",
+      "id": 26591
+    },
+    {
+      "image_id": 5319,
+      "sentence_id": "00026592",
+      "caption": "The ground is covered by the tiles",
+      "id": 26592
+    },
+    {
+      "image_id": 5319,
+      "sentence_id": "00026593",
+      "caption": "some souvenirs are being sold in a shopping center",
+      "id": 26593
+    },
+    {
+      "image_id": 5319,
+      "sentence_id": "00026594",
+      "caption": "Lots of coffee cups with price label",
+      "id": 26594
+    },
+    {
+      "image_id": 5319,
+      "sentence_id": "00026595",
+      "caption": "double tea sets are waiting for their customers in their cardboard boxes",
+      "id": 26595
+    },
+    {
+      "image_id": 22390,
+      "sentence_id": "00111766",
+      "caption": "View of kitchen with several stools and a big table",
+      "id": 111766
+    },
+    {
+      "image_id": 22390,
+      "sentence_id": "00111767",
+      "caption": "green red power bulbs above the dinning room",
+      "id": 111767
+    },
+    {
+      "image_id": 22390,
+      "sentence_id": "00111768",
+      "caption": "doors of kitchen laying at right edge are close on shiny day",
+      "id": 111768
+    },
+    {
+      "image_id": 22390,
+      "sentence_id": "00111769",
+      "caption": "a couple of cables is hanging from the ceiling",
+      "id": 111769
+    },
+    {
+      "image_id": 22390,
+      "sentence_id": "00111770",
+      "caption": "a big wooden table has different kinds of chairs",
+      "id": 111770
+    },
+    {
+      "image_id": 6189,
+      "sentence_id": "00030941",
+      "caption": "An oat yougert box is taken  in the kitchen.",
+      "id": 30941
+    },
+    {
+      "image_id": 6189,
+      "sentence_id": "00030942",
+      "caption": "She is holding a glass filled with yogurt and fruit.",
+      "id": 30942
+    },
+    {
+      "image_id": 6189,
+      "sentence_id": "00030943",
+      "caption": "A carpet is covering the ground",
+      "id": 30943
+    },
+    {
+      "image_id": 6189,
+      "sentence_id": "00030944",
+      "caption": "dish washer is located private area of kitchen at background",
+      "id": 30944
+    },
+    {
+      "image_id": 6189,
+      "sentence_id": "00030945",
+      "caption": "someone's hand holding a cup of oat meal and  yoghurt",
+      "id": 30945
+    },
+    {
+      "image_id": 44919,
+      "sentence_id": "00224381",
+      "caption": "someone is spilling honey into the glass with milk at left",
+      "id": 224381
+    },
+    {
+      "image_id": 44919,
+      "sentence_id": "00224382",
+      "caption": "honey comb is lying in box on kitchen counter",
+      "id": 224382
+    },
+    {
+      "image_id": 44919,
+      "sentence_id": "00224383",
+      "caption": "milk in a glass next to the stove",
+      "id": 224383
+    },
+    {
+      "image_id": 44919,
+      "sentence_id": "00224384",
+      "caption": "someone is pouring honey inside the milk",
+      "id": 224384
+    },
+    {
+      "image_id": 44919,
+      "sentence_id": "00224385",
+      "caption": "a person is putting a teaspoon of honey in milk",
+      "id": 224385
+    },
+    {
+      "image_id": 45457,
+      "sentence_id": "00227071",
+      "caption": "dessert in glass tray is halfly eaten at front side",
+      "id": 227071
+    },
+    {
+      "image_id": 45457,
+      "sentence_id": "00227072",
+      "caption": "dessert made with biscuits is lying in glass tray",
+      "id": 227072
+    },
+    {
+      "image_id": 45457,
+      "sentence_id": "00227073",
+      "caption": "Mosaic cake cut into slices in a bowl",
+      "id": 227073
+    },
+    {
+      "image_id": 45457,
+      "sentence_id": "00227074",
+      "caption": "a pudding dessert is in the pyrex",
+      "id": 227074
+    },
+    {
+      "image_id": 45457,
+      "sentence_id": "00227075",
+      "caption": "chocolate cake is placed in glass tray",
+      "id": 227075
+    },
+    {
+      "image_id": 41384,
+      "sentence_id": "00206706",
+      "caption": "Six skewers on a white plate next to a bottle",
+      "id": 206706
+    },
+    {
+      "image_id": 41384,
+      "sentence_id": "00206707",
+      "caption": "Six skewers on the plate in front of an ayran bottle",
+      "id": 206707
+    },
+    {
+      "image_id": 41384,
+      "sentence_id": "00206708",
+      "caption": "Six dishes on a plate on a wooden table",
+      "id": 206708
+    },
+    {
+      "image_id": 41384,
+      "sentence_id": "00206709",
+      "caption": "A motherboard on a white table",
+      "id": 206709
+    },
+    {
+      "image_id": 41384,
+      "sentence_id": "00206710",
+      "caption": "A bottle of ayran and a white table on the table",
+      "id": 206710
+    },
+    {
+      "image_id": 12541,
+      "sentence_id": "00062661",
+      "caption": "a dining table and chair are in the front.",
+      "id": 62661
+    },
+    {
+      "image_id": 12541,
+      "sentence_id": "00062662",
+      "caption": "service set and some sauces are on the table.",
+      "id": 62662
+    },
+    {
+      "image_id": 12541,
+      "sentence_id": "00062663",
+      "caption": "A bowl of juicy food is on the table.",
+      "id": 62663
+    },
+    {
+      "image_id": 12541,
+      "sentence_id": "00062664",
+      "caption": "a spoon is to the right of the bowl.",
+      "id": 62664
+    },
+    {
+      "image_id": 12541,
+      "sentence_id": "00062665",
+      "caption": "a napkin and coasters are on the table.",
+      "id": 62665
+    },
+    {
+      "image_id": 23294,
+      "sentence_id": "00116286",
+      "caption": "A ripped cardboard box under the wooden table",
+      "id": 116286
+    },
+    {
+      "image_id": 23294,
+      "sentence_id": "00116287",
+      "caption": "a bicycle is parked in the bedroom",
+      "id": 116287
+    },
+    {
+      "image_id": 23294,
+      "sentence_id": "00116288",
+      "caption": "automatic door of storage standing at left side is close",
+      "id": 116288
+    },
+    {
+      "image_id": 23294,
+      "sentence_id": "00116289",
+      "caption": "two small tables are side by side",
+      "id": 116289
+    },
+    {
+      "image_id": 23294,
+      "sentence_id": "00116290",
+      "caption": "bicycle wheels on the ground on the right",
+      "id": 116290
+    },
+    {
+      "image_id": 16266,
+      "sentence_id": "00081171",
+      "caption": "an old pair of shoes are taken",
+      "id": 81171
+    },
+    {
+      "image_id": 16266,
+      "sentence_id": "00081172",
+      "caption": "some old metal kitchen equipments are placed on the corner of room at background",
+      "id": 81172
+    },
+    {
+      "image_id": 16266,
+      "sentence_id": "00081173",
+      "caption": "an old shoe model standing in copper bowls",
+      "id": 81173
+    },
+    {
+      "image_id": 16266,
+      "sentence_id": "00081174",
+      "caption": "a towel is hung on the side of metal kitchen equipment",
+      "id": 81174
+    },
+    {
+      "image_id": 16266,
+      "sentence_id": "00081175",
+      "caption": "Old big tray lying back on the wall",
+      "id": 81175
+    },
+    {
+      "image_id": 10713,
+      "sentence_id": "00053541",
+      "caption": "a table is next to the window on the right.",
+      "id": 53541
+    },
+    {
+      "image_id": 10713,
+      "sentence_id": "00053542",
+      "caption": "a window is to the right of the front desk.",
+      "id": 53542
+    },
+    {
+      "image_id": 10713,
+      "sentence_id": "00053543",
+      "caption": "A tall glass is on the table.",
+      "id": 53543
+    },
+    {
+      "image_id": 10713,
+      "sentence_id": "00053544",
+      "caption": "The tall glass on the table is empty.",
+      "id": 53544
+    },
+    {
+      "image_id": 10713,
+      "sentence_id": "00053545",
+      "caption": "the top of a chair is visible behind the table.",
+      "id": 53545
+    },
+    {
+      "image_id": 38034,
+      "sentence_id": "00189956",
+      "caption": "Two coffee pots are on the sand",
+      "id": 189956
+    },
+    {
+      "image_id": 38034,
+      "sentence_id": "00189957",
+      "caption": "The view of two coffee pots",
+      "id": 189957
+    },
+    {
+      "image_id": 38034,
+      "sentence_id": "00189958",
+      "caption": "Two coffee pots on some sand",
+      "id": 189958
+    },
+    {
+      "image_id": 38034,
+      "sentence_id": "00189959",
+      "caption": "Two coffee pots on a hot sand box",
+      "id": 189959
+    },
+    {
+      "image_id": 38034,
+      "sentence_id": "00189960",
+      "caption": "Two coffee pots on the hot sand",
+      "id": 189960
+    },
+    {
+      "image_id": 48444,
+      "sentence_id": "00241996",
+      "caption": "a cup of Turkish coffee is served on marble counter on front",
+      "id": 241996
+    },
+    {
+      "image_id": 48444,
+      "sentence_id": "00241997",
+      "caption": "The cup on the counter is filled with coffee.",
+      "id": 241997
+    },
+    {
+      "image_id": 48444,
+      "sentence_id": "00241998",
+      "caption": "A frothy coffee is placed on the table",
+      "id": 241998
+    },
+    {
+      "image_id": 48444,
+      "sentence_id": "00241999",
+      "caption": "a turkish coffee with bubbles on it",
+      "id": 241999
+    },
+    {
+      "image_id": 48444,
+      "sentence_id": "00242000",
+      "caption": "a cup of Turkish coffee is standing on the marble",
+      "id": 242000
+    },
+    {
+      "image_id": 44031,
+      "sentence_id": "00219941",
+      "caption": "A wooden spoon hung on a light brown wall",
+      "id": 219941
+    },
+    {
+      "image_id": 44031,
+      "sentence_id": "00219942",
+      "caption": "A wooden spoon is on a wooden surface",
+      "id": 219942
+    },
+    {
+      "image_id": 44031,
+      "sentence_id": "00219943",
+      "caption": "A wooden spoon on a wooden surface",
+      "id": 219943
+    },
+    {
+      "image_id": 44031,
+      "sentence_id": "00219944",
+      "caption": "A wooden spoon on a table",
+      "id": 219944
+    },
+    {
+      "image_id": 44031,
+      "sentence_id": "00219945",
+      "caption": "A wooden spoon is on the table",
+      "id": 219945
+    },
+    {
+      "image_id": 21044,
+      "sentence_id": "00105036",
+      "caption": "A fried chicken is decorated with mayonnise",
+      "id": 105036
+    },
+    {
+      "image_id": 21044,
+      "sentence_id": "00105037",
+      "caption": "A pair of chopsticks is on top of bowl",
+      "id": 105037
+    },
+    {
+      "image_id": 21044,
+      "sentence_id": "00105038",
+      "caption": "some food is put inside a bowl",
+      "id": 105038
+    },
+    {
+      "image_id": 21044,
+      "sentence_id": "00105039",
+      "caption": "A paper is put next to the plate",
+      "id": 105039
+    },
+    {
+      "image_id": 21044,
+      "sentence_id": "00105040",
+      "caption": "bowl placing on table is full of kind of chicken meal",
+      "id": 105040
+    },
+    {
+      "image_id": 48121,
+      "sentence_id": "00240381",
+      "caption": "three leaves of bread are placed on stove to grill",
+      "id": 240381
+    },
+    {
+      "image_id": 48121,
+      "sentence_id": "00240382",
+      "caption": "The teapot is above the wood stove.",
+      "id": 240382
+    },
+    {
+      "image_id": 48121,
+      "sentence_id": "00240383",
+      "caption": "Breads next to the tea boiling on the wood stove",
+      "id": 240383
+    },
+    {
+      "image_id": 48121,
+      "sentence_id": "00240384",
+      "caption": "three slices of bread and teapot on the oven",
+      "id": 240384
+    },
+    {
+      "image_id": 48121,
+      "sentence_id": "00240385",
+      "caption": "three slices of bread and a teapot are standing on the stove fireplace",
+      "id": 240385
+    },
+    {
+      "image_id": 17201,
+      "sentence_id": "00085846",
+      "caption": "inside of a kitchen is photoed.",
+      "id": 85846
+    },
+    {
+      "image_id": 17201,
+      "sentence_id": "00085847",
+      "caption": "a person is visible in the kitchen.",
+      "id": 85847
+    },
+    {
+      "image_id": 17201,
+      "sentence_id": "00085848",
+      "caption": "a glass table is located on the left side of the kitchen.",
+      "id": 85848
+    },
+    {
+      "image_id": 17201,
+      "sentence_id": "00085849",
+      "caption": "three red colored chairs are located around the glass table.",
+      "id": 85849
+    },
+    {
+      "image_id": 17201,
+      "sentence_id": "00085850",
+      "caption": "white colored tiles are located on the floor.",
+      "id": 85850
+    },
+    {
+      "image_id": 22605,
+      "sentence_id": "00112841",
+      "caption": "A plate of salad served with service cutlery in a tray",
+      "id": 112841
+    },
+    {
+      "image_id": 22605,
+      "sentence_id": "00112842",
+      "caption": "spicy meatless red lutter and a bottle of water",
+      "id": 112842
+    },
+    {
+      "image_id": 22605,
+      "sentence_id": "00112843",
+      "caption": "a bowl of yoghurt is placed on corner of tray",
+      "id": 112843
+    },
+    {
+      "image_id": 22605,
+      "sentence_id": "00112844",
+      "caption": "a fork and a spoon is on the right",
+      "id": 112844
+    },
+    {
+      "image_id": 22605,
+      "sentence_id": "00112845",
+      "caption": "different kinds of foods are on a tray",
+      "id": 112845
+    },
+    {
+      "image_id": 38338,
+      "sentence_id": "00191476",
+      "caption": "A narrow kitchen with a tv",
+      "id": 191476
+    },
+    {
+      "image_id": 38338,
+      "sentence_id": "00191477",
+      "caption": "A table and two chairs in the kitchen",
+      "id": 191477
+    },
+    {
+      "image_id": 38338,
+      "sentence_id": "00191478",
+      "caption": "A table and two chairs in a kitchen",
+      "id": 191478
+    },
+    {
+      "image_id": 38338,
+      "sentence_id": "00191479",
+      "caption": "A small kitchen with a television",
+      "id": 191479
+    },
+    {
+      "image_id": 38338,
+      "sentence_id": "00191480",
+      "caption": "Two chairs in a small kitchen",
+      "id": 191480
+    },
+    {
+      "image_id": 294,
+      "sentence_id": "00001471",
+      "caption": "a mıcrowave is placed on counter in the kitchen",
+      "id": 1471
+    },
+    {
+      "image_id": 294,
+      "sentence_id": "00001472",
+      "caption": "a microwave in the kitchen isnt running in kitchen",
+      "id": 1472
+    },
+    {
+      "image_id": 294,
+      "sentence_id": "00001473",
+      "caption": "degree of the microwave is at the 30 Celcius",
+      "id": 1473
+    },
+    {
+      "image_id": 294,
+      "sentence_id": "00001474",
+      "caption": "microwave cable is near the microwave in the kitchen",
+      "id": 1474
+    },
+    {
+      "image_id": 294,
+      "sentence_id": "00001475",
+      "caption": "The microwave is on the cupboard.",
+      "id": 1475
+    },
+    {
+      "image_id": 49364,
+      "sentence_id": "00246596",
+      "caption": "Some utensils in a drawer are shown",
+      "id": 246596
+    },
+    {
+      "image_id": 49364,
+      "sentence_id": "00246597",
+      "caption": "An open drawer and some utensils in it",
+      "id": 246597
+    },
+    {
+      "image_id": 49364,
+      "sentence_id": "00246598",
+      "caption": "Some utensils in an open drawer",
+      "id": 246598
+    },
+    {
+      "image_id": 49364,
+      "sentence_id": "00246599",
+      "caption": "A kitchen drawer with some utensils in it",
+      "id": 246599
+    },
+    {
+      "image_id": 49364,
+      "sentence_id": "00246600",
+      "caption": "An open drawer with kitchen items inside of it",
+      "id": 246600
+    },
+    {
+      "image_id": 253,
+      "sentence_id": "00001266",
+      "caption": "woman is holding a glass and drinking tea",
+      "id": 1266
+    },
+    {
+      "image_id": 253,
+      "sentence_id": "00001267",
+      "caption": "a person is holding a tea cup",
+      "id": 1267
+    },
+    {
+      "image_id": 253,
+      "sentence_id": "00001268",
+      "caption": "table is full of breakfast foods",
+      "id": 1268
+    },
+    {
+      "image_id": 253,
+      "sentence_id": "00001269",
+      "caption": "breakfast foods are on the table at background",
+      "id": 1269
+    },
+    {
+      "image_id": 253,
+      "sentence_id": "00001270",
+      "caption": "Teapots are on the table in foreground",
+      "id": 1270
+    },
+    {
+      "image_id": 12603,
+      "sentence_id": "00062956",
+      "caption": "The pan with an egg dish is on the table.",
+      "id": 62956
+    },
+    {
+      "image_id": 12603,
+      "sentence_id": "00062957",
+      "caption": "the handle of the ceiling faces forward.",
+      "id": 62957
+    },
+    {
+      "image_id": 12603,
+      "sentence_id": "00062958",
+      "caption": "Two tea cups full of tea are on the table.",
+      "id": 62958
+    },
+    {
+      "image_id": 12603,
+      "sentence_id": "00062959",
+      "caption": "the bottom of a yogurt bucket is at the bottom right.",
+      "id": 62959
+    },
+    {
+      "image_id": 12603,
+      "sentence_id": "00062960",
+      "caption": "A sugar bowl and two forks are on the table.",
+      "id": 62960
+    },
+    {
+      "image_id": 8810,
+      "sentence_id": "00044041",
+      "caption": "bakery products are photoed in a baking tray.",
+      "id": 44041
+    },
+    {
+      "image_id": 8810,
+      "sentence_id": "00044042",
+      "caption": "eight pastries are photoed on a baking tray.",
+      "id": 44042
+    },
+    {
+      "image_id": 8810,
+      "sentence_id": "00044043",
+      "caption": "the baking tray is in black color.",
+      "id": 44043
+    },
+    {
+      "image_id": 8810,
+      "sentence_id": "00044044",
+      "caption": "a red and blue carpet is visible at the bottom of the photo.",
+      "id": 44044
+    },
+    {
+      "image_id": 8810,
+      "sentence_id": "00044045",
+      "caption": "crumbs of the pastries are visible on the baking tray.",
+      "id": 44045
+    },
+    {
+      "image_id": 37476,
+      "sentence_id": "00187166",
+      "caption": "Some jars on a stand of a restaurant",
+      "id": 187166
+    },
+    {
+      "image_id": 37476,
+      "sentence_id": "00187167",
+      "caption": "Some jars are on the counter of a store",
+      "id": 187167
+    },
+    {
+      "image_id": 37476,
+      "sentence_id": "00187168",
+      "caption": "Some pickle jars on a counter",
+      "id": 187168
+    },
+    {
+      "image_id": 37476,
+      "sentence_id": "00187169",
+      "caption": "A couple of pickle jars on a shelf",
+      "id": 187169
+    },
+    {
+      "image_id": 37476,
+      "sentence_id": "00187170",
+      "caption": "Some pickle pots on the table",
+      "id": 187170
+    },
+    {
+      "image_id": 36687,
+      "sentence_id": "00183221",
+      "caption": "An empty hallway with a white door",
+      "id": 183221
+    },
+    {
+      "image_id": 36687,
+      "sentence_id": "00183222",
+      "caption": "A narrow hallway and a kitchen",
+      "id": 183222
+    },
+    {
+      "image_id": 36687,
+      "sentence_id": "00183223",
+      "caption": "Some kitchen cabinets are seen through an open door",
+      "id": 183223
+    },
+    {
+      "image_id": 36687,
+      "sentence_id": "00183224",
+      "caption": "A view of an empty hallway of an apartment",
+      "id": 183224
+    },
+    {
+      "image_id": 36687,
+      "sentence_id": "00183225",
+      "caption": "A white door in front of a kitchen with white cabinets",
+      "id": 183225
+    },
+    {
+      "image_id": 22621,
+      "sentence_id": "00112921",
+      "caption": "Lots of tomato sauce in cans in the kitchen",
+      "id": 112921
+    },
+    {
+      "image_id": 22621,
+      "sentence_id": "00112922",
+      "caption": "a man is standing in the kitchen restaurant",
+      "id": 112922
+    },
+    {
+      "image_id": 22621,
+      "sentence_id": "00112923",
+      "caption": "kitchen part of restaurant is taken from inside while running",
+      "id": 112923
+    },
+    {
+      "image_id": 22621,
+      "sentence_id": "00112924",
+      "caption": "bottles of tomato pastes are on the shelves",
+      "id": 112924
+    },
+    {
+      "image_id": 22621,
+      "sentence_id": "00112925",
+      "caption": "a man is working in kitchen of a cafe",
+      "id": 112925
+    },
+    {
+      "image_id": 34292,
+      "sentence_id": "00171256",
+      "caption": "two glasses of tea are placed among dessert plates on table",
+      "id": 171256
+    },
+    {
+      "image_id": 34292,
+      "sentence_id": "00171257",
+      "caption": "Teacups are seen on the table",
+      "id": 171257
+    },
+    {
+      "image_id": 34292,
+      "sentence_id": "00171258",
+      "caption": "two forks are placed near fruit salad at top side",
+      "id": 171258
+    },
+    {
+      "image_id": 34292,
+      "sentence_id": "00171259",
+      "caption": "mini pancakes with chocolate are on a plate",
+      "id": 171259
+    },
+    {
+      "image_id": 34292,
+      "sentence_id": "00171260",
+      "caption": "dessert plates in foreground of area are on the table.",
+      "id": 171260
+    },
+    {
+      "image_id": 6989,
+      "sentence_id": "00034941",
+      "caption": "A bowl is in the plate on the table.",
+      "id": 34941
+    },
+    {
+      "image_id": 6989,
+      "sentence_id": "00034942",
+      "caption": "The ceramic bowl and plate are on the table.",
+      "id": 34942
+    },
+    {
+      "image_id": 6989,
+      "sentence_id": "00034943",
+      "caption": "Ground of the room is covered by the stone tiles",
+      "id": 34943
+    },
+    {
+      "image_id": 6989,
+      "sentence_id": "00034944",
+      "caption": "Small plates are on the table",
+      "id": 34944
+    },
+    {
+      "image_id": 6989,
+      "sentence_id": "00034945",
+      "caption": "all ground of place is covered by marble squares",
+      "id": 34945
+    },
+    {
+      "image_id": 37773,
+      "sentence_id": "00188651",
+      "caption": "Some jars and colorful plates on shelves",
+      "id": 188651
+    },
+    {
+      "image_id": 37773,
+      "sentence_id": "00188652",
+      "caption": "Some jars and plates are on the shelves",
+      "id": 188652
+    },
+    {
+      "image_id": 37773,
+      "sentence_id": "00188653",
+      "caption": "Some jars and plates in a kitchen cabinet",
+      "id": 188653
+    },
+    {
+      "image_id": 37773,
+      "sentence_id": "00188654",
+      "caption": "Some glass jars and utensils in a kitchen cabinet",
+      "id": 188654
+    },
+    {
+      "image_id": 37773,
+      "sentence_id": "00188655",
+      "caption": "Some pots and plates on the shelf of the kitchen",
+      "id": 188655
+    },
+    {
+      "image_id": 5025,
+      "sentence_id": "00025121",
+      "caption": "The boxing of the frying pans are on each other.",
+      "id": 25121
+    },
+    {
+      "image_id": 5025,
+      "sentence_id": "00025122",
+      "caption": "A frying pan is ready to be sold",
+      "id": 25122
+    },
+    {
+      "image_id": 5025,
+      "sentence_id": "00025123",
+      "caption": "some shelves full with household equipments are taken from inside",
+      "id": 25123
+    },
+    {
+      "image_id": 5025,
+      "sentence_id": "00025124",
+      "caption": "Several pans are ready to be sold with the price tags on the shelves",
+      "id": 25124
+    },
+    {
+      "image_id": 5025,
+      "sentence_id": "00025125",
+      "caption": "Cast pans with the necessary inscriptions for every kitchen",
+      "id": 25125
+    },
+    {
+      "image_id": 16908,
+      "sentence_id": "00084381",
+      "caption": "Wall of the room is covering the half of the background",
+      "id": 84381
+    },
+    {
+      "image_id": 16908,
+      "sentence_id": "00084382",
+      "caption": "A pot which is filled with yogurt is put on the table",
+      "id": 84382
+    },
+    {
+      "image_id": 16908,
+      "sentence_id": "00084383",
+      "caption": "A bowl of soup near the bread on the tablecloth",
+      "id": 84383
+    },
+    {
+      "image_id": 16908,
+      "sentence_id": "00084384",
+      "caption": "Rice with chickpeas is served on a plate",
+      "id": 84384
+    },
+    {
+      "image_id": 16908,
+      "sentence_id": "00084385",
+      "caption": "homemade yoghurt is in pot on kitchen table",
+      "id": 84385
+    },
+    {
+      "image_id": 40679,
+      "sentence_id": "00203181",
+      "caption": "Two cucumbers three lemons and two tangerines on a kitchen countertop with a yellow cloth",
+      "id": 203181
+    },
+    {
+      "image_id": 40679,
+      "sentence_id": "00203182",
+      "caption": "Two cucumbers and five citruses on a kitchen countertop",
+      "id": 203182
+    },
+    {
+      "image_id": 40679,
+      "sentence_id": "00203183",
+      "caption": "Two cucumbers two lemons and three oranges on a counter",
+      "id": 203183
+    },
+    {
+      "image_id": 40679,
+      "sentence_id": "00203184",
+      "caption": "Two cucumbers and three oranges and two lemons on a kitchen counter",
+      "id": 203184
+    },
+    {
+      "image_id": 40679,
+      "sentence_id": "00203185",
+      "caption": "Mandarins lemons and carrots on a kitchen counter",
+      "id": 203185
+    },
+    {
+      "image_id": 49729,
+      "sentence_id": "00248421",
+      "caption": "A jar full of sugar some spices and other items are in a pantry cabinet",
+      "id": 248421
+    },
+    {
+      "image_id": 49729,
+      "sentence_id": "00248422",
+      "caption": "Three shelves of a cabinet are filled with jars",
+      "id": 248422
+    },
+    {
+      "image_id": 49729,
+      "sentence_id": "00248423",
+      "caption": "A kitchen cabinet filled with different jars",
+      "id": 248423
+    },
+    {
+      "image_id": 49729,
+      "sentence_id": "00248424",
+      "caption": "A jar of sugar and some other jars in a kitchen closet",
+      "id": 248424
+    },
+    {
+      "image_id": 49729,
+      "sentence_id": "00248425",
+      "caption": "A jar filled with sugar is on the top shelf of a cupboard",
+      "id": 248425
+    },
+    {
+      "image_id": 12171,
+      "sentence_id": "00060816",
+      "caption": "a samovar with smoke from its chimney is right in the middle",
+      "id": 60816
+    },
+    {
+      "image_id": 12171,
+      "sentence_id": "00060817",
+      "caption": "a tea glass was placed on the seaver",
+      "id": 60817
+    },
+    {
+      "image_id": 12171,
+      "sentence_id": "00060818",
+      "caption": "the teapot is on the samovar and on the right side of the tea glass",
+      "id": 60818
+    },
+    {
+      "image_id": 12171,
+      "sentence_id": "00060819",
+      "caption": "A glass of tea sits near the samovar.",
+      "id": 60819
+    },
+    {
+      "image_id": 12171,
+      "sentence_id": "00060820",
+      "caption": "dry grass spilled on the ground where the samovar is",
+      "id": 60820
+    },
+    {
+      "image_id": 14928,
+      "sentence_id": "00074481",
+      "caption": "A single stool by the window in a kitchen",
+      "id": 74481
+    },
+    {
+      "image_id": 14928,
+      "sentence_id": "00074482",
+      "caption": "a plastic bag is hung on the window",
+      "id": 74482
+    },
+    {
+      "image_id": 14928,
+      "sentence_id": "00074483",
+      "caption": "coffee machine and kettle on marble counter",
+      "id": 74483
+    },
+    {
+      "image_id": 14928,
+      "sentence_id": "00074484",
+      "caption": "a few electrical appliances are put on marble counter of kitchen",
+      "id": 74484
+    },
+    {
+      "image_id": 14928,
+      "sentence_id": "00074485",
+      "caption": "Countertop of the kitchen is located at the right side",
+      "id": 74485
+    },
+    {
+      "image_id": 20609,
+      "sentence_id": "00102861",
+      "caption": "Straw glass is right in front",
+      "id": 102861
+    },
+    {
+      "image_id": 20609,
+      "sentence_id": "00102862",
+      "caption": "The glass is closed with a red and white lid.",
+      "id": 102862
+    },
+    {
+      "image_id": 20609,
+      "sentence_id": "00102863",
+      "caption": "a red straw is placed on the glass lid",
+      "id": 102863
+    },
+    {
+      "image_id": 20609,
+      "sentence_id": "00102864",
+      "caption": "tea glasses are on the left side of the straw glass",
+      "id": 102864
+    },
+    {
+      "image_id": 20609,
+      "sentence_id": "00102865",
+      "caption": "sauces and oils are behind the glasses",
+      "id": 102865
+    },
+    {
+      "image_id": 39421,
+      "sentence_id": "00196891",
+      "caption": "A bunch of new cabinets in a kitchen",
+      "id": 196891
+    },
+    {
+      "image_id": 39421,
+      "sentence_id": "00196892",
+      "caption": "A kitchen with brown and white cabinets",
+      "id": 196892
+    },
+    {
+      "image_id": 39421,
+      "sentence_id": "00196893",
+      "caption": "An empty kitchen with new furniture",
+      "id": 196893
+    },
+    {
+      "image_id": 39421,
+      "sentence_id": "00196894",
+      "caption": "A barren kitchen with some new furniture",
+      "id": 196894
+    },
+    {
+      "image_id": 39421,
+      "sentence_id": "00196895",
+      "caption": "Some new cabinets in a kitchen",
+      "id": 196895
+    },
+    {
+      "image_id": 52441,
+      "sentence_id": "00261981",
+      "caption": "bottle of liquid soup is located near marble tap",
+      "id": 261981
+    },
+    {
+      "image_id": 52441,
+      "sentence_id": "00261982",
+      "caption": "Next to marble faucet is a bottle of liquid soup.",
+      "id": 261982
+    },
+    {
+      "image_id": 52441,
+      "sentence_id": "00261983",
+      "caption": "traffic light warning sign is positioned on other side",
+      "id": 261983
+    },
+    {
+      "image_id": 52441,
+      "sentence_id": "00261984",
+      "caption": "a block of liquid soap is standing on the counter",
+      "id": 261984
+    },
+    {
+      "image_id": 52441,
+      "sentence_id": "00261985",
+      "caption": "liquid soap box is standing on kitchen bench",
+      "id": 261985
+    },
+    {
+      "image_id": 13041,
+      "sentence_id": "00065091",
+      "caption": "a climate control is on the front and on the left",
+      "id": 65091
+    },
+    {
+      "image_id": 13041,
+      "sentence_id": "00065092",
+      "caption": "the water bottle is left on the right side of the handle",
+      "id": 65092
+    },
+    {
+      "image_id": 13041,
+      "sentence_id": "00065093",
+      "caption": "empty pet glass is on the right side of the bottle",
+      "id": 65093
+    },
+    {
+      "image_id": 13041,
+      "sentence_id": "00065094",
+      "caption": "remote and bottle are on a white table",
+      "id": 65094
+    },
+    {
+      "image_id": 13041,
+      "sentence_id": "00065095",
+      "caption": "bottle and pet glass are in front of a white wall",
+      "id": 65095
+    },
+    {
+      "image_id": 10956,
+      "sentence_id": "00054741",
+      "caption": "On black tray with baking paper.",
+      "id": 54741
+    },
+    {
+      "image_id": 10956,
+      "sentence_id": "00054742",
+      "caption": "laid out on a white baking paper tray",
+      "id": 54742
+    },
+    {
+      "image_id": 10956,
+      "sentence_id": "00054743",
+      "caption": "some dough pieces are lined up on the baking paper",
+      "id": 54743
+    },
+    {
+      "image_id": 10956,
+      "sentence_id": "00054744",
+      "caption": "lamp above the oven illuminates the oven",
+      "id": 54744
+    },
+    {
+      "image_id": 10956,
+      "sentence_id": "00054745",
+      "caption": "a piece of blue with two holes on it is under the tray",
+      "id": 54745
+    },
+    {
+      "image_id": 4807,
+      "sentence_id": "00024031",
+      "caption": "a table for meals is replaced in the room",
+      "id": 24031
+    },
+    {
+      "image_id": 4807,
+      "sentence_id": "00024032",
+      "caption": "a kettle is behind the jar",
+      "id": 24032
+    },
+    {
+      "image_id": 4807,
+      "sentence_id": "00024033",
+      "caption": "A glass jar of chocolate is taken on the table",
+      "id": 24033
+    },
+    {
+      "image_id": 4807,
+      "sentence_id": "00024034",
+      "caption": "A bag of wet wipes with a hundred copies written behind a jar",
+      "id": 24034
+    },
+    {
+      "image_id": 4807,
+      "sentence_id": "00024035",
+      "caption": "A kettle is on the table in the kitchen.",
+      "id": 24035
+    },
+    {
+      "image_id": 17229,
+      "sentence_id": "00085986",
+      "caption": "a pepper shaker is photoed on a table.",
+      "id": 85986
+    },
+    {
+      "image_id": 17229,
+      "sentence_id": "00085987",
+      "caption": "the pepper shaker has a black colored lid.",
+      "id": 85987
+    },
+    {
+      "image_id": 17229,
+      "sentence_id": "00085988",
+      "caption": "the pepper shaker is located on a glass table.",
+      "id": 85988
+    },
+    {
+      "image_id": 17229,
+      "sentence_id": "00085989",
+      "caption": "the glass table has a tablecloth under it.",
+      "id": 85989
+    },
+    {
+      "image_id": 17229,
+      "sentence_id": "00085990",
+      "caption": "top of two wooden chairs are visible in the background.",
+      "id": 85990
+    },
+    {
+      "image_id": 43686,
+      "sentence_id": "00218216",
+      "caption": "A coffee cup on the floor is shown",
+      "id": 218216
+    },
+    {
+      "image_id": 43686,
+      "sentence_id": "00218217",
+      "caption": "A black coffee cup is on the floor",
+      "id": 218217
+    },
+    {
+      "image_id": 43686,
+      "sentence_id": "00218218",
+      "caption": "A black coffee cup and its plate on the wooden ground",
+      "id": 218218
+    },
+    {
+      "image_id": 43686,
+      "sentence_id": "00218219",
+      "caption": "A black coffee cup on a wooden ground",
+      "id": 218219
+    },
+    {
+      "image_id": 43686,
+      "sentence_id": "00218220",
+      "caption": "A black coffee mug is on the ground",
+      "id": 218220
+    },
+    {
+      "image_id": 49206,
+      "sentence_id": "00245806",
+      "caption": "Some utensils are in two white shelves",
+      "id": 245806
+    },
+    {
+      "image_id": 49206,
+      "sentence_id": "00245807",
+      "caption": "Two shelves of a white cupboard and some utensils in it",
+      "id": 245807
+    },
+    {
+      "image_id": 49206,
+      "sentence_id": "00245808",
+      "caption": "Some bowls plates and a grater on two shelves",
+      "id": 245808
+    },
+    {
+      "image_id": 49206,
+      "sentence_id": "00245809",
+      "caption": "A grater and some plates put on shelves in a kitchen closet",
+      "id": 245809
+    },
+    {
+      "image_id": 49206,
+      "sentence_id": "00245810",
+      "caption": "Some plates and cups are placed on the kitchen shelf",
+      "id": 245810
+    },
+    {
+      "image_id": 17416,
+      "sentence_id": "00086916",
+      "caption": "a cake is photoed in a kitchen.",
+      "id": 86916
+    },
+    {
+      "image_id": 17416,
+      "sentence_id": "00086917",
+      "caption": "the cake is located inside of a baking tray.",
+      "id": 86917
+    },
+    {
+      "image_id": 17416,
+      "sentence_id": "00086918",
+      "caption": "the baking tray is black colored.",
+      "id": 86918
+    },
+    {
+      "image_id": 17416,
+      "sentence_id": "00086919",
+      "caption": "the top of the cake is burnt.",
+      "id": 86919
+    },
+    {
+      "image_id": 17416,
+      "sentence_id": "00086920",
+      "caption": "the baking tray is located on top of a white colored oven.",
+      "id": 86920
+    },
+    {
+      "image_id": 706,
+      "sentence_id": "00003526",
+      "caption": "The window of the fastfood is open.",
+      "id": 3526
+    },
+    {
+      "image_id": 706,
+      "sentence_id": "00003527",
+      "caption": "The bread on the stove is being ready for the sandwich.",
+      "id": 3527
+    },
+    {
+      "image_id": 706,
+      "sentence_id": "00003528",
+      "caption": "the lids of the bottles of ketchup and mayonnaise are open",
+      "id": 3528
+    },
+    {
+      "image_id": 706,
+      "sentence_id": "00003529",
+      "caption": "an optician store is opposite the small cafe shop at background",
+      "id": 3529
+    },
+    {
+      "image_id": 706,
+      "sentence_id": "00003530",
+      "caption": "Some chairs and tables are infront of a Café by the street.",
+      "id": 3530
+    },
+    {
+      "image_id": 35892,
+      "sentence_id": "00179246",
+      "caption": "someone is preparing a toast at front side inside of fast food restaurant",
+      "id": 179246
+    },
+    {
+      "image_id": 35892,
+      "sentence_id": "00179247",
+      "caption": "the bread is sliced on the counter",
+      "id": 179247
+    },
+    {
+      "image_id": 35892,
+      "sentence_id": "00179248",
+      "caption": "A man making toast looks on a counter",
+      "id": 179248
+    },
+    {
+      "image_id": 35892,
+      "sentence_id": "00179249",
+      "caption": "mayonnaise and ketchup is inside big bowls",
+      "id": 179249
+    },
+    {
+      "image_id": 35892,
+      "sentence_id": "00179250",
+      "caption": "a lot of toast ingredients are placed on counter at front",
+      "id": 179250
+    },
+    {
+      "image_id": 37544,
+      "sentence_id": "00187506",
+      "caption": "An empty kitchen has white and new cabinets",
+      "id": 187506
+    },
+    {
+      "image_id": 37544,
+      "sentence_id": "00187507",
+      "caption": "An empty room with black and white kitchen cabinets",
+      "id": 187507
+    },
+    {
+      "image_id": 37544,
+      "sentence_id": "00187508",
+      "caption": "An empty kitchen with white cabinets",
+      "id": 187508
+    },
+    {
+      "image_id": 37544,
+      "sentence_id": "00187509",
+      "caption": "Some white cabinets of a big kitchen",
+      "id": 187509
+    },
+    {
+      "image_id": 37544,
+      "sentence_id": "00187510",
+      "caption": "A white cabinets in the kitchen",
+      "id": 187510
+    },
+    {
+      "image_id": 19944,
+      "sentence_id": "00099536",
+      "caption": "two large pots and gastronome are located at the front",
+      "id": 99536
+    },
+    {
+      "image_id": 19944,
+      "sentence_id": "00099537",
+      "caption": "Soup was poured into the pot on the left.",
+      "id": 99537
+    },
+    {
+      "image_id": 19944,
+      "sentence_id": "00099538",
+      "caption": "pots and gastronomes are on the table d'hôte",
+      "id": 99538
+    },
+    {
+      "image_id": 19944,
+      "sentence_id": "00099539",
+      "caption": "mixed salad is in the gastronome on the right",
+      "id": 99539
+    },
+    {
+      "image_id": 19944,
+      "sentence_id": "00099540",
+      "caption": "the rice is in the pot on the right side of the salad",
+      "id": 99540
+    },
+    {
+      "image_id": 8734,
+      "sentence_id": "00043666",
+      "caption": "A tea cup full of tea is in the middle.",
+      "id": 43666
+    },
+    {
+      "image_id": 8734,
+      "sentence_id": "00043667",
+      "caption": "The tea cup is on the tea plate.",
+      "id": 43667
+    },
+    {
+      "image_id": 8734,
+      "sentence_id": "00043668",
+      "caption": "Someone is holding the tea plate.",
+      "id": 43668
+    },
+    {
+      "image_id": 8734,
+      "sentence_id": "00043669",
+      "caption": "breakfast table is in the back.",
+      "id": 43669
+    },
+    {
+      "image_id": 8734,
+      "sentence_id": "00043670",
+      "caption": "Breakfast boxes are on the brown table.",
+      "id": 43670
+    },
+    {
+      "image_id": 15511,
+      "sentence_id": "00077396",
+      "caption": "small piece of a paper is on right side",
+      "id": 77396
+    },
+    {
+      "image_id": 15511,
+      "sentence_id": "00077397",
+      "caption": "a small piece of paper is next to soup bowl",
+      "id": 77397
+    },
+    {
+      "image_id": 15511,
+      "sentence_id": "00077398",
+      "caption": "a soup bowl is on wooden table",
+      "id": 77398
+    },
+    {
+      "image_id": 15511,
+      "sentence_id": "00077399",
+      "caption": "a pair of chopstick is placed in a bowl of soap",
+      "id": 77399
+    },
+    {
+      "image_id": 15511,
+      "sentence_id": "00077400",
+      "caption": "Some noodle soup is in a bowl",
+      "id": 77400
+    },
+    {
+      "image_id": 17178,
+      "sentence_id": "00085731",
+      "caption": "a coffee cup is photoed on a table.",
+      "id": 85731
+    },
+    {
+      "image_id": 17178,
+      "sentence_id": "00085732",
+      "caption": "coffee grout is visible in the cup.",
+      "id": 85732
+    },
+    {
+      "image_id": 17178,
+      "sentence_id": "00085733",
+      "caption": "the color of the cup is white.",
+      "id": 85733
+    },
+    {
+      "image_id": 17178,
+      "sentence_id": "00085734",
+      "caption": "the color of the table is black and white.",
+      "id": 85734
+    },
+    {
+      "image_id": 17178,
+      "sentence_id": "00085735",
+      "caption": "two empty glasses are located on the right.",
+      "id": 85735
+    },
+    {
+      "image_id": 22673,
+      "sentence_id": "00113181",
+      "caption": "View of chicken with carrots onions and mushrooms",
+      "id": 113181
+    },
+    {
+      "image_id": 22673,
+      "sentence_id": "00113182",
+      "caption": "a man holding the cover of the pot cooking",
+      "id": 113182
+    },
+    {
+      "image_id": 22673,
+      "sentence_id": "00113183",
+      "caption": "served plate is taken from above before serving",
+      "id": 113183
+    },
+    {
+      "image_id": 22673,
+      "sentence_id": "00113184",
+      "caption": "a paper towel is on the left side",
+      "id": 113184
+    },
+    {
+      "image_id": 22673,
+      "sentence_id": "00113185",
+      "caption": "one pot meal is on countertop",
+      "id": 113185
+    },
+    {
+      "image_id": 18289,
+      "sentence_id": "00091266",
+      "caption": "a pita with minced meat is on the counter",
+      "id": 91266
+    },
+    {
+      "image_id": 18289,
+      "sentence_id": "00091267",
+      "caption": "the red basin is behind the pita and on the left",
+      "id": 91267
+    },
+    {
+      "image_id": 18289,
+      "sentence_id": "00091268",
+      "caption": "two eggs are on the right",
+      "id": 91268
+    },
+    {
+      "image_id": 18289,
+      "sentence_id": "00091269",
+      "caption": "dough cutter is on the right side of the basin",
+      "id": 91269
+    },
+    {
+      "image_id": 18289,
+      "sentence_id": "00091270",
+      "caption": "rolling pin is on the right side of the pita",
+      "id": 91270
+    },
+    {
+      "image_id": 9742,
+      "sentence_id": "00048686",
+      "caption": "rice on a plate is photoed.",
+      "id": 48686
+    },
+    {
+      "image_id": 9742,
+      "sentence_id": "00048687",
+      "caption": "the plate is located on a dark brown tray.",
+      "id": 48687
+    },
+    {
+      "image_id": 9742,
+      "sentence_id": "00048688",
+      "caption": "an empty soup bowl is located on the right.",
+      "id": 48688
+    },
+    {
+      "image_id": 9742,
+      "sentence_id": "00048689",
+      "caption": "a plastic bowl with salad is located on the left of the soup bowl.",
+      "id": 48689
+    },
+    {
+      "image_id": 9742,
+      "sentence_id": "00048690",
+      "caption": "a white plate with meat on it is located on the left.",
+      "id": 48690
+    },
+    {
+      "image_id": 5044,
+      "sentence_id": "00025216",
+      "caption": "A big pot is on the brown table.",
+      "id": 25216
+    },
+    {
+      "image_id": 5044,
+      "sentence_id": "00025217",
+      "caption": "The ground is covered by the tiles",
+      "id": 25217
+    },
+    {
+      "image_id": 5044,
+      "sentence_id": "00025218",
+      "caption": "plastic water bottle is on floor in front of shelves",
+      "id": 25218
+    },
+    {
+      "image_id": 5044,
+      "sentence_id": "00025219",
+      "caption": "Close up view of a closed pot on the wooden table",
+      "id": 25219
+    },
+    {
+      "image_id": 5044,
+      "sentence_id": "00025220",
+      "caption": "a small sack with a tie in a wooden kitchen basket by the table",
+      "id": 25220
+    },
+    {
+      "image_id": 460,
+      "sentence_id": "00002296",
+      "caption": "The pot is on the stove but the pan is next to the stove.",
+      "id": 2296
+    },
+    {
+      "image_id": 460,
+      "sentence_id": "00002297",
+      "caption": "an empty and clean kitchen is laying at front",
+      "id": 2297
+    },
+    {
+      "image_id": 460,
+      "sentence_id": "00002298",
+      "caption": "a plug with five socket heads  is under the cupboard",
+      "id": 2298
+    },
+    {
+      "image_id": 460,
+      "sentence_id": "00002299",
+      "caption": "A water bottle id on the cabinet.",
+      "id": 2299
+    },
+    {
+      "image_id": 460,
+      "sentence_id": "00002300",
+      "caption": "A coffee maker is next to the stove.",
+      "id": 2300
+    },
+    {
+      "image_id": 5871,
+      "sentence_id": "00029351",
+      "caption": "A glass and a bowl are on the sink.",
+      "id": 29351
+    },
+    {
+      "image_id": 5871,
+      "sentence_id": "00029352",
+      "caption": "a kitchen has a carpet on the floor",
+      "id": 29352
+    },
+    {
+      "image_id": 5871,
+      "sentence_id": "00029353",
+      "caption": "stor curtains of kitchen at background is halfly opened",
+      "id": 29353
+    },
+    {
+      "image_id": 5871,
+      "sentence_id": "00029354",
+      "caption": "All wooden doors of kitchen cabinets are closed",
+      "id": 29354
+    },
+    {
+      "image_id": 5871,
+      "sentence_id": "00029355",
+      "caption": "The store curtain of the kitchen window is closed the door of kitchen",
+      "id": 29355
+    },
+    {
+      "image_id": 19540,
+      "sentence_id": "00097516",
+      "caption": "a cake is photoed in a kitchen.",
+      "id": 97516
+    },
+    {
+      "image_id": 19540,
+      "sentence_id": "00097517",
+      "caption": "the cake has multiple strawberries on it.",
+      "id": 97517
+    },
+    {
+      "image_id": 19540,
+      "sentence_id": "00097518",
+      "caption": "the cake is located in a white plate.",
+      "id": 97518
+    },
+    {
+      "image_id": 19540,
+      "sentence_id": "00097519",
+      "caption": "the plate is located on a kitchen counter.",
+      "id": 97519
+    },
+    {
+      "image_id": 19540,
+      "sentence_id": "00097520",
+      "caption": "a white colored kettle is visible in the background.",
+      "id": 97520
+    },
+    {
+      "image_id": 16756,
+      "sentence_id": "00083621",
+      "caption": "Lots of trees are covering the background",
+      "id": 83621
+    },
+    {
+      "image_id": 16756,
+      "sentence_id": "00083622",
+      "caption": "A diswasher is located next to drawer",
+      "id": 83622
+    },
+    {
+      "image_id": 16756,
+      "sentence_id": "00083623",
+      "caption": "Washed pots and two trays on the kitchen counter",
+      "id": 83623
+    },
+    {
+      "image_id": 16756,
+      "sentence_id": "00083624",
+      "caption": "Kitchen cleaning supplies next to the small bowl",
+      "id": 83624
+    },
+    {
+      "image_id": 16756,
+      "sentence_id": "00083625",
+      "caption": "Two boiling pots are put next to each other",
+      "id": 83625
+    },
+    {
+      "image_id": 43025,
+      "sentence_id": "00214911",
+      "caption": "A pepper grinder on a table is shown",
+      "id": 214911
+    },
+    {
+      "image_id": 43025,
+      "sentence_id": "00214912",
+      "caption": "A pepper grinder is on the table",
+      "id": 214912
+    },
+    {
+      "image_id": 43025,
+      "sentence_id": "00214913",
+      "caption": "A black pepper grinder on a wooden table",
+      "id": 214913
+    },
+    {
+      "image_id": 43025,
+      "sentence_id": "00214914",
+      "caption": "A black pepper grinder on a table",
+      "id": 214914
+    },
+    {
+      "image_id": 43025,
+      "sentence_id": "00214915",
+      "caption": "A bottle of black pepper is on the wooden table",
+      "id": 214915
+    },
+    {
+      "image_id": 7042,
+      "sentence_id": "00035206",
+      "caption": "An oven is on the cabinet in the kitchen.",
+      "id": 35206
+    },
+    {
+      "image_id": 7042,
+      "sentence_id": "00035207",
+      "caption": "Rolling pin lying on dough with sprinkled flour",
+      "id": 35207
+    },
+    {
+      "image_id": 7042,
+      "sentence_id": "00035208",
+      "caption": "Background of the area is covered by the wall of the kitchen",
+      "id": 35208
+    },
+    {
+      "image_id": 7042,
+      "sentence_id": "00035209",
+      "caption": "Dough is being rolled with a roller",
+      "id": 35209
+    },
+    {
+      "image_id": 7042,
+      "sentence_id": "00035210",
+      "caption": "someone is making Turkish traditional food on cabinet of kitchen",
+      "id": 35210
+    },
+    {
+      "image_id": 5543,
+      "sentence_id": "00027711",
+      "caption": "A carton of milk is on the table.",
+      "id": 27711
+    },
+    {
+      "image_id": 5543,
+      "sentence_id": "00027712",
+      "caption": "a pot is behind a carton of milk on the left side of the area",
+      "id": 27712
+    },
+    {
+      "image_id": 5543,
+      "sentence_id": "00027713",
+      "caption": "meal pot is placed on table behind carton of milk at front side",
+      "id": 27713
+    },
+    {
+      "image_id": 5543,
+      "sentence_id": "00027714",
+      "caption": "view of a carton of milk on the kitchen marble",
+      "id": 27714
+    },
+    {
+      "image_id": 5543,
+      "sentence_id": "00027715",
+      "caption": "a liter of semi-skimmed milk is the focus of the view",
+      "id": 27715
+    },
+    {
+      "image_id": 50049,
+      "sentence_id": "00250021",
+      "caption": "Some dishes are in a dishwasher",
+      "id": 250021
+    },
+    {
+      "image_id": 50049,
+      "sentence_id": "00250022",
+      "caption": "Some utensils are in the dishwasher",
+      "id": 250022
+    },
+    {
+      "image_id": 50049,
+      "sentence_id": "00250023",
+      "caption": "Inside of a dishwasher with some dishes inside",
+      "id": 250023
+    },
+    {
+      "image_id": 50049,
+      "sentence_id": "00250024",
+      "caption": "An open dishwasher with so many dishes inside",
+      "id": 250024
+    },
+    {
+      "image_id": 50049,
+      "sentence_id": "00250025",
+      "caption": "Some dishes are inside the dishwasher",
+      "id": 250025
+    },
+    {
+      "image_id": 14024,
+      "sentence_id": "00069961",
+      "caption": "Three glass jars one of which is full",
+      "id": 69961
+    },
+    {
+      "image_id": 14024,
+      "sentence_id": "00069962",
+      "caption": "a toaster is on the left side",
+      "id": 69962
+    },
+    {
+      "image_id": 14024,
+      "sentence_id": "00069963",
+      "caption": "toaster and jars standing on kitchen counter",
+      "id": 69963
+    },
+    {
+      "image_id": 14024,
+      "sentence_id": "00069964",
+      "caption": "toaster and tea pot are near each other on marble kitchen counter",
+      "id": 69964
+    },
+    {
+      "image_id": 14024,
+      "sentence_id": "00069965",
+      "caption": "A glass bottle of juice is put on the countertop",
+      "id": 69965
+    },
+    {
+      "image_id": 39919,
+      "sentence_id": "00199381",
+      "caption": "A kitchen with glass balcony doors",
+      "id": 199381
+    },
+    {
+      "image_id": 39919,
+      "sentence_id": "00199382",
+      "caption": "An empty kitchen with glass doors",
+      "id": 199382
+    },
+    {
+      "image_id": 39919,
+      "sentence_id": "00199383",
+      "caption": "An empty kitchen with white and wooden cabinets",
+      "id": 199383
+    },
+    {
+      "image_id": 39919,
+      "sentence_id": "00199384",
+      "caption": "A kitchen with white and wooden cabinets that is vacant",
+      "id": 199384
+    },
+    {
+      "image_id": 39919,
+      "sentence_id": "00199385",
+      "caption": "A new kitchen has white and brown color cabinets",
+      "id": 199385
+    },
+    {
+      "image_id": 43099,
+      "sentence_id": "00215281",
+      "caption": "Black and red utensils hung on a black rack on a counter",
+      "id": 215281
+    },
+    {
+      "image_id": 43099,
+      "sentence_id": "00215282",
+      "caption": "Some black and red utensils are on the counter",
+      "id": 215282
+    },
+    {
+      "image_id": 43099,
+      "sentence_id": "00215283",
+      "caption": "Some black kitchen utensils with red handles on a rack",
+      "id": 215283
+    },
+    {
+      "image_id": 43099,
+      "sentence_id": "00215284",
+      "caption": "Some kitchen utensils on a rack",
+      "id": 215284
+    },
+    {
+      "image_id": 43099,
+      "sentence_id": "00215285",
+      "caption": "Some kitchen tools on the kitchen counter",
+      "id": 215285
+    },
+    {
+      "image_id": 47053,
+      "sentence_id": "00235046",
+      "caption": "lots of side dishes are placed on kitchen table on backside",
+      "id": 235046
+    },
+    {
+      "image_id": 47053,
+      "sentence_id": "00235047",
+      "caption": "The plates on the table are full of food.",
+      "id": 235047
+    },
+    {
+      "image_id": 47053,
+      "sentence_id": "00235048",
+      "caption": "different dishes placed on the dining table",
+      "id": 235048
+    },
+    {
+      "image_id": 47053,
+      "sentence_id": "00235049",
+      "caption": "several kinds of appetizers and dishes on the table",
+      "id": 235049
+    },
+    {
+      "image_id": 47053,
+      "sentence_id": "00235050",
+      "caption": "braised meat is standing in the middle of the table",
+      "id": 235050
+    },
+    {
+      "image_id": 15289,
+      "sentence_id": "00076286",
+      "caption": "a glass of coke is on table",
+      "id": 76286
+    },
+    {
+      "image_id": 15289,
+      "sentence_id": "00076287",
+      "caption": "a plate is full of food",
+      "id": 76287
+    },
+    {
+      "image_id": 15289,
+      "sentence_id": "00076288",
+      "caption": "a glass of coke is next to a plate on table",
+      "id": 76288
+    },
+    {
+      "image_id": 15289,
+      "sentence_id": "00076289",
+      "caption": "kind of meal is served in ceramic plate on wooden table",
+      "id": 76289
+    },
+    {
+      "image_id": 15289,
+      "sentence_id": "00076290",
+      "caption": "Some butter in the different plate on the table",
+      "id": 76290
+    },
+    {
+      "image_id": 39864,
+      "sentence_id": "00199106",
+      "caption": "Many jars on a small table",
+      "id": 199106
+    },
+    {
+      "image_id": 39864,
+      "sentence_id": "00199107",
+      "caption": "Many full jars and a teapot are on the table",
+      "id": 199107
+    },
+    {
+      "image_id": 39864,
+      "sentence_id": "00199108",
+      "caption": "A lot of jars filled with a red liquid on a table",
+      "id": 199108
+    },
+    {
+      "image_id": 39864,
+      "sentence_id": "00199109",
+      "caption": "Numerous jars filled with red liquids on a table",
+      "id": 199109
+    },
+    {
+      "image_id": 39864,
+      "sentence_id": "00199110",
+      "caption": "A lot of jars on a table",
+      "id": 199110
+    },
+    {
+      "image_id": 43490,
+      "sentence_id": "00217236",
+      "caption": "A white pot of food with some meat and vegetables on the counter",
+      "id": 217236
+    },
+    {
+      "image_id": 43490,
+      "sentence_id": "00217237",
+      "caption": "A pot with food is on the counter",
+      "id": 217237
+    },
+    {
+      "image_id": 43490,
+      "sentence_id": "00217238",
+      "caption": "A pot roast on a counter",
+      "id": 217238
+    },
+    {
+      "image_id": 43490,
+      "sentence_id": "00217239",
+      "caption": "A roasted beef with vegetables in a pot",
+      "id": 217239
+    },
+    {
+      "image_id": 43490,
+      "sentence_id": "00217240",
+      "caption": "A food in a pyrex is on the kitchen counter",
+      "id": 217240
+    },
+    {
+      "image_id": 3147,
+      "sentence_id": "00015731",
+      "caption": "a man is talking on the phone front side of the cafe",
+      "id": 15731
+    },
+    {
+      "image_id": 3147,
+      "sentence_id": "00015732",
+      "caption": "a knife and salt pot is put on table at the front side",
+      "id": 15732
+    },
+    {
+      "image_id": 3147,
+      "sentence_id": "00015733",
+      "caption": "A TV controller is on the notebook",
+      "id": 15733
+    },
+    {
+      "image_id": 3147,
+      "sentence_id": "00015734",
+      "caption": "Chopped tomatoes and parsley in the three drawers on the table",
+      "id": 15734
+    },
+    {
+      "image_id": 3147,
+      "sentence_id": "00015735",
+      "caption": "Three men sitting in front of a street restaurant",
+      "id": 15735
+    },
+    {
+      "image_id": 5787,
+      "sentence_id": "00028931",
+      "caption": "The beans are being cooked on the stove.",
+      "id": 28931
+    },
+    {
+      "image_id": 5787,
+      "sentence_id": "00028932",
+      "caption": "a cooking pot is full of food",
+      "id": 28932
+    },
+    {
+      "image_id": 5787,
+      "sentence_id": "00028933",
+      "caption": "a small pot for making cafe behind cooking pot on stove",
+      "id": 28933
+    },
+    {
+      "image_id": 5787,
+      "sentence_id": "00028934",
+      "caption": "Baked beans with tomato sauce in a big pot",
+      "id": 28934
+    },
+    {
+      "image_id": 5787,
+      "sentence_id": "00028935",
+      "caption": "beans cooked in a casserole with oil on it",
+      "id": 28935
+    },
+    {
+      "image_id": 17350,
+      "sentence_id": "00086586",
+      "caption": "a glass is photoed on a counter.",
+      "id": 86586
+    },
+    {
+      "image_id": 17350,
+      "sentence_id": "00086587",
+      "caption": "the glass has a green colored liquid in it.",
+      "id": 86587
+    },
+    {
+      "image_id": 17350,
+      "sentence_id": "00086588",
+      "caption": "the green colored liquid has a green colored foam on top.",
+      "id": 86588
+    },
+    {
+      "image_id": 17350,
+      "sentence_id": "00086589",
+      "caption": "the glass is located on a white colored counter.",
+      "id": 86589
+    },
+    {
+      "image_id": 17350,
+      "sentence_id": "00086590",
+      "caption": "white colored cups are visible in the background.",
+      "id": 86590
+    }
+  ],
+  "images": [
+    {
+      "id": 253
+    },
+    {
+      "id": 294
+    },
+    {
+      "id": 460
+    },
+    {
+      "id": 706
+    },
+    {
+      "id": 3147
+    },
+    {
+      "id": 3900
+    },
+    {
+      "id": 4807
+    },
+    {
+      "id": 5025
+    },
+    {
+      "id": 5044
+    },
+    {
+      "id": 5270
+    },
+    {
+      "id": 5319
+    },
+    {
+      "id": 5543
+    },
+    {
+      "id": 5787
+    },
+    {
+      "id": 5871
+    },
+    {
+      "id": 6189
+    },
+    {
+      "id": 6989
+    },
+    {
+      "id": 7033
+    },
+    {
+      "id": 7042
+    },
+    {
+      "id": 8734
+    },
+    {
+      "id": 8810
+    },
+    {
+      "id": 9127
+    },
+    {
+      "id": 9317
+    },
+    {
+      "id": 9742
+    },
+    {
+      "id": 10493
+    },
+    {
+      "id": 10713
+    },
+    {
+      "id": 10956
+    },
+    {
+      "id": 12171
+    },
+    {
+      "id": 12384
+    },
+    {
+      "id": 12541
+    },
+    {
+      "id": 12603
+    },
+    {
+      "id": 12795
+    },
+    {
+      "id": 13041
+    },
+    {
+      "id": 14024
+    },
+    {
+      "id": 14928
+    },
+    {
+      "id": 15289
+    },
+    {
+      "id": 15314
+    },
+    {
+      "id": 15411
+    },
+    {
+      "id": 15511
+    },
+    {
+      "id": 16266
+    },
+    {
+      "id": 16756
+    },
+    {
+      "id": 16908
+    },
+    {
+      "id": 17178
+    },
+    {
+      "id": 17201
+    },
+    {
+      "id": 17229
+    },
+    {
+      "id": 17350
+    },
+    {
+      "id": 17416
+    },
+    {
+      "id": 18289
+    },
+    {
+      "id": 19480
+    },
+    {
+      "id": 19540
+    },
+    {
+      "id": 19944
+    },
+    {
+      "id": 20492
+    },
+    {
+      "id": 20609
+    },
+    {
+      "id": 21044
+    },
+    {
+      "id": 21348
+    },
+    {
+      "id": 21750
+    },
+    {
+      "id": 22390
+    },
+    {
+      "id": 22532
+    },
+    {
+      "id": 22605
+    },
+    {
+      "id": 22621
+    },
+    {
+      "id": 22673
+    },
+    {
+      "id": 23294
+    },
+    {
+      "id": 23569
+    },
+    {
+      "id": 23743
+    },
+    {
+      "id": 26714
+    },
+    {
+      "id": 34292
+    },
+    {
+      "id": 34970
+    },
+    {
+      "id": 35892
+    },
+    {
+      "id": 36687
+    },
+    {
+      "id": 37438
+    },
+    {
+      "id": 37476
+    },
+    {
+      "id": 37544
+    },
+    {
+      "id": 37773
+    },
+    {
+      "id": 37875
+    },
+    {
+      "id": 38034
+    },
+    {
+      "id": 38305
+    },
+    {
+      "id": 38338
+    },
+    {
+      "id": 39309
+    },
+    {
+      "id": 39421
+    },
+    {
+      "id": 39520
+    },
+    {
+      "id": 39864
+    },
+    {
+      "id": 39919
+    },
+    {
+      "id": 39968
+    },
+    {
+      "id": 40017
+    },
+    {
+      "id": 40152
+    },
+    {
+      "id": 40679
+    },
+    {
+      "id": 41354
+    },
+    {
+      "id": 41384
+    },
+    {
+      "id": 43025
+    },
+    {
+      "id": 43099
+    },
+    {
+      "id": 43490
+    },
+    {
+      "id": 43686
+    },
+    {
+      "id": 44031
+    },
+    {
+      "id": 44919
+    },
+    {
+      "id": 45270
+    },
+    {
+      "id": 45457
+    },
+    {
+      "id": 45915
+    },
+    {
+      "id": 47053
+    },
+    {
+      "id": 48121
+    },
+    {
+      "id": 48444
+    },
+    {
+      "id": 48494
+    },
+    {
+      "id": 49206
+    },
+    {
+      "id": 49364
+    },
+    {
+      "id": 49729
+    },
+    {
+      "id": 49827
+    },
+    {
+      "id": 50049
+    },
+    {
+      "id": 52441
+    },
+    {
+      "id": 52808
+    }
+  ]
+}

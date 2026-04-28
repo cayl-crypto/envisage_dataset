@@ -1,0 +1,4296 @@
+{
+  "annotations": [
+    {
+      "image_id": 19776,
+      "sentence_id": "00098696",
+      "caption": "an iron-legged coffee table is right in front",
+      "id": 98696
+    },
+    {
+      "image_id": 19776,
+      "sentence_id": "00098697",
+      "caption": "traces of rust appear on the feet of the coffee table",
+      "id": 98697
+    },
+    {
+      "image_id": 19776,
+      "sentence_id": "00098698",
+      "caption": "many plastic bottles are placed on the table",
+      "id": 98698
+    },
+    {
+      "image_id": 19776,
+      "sentence_id": "00098699",
+      "caption": "a wooden bench is to the right of the table",
+      "id": 98699
+    },
+    {
+      "image_id": 19776,
+      "sentence_id": "00098700",
+      "caption": "an open trash can is behind the table",
+      "id": 98700
+    },
+    {
+      "image_id": 15920,
+      "sentence_id": "00079441",
+      "caption": "curtain is behind a bar of chocolate",
+      "id": 79441
+    },
+    {
+      "image_id": 15920,
+      "sentence_id": "00079442",
+      "caption": "someone is holding a bar of chocolate at front side near curtains",
+      "id": 79442
+    },
+    {
+      "image_id": 15920,
+      "sentence_id": "00079443",
+      "caption": "someone is holding a kazakh chocolate",
+      "id": 79443
+    },
+    {
+      "image_id": 15920,
+      "sentence_id": "00079444",
+      "caption": "someone is standing in front of the window",
+      "id": 79444
+    },
+    {
+      "image_id": 15920,
+      "sentence_id": "00079445",
+      "caption": "the curtain of the window is closed",
+      "id": 79445
+    },
+    {
+      "image_id": 43618,
+      "sentence_id": "00217876",
+      "caption": "A blue fish figure with a red star on it hung on the wall",
+      "id": 217876
+    },
+    {
+      "image_id": 43618,
+      "sentence_id": "00217877",
+      "caption": "A blue fish figure is hung on the white wall",
+      "id": 217877
+    },
+    {
+      "image_id": 43618,
+      "sentence_id": "00217878",
+      "caption": "A fish figure with a starfish and some seashells on it on a wall",
+      "id": 217878
+    },
+    {
+      "image_id": 43618,
+      "sentence_id": "00217879",
+      "caption": "A figure of a starfish inside a fish hung on a wall",
+      "id": 217879
+    },
+    {
+      "image_id": 43618,
+      "sentence_id": "00217880",
+      "caption": "The figurine of a blue fish is hung on the wall",
+      "id": 217880
+    },
+    {
+      "image_id": 36664,
+      "sentence_id": "00183106",
+      "caption": "Some colorful pots on the floor",
+      "id": 183106
+    },
+    {
+      "image_id": 36664,
+      "sentence_id": "00183107",
+      "caption": "The view of some colorful pots",
+      "id": 183107
+    },
+    {
+      "image_id": 36664,
+      "sentence_id": "00183108",
+      "caption": "Some different colored vases on the ground",
+      "id": 183108
+    },
+    {
+      "image_id": 36664,
+      "sentence_id": "00183109",
+      "caption": "Some colored pots and vases on the ground",
+      "id": 183109
+    },
+    {
+      "image_id": 36664,
+      "sentence_id": "00183110",
+      "caption": "Many colorful vases on the shelf and ground",
+      "id": 183110
+    },
+    {
+      "image_id": 22289,
+      "sentence_id": "00111261",
+      "caption": "A keychain with many keys on the table",
+      "id": 111261
+    },
+    {
+      "image_id": 22289,
+      "sentence_id": "00111262",
+      "caption": "plastic food packaging are on a table",
+      "id": 111262
+    },
+    {
+      "image_id": 22289,
+      "sentence_id": "00111263",
+      "caption": "energy drink and cigarette are next to foods on the table",
+      "id": 111263
+    },
+    {
+      "image_id": 22289,
+      "sentence_id": "00111264",
+      "caption": "different kinds of food products are in plastic cover",
+      "id": 111264
+    },
+    {
+      "image_id": 22289,
+      "sentence_id": "00111265",
+      "caption": "food in plastic boxes are on a table",
+      "id": 111265
+    },
+    {
+      "image_id": 52568,
+      "sentence_id": "00262616",
+      "caption": "ten value euro denominations are placed on tissue pockets",
+      "id": 262616
+    },
+    {
+      "image_id": 52568,
+      "sentence_id": "00262617",
+      "caption": "Ten euro denominations put in silk bags",
+      "id": 262617
+    },
+    {
+      "image_id": 52568,
+      "sentence_id": "00262618",
+      "caption": "Ten euro notes in silk pouches",
+      "id": 262618
+    },
+    {
+      "image_id": 52568,
+      "sentence_id": "00262619",
+      "caption": "two paper ten euros standing on paper napkin",
+      "id": 262619
+    },
+    {
+      "image_id": 52568,
+      "sentence_id": "00262620",
+      "caption": "twenty euros are standing on paper napkins",
+      "id": 262620
+    },
+    {
+      "image_id": 44961,
+      "sentence_id": "00224591",
+      "caption": "three pairs of flipflops are placed under study desk at front side",
+      "id": 224591
+    },
+    {
+      "image_id": 44961,
+      "sentence_id": "00224592",
+      "caption": "house slippers are under plastic chair on front side",
+      "id": 224592
+    },
+    {
+      "image_id": 44961,
+      "sentence_id": "00224593",
+      "caption": "unworn slippers left under the table",
+      "id": 224593
+    },
+    {
+      "image_id": 44961,
+      "sentence_id": "00224594",
+      "caption": "a pair of slippers under a chair",
+      "id": 224594
+    },
+    {
+      "image_id": 44961,
+      "sentence_id": "00224595",
+      "caption": "three pairs of slippers are next to the chair",
+      "id": 224595
+    },
+    {
+      "image_id": 44282,
+      "sentence_id": "00221196",
+      "caption": "An old money bill on a purple surface",
+      "id": 221196
+    },
+    {
+      "image_id": 44282,
+      "sentence_id": "00221197",
+      "caption": "A banknote is on a purple surface",
+      "id": 221197
+    },
+    {
+      "image_id": 44282,
+      "sentence_id": "00221198",
+      "caption": "A bill of one hundred liras on a purple surface",
+      "id": 221198
+    },
+    {
+      "image_id": 44282,
+      "sentence_id": "00221199",
+      "caption": "A bill of a hundred liras on a purple silk surface",
+      "id": 221199
+    },
+    {
+      "image_id": 44282,
+      "sentence_id": "00221200",
+      "caption": "A single banknote is on a purple surface",
+      "id": 221200
+    },
+    {
+      "image_id": 49722,
+      "sentence_id": "00248386",
+      "caption": "A hand holding two name bracelets",
+      "id": 248386
+    },
+    {
+      "image_id": 49722,
+      "sentence_id": "00248387",
+      "caption": "A hand is holding some bracelets with names above the rings",
+      "id": 248387
+    },
+    {
+      "image_id": 49722,
+      "sentence_id": "00248388",
+      "caption": "A hand holding two pieces of jewelry with names on them",
+      "id": 248388
+    },
+    {
+      "image_id": 49722,
+      "sentence_id": "00248389",
+      "caption": "A hand is holding two bracelets",
+      "id": 248389
+    },
+    {
+      "image_id": 49722,
+      "sentence_id": "00248390",
+      "caption": "Bracelets that have names written on them",
+      "id": 248390
+    },
+    {
+      "image_id": 15236,
+      "sentence_id": "00076021",
+      "caption": "numbers for blind people are on paper",
+      "id": 76021
+    },
+    {
+      "image_id": 15236,
+      "sentence_id": "00076022",
+      "caption": "someone is holding a paper sheet",
+      "id": 76022
+    },
+    {
+      "image_id": 15236,
+      "sentence_id": "00076023",
+      "caption": "a table is behind a paper",
+      "id": 76023
+    },
+    {
+      "image_id": 15236,
+      "sentence_id": "00076024",
+      "caption": "someone puts its fingers on braille alphabets written sheet",
+      "id": 76024
+    },
+    {
+      "image_id": 15236,
+      "sentence_id": "00076025",
+      "caption": "Someone is holding a paper printed in braille",
+      "id": 76025
+    },
+    {
+      "image_id": 21224,
+      "sentence_id": "00105936",
+      "caption": "inside stationary store is taken while shopping",
+      "id": 105936
+    },
+    {
+      "image_id": 21224,
+      "sentence_id": "00105937",
+      "caption": "Two luxury pens are in a box on a table",
+      "id": 105937
+    },
+    {
+      "image_id": 21224,
+      "sentence_id": "00105938",
+      "caption": "two pens are in leather box at background on sale",
+      "id": 105938
+    },
+    {
+      "image_id": 21224,
+      "sentence_id": "00105939",
+      "caption": "Surface of the table is covering the background of the view",
+      "id": 105939
+    },
+    {
+      "image_id": 21224,
+      "sentence_id": "00105940",
+      "caption": "wrapped agende placing on table is taken  from above while shopping",
+      "id": 105940
+    },
+    {
+      "image_id": 6848,
+      "sentence_id": "00034236",
+      "caption": "Two glasses of coke with ice in are on a table.",
+      "id": 34236
+    },
+    {
+      "image_id": 6848,
+      "sentence_id": "00034237",
+      "caption": "The coke is poured in two glasses on the table.",
+      "id": 34237
+    },
+    {
+      "image_id": 6848,
+      "sentence_id": "00034238",
+      "caption": "people are drinking iced coke and studying maths",
+      "id": 34238
+    },
+    {
+      "image_id": 6848,
+      "sentence_id": "00034239",
+      "caption": "Two glasses of cold drinks are served",
+      "id": 34239
+    },
+    {
+      "image_id": 6848,
+      "sentence_id": "00034240",
+      "caption": "worksheet and handy are placed on table behind two glasses of beverages",
+      "id": 34240
+    },
+    {
+      "image_id": 18598,
+      "sentence_id": "00092811",
+      "caption": "the clothes are hung on the hanger directly opposite",
+      "id": 92811
+    },
+    {
+      "image_id": 18598,
+      "sentence_id": "00092812",
+      "caption": "the tag appears on the right side of the garment",
+      "id": 92812
+    },
+    {
+      "image_id": 18598,
+      "sentence_id": "00092813",
+      "caption": "snake print dresses are on the right",
+      "id": 92813
+    },
+    {
+      "image_id": 18598,
+      "sentence_id": "00092814",
+      "caption": "the dresses are all hung on black hangers",
+      "id": 92814
+    },
+    {
+      "image_id": 18598,
+      "sentence_id": "00092815",
+      "caption": "plaid dresses are hung on hangers on the left",
+      "id": 92815
+    },
+    {
+      "image_id": 5988,
+      "sentence_id": "00029936",
+      "caption": "A piece of orange is inside the juice glass.",
+      "id": 29936
+    },
+    {
+      "image_id": 5988,
+      "sentence_id": "00029937",
+      "caption": "a glass of orange juice is on the table",
+      "id": 29937
+    },
+    {
+      "image_id": 5988,
+      "sentence_id": "00029938",
+      "caption": "sunglasses is placed on table behind glass of juice",
+      "id": 29938
+    },
+    {
+      "image_id": 5988,
+      "sentence_id": "00029939",
+      "caption": "Glass of fresh orange juice on the table",
+      "id": 29939
+    },
+    {
+      "image_id": 5988,
+      "sentence_id": "00029940",
+      "caption": "Focus is glass of juice orange juice with straw in it is filled",
+      "id": 29940
+    },
+    {
+      "image_id": 14443,
+      "sentence_id": "00072056",
+      "caption": "A bag can also be used as a hanging from the neck",
+      "id": 72056
+    },
+    {
+      "image_id": 14443,
+      "sentence_id": "00072057",
+      "caption": "a bag is taken from front",
+      "id": 72057
+    },
+    {
+      "image_id": 14443,
+      "sentence_id": "00072058",
+      "caption": "a bag lying on a tablecloth",
+      "id": 72058
+    },
+    {
+      "image_id": 14443,
+      "sentence_id": "00072059",
+      "caption": "area under leather bag is covered by bed cover",
+      "id": 72059
+    },
+    {
+      "image_id": 14443,
+      "sentence_id": "00072060",
+      "caption": "A handbag is put on the table",
+      "id": 72060
+    },
+    {
+      "image_id": 37519,
+      "sentence_id": "00187381",
+      "caption": "A pink cloth has some handiwork on it",
+      "id": 187381
+    },
+    {
+      "image_id": 37519,
+      "sentence_id": "00187382",
+      "caption": "A pink cloth is on a wooden surface",
+      "id": 187382
+    },
+    {
+      "image_id": 37519,
+      "sentence_id": "00187383",
+      "caption": "A pink headscarf on a wooden surface",
+      "id": 187383
+    },
+    {
+      "image_id": 37519,
+      "sentence_id": "00187384",
+      "caption": "A pink headscarf on a table",
+      "id": 187384
+    },
+    {
+      "image_id": 37519,
+      "sentence_id": "00187385",
+      "caption": "Handmade pink cloth on the table",
+      "id": 187385
+    },
+    {
+      "image_id": 41211,
+      "sentence_id": "00205841",
+      "caption": "A pair of slippers with a cat and heart designs on them on the floor",
+      "id": 205841
+    },
+    {
+      "image_id": 41211,
+      "sentence_id": "00205842",
+      "caption": "A pair of cat-designed slippers are on the floor",
+      "id": 205842
+    },
+    {
+      "image_id": 41211,
+      "sentence_id": "00205843",
+      "caption": "A pair of white slippers with a cat and a heart designs on them",
+      "id": 205843
+    },
+    {
+      "image_id": 41211,
+      "sentence_id": "00205844",
+      "caption": "A pair of slippers and a foot of a person on the ground",
+      "id": 205844
+    },
+    {
+      "image_id": 41211,
+      "sentence_id": "00205845",
+      "caption": "A pair of slippers on the ground",
+      "id": 205845
+    },
+    {
+      "image_id": 3191,
+      "sentence_id": "00015951",
+      "caption": "a coat was hunged on stick behind the man",
+      "id": 15951
+    },
+    {
+      "image_id": 3191,
+      "sentence_id": "00015952",
+      "caption": "a man is standing in front of the closed door",
+      "id": 15952
+    },
+    {
+      "image_id": 3191,
+      "sentence_id": "00015953",
+      "caption": "A white closed door is behind the man in black suit",
+      "id": 15953
+    },
+    {
+      "image_id": 3191,
+      "sentence_id": "00015954",
+      "caption": "Someone wearing formal suit standing in an office",
+      "id": 15954
+    },
+    {
+      "image_id": 3191,
+      "sentence_id": "00015955",
+      "caption": "A leather jacket hung on the hanger at the corner of an office",
+      "id": 15955
+    },
+    {
+      "image_id": 6348,
+      "sentence_id": "00031736",
+      "caption": "A bookcase full of books and decrotions is taken .",
+      "id": 31736
+    },
+    {
+      "image_id": 6348,
+      "sentence_id": "00031737",
+      "caption": "Some classic cars are put on the book shelf.",
+      "id": 31737
+    },
+    {
+      "image_id": 6348,
+      "sentence_id": "00031738",
+      "caption": "A portrait of Atatürk is put in front of the books",
+      "id": 31738
+    },
+    {
+      "image_id": 6348,
+      "sentence_id": "00031739",
+      "caption": "books are placed obsessively on book case's shelves at background",
+      "id": 31739
+    },
+    {
+      "image_id": 6348,
+      "sentence_id": "00031740",
+      "caption": "statues of two philosophers between books on two bookshelves",
+      "id": 31740
+    },
+    {
+      "image_id": 2064,
+      "sentence_id": "00010316",
+      "caption": "small handcraft basket is on the bookshelf",
+      "id": 10316
+    },
+    {
+      "image_id": 2064,
+      "sentence_id": "00010317",
+      "caption": "A lot of folders on the shelf of the bookshelf",
+      "id": 10317
+    },
+    {
+      "image_id": 2064,
+      "sentence_id": "00010318",
+      "caption": "turban made of ivory velvet stands on top of bookcase.",
+      "id": 10318
+    },
+    {
+      "image_id": 2064,
+      "sentence_id": "00010319",
+      "caption": "The bookshelf is wooden made standing on side",
+      "id": 10319
+    },
+    {
+      "image_id": 2064,
+      "sentence_id": "00010320",
+      "caption": "All the folder keepers are yellow and only one is red.",
+      "id": 10320
+    },
+    {
+      "image_id": 51621,
+      "sentence_id": "00257881",
+      "caption": "all stores behind buildings at back are closed",
+      "id": 257881
+    },
+    {
+      "image_id": 51621,
+      "sentence_id": "00257882",
+      "caption": "All shops behind the buildings are closed",
+      "id": 257882
+    },
+    {
+      "image_id": 51621,
+      "sentence_id": "00257883",
+      "caption": "All shops under the apartments are closed",
+      "id": 257883
+    },
+    {
+      "image_id": 51621,
+      "sentence_id": "00257884",
+      "caption": "bagel cart is standing on the sidewalk",
+      "id": 257884
+    },
+    {
+      "image_id": 51621,
+      "sentence_id": "00257885",
+      "caption": "two ventilators are placed in front of market",
+      "id": 257885
+    },
+    {
+      "image_id": 5669,
+      "sentence_id": "00028341",
+      "caption": "The kitten is sleeping inside the slipper.",
+      "id": 28341
+    },
+    {
+      "image_id": 5669,
+      "sentence_id": "00028342",
+      "caption": "a slipper is on the floor in a room",
+      "id": 28342
+    },
+    {
+      "image_id": 5669,
+      "sentence_id": "00028343",
+      "caption": "all ground of room is covered by wooden thing",
+      "id": 28343
+    },
+    {
+      "image_id": 5669,
+      "sentence_id": "00028344",
+      "caption": "View of lying small cat in a slipper",
+      "id": 28344
+    },
+    {
+      "image_id": 5669,
+      "sentence_id": "00028345",
+      "caption": "cat is taken getting into plastic slipper on wooden parquet",
+      "id": 28345
+    },
+    {
+      "image_id": 26027,
+      "sentence_id": "00129946",
+      "caption": "Some clothes are in the store",
+      "id": 129946
+    },
+    {
+      "image_id": 26027,
+      "sentence_id": "00129947",
+      "caption": "thin trees are lined up to each other front shop",
+      "id": 129947
+    },
+    {
+      "image_id": 26027,
+      "sentence_id": "00129948",
+      "caption": "display of clothing store is designed with sweat shirts",
+      "id": 129948
+    },
+    {
+      "image_id": 26027,
+      "sentence_id": "00129949",
+      "caption": "several sweatshirts are hung in the shop",
+      "id": 129949
+    },
+    {
+      "image_id": 26027,
+      "sentence_id": "00129950",
+      "caption": "a number of sweetshirts are hung on in mall",
+      "id": 129950
+    },
+    {
+      "image_id": 33821,
+      "sentence_id": "00168901",
+      "caption": "lots of old goods are scattered around table's surface at front",
+      "id": 168901
+    },
+    {
+      "image_id": 33821,
+      "sentence_id": "00168902",
+      "caption": "Antique items that people do not use are exhibited here",
+      "id": 168902
+    },
+    {
+      "image_id": 33821,
+      "sentence_id": "00168903",
+      "caption": "an old fork is placed on table at front bottom side",
+      "id": 168903
+    },
+    {
+      "image_id": 33821,
+      "sentence_id": "00168904",
+      "caption": "lots of antique items are taken in a bazaar",
+      "id": 168904
+    },
+    {
+      "image_id": 33821,
+      "sentence_id": "00168905",
+      "caption": "Old antique items are on display in the foreground of the view",
+      "id": 168905
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118531",
+      "caption": "Two men are wearing red hats in the room",
+      "id": 118531
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118532",
+      "caption": "middle elderly men in hats are inside living room",
+      "id": 118532
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118533",
+      "caption": "curtain of kitchen at back is halfly opened",
+      "id": 118533
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118534",
+      "caption": "two men in the kitchen are wearing hats",
+      "id": 118534
+    },
+    {
+      "image_id": 23743,
+      "sentence_id": "00118535",
+      "caption": "a middle aged man is wearing a glassess",
+      "id": 118535
+    },
+    {
+      "image_id": 11987,
+      "sentence_id": "00059896",
+      "caption": "The cologne bottle is directly opposite.",
+      "id": 59896
+    },
+    {
+      "image_id": 11987,
+      "sentence_id": "00059897",
+      "caption": "The cologne stands on the marble counter.",
+      "id": 59897
+    },
+    {
+      "image_id": 11987,
+      "sentence_id": "00059898",
+      "caption": "Marble countertop is gray in color.",
+      "id": 59898
+    },
+    {
+      "image_id": 11987,
+      "sentence_id": "00059899",
+      "caption": "The cover of the cologne is black.",
+      "id": 59899
+    },
+    {
+      "image_id": 11987,
+      "sentence_id": "00059900",
+      "caption": "The tiles are on the wall behind the counter.",
+      "id": 59900
+    },
+    {
+      "image_id": 42642,
+      "sentence_id": "00212996",
+      "caption": "Two pairs of red and green shoes are on the boxes",
+      "id": 212996
+    },
+    {
+      "image_id": 42642,
+      "sentence_id": "00212997",
+      "caption": "Two pairs of baby shoes and a white bib",
+      "id": 212997
+    },
+    {
+      "image_id": 42642,
+      "sentence_id": "00212998",
+      "caption": "Two pairs of baby shoes and a bib",
+      "id": 212998
+    },
+    {
+      "image_id": 42642,
+      "sentence_id": "00212999",
+      "caption": "Two pairs of baby shoes on a table",
+      "id": 212999
+    },
+    {
+      "image_id": 42642,
+      "sentence_id": "00213000",
+      "caption": "Two pairs of baby shoes in boxes",
+      "id": 213000
+    },
+    {
+      "image_id": 50782,
+      "sentence_id": "00253686",
+      "caption": "someone is standing behind wooden table at front",
+      "id": 253686
+    },
+    {
+      "image_id": 50782,
+      "sentence_id": "00253687",
+      "caption": "hand knit fibers lie on top of the plastic box",
+      "id": 253687
+    },
+    {
+      "image_id": 50782,
+      "sentence_id": "00253688",
+      "caption": "hand woven fibers lie on plastic boxes",
+      "id": 253688
+    },
+    {
+      "image_id": 50782,
+      "sentence_id": "00253689",
+      "caption": "knitted baby gloves are standing on the glass table",
+      "id": 253689
+    },
+    {
+      "image_id": 50782,
+      "sentence_id": "00253690",
+      "caption": "many beads are settled in the plastic box",
+      "id": 253690
+    },
+    {
+      "image_id": 3936,
+      "sentence_id": "00019676",
+      "caption": "an electronic guitar is put on couch in room",
+      "id": 19676
+    },
+    {
+      "image_id": 3936,
+      "sentence_id": "00019677",
+      "caption": "an electronic guitar is on the carpet",
+      "id": 19677
+    },
+    {
+      "image_id": 3936,
+      "sentence_id": "00019678",
+      "caption": "view of musical instrument with a long neck and four strings",
+      "id": 19678
+    },
+    {
+      "image_id": 3936,
+      "sentence_id": "00019679",
+      "caption": "an electric guitar is with three colors is taken",
+      "id": 19679
+    },
+    {
+      "image_id": 3936,
+      "sentence_id": "00019680",
+      "caption": "An electronic guitar os on the blanket.",
+      "id": 19680
+    },
+    {
+      "image_id": 13903,
+      "sentence_id": "00069361",
+      "caption": "inside of a shop is photoed.",
+      "id": 69361
+    },
+    {
+      "image_id": 13903,
+      "sentence_id": "00069362",
+      "caption": "an information screen is located in the middle of the photo.",
+      "id": 69362
+    },
+    {
+      "image_id": 13903,
+      "sentence_id": "00069363",
+      "caption": "dresses are visible on the left.",
+      "id": 69363
+    },
+    {
+      "image_id": 13903,
+      "sentence_id": "00069364",
+      "caption": "two escalators are visible on the left.",
+      "id": 69364
+    },
+    {
+      "image_id": 13903,
+      "sentence_id": "00069365",
+      "caption": "sweatswhirts are located on the right.",
+      "id": 69365
+    },
+    {
+      "image_id": 41822,
+      "sentence_id": "00208896",
+      "caption": "Different types of accessories displayed in a store",
+      "id": 208896
+    },
+    {
+      "image_id": 41822,
+      "sentence_id": "00208897",
+      "caption": "Many accessories are displayed on the shelves of a store",
+      "id": 208897
+    },
+    {
+      "image_id": 41822,
+      "sentence_id": "00208898",
+      "caption": "Different types of jewelry is displayed on a showcase",
+      "id": 208898
+    },
+    {
+      "image_id": 41822,
+      "sentence_id": "00208899",
+      "caption": "A view of the showcase of a jewelry store",
+      "id": 208899
+    },
+    {
+      "image_id": 41822,
+      "sentence_id": "00208900",
+      "caption": "Necklaces and earrings displayed on the showcase of a store",
+      "id": 208900
+    },
+    {
+      "image_id": 47445,
+      "sentence_id": "00237001",
+      "caption": "wooden study desk is placed on seating of pergola at back",
+      "id": 237001
+    },
+    {
+      "image_id": 47445,
+      "sentence_id": "00237002",
+      "caption": "backpack lies on the wooden table",
+      "id": 237002
+    },
+    {
+      "image_id": 47445,
+      "sentence_id": "00237003",
+      "caption": "bag placed on the table in the camellia",
+      "id": 237003
+    },
+    {
+      "image_id": 47445,
+      "sentence_id": "00237004",
+      "caption": "a back pack is on the wooden table",
+      "id": 237004
+    },
+    {
+      "image_id": 47445,
+      "sentence_id": "00237005",
+      "caption": "the school bag is standing on the wooden table",
+      "id": 237005
+    },
+    {
+      "image_id": 36738,
+      "sentence_id": "00183476",
+      "caption": "A pair of white boots are seen",
+      "id": 183476
+    },
+    {
+      "image_id": 36738,
+      "sentence_id": "00183477",
+      "caption": "Two white boots and a cable",
+      "id": 183477
+    },
+    {
+      "image_id": 36738,
+      "sentence_id": "00183478",
+      "caption": "A pair of beige boots on the floor",
+      "id": 183478
+    },
+    {
+      "image_id": 36738,
+      "sentence_id": "00183479",
+      "caption": "A pair of boots on the floor",
+      "id": 183479
+    },
+    {
+      "image_id": 36738,
+      "sentence_id": "00183480",
+      "caption": "A pair of boots on the carpet",
+      "id": 183480
+    },
+    {
+      "image_id": 22097,
+      "sentence_id": "00110301",
+      "caption": "a man is playing with his cell phone while walking at right side",
+      "id": 110301
+    },
+    {
+      "image_id": 22097,
+      "sentence_id": "00110302",
+      "caption": "people are selling on the street with other pwople walking by",
+      "id": 110302
+    },
+    {
+      "image_id": 22097,
+      "sentence_id": "00110303",
+      "caption": "a few people are waiting behind their counters at background",
+      "id": 110303
+    },
+    {
+      "image_id": 22097,
+      "sentence_id": "00110304",
+      "caption": "Lots of people are walking in the city center",
+      "id": 110304
+    },
+    {
+      "image_id": 22097,
+      "sentence_id": "00110305",
+      "caption": "a man is selling sports shoes on counter in front of him",
+      "id": 110305
+    },
+    {
+      "image_id": 15486,
+      "sentence_id": "00077271",
+      "caption": "a man is sitting on camp chair on right side",
+      "id": 77271
+    },
+    {
+      "image_id": 15486,
+      "sentence_id": "00077272",
+      "caption": "lake is taken on sunny day",
+      "id": 77272
+    },
+    {
+      "image_id": 15486,
+      "sentence_id": "00077273",
+      "caption": "a camp chair is in front of a tent",
+      "id": 77273
+    },
+    {
+      "image_id": 15486,
+      "sentence_id": "00077274",
+      "caption": "a tent is made at lake side at right front side",
+      "id": 77274
+    },
+    {
+      "image_id": 15486,
+      "sentence_id": "00077275",
+      "caption": "Man is sitting by a lake on a sunny day",
+      "id": 77275
+    },
+    {
+      "image_id": 15841,
+      "sentence_id": "00079046",
+      "caption": "lots of decor trinkets are at a museum",
+      "id": 79046
+    },
+    {
+      "image_id": 15841,
+      "sentence_id": "00079047",
+      "caption": "a lot of tiny children's models are being demonstrated on display",
+      "id": 79047
+    },
+    {
+      "image_id": 15841,
+      "sentence_id": "00079048",
+      "caption": "lots of miniature figures on display",
+      "id": 79048
+    },
+    {
+      "image_id": 15841,
+      "sentence_id": "00079049",
+      "caption": "a collection of miniature dolls are displayed on glass",
+      "id": 79049
+    },
+    {
+      "image_id": 15841,
+      "sentence_id": "00079050",
+      "caption": "lots of toy figures are displayed in the glass",
+      "id": 79050
+    },
+    {
+      "image_id": 22495,
+      "sentence_id": "00112291",
+      "caption": "Many accessories attached to small decorative pillows",
+      "id": 112291
+    },
+    {
+      "image_id": 22495,
+      "sentence_id": "00112292",
+      "caption": "colorful butterflies bracelets are being sold",
+      "id": 112292
+    },
+    {
+      "image_id": 22495,
+      "sentence_id": "00112293",
+      "caption": "lots of shapes of bracelets are being sold at front side",
+      "id": 112293
+    },
+    {
+      "image_id": 22495,
+      "sentence_id": "00112294",
+      "caption": "bracelets in a jewelry shop are taken",
+      "id": 112294
+    },
+    {
+      "image_id": 22495,
+      "sentence_id": "00112295",
+      "caption": "different shapes of bracelets are on shelves",
+      "id": 112295
+    },
+    {
+      "image_id": 13649,
+      "sentence_id": "00068111",
+      "caption": "The figure of a sitting camel is right in the middle.",
+      "id": 68111
+    },
+    {
+      "image_id": 13649,
+      "sentence_id": "00068112",
+      "caption": "Two camel figures are behind the camel figure in the middle.",
+      "id": 68112
+    },
+    {
+      "image_id": 13649,
+      "sentence_id": "00068113",
+      "caption": "Camel figures are on a table.",
+      "id": 68113
+    },
+    {
+      "image_id": 13649,
+      "sentence_id": "00068114",
+      "caption": "lace white cloth is between the camel figures and the table.",
+      "id": 68114
+    },
+    {
+      "image_id": 13649,
+      "sentence_id": "00068115",
+      "caption": "The colored seats are above the ridges of the camel figures.",
+      "id": 68115
+    },
+    {
+      "image_id": 48988,
+      "sentence_id": "00244716",
+      "caption": "The inside of a store with lots of glasses seen through the glass wall",
+      "id": 244716
+    },
+    {
+      "image_id": 48988,
+      "sentence_id": "00244717",
+      "caption": "Outside of a store that has glass walls is filled with glasses",
+      "id": 244717
+    },
+    {
+      "image_id": 48988,
+      "sentence_id": "00244718",
+      "caption": "Outside of an optical store with glasses displayed on the window",
+      "id": 244718
+    },
+    {
+      "image_id": 48988,
+      "sentence_id": "00244719",
+      "caption": "A showcase of an optical store is shown from the outside",
+      "id": 244719
+    },
+    {
+      "image_id": 48988,
+      "sentence_id": "00244720",
+      "caption": "The view of an optician displaying different kinds of glasses",
+      "id": 244720
+    },
+    {
+      "image_id": 7928,
+      "sentence_id": "00039636",
+      "caption": "dragon fruit kiwi and strawberry smooties are being hold by a man",
+      "id": 39636
+    },
+    {
+      "image_id": 7928,
+      "sentence_id": "00039637",
+      "caption": "someone is holding four smoothie bottles",
+      "id": 39637
+    },
+    {
+      "image_id": 7928,
+      "sentence_id": "00039638",
+      "caption": "surface of place is covered by laminat parquet under feet",
+      "id": 39638
+    },
+    {
+      "image_id": 7928,
+      "sentence_id": "00039639",
+      "caption": "a picyure showing some smoothies with different flavors",
+      "id": 39639
+    },
+    {
+      "image_id": 7928,
+      "sentence_id": "00039640",
+      "caption": "four different kinds of smoothies are taken",
+      "id": 39640
+    },
+    {
+      "image_id": 42091,
+      "sentence_id": "00210241",
+      "caption": "A violin in a violin case on the floor",
+      "id": 210241
+    },
+    {
+      "image_id": 42091,
+      "sentence_id": "00210242",
+      "caption": "The violin is in a violin bag on the floor",
+      "id": 210242
+    },
+    {
+      "image_id": 42091,
+      "sentence_id": "00210243",
+      "caption": "A violin in a violin case",
+      "id": 210243
+    },
+    {
+      "image_id": 42091,
+      "sentence_id": "00210244",
+      "caption": "A violin in an open bag is seen",
+      "id": 210244
+    },
+    {
+      "image_id": 42091,
+      "sentence_id": "00210245",
+      "caption": "A brown violin in a violin case",
+      "id": 210245
+    },
+    {
+      "image_id": 22848,
+      "sentence_id": "00114056",
+      "caption": "Closeup view of a hair brush with hair",
+      "id": 114056
+    },
+    {
+      "image_id": 22848,
+      "sentence_id": "00114057",
+      "caption": "black hair brush is on the bed",
+      "id": 114057
+    },
+    {
+      "image_id": 22848,
+      "sentence_id": "00114058",
+      "caption": "small part of vanity table is taken from above",
+      "id": 114058
+    },
+    {
+      "image_id": 22848,
+      "sentence_id": "00114059",
+      "caption": "a hair brush is taken  from close",
+      "id": 114059
+    },
+    {
+      "image_id": 22848,
+      "sentence_id": "00114060",
+      "caption": "plastic hair comb on the tablecloth",
+      "id": 114060
+    },
+    {
+      "image_id": 4348,
+      "sentence_id": "00021736",
+      "caption": "some electrical appliances are put on shelves regularly",
+      "id": 21736
+    },
+    {
+      "image_id": 4348,
+      "sentence_id": "00021737",
+      "caption": "a shoe box is on the shelf",
+      "id": 21737
+    },
+    {
+      "image_id": 4348,
+      "sentence_id": "00021738",
+      "caption": "Several leds and hair dryer in the box",
+      "id": 21738
+    },
+    {
+      "image_id": 4348,
+      "sentence_id": "00021739",
+      "caption": "a professional hair dryer is in a box in a shelf of a cabinet",
+      "id": 21739
+    },
+    {
+      "image_id": 4348,
+      "sentence_id": "00021740",
+      "caption": "A shoes box of a well-known brand is on theshelf.",
+      "id": 21740
+    },
+    {
+      "image_id": 23352,
+      "sentence_id": "00116576",
+      "caption": "Lots of phones are put on the shelf",
+      "id": 116576
+    },
+    {
+      "image_id": 23352,
+      "sentence_id": "00116577",
+      "caption": "telephones are in the shop window",
+      "id": 116577
+    },
+    {
+      "image_id": 23352,
+      "sentence_id": "00116578",
+      "caption": "old phones are for sale in a glass",
+      "id": 116578
+    },
+    {
+      "image_id": 23352,
+      "sentence_id": "00116579",
+      "caption": "some phones are in glass cage",
+      "id": 116579
+    },
+    {
+      "image_id": 23352,
+      "sentence_id": "00116580",
+      "caption": "seven phones are in glass cage",
+      "id": 116580
+    },
+    {
+      "image_id": 29202,
+      "sentence_id": "00145816",
+      "caption": "snowy covered area is taken from inside of moving bus",
+      "id": 145816
+    },
+    {
+      "image_id": 29202,
+      "sentence_id": "00145817",
+      "caption": "a teddy bear is on left side of view",
+      "id": 145817
+    },
+    {
+      "image_id": 29202,
+      "sentence_id": "00145818",
+      "caption": "a quilt is covered the front of a car",
+      "id": 145818
+    },
+    {
+      "image_id": 29202,
+      "sentence_id": "00145819",
+      "caption": "teddy bear in the front of the car",
+      "id": 145819
+    },
+    {
+      "image_id": 29202,
+      "sentence_id": "00145820",
+      "caption": "little teddy bear is sitting in front of the window of a commercial vehicle",
+      "id": 145820
+    },
+    {
+      "image_id": 48810,
+      "sentence_id": "00243826",
+      "caption": "Some toys on a street in front of a shop are shown",
+      "id": 243826
+    },
+    {
+      "image_id": 48810,
+      "sentence_id": "00243827",
+      "caption": "The front of a store that has many games and books",
+      "id": 243827
+    },
+    {
+      "image_id": 48810,
+      "sentence_id": "00243828",
+      "caption": "A lot of books and games are sold in front of a shop",
+      "id": 243828
+    },
+    {
+      "image_id": 48810,
+      "sentence_id": "00243829",
+      "caption": "A lot of box games are exhibited in front of a game store",
+      "id": 243829
+    },
+    {
+      "image_id": 48810,
+      "sentence_id": "00243830",
+      "caption": "The store by the side of the road sells board games and childrens book",
+      "id": 243830
+    },
+    {
+      "image_id": 7137,
+      "sentence_id": "00035681",
+      "caption": "A guitar is by the wall.",
+      "id": 35681
+    },
+    {
+      "image_id": 7137,
+      "sentence_id": "00035682",
+      "caption": "A laptop and a round mirror on the wooden table",
+      "id": 35682
+    },
+    {
+      "image_id": 7137,
+      "sentence_id": "00035683",
+      "caption": "Background of the area is covered by the wall of the room",
+      "id": 35683
+    },
+    {
+      "image_id": 7137,
+      "sentence_id": "00035684",
+      "caption": "A guitar is behind a pot with daisies",
+      "id": 35684
+    },
+    {
+      "image_id": 7137,
+      "sentence_id": "00035685",
+      "caption": "a bunch of daisy is placed in vase near guitar",
+      "id": 35685
+    },
+    {
+      "image_id": 16906,
+      "sentence_id": "00084371",
+      "caption": "A sweatpants is put on the table",
+      "id": 84371
+    },
+    {
+      "image_id": 16906,
+      "sentence_id": "00084372",
+      "caption": "Surface of the table is wooden",
+      "id": 84372
+    },
+    {
+      "image_id": 16906,
+      "sentence_id": "00084373",
+      "caption": "Closeup view of sweatpants for child boy",
+      "id": 84373
+    },
+    {
+      "image_id": 16906,
+      "sentence_id": "00084374",
+      "caption": "view of table with chair in a room",
+      "id": 84374
+    },
+    {
+      "image_id": 16906,
+      "sentence_id": "00084375",
+      "caption": "a small track suit bottom is on desk",
+      "id": 84375
+    },
+    {
+      "image_id": 8182,
+      "sentence_id": "00040906",
+      "caption": "Images of several sneakers inside the shoe rack",
+      "id": 40906
+    },
+    {
+      "image_id": 8182,
+      "sentence_id": "00040907",
+      "caption": "two shoes boxes are on shoe cabinet",
+      "id": 40907
+    },
+    {
+      "image_id": 8182,
+      "sentence_id": "00040908",
+      "caption": "slippers are under shoerack on the corner of entrance hall",
+      "id": 40908
+    },
+    {
+      "image_id": 8182,
+      "sentence_id": "00040909",
+      "caption": "shoes in a shoe rack and boxes on top",
+      "id": 40909
+    },
+    {
+      "image_id": 8182,
+      "sentence_id": "00040910",
+      "caption": "shoe boxes are on the shoe cabinet",
+      "id": 40910
+    },
+    {
+      "image_id": 5318,
+      "sentence_id": "00026586",
+      "caption": "She is holding her purple wallet.",
+      "id": 26586
+    },
+    {
+      "image_id": 5318,
+      "sentence_id": "00026587",
+      "caption": "The ground is covered by the stone tiles",
+      "id": 26587
+    },
+    {
+      "image_id": 5318,
+      "sentence_id": "00026588",
+      "caption": "walking woman is holding her purse and bag on pavement",
+      "id": 26588
+    },
+    {
+      "image_id": 5318,
+      "sentence_id": "00026589",
+      "caption": "Someone holding her purse on her handbag",
+      "id": 26589
+    },
+    {
+      "image_id": 5318,
+      "sentence_id": "00026590",
+      "caption": "girl painting her long nails with nail polish is holding her wallet towards the camera",
+      "id": 26590
+    },
+    {
+      "image_id": 12709,
+      "sentence_id": "00063471",
+      "caption": "A pair of slippers is on the floor.",
+      "id": 63471
+    },
+    {
+      "image_id": 12709,
+      "sentence_id": "00063472",
+      "caption": "Panama Club is written on the slippers.",
+      "id": 63472
+    },
+    {
+      "image_id": 12709,
+      "sentence_id": "00063473",
+      "caption": "The slippers on the floor are size 41.",
+      "id": 63473
+    },
+    {
+      "image_id": 12709,
+      "sentence_id": "00063474",
+      "caption": "The slippers are brown on the inside and black on the outside.",
+      "id": 63474
+    },
+    {
+      "image_id": 12709,
+      "sentence_id": "00063475",
+      "caption": "slippers are on a wooden parquet floor.",
+      "id": 63475
+    },
+    {
+      "image_id": 19756,
+      "sentence_id": "00098596",
+      "caption": "several kinds of nail stuff are right up front",
+      "id": 98596
+    },
+    {
+      "image_id": 19756,
+      "sentence_id": "00098597",
+      "caption": "materials are placed inside a mica organizer",
+      "id": 98597
+    },
+    {
+      "image_id": 19756,
+      "sentence_id": "00098598",
+      "caption": "price tag placed in front of the editor",
+      "id": 98598
+    },
+    {
+      "image_id": 19756,
+      "sentence_id": "00098599",
+      "caption": "nail polishes are placed on the right side of the organizer",
+      "id": 98599
+    },
+    {
+      "image_id": 19756,
+      "sentence_id": "00098600",
+      "caption": "The names of the materials are written on the price tag.",
+      "id": 98600
+    },
+    {
+      "image_id": 41676,
+      "sentence_id": "00208166",
+      "caption": "Some rugs bags clothes and mannequins standing in front of a building with a flag",
+      "id": 208166
+    },
+    {
+      "image_id": 41676,
+      "sentence_id": "00208167",
+      "caption": "Some clothes are in front of the building",
+      "id": 208167
+    },
+    {
+      "image_id": 41676,
+      "sentence_id": "00208168",
+      "caption": "Two mannequins and some clothes in front of a store",
+      "id": 208168
+    },
+    {
+      "image_id": 41676,
+      "sentence_id": "00208169",
+      "caption": "Two mannequins in front of a store",
+      "id": 208169
+    },
+    {
+      "image_id": 41676,
+      "sentence_id": "00208170",
+      "caption": "A red flag on the wall of a wooden structure",
+      "id": 208170
+    },
+    {
+      "image_id": 52909,
+      "sentence_id": "00264321",
+      "caption": "man in eyeglasses is tidying the dishes up at right",
+      "id": 264321
+    },
+    {
+      "image_id": 52909,
+      "sentence_id": "00264322",
+      "caption": "The iron pole is erected behind the bus stop.",
+      "id": 264322
+    },
+    {
+      "image_id": 52909,
+      "sentence_id": "00264323",
+      "caption": "alone man in hat is sitting on wooden chair.",
+      "id": 264323
+    },
+    {
+      "image_id": 52909,
+      "sentence_id": "00264324",
+      "caption": "a man with a hat is sitting on the chair",
+      "id": 264324
+    },
+    {
+      "image_id": 52909,
+      "sentence_id": "00264325",
+      "caption": "several party flages are hung on the wall of hall",
+      "id": 264325
+    },
+    {
+      "image_id": 10119,
+      "sentence_id": "00050571",
+      "caption": "a beach is photoed at the sundown.",
+      "id": 50571
+    },
+    {
+      "image_id": 10119,
+      "sentence_id": "00050572",
+      "caption": "sea is located on the left side of the beach.",
+      "id": 50572
+    },
+    {
+      "image_id": 10119,
+      "sentence_id": "00050573",
+      "caption": "two hats are located on the beach.",
+      "id": 50573
+    },
+    {
+      "image_id": 10119,
+      "sentence_id": "00050574",
+      "caption": "a white hat is located on the left.",
+      "id": 50574
+    },
+    {
+      "image_id": 10119,
+      "sentence_id": "00050575",
+      "caption": "a brown hat is located on the right.",
+      "id": 50575
+    },
+    {
+      "image_id": 4716,
+      "sentence_id": "00023576",
+      "caption": "lots of flip flaps and sandals are hung on sticks",
+      "id": 23576
+    },
+    {
+      "image_id": 4716,
+      "sentence_id": "00023577",
+      "caption": "lots of home shoes are side by side",
+      "id": 23577
+    },
+    {
+      "image_id": 4716,
+      "sentence_id": "00023578",
+      "caption": "A signboard called a hammam shoes bag hanging on the stone wall",
+      "id": 23578
+    },
+    {
+      "image_id": 4716,
+      "sentence_id": "00023579",
+      "caption": "various house shoes in the shape of dogs",
+      "id": 23579
+    },
+    {
+      "image_id": 4716,
+      "sentence_id": "00023580",
+      "caption": "stand of slippers standing on front is taken",
+      "id": 23580
+    },
+    {
+      "image_id": 14804,
+      "sentence_id": "00073861",
+      "caption": "Two men working with a medical supply such as plastic pipe",
+      "id": 73861
+    },
+    {
+      "image_id": 14804,
+      "sentence_id": "00073862",
+      "caption": "a medical equipment is in the middle of the view",
+      "id": 73862
+    },
+    {
+      "image_id": 14804,
+      "sentence_id": "00073863",
+      "caption": "two plastic pipes join in one place",
+      "id": 73863
+    },
+    {
+      "image_id": 14804,
+      "sentence_id": "00073864",
+      "caption": "man standing at right side is holding a part of respiration device",
+      "id": 73864
+    },
+    {
+      "image_id": 14804,
+      "sentence_id": "00073865",
+      "caption": "Two people are standing near the countertop",
+      "id": 73865
+    },
+    {
+      "image_id": 23095,
+      "sentence_id": "00115291",
+      "caption": "A blouse with a price tag hanging on the mirror cabinet",
+      "id": 115291
+    },
+    {
+      "image_id": 23095,
+      "sentence_id": "00115292",
+      "caption": "white transparent blouse with long sleeves",
+      "id": 115292
+    },
+    {
+      "image_id": 23095,
+      "sentence_id": "00115293",
+      "caption": "wardrobe of bedroom is leaned on wall at front side",
+      "id": 115293
+    },
+    {
+      "image_id": 23095,
+      "sentence_id": "00115294",
+      "caption": "a blouse which has lace on it",
+      "id": 115294
+    },
+    {
+      "image_id": 23095,
+      "sentence_id": "00115295",
+      "caption": "a blouse with a thin lace line at the top",
+      "id": 115295
+    },
+    {
+      "image_id": 47327,
+      "sentence_id": "00236411",
+      "caption": "beach towel is located on sandy beach at bottom",
+      "id": 236411
+    },
+    {
+      "image_id": 47327,
+      "sentence_id": "00236412",
+      "caption": "beach towels are laid on the sandy ground.",
+      "id": 236412
+    },
+    {
+      "image_id": 47327,
+      "sentence_id": "00236413",
+      "caption": "towel laid in the sand and the bag on it",
+      "id": 236413
+    },
+    {
+      "image_id": 47327,
+      "sentence_id": "00236414",
+      "caption": "a towel of a cartoon character is on the beach",
+      "id": 236414
+    },
+    {
+      "image_id": 47327,
+      "sentence_id": "00236415",
+      "caption": "a sea towel is standing on the sand",
+      "id": 236415
+    },
+    {
+      "image_id": 13234,
+      "sentence_id": "00066056",
+      "caption": "a bench with a wooden table is right in front",
+      "id": 66056
+    },
+    {
+      "image_id": 13234,
+      "sentence_id": "00066057",
+      "caption": "a black backpack is left on the seat",
+      "id": 66057
+    },
+    {
+      "image_id": 13234,
+      "sentence_id": "00066058",
+      "caption": "The wall in which the large flower pots were placed remained behind the bench.",
+      "id": 66058
+    },
+    {
+      "image_id": 13234,
+      "sentence_id": "00066059",
+      "caption": "several cars are parked on the other side of the wall",
+      "id": 66059
+    },
+    {
+      "image_id": 13234,
+      "sentence_id": "00066060",
+      "caption": "one of the parked vehicles is a trailer",
+      "id": 66060
+    },
+    {
+      "image_id": 46842,
+      "sentence_id": "00233991",
+      "caption": "backpacks are placed on top shelf of stationary on backside",
+      "id": 233991
+    },
+    {
+      "image_id": 46842,
+      "sentence_id": "00233992",
+      "caption": "notebooks are sold on wooden shelves.",
+      "id": 233992
+    },
+    {
+      "image_id": 46842,
+      "sentence_id": "00233993",
+      "caption": "Stationery with bags on top shelf with books from lower shelves",
+      "id": 233993
+    },
+    {
+      "image_id": 46842,
+      "sentence_id": "00233994",
+      "caption": "the back packs for school on the top of the shelves",
+      "id": 233994
+    },
+    {
+      "image_id": 46842,
+      "sentence_id": "00233995",
+      "caption": "several bags and notebooks are placed on the shelves",
+      "id": 233995
+    },
+    {
+      "image_id": 23429,
+      "sentence_id": "00116961",
+      "caption": "Someone is fishing near the rocks",
+      "id": 116961
+    },
+    {
+      "image_id": 23429,
+      "sentence_id": "00116962",
+      "caption": "the fishing stick has stood on the rocks",
+      "id": 116962
+    },
+    {
+      "image_id": 23429,
+      "sentence_id": "00116963",
+      "caption": "fishing rod thrown against the sea",
+      "id": 116963
+    },
+    {
+      "image_id": 23429,
+      "sentence_id": "00116964",
+      "caption": "calmy sea is taken on sunny day",
+      "id": 116964
+    },
+    {
+      "image_id": 23429,
+      "sentence_id": "00116965",
+      "caption": "small and big rocks are by sea",
+      "id": 116965
+    },
+    {
+      "image_id": 52974,
+      "sentence_id": "00264646",
+      "caption": "woman holding a pair of sneaker is wearing bracelets",
+      "id": 264646
+    },
+    {
+      "image_id": 52974,
+      "sentence_id": "00264647",
+      "caption": "bakery is open in the shop below the building.",
+      "id": 264647
+    },
+    {
+      "image_id": 52974,
+      "sentence_id": "00264648",
+      "caption": "alone woman is carrying around one of sneakers.",
+      "id": 264648
+    },
+    {
+      "image_id": 52974,
+      "sentence_id": "00264649",
+      "caption": "a woman is holding one of the sneakers",
+      "id": 264649
+    },
+    {
+      "image_id": 52974,
+      "sentence_id": "00264650",
+      "caption": "a woman is holding one of the shoes",
+      "id": 264650
+    },
+    {
+      "image_id": 14822,
+      "sentence_id": "00073951",
+      "caption": "Rosary hanging down on the car radio",
+      "id": 73951
+    },
+    {
+      "image_id": 14822,
+      "sentence_id": "00073952",
+      "caption": "half of the street view is shot through the front window of a car",
+      "id": 73952
+    },
+    {
+      "image_id": 14822,
+      "sentence_id": "00073953",
+      "caption": "baby figurines next to the taximeter",
+      "id": 73953
+    },
+    {
+      "image_id": 14822,
+      "sentence_id": "00073954",
+      "caption": "three models of baby are placed on dashboard of car",
+      "id": 73954
+    },
+    {
+      "image_id": 14822,
+      "sentence_id": "00073955",
+      "caption": "Interior of the car is taken in the evening",
+      "id": 73955
+    },
+    {
+      "image_id": 47080,
+      "sentence_id": "00235181",
+      "caption": "lots of key cases are being sold in souvenir shop at back",
+      "id": 235181
+    },
+    {
+      "image_id": 47080,
+      "sentence_id": "00235182",
+      "caption": "the keychains are sold on hangers.",
+      "id": 235182
+    },
+    {
+      "image_id": 47080,
+      "sentence_id": "00235183",
+      "caption": "two people holding different emoji toys",
+      "id": 235183
+    },
+    {
+      "image_id": 47080,
+      "sentence_id": "00235184",
+      "caption": "a man and a woman holding feces emoji toy",
+      "id": 235184
+    },
+    {
+      "image_id": 47080,
+      "sentence_id": "00235185",
+      "caption": "strawberry and chocolate ice cream key chains are being held by the couple",
+      "id": 235185
+    },
+    {
+      "image_id": 5420,
+      "sentence_id": "00027096",
+      "caption": "A leopard pattern umbrella is held by a girl.",
+      "id": 27096
+    },
+    {
+      "image_id": 5420,
+      "sentence_id": "00027097",
+      "caption": "The ground is covered by the stone tiles",
+      "id": 27097
+    },
+    {
+      "image_id": 5420,
+      "sentence_id": "00027098",
+      "caption": "ground is wet and slippery because of rain",
+      "id": 27098
+    },
+    {
+      "image_id": 5420,
+      "sentence_id": "00027099",
+      "caption": "Someone is showing an umbrella at the camera on a rainy day",
+      "id": 27099
+    },
+    {
+      "image_id": 5420,
+      "sentence_id": "00027100",
+      "caption": "a woman is wearing leather jacket and she has very long nails",
+      "id": 27100
+    },
+    {
+      "image_id": 6627,
+      "sentence_id": "00033131",
+      "caption": "A famous brand shoe is taken .",
+      "id": 33131
+    },
+    {
+      "image_id": 6627,
+      "sentence_id": "00033132",
+      "caption": "Different sneakers are shown at the shoe shop.",
+      "id": 33132
+    },
+    {
+      "image_id": 6627,
+      "sentence_id": "00033133",
+      "caption": "Lots of shoes are put on the shelves",
+      "id": 33133
+    },
+    {
+      "image_id": 6627,
+      "sentence_id": "00033134",
+      "caption": "A pair of sport shoes is on the top of the shoe shelf",
+      "id": 33134
+    },
+    {
+      "image_id": 6627,
+      "sentence_id": "00033135",
+      "caption": "a sneaker taken closely inside a store",
+      "id": 33135
+    },
+    {
+      "image_id": 12348,
+      "sentence_id": "00061701",
+      "caption": "a black hooded sweatshirt is on the front",
+      "id": 61701
+    },
+    {
+      "image_id": 12348,
+      "sentence_id": "00061702",
+      "caption": "white writings are written on black sweat",
+      "id": 61702
+    },
+    {
+      "image_id": 12348,
+      "sentence_id": "00061703",
+      "caption": "price tag dangles on the front",
+      "id": 61703
+    },
+    {
+      "image_id": 12348,
+      "sentence_id": "00061704",
+      "caption": "A large pocket has been made on the front of the sweater.",
+      "id": 61704
+    },
+    {
+      "image_id": 12348,
+      "sentence_id": "00061705",
+      "caption": "many hangers hang one after another on the right",
+      "id": 61705
+    },
+    {
+      "image_id": 14446,
+      "sentence_id": "00072071",
+      "caption": "Painting of two well known people in old turkish cinema",
+      "id": 72071
+    },
+    {
+      "image_id": 14446,
+      "sentence_id": "00072072",
+      "caption": "potrait of the male actor has his name on it",
+      "id": 72072
+    },
+    {
+      "image_id": 14446,
+      "sentence_id": "00072073",
+      "caption": "portraits of two old actors on the wall",
+      "id": 72073
+    },
+    {
+      "image_id": 14446,
+      "sentence_id": "00072074",
+      "caption": "view hanging on wall has two celebrities portrait",
+      "id": 72074
+    },
+    {
+      "image_id": 14446,
+      "sentence_id": "00072075",
+      "caption": "Wall of the room is covering the background",
+      "id": 72075
+    },
+    {
+      "image_id": 49693,
+      "sentence_id": "00248241",
+      "caption": "A couple of jewelries being displayed through a glass wall",
+      "id": 248241
+    },
+    {
+      "image_id": 49693,
+      "sentence_id": "00248242",
+      "caption": "Many pieces of jewelry are displayed on the display window",
+      "id": 248242
+    },
+    {
+      "image_id": 49693,
+      "sentence_id": "00248243",
+      "caption": "Some gold jewelry being displayed on a window of a store",
+      "id": 248243
+    },
+    {
+      "image_id": 49693,
+      "sentence_id": "00248244",
+      "caption": "The showcase of a jewellery store",
+      "id": 248244
+    },
+    {
+      "image_id": 49693,
+      "sentence_id": "00248245",
+      "caption": "The store is selling golden jewelries",
+      "id": 248245
+    },
+    {
+      "image_id": 49716,
+      "sentence_id": "00248356",
+      "caption": "A couple of black slippers and shoes in a shoe cabinet are shown",
+      "id": 248356
+    },
+    {
+      "image_id": 49716,
+      "sentence_id": "00248357",
+      "caption": "A blue shoe cabinet and two couples of shoes beside it",
+      "id": 248357
+    },
+    {
+      "image_id": 49716,
+      "sentence_id": "00248358",
+      "caption": "A shoe rack and some footwear in front of a door",
+      "id": 248358
+    },
+    {
+      "image_id": 49716,
+      "sentence_id": "00248359",
+      "caption": "A blue shoe cabinet and couple of shoes on the shelves of it",
+      "id": 248359
+    },
+    {
+      "image_id": 49716,
+      "sentence_id": "00248360",
+      "caption": "A pair of shoes and slippers are in front of the door",
+      "id": 248360
+    },
+    {
+      "image_id": 53000,
+      "sentence_id": "00264776",
+      "caption": "woman holding a key at front is wearing jeans",
+      "id": 264776
+    },
+    {
+      "image_id": 53000,
+      "sentence_id": "00264777",
+      "caption": "Frames hang on the opposite wall of living room.",
+      "id": 264777
+    },
+    {
+      "image_id": 53000,
+      "sentence_id": "00264778",
+      "caption": "young woman is carrying around a small key.",
+      "id": 264778
+    },
+    {
+      "image_id": 53000,
+      "sentence_id": "00264779",
+      "caption": "a woman is holding a small key",
+      "id": 264779
+    },
+    {
+      "image_id": 53000,
+      "sentence_id": "00264780",
+      "caption": "a woman is holding a key in a hand",
+      "id": 264780
+    },
+    {
+      "image_id": 8067,
+      "sentence_id": "00040331",
+      "caption": "a man is holding a knife in the palm of his hand",
+      "id": 40331
+    },
+    {
+      "image_id": 8067,
+      "sentence_id": "00040332",
+      "caption": "a carpet is on floor at background",
+      "id": 40332
+    },
+    {
+      "image_id": 8067,
+      "sentence_id": "00040333",
+      "caption": "entrance door of bedroom at background is opened",
+      "id": 40333
+    },
+    {
+      "image_id": 8067,
+      "sentence_id": "00040334",
+      "caption": "an old-fashioned decorated knife in someones hand",
+      "id": 40334
+    },
+    {
+      "image_id": 8067,
+      "sentence_id": "00040335",
+      "caption": "someone is holding a knife in his hand",
+      "id": 40335
+    },
+    {
+      "image_id": 43285,
+      "sentence_id": "00216211",
+      "caption": "A hand holding a pair of brown boots above other shoes",
+      "id": 216211
+    },
+    {
+      "image_id": 43285,
+      "sentence_id": "00216212",
+      "caption": "A hand is holding a pair of brown boots",
+      "id": 216212
+    },
+    {
+      "image_id": 43285,
+      "sentence_id": "00216213",
+      "caption": "A hand holding a beige moon boot",
+      "id": 216213
+    },
+    {
+      "image_id": 43285,
+      "sentence_id": "00216214",
+      "caption": "A hand is holding a boot",
+      "id": 216214
+    },
+    {
+      "image_id": 43285,
+      "sentence_id": "00216215",
+      "caption": "A person is holding a brown boat in hand",
+      "id": 216215
+    },
+    {
+      "image_id": 29471,
+      "sentence_id": "00147156",
+      "caption": "two people are walking on front of clothes store at left edge",
+      "id": 147156
+    },
+    {
+      "image_id": 29471,
+      "sentence_id": "00147157",
+      "caption": "a clothes shop is on right side of area",
+      "id": 147157
+    },
+    {
+      "image_id": 29471,
+      "sentence_id": "00147158",
+      "caption": "A girl wearing jacket is walking on a pavement",
+      "id": 147158
+    },
+    {
+      "image_id": 29471,
+      "sentence_id": "00147159",
+      "caption": "the clothes in front of the boutique on the right",
+      "id": 147159
+    },
+    {
+      "image_id": 29471,
+      "sentence_id": "00147160",
+      "caption": "dresses are sold at a fifty percent discount",
+      "id": 147160
+    },
+    {
+      "image_id": 16581,
+      "sentence_id": "00082746",
+      "caption": "a woman is walking in supermarket",
+      "id": 82746
+    },
+    {
+      "image_id": 16581,
+      "sentence_id": "00082747",
+      "caption": "someone is entering shopping center from background",
+      "id": 82747
+    },
+    {
+      "image_id": 16581,
+      "sentence_id": "00082748",
+      "caption": "distance warning affixed to the ground in the market",
+      "id": 82748
+    },
+    {
+      "image_id": 16581,
+      "sentence_id": "00082749",
+      "caption": "warning signs about distance are on the floor",
+      "id": 82749
+    },
+    {
+      "image_id": 16581,
+      "sentence_id": "00082750",
+      "caption": "Surface of the floor of the shopping center is covered by ceramic tiles",
+      "id": 82750
+    },
+    {
+      "image_id": 14438,
+      "sentence_id": "00072031",
+      "caption": "Lots of belts sold with price tags",
+      "id": 72031
+    },
+    {
+      "image_id": 14438,
+      "sentence_id": "00072032",
+      "caption": "necklaces are on the right side",
+      "id": 72032
+    },
+    {
+      "image_id": 14438,
+      "sentence_id": "00072033",
+      "caption": "dried ivy branches in square wires",
+      "id": 72033
+    },
+    {
+      "image_id": 14438,
+      "sentence_id": "00072034",
+      "caption": "inside of souvenir shop is taken while shopping at background",
+      "id": 72034
+    },
+    {
+      "image_id": 14438,
+      "sentence_id": "00072035",
+      "caption": "Lots of belts are hung on the wall",
+      "id": 72035
+    },
+    {
+      "image_id": 34128,
+      "sentence_id": "00170436",
+      "caption": "old kitchen goods are being demonstrated in the tent museum at front",
+      "id": 170436
+    },
+    {
+      "image_id": 34128,
+      "sentence_id": "00170437",
+      "caption": "Traditional clothing is displayed in a museum",
+      "id": 170437
+    },
+    {
+      "image_id": 34128,
+      "sentence_id": "00170438",
+      "caption": "different size of pans are located on tray at front side",
+      "id": 170438
+    },
+    {
+      "image_id": 34128,
+      "sentence_id": "00170439",
+      "caption": "traditional items in a shop are taken",
+      "id": 170439
+    },
+    {
+      "image_id": 34128,
+      "sentence_id": "00170440",
+      "caption": "mannequins in foreground of area are dressed in regional clothing.",
+      "id": 170440
+    },
+    {
+      "image_id": 21167,
+      "sentence_id": "00105651",
+      "caption": "a large table is covered by the purple cloth",
+      "id": 105651
+    },
+    {
+      "image_id": 21167,
+      "sentence_id": "00105652",
+      "caption": "Four leather covered chairs are around a table",
+      "id": 105652
+    },
+    {
+      "image_id": 21167,
+      "sentence_id": "00105653",
+      "caption": "kind of hand made basket is placed next to cabinet at background",
+      "id": 105653
+    },
+    {
+      "image_id": 21167,
+      "sentence_id": "00105654",
+      "caption": "Lots of drones are put next to each other",
+      "id": 105654
+    },
+    {
+      "image_id": 21167,
+      "sentence_id": "00105655",
+      "caption": "a few chairs are placing under covered table at front side",
+      "id": 105655
+    },
+    {
+      "image_id": 19030,
+      "sentence_id": "00094966",
+      "caption": "multi colored pens are located in a pen holder.",
+      "id": 94966
+    },
+    {
+      "image_id": 19030,
+      "sentence_id": "00094967",
+      "caption": "the penholder is in yellow color.",
+      "id": 94967
+    },
+    {
+      "image_id": 19030,
+      "sentence_id": "00094968",
+      "caption": "the pen holder is located on a wooden table.",
+      "id": 94968
+    },
+    {
+      "image_id": 19030,
+      "sentence_id": "00094969",
+      "caption": "four erasers are located on the table.",
+      "id": 94969
+    },
+    {
+      "image_id": 19030,
+      "sentence_id": "00094970",
+      "caption": "a glue is located on a table.",
+      "id": 94970
+    },
+    {
+      "image_id": 13329,
+      "sentence_id": "00066531",
+      "caption": "outside of a shop is photoed.",
+      "id": 66531
+    },
+    {
+      "image_id": 13329,
+      "sentence_id": "00066532",
+      "caption": "multiple umbrellas are located inside of buckets.",
+      "id": 66532
+    },
+    {
+      "image_id": 13329,
+      "sentence_id": "00066533",
+      "caption": "multiple glasses are on a display platform.",
+      "id": 66533
+    },
+    {
+      "image_id": 13329,
+      "sentence_id": "00066534",
+      "caption": "the display platform is in white color.",
+      "id": 66534
+    },
+    {
+      "image_id": 13329,
+      "sentence_id": "00066535",
+      "caption": "a woman is on the left side.",
+      "id": 66535
+    },
+    {
+      "image_id": 5769,
+      "sentence_id": "00028841",
+      "caption": "The water dropps are on the spotted umbrella.",
+      "id": 28841
+    },
+    {
+      "image_id": 5769,
+      "sentence_id": "00028842",
+      "caption": "the weather is rainy and an umbrella is wet",
+      "id": 28842
+    },
+    {
+      "image_id": 5769,
+      "sentence_id": "00028843",
+      "caption": "nearly all background is covered by plants and trees",
+      "id": 28843
+    },
+    {
+      "image_id": 5769,
+      "sentence_id": "00028844",
+      "caption": "Part of the tree trunk is covered with lime against insects",
+      "id": 28844
+    },
+    {
+      "image_id": 5769,
+      "sentence_id": "00028845",
+      "caption": "The patterns on the transparent umbrella with raindrops on it",
+      "id": 28845
+    },
+    {
+      "image_id": 11500,
+      "sentence_id": "00057461",
+      "caption": "two hats are on the table on the right",
+      "id": 57461
+    },
+    {
+      "image_id": 11500,
+      "sentence_id": "00057462",
+      "caption": "various cables are left on the table",
+      "id": 57462
+    },
+    {
+      "image_id": 11500,
+      "sentence_id": "00057463",
+      "caption": "a person is sitting behind the table",
+      "id": 57463
+    },
+    {
+      "image_id": 11500,
+      "sentence_id": "00057464",
+      "caption": "a few people are moving on the left",
+      "id": 57464
+    },
+    {
+      "image_id": 11500,
+      "sentence_id": "00057465",
+      "caption": "two people are sitting in front of the railings on the opposite side",
+      "id": 57465
+    },
+    {
+      "image_id": 47646,
+      "sentence_id": "00238006",
+      "caption": "tall trimmered glass pot is being showed on counter of place",
+      "id": 238006
+    },
+    {
+      "image_id": 47646,
+      "sentence_id": "00238007",
+      "caption": "The crystal teacup is on the table.",
+      "id": 238007
+    },
+    {
+      "image_id": 47646,
+      "sentence_id": "00238008",
+      "caption": "sherbet made of glass exhibited in a glass bell jar",
+      "id": 238008
+    },
+    {
+      "image_id": 47646,
+      "sentence_id": "00238009",
+      "caption": "a glass drink holder is in front of a glass",
+      "id": 238009
+    },
+    {
+      "image_id": 47646,
+      "sentence_id": "00238010",
+      "caption": "large glass teapot and glass are standing on the table",
+      "id": 238010
+    },
+    {
+      "image_id": 16941,
+      "sentence_id": "00084546",
+      "caption": "Lots of handmade magnets are hung on the wall",
+      "id": 84546
+    },
+    {
+      "image_id": 16941,
+      "sentence_id": "00084547",
+      "caption": "Wooden wall is covering the background",
+      "id": 84547
+    },
+    {
+      "image_id": 16941,
+      "sentence_id": "00084548",
+      "caption": "Stone ornaments are being sold on the shelves",
+      "id": 84548
+    },
+    {
+      "image_id": 16941,
+      "sentence_id": "00084549",
+      "caption": "Hand painted pebbles some of which hanging on the wall",
+      "id": 84549
+    },
+    {
+      "image_id": 16941,
+      "sentence_id": "00084550",
+      "caption": "hand made decor items are on shelves",
+      "id": 84550
+    },
+    {
+      "image_id": 10177,
+      "sentence_id": "00050861",
+      "caption": "Just so many different types of hats appear.",
+      "id": 50861
+    },
+    {
+      "image_id": 10177,
+      "sentence_id": "00050862",
+      "caption": "The colors of the hats are different and their labels are on.",
+      "id": 50862
+    },
+    {
+      "image_id": 10177,
+      "sentence_id": "00050863",
+      "caption": "Different sizes of stacked hats visible.",
+      "id": 50863
+    },
+    {
+      "image_id": 10177,
+      "sentence_id": "00050864",
+      "caption": "medium and small sized bags are visible on the far right",
+      "id": 50864
+    },
+    {
+      "image_id": 10177,
+      "sentence_id": "00050865",
+      "caption": "some hats have sizes written on them",
+      "id": 50865
+    },
+    {
+      "image_id": 17987,
+      "sentence_id": "00089766",
+      "caption": "a pair of sneakers is in front.",
+      "id": 89766
+    },
+    {
+      "image_id": 17987,
+      "sentence_id": "00089767",
+      "caption": "Inside the front shoes it says Lumberjack.",
+      "id": 89767
+    },
+    {
+      "image_id": 17987,
+      "sentence_id": "00089768",
+      "caption": "a pair of shoes in the front are standing side by side.",
+      "id": 89768
+    },
+    {
+      "image_id": 17987,
+      "sentence_id": "00089769",
+      "caption": "the edge of a closet is to the left of the shoes.",
+      "id": 89769
+    },
+    {
+      "image_id": 17987,
+      "sentence_id": "00089770",
+      "caption": "a skirting board lying horizontally is behind the shoes.",
+      "id": 89770
+    },
+    {
+      "image_id": 48279,
+      "sentence_id": "00241171",
+      "caption": "a cat is sniffing a backpack on study desk on backside",
+      "id": 241171
+    },
+    {
+      "image_id": 48279,
+      "sentence_id": "00241172",
+      "caption": "the cat is on the wooden table.",
+      "id": 241172
+    },
+    {
+      "image_id": 48279,
+      "sentence_id": "00241173",
+      "caption": "items in front of the cat standing on the table",
+      "id": 241173
+    },
+    {
+      "image_id": 48279,
+      "sentence_id": "00241174",
+      "caption": "the cat is looking at the arm of the girl",
+      "id": 241174
+    },
+    {
+      "image_id": 48279,
+      "sentence_id": "00241175",
+      "caption": "a cat on the table is standing next to school bag",
+      "id": 241175
+    },
+    {
+      "image_id": 17462,
+      "sentence_id": "00087146",
+      "caption": "inside of a museum is photoed.",
+      "id": 87146
+    },
+    {
+      "image_id": 17462,
+      "sentence_id": "00087147",
+      "caption": "window showcases are located in the museum.",
+      "id": 87147
+    },
+    {
+      "image_id": 17462,
+      "sentence_id": "00087148",
+      "caption": "miniature car models are located in the showcases.",
+      "id": 87148
+    },
+    {
+      "image_id": 17462,
+      "sentence_id": "00087149",
+      "caption": "multiple people are standing in the museum.",
+      "id": 87149
+    },
+    {
+      "image_id": 17462,
+      "sentence_id": "00087150",
+      "caption": "the showcases have brown colored frames.",
+      "id": 87150
+    },
+    {
+      "image_id": 46457,
+      "sentence_id": "00232066",
+      "caption": "tablet pc is erected on corner of study desk on background",
+      "id": 232066
+    },
+    {
+      "image_id": 46457,
+      "sentence_id": "00232067",
+      "caption": "The pencil box next to the wall is unzipped.",
+      "id": 232067
+    },
+    {
+      "image_id": 46457,
+      "sentence_id": "00232068",
+      "caption": "the tablet next to the desk lamp is plugged in",
+      "id": 232068
+    },
+    {
+      "image_id": 46457,
+      "sentence_id": "00232069",
+      "caption": "a pencil case is by the wall on the table",
+      "id": 232069
+    },
+    {
+      "image_id": 46457,
+      "sentence_id": "00232070",
+      "caption": "a tablet and pencil case are on the table",
+      "id": 232070
+    },
+    {
+      "image_id": 13715,
+      "sentence_id": "00068421",
+      "caption": "The plastic bottle is directly opposite.",
+      "id": 68421
+    },
+    {
+      "image_id": 13715,
+      "sentence_id": "00068422",
+      "caption": "The pet bottle is on hand.",
+      "id": 68422
+    },
+    {
+      "image_id": 13715,
+      "sentence_id": "00068423",
+      "caption": "There is water in the plastic bottle.",
+      "id": 68423
+    },
+    {
+      "image_id": 13715,
+      "sentence_id": "00068424",
+      "caption": "The white table is directly opposite.",
+      "id": 68424
+    },
+    {
+      "image_id": 13715,
+      "sentence_id": "00068425",
+      "caption": "The bus seat is on the left.",
+      "id": 68425
+    },
+    {
+      "image_id": 41780,
+      "sentence_id": "00208686",
+      "caption": "A hand holding a green tipped pen",
+      "id": 208686
+    },
+    {
+      "image_id": 41780,
+      "sentence_id": "00208687",
+      "caption": "A hand is holding a green pencil",
+      "id": 208687
+    },
+    {
+      "image_id": 41780,
+      "sentence_id": "00208688",
+      "caption": "An emerald green pen in the palm of a person",
+      "id": 208688
+    },
+    {
+      "image_id": 41780,
+      "sentence_id": "00208689",
+      "caption": "A hand is holding a mechanical pencil",
+      "id": 208689
+    },
+    {
+      "image_id": 41780,
+      "sentence_id": "00208690",
+      "caption": "A person holding a green pencil in hand",
+      "id": 208690
+    },
+    {
+      "image_id": 44569,
+      "sentence_id": "00222631",
+      "caption": "newly purchased backpack is placed on sofa at front side",
+      "id": 222631
+    },
+    {
+      "image_id": 44569,
+      "sentence_id": "00222632",
+      "caption": "newly purchased backpack is on the seat",
+      "id": 222632
+    },
+    {
+      "image_id": 44569,
+      "sentence_id": "00222633",
+      "caption": "The tag of a newly bought backpack is hanging off the end.",
+      "id": 222633
+    },
+    {
+      "image_id": 44569,
+      "sentence_id": "00222634",
+      "caption": "a sports bag with a price tag on it",
+      "id": 222634
+    },
+    {
+      "image_id": 44569,
+      "sentence_id": "00222635",
+      "caption": "a school bag is standing on the sofa",
+      "id": 222635
+    },
+    {
+      "image_id": 22705,
+      "sentence_id": "00113341",
+      "caption": "Closeup view of a handmade bag with a handmade purse near it",
+      "id": 113341
+    },
+    {
+      "image_id": 22705,
+      "sentence_id": "00113342",
+      "caption": "women hand bag made of wool",
+      "id": 113342
+    },
+    {
+      "image_id": 22705,
+      "sentence_id": "00113343",
+      "caption": "coffee table with sheet on it is covering the background",
+      "id": 113343
+    },
+    {
+      "image_id": 22705,
+      "sentence_id": "00113344",
+      "caption": "handmade woman bag is taken  from above",
+      "id": 113344
+    },
+    {
+      "image_id": 22705,
+      "sentence_id": "00113345",
+      "caption": "a handmade woman bag is on a table",
+      "id": 113345
+    },
+    {
+      "image_id": 46132,
+      "sentence_id": "00230441",
+      "caption": "small dog is licking its nose on plants under sun",
+      "id": 230441
+    },
+    {
+      "image_id": 46132,
+      "sentence_id": "00230442",
+      "caption": "Puppy licks the nose of a plant in the sun",
+      "id": 230442
+    },
+    {
+      "image_id": 46132,
+      "sentence_id": "00230443",
+      "caption": "dog lying down in trees growing in concrete",
+      "id": 230443
+    },
+    {
+      "image_id": 46132,
+      "sentence_id": "00230444",
+      "caption": "a dog is between the bushes",
+      "id": 230444
+    },
+    {
+      "image_id": 46132,
+      "sentence_id": "00230445",
+      "caption": "the dog lying is on the bushed",
+      "id": 230445
+    },
+    {
+      "image_id": 16713,
+      "sentence_id": "00083406",
+      "caption": "sugar bowl is on table at background",
+      "id": 83406
+    },
+    {
+      "image_id": 16713,
+      "sentence_id": "00083407",
+      "caption": "Surface of the table is covering the background",
+      "id": 83407
+    },
+    {
+      "image_id": 16713,
+      "sentence_id": "00083408",
+      "caption": "Lots of packets of sugar in a cardboard cup",
+      "id": 83408
+    },
+    {
+      "image_id": 16713,
+      "sentence_id": "00083409",
+      "caption": "A loaf of bread in a package on the wooden table",
+      "id": 83409
+    },
+    {
+      "image_id": 16713,
+      "sentence_id": "00083410",
+      "caption": "Surface of the table is wooden",
+      "id": 83410
+    },
+    {
+      "image_id": 7449,
+      "sentence_id": "00037241",
+      "caption": "view in a clock a rooster and her chicks are eating their bait",
+      "id": 37241
+    },
+    {
+      "image_id": 7449,
+      "sentence_id": "00037242",
+      "caption": "view of a alarm clock among a bunch of hazelnuts",
+      "id": 37242
+    },
+    {
+      "image_id": 7449,
+      "sentence_id": "00037243",
+      "caption": "Surface of the floor is covered by nuts",
+      "id": 37243
+    },
+    {
+      "image_id": 7449,
+      "sentence_id": "00037244",
+      "caption": "a watch disposed on nuts and indicating a precise hour",
+      "id": 37244
+    },
+    {
+      "image_id": 7449,
+      "sentence_id": "00037245",
+      "caption": "background of area behind nuts is covered by wooden window",
+      "id": 37245
+    },
+    {
+      "image_id": 42915,
+      "sentence_id": "00214361",
+      "caption": "A hand holding four different colours of pencils can be seen",
+      "id": 214361
+    },
+    {
+      "image_id": 42915,
+      "sentence_id": "00214362",
+      "caption": "A hand is holding four colorful pencils",
+      "id": 214362
+    },
+    {
+      "image_id": 42915,
+      "sentence_id": "00214363",
+      "caption": "A hand holding four colorful pencils",
+      "id": 214363
+    },
+    {
+      "image_id": 42915,
+      "sentence_id": "00214364",
+      "caption": "A person holding four colorful pencils",
+      "id": 214364
+    },
+    {
+      "image_id": 42915,
+      "sentence_id": "00214365",
+      "caption": "A person is holding four pencils in hand",
+      "id": 214365
+    },
+    {
+      "image_id": 9065,
+      "sentence_id": "00045316",
+      "caption": "a beige colored table is photoed.",
+      "id": 45316
+    },
+    {
+      "image_id": 9065,
+      "sentence_id": "00045317",
+      "caption": "a black bag is located on the table.",
+      "id": 45317
+    },
+    {
+      "image_id": 9065,
+      "sentence_id": "00045318",
+      "caption": "a water bottle is located on the table.",
+      "id": 45318
+    },
+    {
+      "image_id": 9065,
+      "sentence_id": "00045319",
+      "caption": "the water bottle is half full.",
+      "id": 45319
+    },
+    {
+      "image_id": 9065,
+      "sentence_id": "00045320",
+      "caption": "a person's trousers can be seen on the bottom of the photo.",
+      "id": 45320
+    },
+    {
+      "image_id": 43482,
+      "sentence_id": "00217196",
+      "caption": "A hand holding a book with a leaf shaped knit in between",
+      "id": 217196
+    },
+    {
+      "image_id": 43482,
+      "sentence_id": "00217197",
+      "caption": "A hand is holding an open book with a leaf",
+      "id": 217197
+    },
+    {
+      "image_id": 43482,
+      "sentence_id": "00217198",
+      "caption": "An embroidered leaf between book pages",
+      "id": 217198
+    },
+    {
+      "image_id": 43482,
+      "sentence_id": "00217199",
+      "caption": "An embroidered leaf on a page of a book",
+      "id": 217199
+    },
+    {
+      "image_id": 43482,
+      "sentence_id": "00217200",
+      "caption": "A person is holding an open book in hand",
+      "id": 217200
+    },
+    {
+      "image_id": 6626,
+      "sentence_id": "00033126",
+      "caption": "Some tiny toys are being sold in a street stand.",
+      "id": 33126
+    },
+    {
+      "image_id": 6626,
+      "sentence_id": "00033127",
+      "caption": "Lots of small toys are on the big table.",
+      "id": 33127
+    },
+    {
+      "image_id": 6626,
+      "sentence_id": "00033128",
+      "caption": "Background of the area is covered by the surface of the table",
+      "id": 33128
+    },
+    {
+      "image_id": 6626,
+      "sentence_id": "00033129",
+      "caption": "So many small figure toys are presented on the counter",
+      "id": 33129
+    },
+    {
+      "image_id": 6626,
+      "sentence_id": "00033130",
+      "caption": "miniature cartoon characters on display in a bazaar",
+      "id": 33130
+    },
+    {
+      "image_id": 49755,
+      "sentence_id": "00248551",
+      "caption": "Two black and one pink pairs of shoes are on a brown table",
+      "id": 248551
+    },
+    {
+      "image_id": 49755,
+      "sentence_id": "00248552",
+      "caption": "Three pairs of shoes on a table",
+      "id": 248552
+    },
+    {
+      "image_id": 49755,
+      "sentence_id": "00248553",
+      "caption": "Three pairs of ballet flats on a computer desk",
+      "id": 248553
+    },
+    {
+      "image_id": 49755,
+      "sentence_id": "00248554",
+      "caption": "Three pairs of shoes on a brown computer desk",
+      "id": 248554
+    },
+    {
+      "image_id": 49755,
+      "sentence_id": "00248555",
+      "caption": "Three pairs of shoes are put on a brown desk",
+      "id": 248555
+    },
+    {
+      "image_id": 42255,
+      "sentence_id": "00211061",
+      "caption": "A pair of blue and white shoes on a newspaper that is on the carpet",
+      "id": 211061
+    },
+    {
+      "image_id": 42255,
+      "sentence_id": "00211062",
+      "caption": "A pair of sneakers is on a newspaper sheet",
+      "id": 211062
+    },
+    {
+      "image_id": 42255,
+      "sentence_id": "00211063",
+      "caption": "A pair of sneakers on a newspaper",
+      "id": 211063
+    },
+    {
+      "image_id": 42255,
+      "sentence_id": "00211064",
+      "caption": "A pair of shoes on a newspaper on a carpet",
+      "id": 211064
+    },
+    {
+      "image_id": 42255,
+      "sentence_id": "00211065",
+      "caption": "A pair of shoes on a piece of newspaper",
+      "id": 211065
+    },
+    {
+      "image_id": 41123,
+      "sentence_id": "00205401",
+      "caption": "A hand showing a tshirt with a cartoon character hung on a hanger",
+      "id": 205401
+    },
+    {
+      "image_id": 41123,
+      "sentence_id": "00205402",
+      "caption": "A hand is holding a striped T-shirt with a hanger",
+      "id": 205402
+    },
+    {
+      "image_id": 41123,
+      "sentence_id": "00205403",
+      "caption": "A hand is holding a striped shirt",
+      "id": 205403
+    },
+    {
+      "image_id": 41123,
+      "sentence_id": "00205404",
+      "caption": "A hand is holding a striped tee with a cartoon character on it",
+      "id": 205404
+    },
+    {
+      "image_id": 41123,
+      "sentence_id": "00205405",
+      "caption": "A person holding a sweatshirt in hand",
+      "id": 205405
+    },
+    {
+      "image_id": 22595,
+      "sentence_id": "00112791",
+      "caption": "Closeup view of a stone embroidered cover of a cloth",
+      "id": 112791
+    },
+    {
+      "image_id": 22595,
+      "sentence_id": "00112792",
+      "caption": "handmade round fur woves dining table",
+      "id": 112792
+    },
+    {
+      "image_id": 22595,
+      "sentence_id": "00112793",
+      "caption": "all background is covered by handmade household wares",
+      "id": 112793
+    },
+    {
+      "image_id": 22595,
+      "sentence_id": "00112794",
+      "caption": "beadwork on a item is taken  from up close",
+      "id": 112794
+    },
+    {
+      "image_id": 22595,
+      "sentence_id": "00112795",
+      "caption": "handmade items on table are taken",
+      "id": 112795
+    },
+    {
+      "image_id": 40854,
+      "sentence_id": "00204056",
+      "caption": "People on sunbeds under white umbrellas by the sea with a mountain seen behind",
+      "id": 204056
+    },
+    {
+      "image_id": 40854,
+      "sentence_id": "00204057",
+      "caption": "A beach with some people and sunbeds",
+      "id": 204057
+    },
+    {
+      "image_id": 40854,
+      "sentence_id": "00204058",
+      "caption": "A mountain is seen from a beach",
+      "id": 204058
+    },
+    {
+      "image_id": 40854,
+      "sentence_id": "00204059",
+      "caption": "Some people lying on sunbeds on a beach",
+      "id": 204059
+    },
+    {
+      "image_id": 40854,
+      "sentence_id": "00204060",
+      "caption": "A beach next to a mountain and people on the beach",
+      "id": 204060
+    },
+    {
+      "image_id": 15067,
+      "sentence_id": "00075176",
+      "caption": "View of sunglasses sitting on the table cloth",
+      "id": 75176
+    },
+    {
+      "image_id": 15067,
+      "sentence_id": "00075177",
+      "caption": "a vintage sunglass is taken  from abov",
+      "id": 75177
+    },
+    {
+      "image_id": 15067,
+      "sentence_id": "00075178",
+      "caption": "plastic glasses on a patterned tablecloth",
+      "id": 75178
+    },
+    {
+      "image_id": 15067,
+      "sentence_id": "00075179",
+      "caption": "table surface under sunglasses is covered by sheet at background",
+      "id": 75179
+    },
+    {
+      "image_id": 15067,
+      "sentence_id": "00075180",
+      "caption": "Sunglasses are put on the table",
+      "id": 75180
+    },
+    {
+      "image_id": 35317,
+      "sentence_id": "00176371",
+      "caption": "a pair of boots are placed on marble basement of window at front",
+      "id": 176371
+    },
+    {
+      "image_id": 35317,
+      "sentence_id": "00176372",
+      "caption": "mountain shoes with ropes on them",
+      "id": 176372
+    },
+    {
+      "image_id": 35317,
+      "sentence_id": "00176373",
+      "caption": "The laces of a boot are half open",
+      "id": 176373
+    },
+    {
+      "image_id": 35317,
+      "sentence_id": "00176374",
+      "caption": "a pair of boots is in front of a wooden window",
+      "id": 176374
+    },
+    {
+      "image_id": 35317,
+      "sentence_id": "00176375",
+      "caption": "wooden made windows of place behind a pair of boots are close",
+      "id": 176375
+    },
+    {
+      "image_id": 43402,
+      "sentence_id": "00216796",
+      "caption": "Coats on hangers next to folded coats on shelves",
+      "id": 216796
+    },
+    {
+      "image_id": 43402,
+      "sentence_id": "00216797",
+      "caption": "Some coats and their tags can be seen",
+      "id": 216797
+    },
+    {
+      "image_id": 43402,
+      "sentence_id": "00216798",
+      "caption": "Some winter coats and vests hung on racks",
+      "id": 216798
+    },
+    {
+      "image_id": 43402,
+      "sentence_id": "00216799",
+      "caption": "Some coats next to some vests on hangers",
+      "id": 216799
+    },
+    {
+      "image_id": 43402,
+      "sentence_id": "00216800",
+      "caption": "A coat is on the hanger at a shopping mall",
+      "id": 216800
+    },
+    {
+      "image_id": 49813,
+      "sentence_id": "00248841",
+      "caption": "A couple of toilet papers under some plants in a bag on a white pipe",
+      "id": 248841
+    },
+    {
+      "image_id": 49813,
+      "sentence_id": "00248842",
+      "caption": "A white pipe with a bag above the toilet papers",
+      "id": 248842
+    },
+    {
+      "image_id": 49813,
+      "sentence_id": "00248843",
+      "caption": "A bag of brown items on a shelf above a pack of toilet paper",
+      "id": 248843
+    },
+    {
+      "image_id": 49813,
+      "sentence_id": "00248844",
+      "caption": "A pack of toilet paper in a closet",
+      "id": 248844
+    },
+    {
+      "image_id": 49813,
+      "sentence_id": "00248845",
+      "caption": "A number of toilet papers is next to a wall",
+      "id": 248845
+    },
+    {
+      "image_id": 10862,
+      "sentence_id": "00054276",
+      "caption": "The table in front is filled with various objects.",
+      "id": 54276
+    },
+    {
+      "image_id": 10862,
+      "sentence_id": "00054277",
+      "caption": "toilet paper is on the table",
+      "id": 54277
+    },
+    {
+      "image_id": 10862,
+      "sentence_id": "00054278",
+      "caption": "scissors and shampoo are on the table",
+      "id": 54278
+    },
+    {
+      "image_id": 10862,
+      "sentence_id": "00054279",
+      "caption": "bottle opener is on the bag on the table",
+      "id": 54279
+    },
+    {
+      "image_id": 10862,
+      "sentence_id": "00054280",
+      "caption": "soda cap is on the table",
+      "id": 54280
+    },
+    {
+      "image_id": 8216,
+      "sentence_id": "00041076",
+      "caption": "Hand with earrings in the accessory store",
+      "id": 41076
+    },
+    {
+      "image_id": 8216,
+      "sentence_id": "00041077",
+      "caption": "beautiful earrings are taken in jewelery",
+      "id": 41077
+    },
+    {
+      "image_id": 8216,
+      "sentence_id": "00041078",
+      "caption": "a woman is trying to choose new earrings to wear",
+      "id": 41078
+    },
+    {
+      "image_id": 8216,
+      "sentence_id": "00041079",
+      "caption": "pair of shamrock and evil eye earrings",
+      "id": 41079
+    },
+    {
+      "image_id": 8216,
+      "sentence_id": "00041080",
+      "caption": "somebody is holding a pair of earrings",
+      "id": 41080
+    },
+    {
+      "image_id": 41654,
+      "sentence_id": "00208056",
+      "caption": "A trumpet hung on the wall behind a violin standing on a black chair",
+      "id": 208056
+    },
+    {
+      "image_id": 41654,
+      "sentence_id": "00208057",
+      "caption": "A violin is on a black chair behind a book",
+      "id": 208057
+    },
+    {
+      "image_id": 41654,
+      "sentence_id": "00208058",
+      "caption": "A violin on a black chair in a room",
+      "id": 208058
+    },
+    {
+      "image_id": 41654,
+      "sentence_id": "00208059",
+      "caption": "A book in a bag in front of a violin on a chair",
+      "id": 208059
+    },
+    {
+      "image_id": 41654,
+      "sentence_id": "00208060",
+      "caption": "A violin is placed on a black chair",
+      "id": 208060
+    },
+    {
+      "image_id": 45550,
+      "sentence_id": "00227536",
+      "caption": "two bottles of perfume are placed on sofa at front",
+      "id": 227536
+    },
+    {
+      "image_id": 45550,
+      "sentence_id": "00227537",
+      "caption": "two women perfume bottles are lying on sofa",
+      "id": 227537
+    },
+    {
+      "image_id": 45550,
+      "sentence_id": "00227538",
+      "caption": "2 different colognes placed on the sofa",
+      "id": 227538
+    },
+    {
+      "image_id": 45550,
+      "sentence_id": "00227539",
+      "caption": "two parfume bottles are on the couch",
+      "id": 227539
+    },
+    {
+      "image_id": 45550,
+      "sentence_id": "00227540",
+      "caption": "two perfume bottles are placed on the furniture",
+      "id": 227540
+    },
+    {
+      "image_id": 16839,
+      "sentence_id": "00084036",
+      "caption": "A guitar is put on the bed",
+      "id": 84036
+    },
+    {
+      "image_id": 16839,
+      "sentence_id": "00084037",
+      "caption": "Sun is shining at the background",
+      "id": 84037
+    },
+    {
+      "image_id": 16839,
+      "sentence_id": "00084038",
+      "caption": "Closeup top view of a musical instrument in a room",
+      "id": 84038
+    },
+    {
+      "image_id": 16839,
+      "sentence_id": "00084039",
+      "caption": "A bed covered with a mattress in the bedroom",
+      "id": 84039
+    },
+    {
+      "image_id": 16839,
+      "sentence_id": "00084040",
+      "caption": "an acoustic guitar is on a bed",
+      "id": 84040
+    },
+    {
+      "image_id": 44246,
+      "sentence_id": "00221016",
+      "caption": "An embroidery of two animals in a gift box hung on a hanger",
+      "id": 221016
+    },
+    {
+      "image_id": 44246,
+      "sentence_id": "00221017",
+      "caption": "White circular embroidery of a gift box on a wooden surface",
+      "id": 221017
+    },
+    {
+      "image_id": 44246,
+      "sentence_id": "00221018",
+      "caption": "An embroidery of two cats inside a box",
+      "id": 221018
+    },
+    {
+      "image_id": 44246,
+      "sentence_id": "00221019",
+      "caption": "A canvas of two cats hung on a hanger",
+      "id": 221019
+    },
+    {
+      "image_id": 44246,
+      "sentence_id": "00221020",
+      "caption": "A canvas is hung on the metal hanger",
+      "id": 221020
+    },
+    {
+      "image_id": 43632,
+      "sentence_id": "00217946",
+      "caption": "A hand holding a jar of dried herbs",
+      "id": 217946
+    },
+    {
+      "image_id": 43632,
+      "sentence_id": "00217947",
+      "caption": "A hand is holding a jar full of herbs",
+      "id": 217947
+    },
+    {
+      "image_id": 43632,
+      "sentence_id": "00217948",
+      "caption": "A hand holding a jar of dried mint",
+      "id": 217948
+    },
+    {
+      "image_id": 43632,
+      "sentence_id": "00217949",
+      "caption": "A hand is holding a jar with dried mint in it",
+      "id": 217949
+    },
+    {
+      "image_id": 43632,
+      "sentence_id": "00217950",
+      "caption": "A person is holding a jar full of herbs",
+      "id": 217950
+    },
+    {
+      "image_id": 29678,
+      "sentence_id": "00148191",
+      "caption": "a few people are sitting on chairs leaning on wall at left under sun",
+      "id": 148191
+    },
+    {
+      "image_id": 29678,
+      "sentence_id": "00148192",
+      "caption": "people are sitting on left side of area",
+      "id": 148192
+    },
+    {
+      "image_id": 29678,
+      "sentence_id": "00148193",
+      "caption": "A statue of an ice cream is at the right side",
+      "id": 148193
+    },
+    {
+      "image_id": 29678,
+      "sentence_id": "00148194",
+      "caption": "two umbrellas side by side in the square",
+      "id": 148194
+    },
+    {
+      "image_id": 29678,
+      "sentence_id": "00148195",
+      "caption": "two umbrellas are closed in front of the building",
+      "id": 148195
+    },
+    {
+      "image_id": 19551,
+      "sentence_id": "00097571",
+      "caption": "white and black colored cardboard boxes are photoed.",
+      "id": 97571
+    },
+    {
+      "image_id": 19551,
+      "sentence_id": "00097572",
+      "caption": "the cardboard box at the bottom of the photo is white.",
+      "id": 97572
+    },
+    {
+      "image_id": 19551,
+      "sentence_id": "00097573",
+      "caption": "the cardboard box on the right is black.",
+      "id": 97573
+    },
+    {
+      "image_id": 19551,
+      "sentence_id": "00097574",
+      "caption": "Two black and one white paper bags are located behind the cardboard boxes.",
+      "id": 97574
+    },
+    {
+      "image_id": 19551,
+      "sentence_id": "00097575",
+      "caption": "cardboard boxes are located on a white platform.",
+      "id": 97575
+    },
+    {
+      "image_id": 44544,
+      "sentence_id": "00222506",
+      "caption": "outwears are being sold on hunger at front side",
+      "id": 222506
+    },
+    {
+      "image_id": 44544,
+      "sentence_id": "00222507",
+      "caption": "Sweatpants for men are sold in the foreground",
+      "id": 222507
+    },
+    {
+      "image_id": 44544,
+      "sentence_id": "00222508",
+      "caption": "A crocodile icon is affixed to a tracksuit in the store",
+      "id": 222508
+    },
+    {
+      "image_id": 44544,
+      "sentence_id": "00222509",
+      "caption": "tracksuits on sale are taken at a shop",
+      "id": 222509
+    },
+    {
+      "image_id": 44544,
+      "sentence_id": "00222510",
+      "caption": "sweatpants of men are in the shop",
+      "id": 222510
+    },
+    {
+      "image_id": 9335,
+      "sentence_id": "00046661",
+      "caption": "a beige colored carpet is visible at the bottom of the photo.",
+      "id": 46661
+    },
+    {
+      "image_id": 9335,
+      "sentence_id": "00046662",
+      "caption": "artificial turf looking carpet is on the beige colored carpet.",
+      "id": 46662
+    },
+    {
+      "image_id": 9335,
+      "sentence_id": "00046663",
+      "caption": "a silicon gun is located on the artificial turf looking carpet.",
+      "id": 46663
+    },
+    {
+      "image_id": 9335,
+      "sentence_id": "00046664",
+      "caption": "two green round objects are located on the right side.",
+      "id": 46664
+    },
+    {
+      "image_id": 9335,
+      "sentence_id": "00046665",
+      "caption": "blue handled screwdriver is located on the right side.",
+      "id": 46665
+    },
+    {
+      "image_id": 9971,
+      "sentence_id": "00049831",
+      "caption": "two cups of coffee are located on a wooden bench.",
+      "id": 49831
+    },
+    {
+      "image_id": 9971,
+      "sentence_id": "00049832",
+      "caption": "the two cups are transparent plastic cups.",
+      "id": 49832
+    },
+    {
+      "image_id": 9971,
+      "sentence_id": "00049833",
+      "caption": "white straws are located in the plastic cups.",
+      "id": 49833
+    },
+    {
+      "image_id": 9971,
+      "sentence_id": "00049834",
+      "caption": "gray colored handbag is located on the left.",
+      "id": 49834
+    },
+    {
+      "image_id": 9971,
+      "sentence_id": "00049835",
+      "caption": "a white colored handbag is located at the top.",
+      "id": 49835
+    },
+    {
+      "image_id": 8559,
+      "sentence_id": "00042791",
+      "caption": "A wristwatch is right in the middle.",
+      "id": 42791
+    },
+    {
+      "image_id": 8559,
+      "sentence_id": "00042792",
+      "caption": "The wrist watch is in the black watch box.",
+      "id": 42792
+    },
+    {
+      "image_id": 8559,
+      "sentence_id": "00042793",
+      "caption": "person is holding the watch box with his hand.",
+      "id": 42793
+    },
+    {
+      "image_id": 8559,
+      "sentence_id": "00042794",
+      "caption": "A multi-colored carpet is on the floor.",
+      "id": 42794
+    },
+    {
+      "image_id": 8559,
+      "sentence_id": "00042795",
+      "caption": "The wardrobe is just behind the wristwatch.",
+      "id": 42795
+    },
+    {
+      "image_id": 2119,
+      "sentence_id": "00010591",
+      "caption": "three women are giving pose in souvenirs shop",
+      "id": 10591
+    },
+    {
+      "image_id": 2119,
+      "sentence_id": "00010592",
+      "caption": "Evil eye beads are hung to be sold on the wall",
+      "id": 10592
+    },
+    {
+      "image_id": 2119,
+      "sentence_id": "00010593",
+      "caption": "different kinds of accessories are behind the women",
+      "id": 10593
+    },
+    {
+      "image_id": 2119,
+      "sentence_id": "00010594",
+      "caption": "One of the women is wearing glasses.",
+      "id": 10594
+    },
+    {
+      "image_id": 2119,
+      "sentence_id": "00010595",
+      "caption": "The top right side of building is renovated.",
+      "id": 10595
+    },
+    {
+      "image_id": 49470,
+      "sentence_id": "00247126",
+      "caption": "A woman with a black jacket standing in front of a clothing store",
+      "id": 247126
+    },
+    {
+      "image_id": 49470,
+      "sentence_id": "00247127",
+      "caption": "A woman is standing outside of a shopping mall",
+      "id": 247127
+    },
+    {
+      "image_id": 49470,
+      "sentence_id": "00247128",
+      "caption": "A woman is standing in front of a clothing store",
+      "id": 247128
+    },
+    {
+      "image_id": 49470,
+      "sentence_id": "00247129",
+      "caption": "A woman with earphones is standing outside of a clothing store",
+      "id": 247129
+    },
+    {
+      "image_id": 49470,
+      "sentence_id": "00247130",
+      "caption": "A woman is standing at the entrance of a clothing store",
+      "id": 247130
+    },
+    {
+      "image_id": 5188,
+      "sentence_id": "00025936",
+      "caption": "A cup of coffee is near the headphones.",
+      "id": 25936
+    },
+    {
+      "image_id": 5188,
+      "sentence_id": "00025937",
+      "caption": "A rubber and a pencil is put on the keyboard of the laptop",
+      "id": 25937
+    },
+    {
+      "image_id": 5188,
+      "sentence_id": "00025938",
+      "caption": "laptop on the table is running at right side of view",
+      "id": 25938
+    },
+    {
+      "image_id": 5188,
+      "sentence_id": "00025939",
+      "caption": "A glass of hot drink near the laptop computer",
+      "id": 25939
+    },
+    {
+      "image_id": 5188,
+      "sentence_id": "00025940",
+      "caption": "A coffee with foam on it is waiting to be drunk while working",
+      "id": 25940
+    },
+    {
+      "image_id": 8537,
+      "sentence_id": "00042681",
+      "caption": "A wooden stand displaying black Lumberjack sneakers.",
+      "id": 42681
+    },
+    {
+      "image_id": 8537,
+      "sentence_id": "00042682",
+      "caption": "The shoe stand has a wooden appearance.",
+      "id": 42682
+    },
+    {
+      "image_id": 8537,
+      "sentence_id": "00042683",
+      "caption": "Three sneakers are exhibited on the stand.",
+      "id": 42683
+    },
+    {
+      "image_id": 8537,
+      "sentence_id": "00042684",
+      "caption": "The sneakers are black in color.",
+      "id": 42684
+    },
+    {
+      "image_id": 8537,
+      "sentence_id": "00042685",
+      "caption": "Lumberjack is written on the shoe displayed at the top of the stand.",
+      "id": 42685
+    },
+    {
+      "image_id": 33099,
+      "sentence_id": "00165291",
+      "caption": "a back pack on the  box",
+      "id": 165291
+    },
+    {
+      "image_id": 33099,
+      "sentence_id": "00165292",
+      "caption": "Floor is covered with square tiles in a store",
+      "id": 165292
+    },
+    {
+      "image_id": 33099,
+      "sentence_id": "00165293",
+      "caption": "products with plastic coverage are in the box",
+      "id": 165293
+    },
+    {
+      "image_id": 33099,
+      "sentence_id": "00165294",
+      "caption": "a backpack on box is taken",
+      "id": 165294
+    },
+    {
+      "image_id": 33099,
+      "sentence_id": "00165295",
+      "caption": "a school bag is on the box",
+      "id": 165295
+    },
+    {
+      "image_id": 32187,
+      "sentence_id": "00160731",
+      "caption": "a backpack and a suitcase side by side",
+      "id": 160731
+    },
+    {
+      "image_id": 32187,
+      "sentence_id": "00160732",
+      "caption": "Rectorate building of the university is behind trees in the background",
+      "id": 160732
+    },
+    {
+      "image_id": 32187,
+      "sentence_id": "00160733",
+      "caption": "a few leafless trees are standing on grassy area at left edge",
+      "id": 160733
+    },
+    {
+      "image_id": 32187,
+      "sentence_id": "00160734",
+      "caption": "a university building in izmir is taken",
+      "id": 160734
+    },
+    {
+      "image_id": 32187,
+      "sentence_id": "00160735",
+      "caption": "a suitcase and bag are on the walking path on the university campus",
+      "id": 160735
+    },
+    {
+      "image_id": 15178,
+      "sentence_id": "00075731",
+      "caption": "Pair of small loudspeaker drivers worn on",
+      "id": 75731
+    },
+    {
+      "image_id": 15178,
+      "sentence_id": "00075732",
+      "caption": "a headphone is in front of the wall",
+      "id": 75732
+    },
+    {
+      "image_id": 15178,
+      "sentence_id": "00075733",
+      "caption": "headphones pad part has been torn",
+      "id": 75733
+    },
+    {
+      "image_id": 15178,
+      "sentence_id": "00075734",
+      "caption": "background is all covered by back of study desk",
+      "id": 75734
+    },
+    {
+      "image_id": 15178,
+      "sentence_id": "00075735",
+      "caption": "A headphone is put on the table",
+      "id": 75735
+    }
+  ],
+  "images": [
+    {
+      "id": 2064
+    },
+    {
+      "id": 2119
+    },
+    {
+      "id": 3191
+    },
+    {
+      "id": 3936
+    },
+    {
+      "id": 4348
+    },
+    {
+      "id": 4716
+    },
+    {
+      "id": 5188
+    },
+    {
+      "id": 5318
+    },
+    {
+      "id": 5420
+    },
+    {
+      "id": 5669
+    },
+    {
+      "id": 5769
+    },
+    {
+      "id": 5988
+    },
+    {
+      "id": 6348
+    },
+    {
+      "id": 6626
+    },
+    {
+      "id": 6627
+    },
+    {
+      "id": 6848
+    },
+    {
+      "id": 7137
+    },
+    {
+      "id": 7449
+    },
+    {
+      "id": 7928
+    },
+    {
+      "id": 8067
+    },
+    {
+      "id": 8182
+    },
+    {
+      "id": 8216
+    },
+    {
+      "id": 8537
+    },
+    {
+      "id": 8559
+    },
+    {
+      "id": 9065
+    },
+    {
+      "id": 9335
+    },
+    {
+      "id": 9971
+    },
+    {
+      "id": 10119
+    },
+    {
+      "id": 10177
+    },
+    {
+      "id": 10862
+    },
+    {
+      "id": 11500
+    },
+    {
+      "id": 11987
+    },
+    {
+      "id": 12348
+    },
+    {
+      "id": 12709
+    },
+    {
+      "id": 13234
+    },
+    {
+      "id": 13329
+    },
+    {
+      "id": 13649
+    },
+    {
+      "id": 13715
+    },
+    {
+      "id": 13903
+    },
+    {
+      "id": 14438
+    },
+    {
+      "id": 14443
+    },
+    {
+      "id": 14446
+    },
+    {
+      "id": 14804
+    },
+    {
+      "id": 14822
+    },
+    {
+      "id": 15067
+    },
+    {
+      "id": 15178
+    },
+    {
+      "id": 15236
+    },
+    {
+      "id": 15486
+    },
+    {
+      "id": 15841
+    },
+    {
+      "id": 15920
+    },
+    {
+      "id": 16581
+    },
+    {
+      "id": 16713
+    },
+    {
+      "id": 16839
+    },
+    {
+      "id": 16906
+    },
+    {
+      "id": 16941
+    },
+    {
+      "id": 17462
+    },
+    {
+      "id": 17987
+    },
+    {
+      "id": 18598
+    },
+    {
+      "id": 19030
+    },
+    {
+      "id": 19551
+    },
+    {
+      "id": 19756
+    },
+    {
+      "id": 19776
+    },
+    {
+      "id": 21167
+    },
+    {
+      "id": 21224
+    },
+    {
+      "id": 22097
+    },
+    {
+      "id": 22289
+    },
+    {
+      "id": 22495
+    },
+    {
+      "id": 22595
+    },
+    {
+      "id": 22705
+    },
+    {
+      "id": 22848
+    },
+    {
+      "id": 23095
+    },
+    {
+      "id": 23352
+    },
+    {
+      "id": 23429
+    },
+    {
+      "id": 23743
+    },
+    {
+      "id": 26027
+    },
+    {
+      "id": 29202
+    },
+    {
+      "id": 29471
+    },
+    {
+      "id": 29678
+    },
+    {
+      "id": 32187
+    },
+    {
+      "id": 33099
+    },
+    {
+      "id": 33821
+    },
+    {
+      "id": 34128
+    },
+    {
+      "id": 35317
+    },
+    {
+      "id": 36664
+    },
+    {
+      "id": 36738
+    },
+    {
+      "id": 37519
+    },
+    {
+      "id": 40854
+    },
+    {
+      "id": 41123
+    },
+    {
+      "id": 41211
+    },
+    {
+      "id": 41654
+    },
+    {
+      "id": 41676
+    },
+    {
+      "id": 41780
+    },
+    {
+      "id": 41822
+    },
+    {
+      "id": 42091
+    },
+    {
+      "id": 42255
+    },
+    {
+      "id": 42642
+    },
+    {
+      "id": 42915
+    },
+    {
+      "id": 43285
+    },
+    {
+      "id": 43402
+    },
+    {
+      "id": 43482
+    },
+    {
+      "id": 43618
+    },
+    {
+      "id": 43632
+    },
+    {
+      "id": 44246
+    },
+    {
+      "id": 44282
+    },
+    {
+      "id": 44544
+    },
+    {
+      "id": 44569
+    },
+    {
+      "id": 44961
+    },
+    {
+      "id": 45550
+    },
+    {
+      "id": 46132
+    },
+    {
+      "id": 46457
+    },
+    {
+      "id": 46842
+    },
+    {
+      "id": 47080
+    },
+    {
+      "id": 47327
+    },
+    {
+      "id": 47445
+    },
+    {
+      "id": 47646
+    },
+    {
+      "id": 48279
+    },
+    {
+      "id": 48810
+    },
+    {
+      "id": 48988
+    },
+    {
+      "id": 49470
+    },
+    {
+      "id": 49693
+    },
+    {
+      "id": 49716
+    },
+    {
+      "id": 49722
+    },
+    {
+      "id": 49755
+    },
+    {
+      "id": 49813
+    },
+    {
+      "id": 50782
+    },
+    {
+      "id": 51621
+    },
+    {
+      "id": 52568
+    },
+    {
+      "id": 52909
+    },
+    {
+      "id": 52974
+    },
+    {
+      "id": 53000
+    }
+  ]
+}

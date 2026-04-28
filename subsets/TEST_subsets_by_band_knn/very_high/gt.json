@@ -1,0 +1,2448 @@
+{
+  "annotations": [
+    {
+      "image_id": 12232,
+      "sentence_id": "00061121",
+      "caption": "six-story building is on the opposite side",
+      "id": 61121
+    },
+    {
+      "image_id": 12232,
+      "sentence_id": "00061122",
+      "caption": "light turned on on the balcony of the fifth floor of the building opposite",
+      "id": 61122
+    },
+    {
+      "image_id": 12232,
+      "sentence_id": "00061123",
+      "caption": "The enlarged windows of the lowest floor of the building are on the front.",
+      "id": 61123
+    },
+    {
+      "image_id": 12232,
+      "sentence_id": "00061124",
+      "caption": "many trees are in front of the house",
+      "id": 61124
+    },
+    {
+      "image_id": 12232,
+      "sentence_id": "00061125",
+      "caption": "a few chairs were left in front of the windows of the lowest floor",
+      "id": 61125
+    },
+    {
+      "image_id": 41614,
+      "sentence_id": "00207856",
+      "caption": "Two flowers and some leaves can be seen",
+      "id": 207856
+    },
+    {
+      "image_id": 41614,
+      "sentence_id": "00207857",
+      "caption": "A plant with pink flowers in front of a white wall",
+      "id": 207857
+    },
+    {
+      "image_id": 41614,
+      "sentence_id": "00207858",
+      "caption": "Two pink flowers on a plant",
+      "id": 207858
+    },
+    {
+      "image_id": 41614,
+      "sentence_id": "00207859",
+      "caption": "A plant with two pink flowers in front of a wall",
+      "id": 207859
+    },
+    {
+      "image_id": 41614,
+      "sentence_id": "00207860",
+      "caption": "A pink flower next to a wall",
+      "id": 207860
+    },
+    {
+      "image_id": 49235,
+      "sentence_id": "00245951",
+      "caption": "A couple of flowers and plants are shown on a white table",
+      "id": 245951
+    },
+    {
+      "image_id": 49235,
+      "sentence_id": "00245952",
+      "caption": "Some red and pink flowers and plants on the table",
+      "id": 245952
+    },
+    {
+      "image_id": 49235,
+      "sentence_id": "00245953",
+      "caption": "Some roses and other flowers in plant pots",
+      "id": 245953
+    },
+    {
+      "image_id": 49235,
+      "sentence_id": "00245954",
+      "caption": "Some roses in a vase and some flowers in flowerpots",
+      "id": 245954
+    },
+    {
+      "image_id": 49235,
+      "sentence_id": "00245955",
+      "caption": "Some roses and other flowers on a white table",
+      "id": 245955
+    },
+    {
+      "image_id": 15186,
+      "sentence_id": "00075771",
+      "caption": "Some people working in a construction site",
+      "id": 75771
+    },
+    {
+      "image_id": 15186,
+      "sentence_id": "00075772",
+      "caption": "an ongoing construction site is taken  on a sunny day",
+      "id": 75772
+    },
+    {
+      "image_id": 15186,
+      "sentence_id": "00075773",
+      "caption": "construction is built by the flowing river",
+      "id": 75773
+    },
+    {
+      "image_id": 15186,
+      "sentence_id": "00075774",
+      "caption": "strong wavy river is flooding down between mountains on sunny day",
+      "id": 75774
+    },
+    {
+      "image_id": 15186,
+      "sentence_id": "00075775",
+      "caption": "An excavator is working on the hill",
+      "id": 75775
+    },
+    {
+      "image_id": 8745,
+      "sentence_id": "00043721",
+      "caption": "The safety lane is just ahead.",
+      "id": 43721
+    },
+    {
+      "image_id": 8745,
+      "sentence_id": "00043722",
+      "caption": "The highway is just on the left.",
+      "id": 43722
+    },
+    {
+      "image_id": 8745,
+      "sentence_id": "00043723",
+      "caption": "The soil area with greenery on it is on the right side of the road.",
+      "id": 43723
+    },
+    {
+      "image_id": 8745,
+      "sentence_id": "00043724",
+      "caption": "The Blue Bolu sign is ahead on the land.",
+      "id": 43724
+    },
+    {
+      "image_id": 8745,
+      "sentence_id": "00043725",
+      "caption": "A field is to the right of the earthen field.",
+      "id": 43725
+    },
+    {
+      "image_id": 8640,
+      "sentence_id": "00043196",
+      "caption": "Two-lane highway with school in the background.",
+      "id": 43196
+    },
+    {
+      "image_id": 8640,
+      "sentence_id": "00043197",
+      "caption": "A sidewalk is across the road.",
+      "id": 43197
+    },
+    {
+      "image_id": 8640,
+      "sentence_id": "00043198",
+      "caption": "The gray wall with a black iron railing is behind the pavement.",
+      "id": 43198
+    },
+    {
+      "image_id": 8640,
+      "sentence_id": "00043199",
+      "caption": "A school is behind the wall.",
+      "id": 43199
+    },
+    {
+      "image_id": 8640,
+      "sentence_id": "00043200",
+      "caption": "A white vehicle is parked in the school yard.",
+      "id": 43200
+    },
+    {
+      "image_id": 9709,
+      "sentence_id": "00048521",
+      "caption": "a train station is photoed in the daytime.",
+      "id": 48521
+    },
+    {
+      "image_id": 9709,
+      "sentence_id": "00048522",
+      "caption": "multiple people are standing on the train station.",
+      "id": 48522
+    },
+    {
+      "image_id": 9709,
+      "sentence_id": "00048523",
+      "caption": "yellow dots for blind people are located on the ground.",
+      "id": 48523
+    },
+    {
+      "image_id": 9709,
+      "sentence_id": "00048524",
+      "caption": "a clock is located on the ceiling.",
+      "id": 48524
+    },
+    {
+      "image_id": 9709,
+      "sentence_id": "00048525",
+      "caption": "a no smoking sign is located on the column on the right.",
+      "id": 48525
+    },
+    {
+      "image_id": 8898,
+      "sentence_id": "00044481",
+      "caption": "a granite kitchen countertop is photoed.",
+      "id": 44481
+    },
+    {
+      "image_id": 8898,
+      "sentence_id": "00044482",
+      "caption": "the counter has a clear glass bowl.",
+      "id": 44482
+    },
+    {
+      "image_id": 8898,
+      "sentence_id": "00044483",
+      "caption": "Four quinces are in the bowl.",
+      "id": 44483
+    },
+    {
+      "image_id": 8898,
+      "sentence_id": "00044484",
+      "caption": "a plastic dish rack is visible on the left.",
+      "id": 44484
+    },
+    {
+      "image_id": 8898,
+      "sentence_id": "00044485",
+      "caption": "the wall is covered with silvery glass tiles.",
+      "id": 44485
+    },
+    {
+      "image_id": 6718,
+      "sentence_id": "00033586",
+      "caption": "A man is busy with his cellphone.",
+      "id": 33586
+    },
+    {
+      "image_id": 6718,
+      "sentence_id": "00033587",
+      "caption": "The man next to the door is playing with his phone.",
+      "id": 33587
+    },
+    {
+      "image_id": 6718,
+      "sentence_id": "00033588",
+      "caption": "lots of doors of a building are open",
+      "id": 33588
+    },
+    {
+      "image_id": 6718,
+      "sentence_id": "00033589",
+      "caption": "A man is sitting by the door to take a break",
+      "id": 33589
+    },
+    {
+      "image_id": 6718,
+      "sentence_id": "00033590",
+      "caption": "doors of company building at right side are partly opened",
+      "id": 33590
+    },
+    {
+      "image_id": 11188,
+      "sentence_id": "00055901",
+      "caption": "many seagulls are flying in groups",
+      "id": 55901
+    },
+    {
+      "image_id": 11188,
+      "sentence_id": "00055902",
+      "caption": "the sea left behind the seagulls",
+      "id": 55902
+    },
+    {
+      "image_id": 11188,
+      "sentence_id": "00055903",
+      "caption": "all the seagulls are flying in the same direction",
+      "id": 55903
+    },
+    {
+      "image_id": 11188,
+      "sentence_id": "00055904",
+      "caption": "many buildings are lined up side by side on the other side of the sea",
+      "id": 55904
+    },
+    {
+      "image_id": 11188,
+      "sentence_id": "00055905",
+      "caption": "many trees are among the structures on the other side of the sea",
+      "id": 55905
+    },
+    {
+      "image_id": 13039,
+      "sentence_id": "00065081",
+      "caption": "a gray bike is in the front",
+      "id": 65081
+    },
+    {
+      "image_id": 13039,
+      "sentence_id": "00065082",
+      "caption": "a basket is hung in front of the bike's steering wheel",
+      "id": 65082
+    },
+    {
+      "image_id": 13039,
+      "sentence_id": "00065083",
+      "caption": "a bouquet of flowers is in the basket",
+      "id": 65083
+    },
+    {
+      "image_id": 13039,
+      "sentence_id": "00065084",
+      "caption": "a shop with big windows is stuck in the back of the bike",
+      "id": 65084
+    },
+    {
+      "image_id": 13039,
+      "sentence_id": "00065085",
+      "caption": "motto is written in white on the right side of the glass.",
+      "id": 65085
+    },
+    {
+      "image_id": 33165,
+      "sentence_id": "00165621",
+      "caption": "a man is in front of the historical ruins",
+      "id": 165621
+    },
+    {
+      "image_id": 33165,
+      "sentence_id": "00165622",
+      "caption": "A boy at the entrance of the historic site on a partly cloudy day",
+      "id": 165622
+    },
+    {
+      "image_id": 33165,
+      "sentence_id": "00165623",
+      "caption": "a man with an umrella is on the right side",
+      "id": 165623
+    },
+    {
+      "image_id": 33165,
+      "sentence_id": "00165624",
+      "caption": "ancient ruin is taken on cloudy day",
+      "id": 165624
+    },
+    {
+      "image_id": 33165,
+      "sentence_id": "00165625",
+      "caption": "a little boy is standing entrance of an ancient church",
+      "id": 165625
+    },
+    {
+      "image_id": 49921,
+      "sentence_id": "00249381",
+      "caption": "Some birds and a couple of people are on a square under the tree",
+      "id": 249381
+    },
+    {
+      "image_id": 49921,
+      "sentence_id": "00249382",
+      "caption": "A building is seen behind a tree in a square",
+      "id": 249382
+    },
+    {
+      "image_id": 49921,
+      "sentence_id": "00249383",
+      "caption": "Pigeons and some people in front of a big building",
+      "id": 249383
+    },
+    {
+      "image_id": 49921,
+      "sentence_id": "00249384",
+      "caption": "A man is sitting behind bird foods on a square",
+      "id": 249384
+    },
+    {
+      "image_id": 49921,
+      "sentence_id": "00249385",
+      "caption": "People and pigeons are in front of a big tree",
+      "id": 249385
+    },
+    {
+      "image_id": 31537,
+      "sentence_id": "00157481",
+      "caption": "apartment building standing at back is covered the all background",
+      "id": 157481
+    },
+    {
+      "image_id": 31537,
+      "sentence_id": "00157482",
+      "caption": "an apartment is behind the iron wires",
+      "id": 157482
+    },
+    {
+      "image_id": 31537,
+      "sentence_id": "00157483",
+      "caption": "razor wires on the iron fences are in front of the apartment",
+      "id": 157483
+    },
+    {
+      "image_id": 31537,
+      "sentence_id": "00157484",
+      "caption": "building in foreground of the view is protected by iron fences.",
+      "id": 157484
+    },
+    {
+      "image_id": 31537,
+      "sentence_id": "00157485",
+      "caption": "a big pine tree is standing in front of the building",
+      "id": 157485
+    },
+    {
+      "image_id": 15898,
+      "sentence_id": "00079331",
+      "caption": "a historical building is taken on cloudy day",
+      "id": 79331
+    },
+    {
+      "image_id": 15898,
+      "sentence_id": "00079332",
+      "caption": "a few people are sitting on benches located in front of historical building",
+      "id": 79332
+    },
+    {
+      "image_id": 15898,
+      "sentence_id": "00079333",
+      "caption": "a mansion with a large lawn and trees",
+      "id": 79333
+    },
+    {
+      "image_id": 15898,
+      "sentence_id": "00079334",
+      "caption": "someone is sitting on the bench on the right",
+      "id": 79334
+    },
+    {
+      "image_id": 15898,
+      "sentence_id": "00079335",
+      "caption": "a man is passing by in front of the mansion",
+      "id": 79335
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096881",
+      "caption": "phone with screen on is on the left",
+      "id": 96881
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096882",
+      "caption": "the cake is placed on the right side of the phone",
+      "id": 96882
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096883",
+      "caption": "the cake is in a round green plate",
+      "id": 96883
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096884",
+      "caption": "the cake is on a dark wooden table",
+      "id": 96884
+    },
+    {
+      "image_id": 19413,
+      "sentence_id": "00096885",
+      "caption": "the cake is in a box with the brand name on it",
+      "id": 96885
+    },
+    {
+      "image_id": 2073,
+      "sentence_id": "00010361",
+      "caption": "play station game cafe is at the background o",
+      "id": 10361
+    },
+    {
+      "image_id": 2073,
+      "sentence_id": "00010362",
+      "caption": "A big car parked in front of a house",
+      "id": 10362
+    },
+    {
+      "image_id": 2073,
+      "sentence_id": "00010363",
+      "caption": "pavement in front of stores is covered by carpet",
+      "id": 10363
+    },
+    {
+      "image_id": 2073,
+      "sentence_id": "00010364",
+      "caption": "The entrance door is made of glass.",
+      "id": 10364
+    },
+    {
+      "image_id": 2073,
+      "sentence_id": "00010365",
+      "caption": "The gaming cafe is on the other side of the alley.",
+      "id": 10365
+    },
+    {
+      "image_id": 6360,
+      "sentence_id": "00031796",
+      "caption": "Clouds are coverig the sky at top side",
+      "id": 31796
+    },
+    {
+      "image_id": 6360,
+      "sentence_id": "00031797",
+      "caption": "The bridge above the cannal is made of concerete.",
+      "id": 31797
+    },
+    {
+      "image_id": 6360,
+      "sentence_id": "00031798",
+      "caption": "Two small apartments are located next to each other",
+      "id": 31798
+    },
+    {
+      "image_id": 6360,
+      "sentence_id": "00031799",
+      "caption": "canalet is taken from bridge on cloudy day",
+      "id": 31799
+    },
+    {
+      "image_id": 6360,
+      "sentence_id": "00031800",
+      "caption": "buildings on the right side of waterway",
+      "id": 31800
+    },
+    {
+      "image_id": 18765,
+      "sentence_id": "00093646",
+      "caption": "many vehicles are in motion on the road just ahead",
+      "id": 93646
+    },
+    {
+      "image_id": 18765,
+      "sentence_id": "00093647",
+      "caption": "street lamps lined up across the road",
+      "id": 93647
+    },
+    {
+      "image_id": 18765,
+      "sentence_id": "00093648",
+      "caption": "no entry sign is to the right of the street lights",
+      "id": 93648
+    },
+    {
+      "image_id": 18765,
+      "sentence_id": "00093649",
+      "caption": "a green double-decker bus is in motion on the opposite side",
+      "id": 93649
+    },
+    {
+      "image_id": 18765,
+      "sentence_id": "00093650",
+      "caption": "red truck from a brand is on the right",
+      "id": 93650
+    },
+    {
+      "image_id": 13792,
+      "sentence_id": "00068806",
+      "caption": "The black baking tray is at the bottom.",
+      "id": 68806
+    },
+    {
+      "image_id": 13792,
+      "sentence_id": "00068807",
+      "caption": "Greaseproof paper is inside the black baking tray.",
+      "id": 68807
+    },
+    {
+      "image_id": 13792,
+      "sentence_id": "00068808",
+      "caption": "Pita with sesame seeds on greased paper.",
+      "id": 68808
+    },
+    {
+      "image_id": 13792,
+      "sentence_id": "00068809",
+      "caption": "Sesame seeds are on the pita.",
+      "id": 68809
+    },
+    {
+      "image_id": 13792,
+      "sentence_id": "00068810",
+      "caption": "The burn marks are on the left side of the wax paper.",
+      "id": 68810
+    },
+    {
+      "image_id": 41603,
+      "sentence_id": "00207801",
+      "caption": "Boats on the sea with buildings in the background",
+      "id": 207801
+    },
+    {
+      "image_id": 41603,
+      "sentence_id": "00207802",
+      "caption": "The sea is in front of the buildings",
+      "id": 207802
+    },
+    {
+      "image_id": 41603,
+      "sentence_id": "00207803",
+      "caption": "Two boats on a sea and many buildings across",
+      "id": 207803
+    },
+    {
+      "image_id": 41603,
+      "sentence_id": "00207804",
+      "caption": "Two boats at the sea in front of some people on the beach",
+      "id": 207804
+    },
+    {
+      "image_id": 41603,
+      "sentence_id": "00207805",
+      "caption": "The view of umbrellas in a beach and some boats on the sea",
+      "id": 207805
+    },
+    {
+      "image_id": 36258,
+      "sentence_id": "00181076",
+      "caption": "sea wiev laying at background is being hidden by trees standing at front",
+      "id": 181076
+    },
+    {
+      "image_id": 36258,
+      "sentence_id": "00181077",
+      "caption": "the sea and trees are taken from above",
+      "id": 181077
+    },
+    {
+      "image_id": 36258,
+      "sentence_id": "00181078",
+      "caption": "The sea is seen through the trees",
+      "id": 181078
+    },
+    {
+      "image_id": 36258,
+      "sentence_id": "00181079",
+      "caption": "lots of trees and the sea is in a place",
+      "id": 181079
+    },
+    {
+      "image_id": 36258,
+      "sentence_id": "00181080",
+      "caption": "a lot of houses and apartments are standing on foot of hill at right",
+      "id": 181080
+    },
+    {
+      "image_id": 14562,
+      "sentence_id": "00072651",
+      "caption": "A view of road with some vehicles under a cloudy sky",
+      "id": 72651
+    },
+    {
+      "image_id": 14562,
+      "sentence_id": "00072652",
+      "caption": "the ground is wet and slippery because of the rain",
+      "id": 72652
+    },
+    {
+      "image_id": 14562,
+      "sentence_id": "00072653",
+      "caption": "buses passing under the escalator overpass",
+      "id": 72653
+    },
+    {
+      "image_id": 14562,
+      "sentence_id": "00072654",
+      "caption": "cars and buses are travelling on wide road on rainy day",
+      "id": 72654
+    },
+    {
+      "image_id": 14562,
+      "sentence_id": "00072655",
+      "caption": "A bus is waiting for its passengers",
+      "id": 72655
+    },
+    {
+      "image_id": 44093,
+      "sentence_id": "00220251",
+      "caption": "People in the sea behind two kids and an umbrella on the beach",
+      "id": 220251
+    },
+    {
+      "image_id": 44093,
+      "sentence_id": "00220252",
+      "caption": "Some people are on the sea in front of the mountain",
+      "id": 220252
+    },
+    {
+      "image_id": 44093,
+      "sentence_id": "00220253",
+      "caption": "Some people in a sea and some mountains behind",
+      "id": 220253
+    },
+    {
+      "image_id": 44093,
+      "sentence_id": "00220254",
+      "caption": "A couple of people swimming in the sea",
+      "id": 220254
+    },
+    {
+      "image_id": 44093,
+      "sentence_id": "00220255",
+      "caption": "A lot of people are swimming in a lake",
+      "id": 220255
+    },
+    {
+      "image_id": 17690,
+      "sentence_id": "00088281",
+      "caption": "red lights are just across the road",
+      "id": 88281
+    },
+    {
+      "image_id": 17690,
+      "sentence_id": "00088282",
+      "caption": "several vehicles are moving on the road just ahead",
+      "id": 88282
+    },
+    {
+      "image_id": 17690,
+      "sentence_id": "00088283",
+      "caption": "big brown structures are on the right and left of the road",
+      "id": 88283
+    },
+    {
+      "image_id": 17690,
+      "sentence_id": "00088284",
+      "caption": "a large skyscraper is behind the building on the right",
+      "id": 88284
+    },
+    {
+      "image_id": 17690,
+      "sentence_id": "00088285",
+      "caption": "some signs are hung to the right and left of the lights",
+      "id": 88285
+    },
+    {
+      "image_id": 20354,
+      "sentence_id": "00101586",
+      "caption": "the building with many domes is on the opposite side",
+      "id": 101586
+    },
+    {
+      "image_id": 20354,
+      "sentence_id": "00101587",
+      "caption": "many balconies are visible on the front of the building",
+      "id": 101587
+    },
+    {
+      "image_id": 20354,
+      "sentence_id": "00101588",
+      "caption": "People on balconies with a street lamp nearby.",
+      "id": 101588
+    },
+    {
+      "image_id": 20354,
+      "sentence_id": "00101589",
+      "caption": "a street lamp is hung in the front right",
+      "id": 101589
+    },
+    {
+      "image_id": 20354,
+      "sentence_id": "00101590",
+      "caption": "a green leafy plant is under the street lamp",
+      "id": 101590
+    },
+    {
+      "image_id": 36848,
+      "sentence_id": "00184026",
+      "caption": "The cars are under the sky",
+      "id": 184026
+    },
+    {
+      "image_id": 36848,
+      "sentence_id": "00184027",
+      "caption": "Some cars and buildings are under the sky",
+      "id": 184027
+    },
+    {
+      "image_id": 36848,
+      "sentence_id": "00184028",
+      "caption": "Some cars and some people on an empty area",
+      "id": 184028
+    },
+    {
+      "image_id": 36848,
+      "sentence_id": "00184029",
+      "caption": "A person is standing behind an open trunk",
+      "id": 184029
+    },
+    {
+      "image_id": 36848,
+      "sentence_id": "00184030",
+      "caption": "Some cars on the sand near the plants",
+      "id": 184030
+    },
+    {
+      "image_id": 20463,
+      "sentence_id": "00102131",
+      "caption": "the green grass area is just in front",
+      "id": 102131
+    },
+    {
+      "image_id": 20463,
+      "sentence_id": "00102132",
+      "caption": "two bikes are on the green grass",
+      "id": 102132
+    },
+    {
+      "image_id": 20463,
+      "sentence_id": "00102133",
+      "caption": "two people are standing next to the bikes",
+      "id": 102133
+    },
+    {
+      "image_id": 20463,
+      "sentence_id": "00102134",
+      "caption": "People with bikes and helmets on green grass.",
+      "id": 102134
+    },
+    {
+      "image_id": 20463,
+      "sentence_id": "00102135",
+      "caption": "both of them wore helmets on their heads and open",
+      "id": 102135
+    },
+    {
+      "image_id": 7897,
+      "sentence_id": "00039481",
+      "caption": "Straw tassels hanging down from the camellia and in harmony with the trees",
+      "id": 39481
+    },
+    {
+      "image_id": 7897,
+      "sentence_id": "00039482",
+      "caption": "flowing waterfall is taken on sunny day",
+      "id": 39482
+    },
+    {
+      "image_id": 7897,
+      "sentence_id": "00039483",
+      "caption": "pine trees are blossoming from rock wall at background",
+      "id": 39483
+    },
+    {
+      "image_id": 7897,
+      "sentence_id": "00039484",
+      "caption": "flowing waterfall is taken on sunny day",
+      "id": 39484
+    },
+    {
+      "image_id": 7897,
+      "sentence_id": "00039485",
+      "caption": "a sea lodge is on the right side of the view",
+      "id": 39485
+    },
+    {
+      "image_id": 15588,
+      "sentence_id": "00077781",
+      "caption": "a pole is between two trees",
+      "id": 77781
+    },
+    {
+      "image_id": 15588,
+      "sentence_id": "00077782",
+      "caption": "several kinds of trees are rising behind house at background",
+      "id": 77782
+    },
+    {
+      "image_id": 15588,
+      "sentence_id": "00077783",
+      "caption": "lamppost rising from a roof and trees on either side",
+      "id": 77783
+    },
+    {
+      "image_id": 15588,
+      "sentence_id": "00077784",
+      "caption": "rooftop and trees near it are taken",
+      "id": 77784
+    },
+    {
+      "image_id": 15588,
+      "sentence_id": "00077785",
+      "caption": "two tall pines are rising into shiny sky on side",
+      "id": 77785
+    },
+    {
+      "image_id": 50917,
+      "sentence_id": "00254361",
+      "caption": "lots of buildings are standing in city view at right",
+      "id": 254361
+    },
+    {
+      "image_id": 50917,
+      "sentence_id": "00254362",
+      "caption": "tall pine trees are planted behind concrete fences",
+      "id": 254362
+    },
+    {
+      "image_id": 50917,
+      "sentence_id": "00254363",
+      "caption": "tall pine trees are planted behind a concrete fence",
+      "id": 254363
+    },
+    {
+      "image_id": 50917,
+      "sentence_id": "00254364",
+      "caption": "the city is standing behind the three pine trees",
+      "id": 254364
+    },
+    {
+      "image_id": 50917,
+      "sentence_id": "00254365",
+      "caption": "several people are walking in front of the mosque",
+      "id": 254365
+    },
+    {
+      "image_id": 46168,
+      "sentence_id": "00230621",
+      "caption": "short hill range is lying on left backside behind sea",
+      "id": 230621
+    },
+    {
+      "image_id": 46168,
+      "sentence_id": "00230622",
+      "caption": "The chain of hills is to the rear left behind the sea",
+      "id": 230622
+    },
+    {
+      "image_id": 46168,
+      "sentence_id": "00230623",
+      "caption": "a ferry crosses the waves at sunset",
+      "id": 230623
+    },
+    {
+      "image_id": 46168,
+      "sentence_id": "00230624",
+      "caption": "the mountain is across the sea",
+      "id": 230624
+    },
+    {
+      "image_id": 46168,
+      "sentence_id": "00230625",
+      "caption": "harmony of sea and sunset is seen",
+      "id": 230625
+    },
+    {
+      "image_id": 20896,
+      "sentence_id": "00104296",
+      "caption": "potato chip racks of a market is photoed.",
+      "id": 104296
+    },
+    {
+      "image_id": 20896,
+      "sentence_id": "00104297",
+      "caption": "the potato chip racks are located in front of the market.",
+      "id": 104297
+    },
+    {
+      "image_id": 20896,
+      "sentence_id": "00104298",
+      "caption": "the color of the racks is red.",
+      "id": 104298
+    },
+    {
+      "image_id": 20896,
+      "sentence_id": "00104299",
+      "caption": "multiple refrigerators are located behind the racks.",
+      "id": 104299
+    },
+    {
+      "image_id": 20896,
+      "sentence_id": "00104300",
+      "caption": "potato chips are located on the racks.",
+      "id": 104300
+    },
+    {
+      "image_id": 10589,
+      "sentence_id": "00052921",
+      "caption": "green grass is among the paving stones",
+      "id": 52921
+    },
+    {
+      "image_id": 10589,
+      "sentence_id": "00052922",
+      "caption": "a white stripe is on the road",
+      "id": 52922
+    },
+    {
+      "image_id": 10589,
+      "sentence_id": "00052923",
+      "caption": "cars are parked in various places",
+      "id": 52923
+    },
+    {
+      "image_id": 10589,
+      "sentence_id": "00052924",
+      "caption": "one building remained on the left side of the cars",
+      "id": 52924
+    },
+    {
+      "image_id": 10589,
+      "sentence_id": "00052925",
+      "caption": "the basketball court is behind the cars",
+      "id": 52925
+    },
+    {
+      "image_id": 1906,
+      "sentence_id": "00009526",
+      "caption": "a car is parked next to the traffic sign",
+      "id": 9526
+    },
+    {
+      "image_id": 1906,
+      "sentence_id": "00009527",
+      "caption": "No parking traffic signboard on a sidewalk",
+      "id": 9527
+    },
+    {
+      "image_id": 1906,
+      "sentence_id": "00009528",
+      "caption": "a taxi is coming form the across road towards to the camera",
+      "id": 9528
+    },
+    {
+      "image_id": 1906,
+      "sentence_id": "00009529",
+      "caption": "A bus is being followed from back.",
+      "id": 9529
+    },
+    {
+      "image_id": 1906,
+      "sentence_id": "00009530",
+      "caption": "The sign shows that nobody is allowed to park but still some cars are parked.",
+      "id": 9530
+    },
+    {
+      "image_id": 43342,
+      "sentence_id": "00216496",
+      "caption": "A ship with red flags is on the sea",
+      "id": 216496
+    },
+    {
+      "image_id": 43342,
+      "sentence_id": "00216497",
+      "caption": "Some boats are on the sea",
+      "id": 216497
+    },
+    {
+      "image_id": 43342,
+      "sentence_id": "00216498",
+      "caption": "Some boats on a sea and a mosque behind",
+      "id": 216498
+    },
+    {
+      "image_id": 43342,
+      "sentence_id": "00216499",
+      "caption": "Some boats are on a sea",
+      "id": 216499
+    },
+    {
+      "image_id": 43342,
+      "sentence_id": "00216500",
+      "caption": "A red flag on the ship",
+      "id": 216500
+    },
+    {
+      "image_id": 34270,
+      "sentence_id": "00171146",
+      "caption": "a few people are walking on bridge on rainy day at right back",
+      "id": 171146
+    },
+    {
+      "image_id": 34270,
+      "sentence_id": "00171147",
+      "caption": "Advertising posters are hung on street lighting poles",
+      "id": 171147
+    },
+    {
+      "image_id": 34270,
+      "sentence_id": "00171148",
+      "caption": "few cars are moving on slippery road of bridge on rainy day",
+      "id": 171148
+    },
+    {
+      "image_id": 34270,
+      "sentence_id": "00171149",
+      "caption": "ground is wet because of rain",
+      "id": 171149
+    },
+    {
+      "image_id": 34270,
+      "sentence_id": "00171150",
+      "caption": "flock of birds in foreground of area are flying in the sky.",
+      "id": 171150
+    },
+    {
+      "image_id": 6051,
+      "sentence_id": "00030251",
+      "caption": "A cat is standing near the building's entrance.",
+      "id": 30251
+    },
+    {
+      "image_id": 6051,
+      "sentence_id": "00030252",
+      "caption": "a cat is in the middle of the area",
+      "id": 30252
+    },
+    {
+      "image_id": 6051,
+      "sentence_id": "00030253",
+      "caption": "few fallen leaves are seperated around floor in front of apartment",
+      "id": 30253
+    },
+    {
+      "image_id": 6051,
+      "sentence_id": "00030254",
+      "caption": "Garden of the building is surrounded by an iron fence",
+      "id": 30254
+    },
+    {
+      "image_id": 6051,
+      "sentence_id": "00030255",
+      "caption": "A small amount of water flows from the drain pipe on the side",
+      "id": 30255
+    },
+    {
+      "image_id": 17273,
+      "sentence_id": "00086206",
+      "caption": "a street is photoed in the nighttime.",
+      "id": 86206
+    },
+    {
+      "image_id": 17273,
+      "sentence_id": "00086207",
+      "caption": "a pavement is located on the left.",
+      "id": 86207
+    },
+    {
+      "image_id": 17273,
+      "sentence_id": "00086208",
+      "caption": "multiple cars are parked on the right side of the pavement.",
+      "id": 86208
+    },
+    {
+      "image_id": 17273,
+      "sentence_id": "00086209",
+      "caption": "a bus is visible on the road.",
+      "id": 86209
+    },
+    {
+      "image_id": 17273,
+      "sentence_id": "00086210",
+      "caption": "one minaret of a mosque is visible in the background.",
+      "id": 86210
+    },
+    {
+      "image_id": 13417,
+      "sentence_id": "00066971",
+      "caption": "a greenery is photoed in the daytime.",
+      "id": 66971
+    },
+    {
+      "image_id": 13417,
+      "sentence_id": "00066972",
+      "caption": "a body of water is located at the bottom of the photo.",
+      "id": 66972
+    },
+    {
+      "image_id": 13417,
+      "sentence_id": "00066973",
+      "caption": "big rocks are located on both sides of the body of water.",
+      "id": 66973
+    },
+    {
+      "image_id": 13417,
+      "sentence_id": "00066974",
+      "caption": "small rocks are visible in the body of water.",
+      "id": 66974
+    },
+    {
+      "image_id": 13417,
+      "sentence_id": "00066975",
+      "caption": "leaves of plants are visible at the top half of the photo.",
+      "id": 66975
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251101",
+      "caption": "Some kids with green vests standing with two men with police vests",
+      "id": 251101
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251102",
+      "caption": "Many kids with vests and other people are standing beside a train",
+      "id": 251102
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251103",
+      "caption": "Two police officers standing behind some kids",
+      "id": 251103
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251104",
+      "caption": "Two police men and a bunch of kids with neon vests are standing",
+      "id": 251104
+    },
+    {
+      "image_id": 50265,
+      "sentence_id": "00251105",
+      "caption": "Two policemen behind children wearing neon vests",
+      "id": 251105
+    },
+    {
+      "image_id": 8037,
+      "sentence_id": "00040181",
+      "caption": "the pavement stones are displaced and a big concrete water pipe is under the road",
+      "id": 40181
+    },
+    {
+      "image_id": 8037,
+      "sentence_id": "00040182",
+      "caption": "pavement is on right side of area",
+      "id": 40182
+    },
+    {
+      "image_id": 8037,
+      "sentence_id": "00040183",
+      "caption": "destroyed part of asphalt road is taken from above",
+      "id": 40183
+    },
+    {
+      "image_id": 8037,
+      "sentence_id": "00040184",
+      "caption": "cobblestone road and pipeline standing in it",
+      "id": 40184
+    },
+    {
+      "image_id": 8037,
+      "sentence_id": "00040185",
+      "caption": "asphalt ground is broken and half of it covered with stones",
+      "id": 40185
+    },
+    {
+      "image_id": 5483,
+      "sentence_id": "00027411",
+      "caption": "Some molds grew by the fences.",
+      "id": 27411
+    },
+    {
+      "image_id": 5483,
+      "sentence_id": "00027412",
+      "caption": "A blue car is parked next to the sidewalk",
+      "id": 27412
+    },
+    {
+      "image_id": 5483,
+      "sentence_id": "00027413",
+      "caption": "area at left side is being protected by fence range",
+      "id": 27413
+    },
+    {
+      "image_id": 5483,
+      "sentence_id": "00027414",
+      "caption": "View of parking barriers on the pavement near parked cars",
+      "id": 27414
+    },
+    {
+      "image_id": 5483,
+      "sentence_id": "00027415",
+      "caption": "a puddle on the sidewalk is on the left",
+      "id": 27415
+    },
+    {
+      "image_id": 1228,
+      "sentence_id": "00006136",
+      "caption": "a tropical one is dragon fruit is being sold by a man",
+      "id": 6136
+    },
+    {
+      "image_id": 1228,
+      "sentence_id": "00006137",
+      "caption": "A little girl is buying dragon fruit.",
+      "id": 6137
+    },
+    {
+      "image_id": 1228,
+      "sentence_id": "00006138",
+      "caption": "napkins ,cubes of ice and transparent  plastic containers are waiting for their customers",
+      "id": 6138
+    },
+    {
+      "image_id": 1228,
+      "sentence_id": "00006139",
+      "caption": "a kid is standing and a woman is walking in the background",
+      "id": 6139
+    },
+    {
+      "image_id": 1228,
+      "sentence_id": "00006140",
+      "caption": "The seller is putting some tropical fruit into a plastic container.",
+      "id": 6140
+    },
+    {
+      "image_id": 38614,
+      "sentence_id": "00192856",
+      "caption": "Some women with white tops on street",
+      "id": 192856
+    },
+    {
+      "image_id": 38614,
+      "sentence_id": "00192857",
+      "caption": "Many people with white T-shirts in front of a store",
+      "id": 192857
+    },
+    {
+      "image_id": 38614,
+      "sentence_id": "00192858",
+      "caption": "A lot of people are walking",
+      "id": 192858
+    },
+    {
+      "image_id": 38614,
+      "sentence_id": "00192859",
+      "caption": "A lot of women in front of an optical store",
+      "id": 192859
+    },
+    {
+      "image_id": 38614,
+      "sentence_id": "00192860",
+      "caption": "Some women wearing a white t-shirt",
+      "id": 192860
+    },
+    {
+      "image_id": 16214,
+      "sentence_id": "00080911",
+      "caption": "windmills are on mountain at background",
+      "id": 80911
+    },
+    {
+      "image_id": 16214,
+      "sentence_id": "00080912",
+      "caption": "someone is walking on trail between two column ranges at left side",
+      "id": 80912
+    },
+    {
+      "image_id": 16214,
+      "sentence_id": "00080913",
+      "caption": "historical ruins in a very large area",
+      "id": 80913
+    },
+    {
+      "image_id": 16214,
+      "sentence_id": "00080914",
+      "caption": "columns are on the right side of the historical ruins",
+      "id": 80914
+    },
+    {
+      "image_id": 16214,
+      "sentence_id": "00080915",
+      "caption": "Ancient ruins that bring the ancient world to life",
+      "id": 80915
+    },
+    {
+      "image_id": 11230,
+      "sentence_id": "00056111",
+      "caption": "Tables and chairs lined up behind each other are on the left.",
+      "id": 56111
+    },
+    {
+      "image_id": 11230,
+      "sentence_id": "00056112",
+      "caption": "a few lights are hung on the trowel on the left",
+      "id": 56112
+    },
+    {
+      "image_id": 11230,
+      "sentence_id": "00056113",
+      "caption": "a person is in motion on the road in front",
+      "id": 56113
+    },
+    {
+      "image_id": 11230,
+      "sentence_id": "00056114",
+      "caption": "few stairs are on the right side of the road",
+      "id": 56114
+    },
+    {
+      "image_id": 11230,
+      "sentence_id": "00056115",
+      "caption": "a motorcycle was left just in front of the tables and chairs",
+      "id": 56115
+    },
+    {
+      "image_id": 44308,
+      "sentence_id": "00221326",
+      "caption": "Two traffic cones on a road with a garbage container and a building ahead",
+      "id": 221326
+    },
+    {
+      "image_id": 44308,
+      "sentence_id": "00221327",
+      "caption": "An empty road and a green field in front of the pine trees",
+      "id": 221327
+    },
+    {
+      "image_id": 44308,
+      "sentence_id": "00221328",
+      "caption": "Two traffic cones on the right of a long street",
+      "id": 221328
+    },
+    {
+      "image_id": 44308,
+      "sentence_id": "00221329",
+      "caption": "Two orange traffic cones on the side of a road",
+      "id": 221329
+    },
+    {
+      "image_id": 44308,
+      "sentence_id": "00221330",
+      "caption": "Orange traffic barges are next to the sidewalk",
+      "id": 221330
+    },
+    {
+      "image_id": 37836,
+      "sentence_id": "00188966",
+      "caption": "Some boats are beside lots of rocks",
+      "id": 188966
+    },
+    {
+      "image_id": 37836,
+      "sentence_id": "00188967",
+      "caption": "Some boots are on the sea at night",
+      "id": 188967
+    },
+    {
+      "image_id": 37836,
+      "sentence_id": "00188968",
+      "caption": "A lot of boats on a sea",
+      "id": 188968
+    },
+    {
+      "image_id": 37836,
+      "sentence_id": "00188969",
+      "caption": "A bunch of boats on a sea",
+      "id": 188969
+    },
+    {
+      "image_id": 37836,
+      "sentence_id": "00188970",
+      "caption": "Some boats on the dock near the rocks",
+      "id": 188970
+    },
+    {
+      "image_id": 7494,
+      "sentence_id": "00037466",
+      "caption": "In field next to lake Ferris wheel is taken",
+      "id": 37466
+    },
+    {
+      "image_id": 7494,
+      "sentence_id": "00037467",
+      "caption": "View of bushes and weeds near the artificial lake",
+      "id": 37467
+    },
+    {
+      "image_id": 7494,
+      "sentence_id": "00037468",
+      "caption": "Cloudy sky is covering the top of the view",
+      "id": 37468
+    },
+    {
+      "image_id": 7494,
+      "sentence_id": "00037469",
+      "caption": "In field next to lake wheel is taken on opposite side",
+      "id": 37469
+    },
+    {
+      "image_id": 7494,
+      "sentence_id": "00037470",
+      "caption": "large lake is covered all front side of area on foggy day",
+      "id": 37470
+    },
+    {
+      "image_id": 46823,
+      "sentence_id": "00233896",
+      "caption": "kids are having fun with their families in amusement park at night",
+      "id": 233896
+    },
+    {
+      "image_id": 46823,
+      "sentence_id": "00233897",
+      "caption": "people are sitting on wooden bench of amusement park",
+      "id": 233897
+    },
+    {
+      "image_id": 46823,
+      "sentence_id": "00233898",
+      "caption": "children stand in front of roller coaster",
+      "id": 233898
+    },
+    {
+      "image_id": 46823,
+      "sentence_id": "00233899",
+      "caption": "a girl is pointing the across place",
+      "id": 233899
+    },
+    {
+      "image_id": 46823,
+      "sentence_id": "00233900",
+      "caption": "a few children are standing in front of the iron bars",
+      "id": 233900
+    },
+    {
+      "image_id": 21248,
+      "sentence_id": "00106056",
+      "caption": "door of historical house at left background is opened",
+      "id": 106056
+    },
+    {
+      "image_id": 21248,
+      "sentence_id": "00106057",
+      "caption": "A chameleon statue is placed on a door",
+      "id": 106057
+    },
+    {
+      "image_id": 21248,
+      "sentence_id": "00106058",
+      "caption": "man with backpack is walking at left edge on cloudy day",
+      "id": 106058
+    },
+    {
+      "image_id": 21248,
+      "sentence_id": "00106059",
+      "caption": "Clear sky is covering the top of the background of the view",
+      "id": 106059
+    },
+    {
+      "image_id": 21248,
+      "sentence_id": "00106060",
+      "caption": "alone woman is taking her dog for a walk at right side",
+      "id": 106060
+    },
+    {
+      "image_id": 20299,
+      "sentence_id": "00101311",
+      "caption": "an antique city is photoed in the daytime.",
+      "id": 101311
+    },
+    {
+      "image_id": 20299,
+      "sentence_id": "00101312",
+      "caption": "a green leafed plant is visible on the left.",
+      "id": 101312
+    },
+    {
+      "image_id": 20299,
+      "sentence_id": "00101313",
+      "caption": "four columns are visible in the antique city.",
+      "id": 101313
+    },
+    {
+      "image_id": 20299,
+      "sentence_id": "00101314",
+      "caption": "a narrow road made out of rocks is visible on the right.",
+      "id": 101314
+    },
+    {
+      "image_id": 20299,
+      "sentence_id": "00101315",
+      "caption": "hills are visible in the distance.",
+      "id": 101315
+    },
+    {
+      "image_id": 4421,
+      "sentence_id": "00022101",
+      "caption": "a car is newly entered to oil station",
+      "id": 22101
+    },
+    {
+      "image_id": 4421,
+      "sentence_id": "00022102",
+      "caption": "cars are at a gas station",
+      "id": 22102
+    },
+    {
+      "image_id": 4421,
+      "sentence_id": "00022103",
+      "caption": "Employee at the gas station is busy with his job",
+      "id": 22103
+    },
+    {
+      "image_id": 4421,
+      "sentence_id": "00022104",
+      "caption": "a tube delivery truck is leaving the gas station",
+      "id": 22104
+    },
+    {
+      "image_id": 4421,
+      "sentence_id": "00022105",
+      "caption": "A gas station is taken  from inside a car.",
+      "id": 22105
+    },
+    {
+      "image_id": 8013,
+      "sentence_id": "00040061",
+      "caption": "a different name is written on the plane spirit com",
+      "id": 40061
+    },
+    {
+      "image_id": 8013,
+      "sentence_id": "00040062",
+      "caption": "an airplane is taken at airport",
+      "id": 40062
+    },
+    {
+      "image_id": 8013,
+      "sentence_id": "00040063",
+      "caption": "a plane is being prepared for landing at left side",
+      "id": 40063
+    },
+    {
+      "image_id": 8013,
+      "sentence_id": "00040064",
+      "caption": "a large cargo plane and transport vehicles",
+      "id": 40064
+    },
+    {
+      "image_id": 8013,
+      "sentence_id": "00040065",
+      "caption": "a man is working at an airport facility",
+      "id": 40065
+    },
+    {
+      "image_id": 5563,
+      "sentence_id": "00027811",
+      "caption": "Lots of colorful benches are on the other side of the park.",
+      "id": 27811
+    },
+    {
+      "image_id": 5563,
+      "sentence_id": "00027812",
+      "caption": "some apartments are in the background",
+      "id": 27812
+    },
+    {
+      "image_id": 5563,
+      "sentence_id": "00027813",
+      "caption": "table and chair is placed near artificial pool at right side",
+      "id": 27813
+    },
+    {
+      "image_id": 5563,
+      "sentence_id": "00027814",
+      "caption": "A park with lamp posts under a cloudy sky",
+      "id": 27814
+    },
+    {
+      "image_id": 5563,
+      "sentence_id": "00027815",
+      "caption": "dolphin figurine is decorated on the edge of a pond",
+      "id": 27815
+    },
+    {
+      "image_id": 12619,
+      "sentence_id": "00063036",
+      "caption": "A winding stone path with greenery surrounds.",
+      "id": 63036
+    },
+    {
+      "image_id": 12619,
+      "sentence_id": "00063037",
+      "caption": "The path starts to windy ahead.",
+      "id": 63037
+    },
+    {
+      "image_id": 12619,
+      "sentence_id": "00063038",
+      "caption": "greenery and trees are around the path.",
+      "id": 63038
+    },
+    {
+      "image_id": 12619,
+      "sentence_id": "00063039",
+      "caption": "a street and passing cars are opposite.",
+      "id": 63039
+    },
+    {
+      "image_id": 12619,
+      "sentence_id": "00063040",
+      "caption": "The night sky and city lights are in the background.",
+      "id": 63040
+    },
+    {
+      "image_id": 34503,
+      "sentence_id": "00172311",
+      "caption": "lots of cars are moving on wide auto band in the evening",
+      "id": 172311
+    },
+    {
+      "image_id": 34503,
+      "sentence_id": "00172312",
+      "caption": "Row of street lamps illuminate the road on the highway",
+      "id": 172312
+    },
+    {
+      "image_id": 34503,
+      "sentence_id": "00172313",
+      "caption": "lots of ligtening poles are erected on over wide road",
+      "id": 172313
+    },
+    {
+      "image_id": 34503,
+      "sentence_id": "00172314",
+      "caption": "street lamps are on both sides of road",
+      "id": 172314
+    },
+    {
+      "image_id": 34503,
+      "sentence_id": "00172315",
+      "caption": "dual streetlights in foreground of area are on sides of asphalt road.",
+      "id": 172315
+    },
+    {
+      "image_id": 18177,
+      "sentence_id": "00090706",
+      "caption": "a yellow vehicle is parked just ahead",
+      "id": 90706
+    },
+    {
+      "image_id": 18177,
+      "sentence_id": "00090707",
+      "caption": "sheet metal panel is made to the back of the vehicle",
+      "id": 90707
+    },
+    {
+      "image_id": 18177,
+      "sentence_id": "00090708",
+      "caption": "the street lamp is behind the sheet metal panel",
+      "id": 90708
+    },
+    {
+      "image_id": 18177,
+      "sentence_id": "00090709",
+      "caption": "a tall minaret is behind the sheet metal panel and the street lamp",
+      "id": 90709
+    },
+    {
+      "image_id": 18177,
+      "sentence_id": "00090710",
+      "caption": "the big green tree is on the left side of the minaret",
+      "id": 90710
+    },
+    {
+      "image_id": 5530,
+      "sentence_id": "00027646",
+      "caption": "The herbs got yellow beacuse of the sun.",
+      "id": 27646
+    },
+    {
+      "image_id": 5530,
+      "sentence_id": "00027647",
+      "caption": "a path is near the farm area in the background",
+      "id": 27647
+    },
+    {
+      "image_id": 5530,
+      "sentence_id": "00027648",
+      "caption": "road and farm area is taken from inside of car on sunny day",
+      "id": 27648
+    },
+    {
+      "image_id": 5530,
+      "sentence_id": "00027649",
+      "caption": "Small pine trees lined up in a field covered with dried grass",
+      "id": 27649
+    },
+    {
+      "image_id": 5530,
+      "sentence_id": "00027650",
+      "caption": "The arid landscapes are taken  from inside a passenger bus",
+      "id": 27650
+    },
+    {
+      "image_id": 46442,
+      "sentence_id": "00231991",
+      "caption": "motorcycle is parked on large lot on left backside",
+      "id": 231991
+    },
+    {
+      "image_id": 46442,
+      "sentence_id": "00231992",
+      "caption": "The motorcycle is locked in the back of the car.",
+      "id": 231992
+    },
+    {
+      "image_id": 46442,
+      "sentence_id": "00231993",
+      "caption": "Vehicles left behind windows at a stop",
+      "id": 231993
+    },
+    {
+      "image_id": 46442,
+      "sentence_id": "00231994",
+      "caption": "two cars are moving on the road",
+      "id": 231994
+    },
+    {
+      "image_id": 46442,
+      "sentence_id": "00231995",
+      "caption": "a motorcycle and a few cars are on the road",
+      "id": 231995
+    },
+    {
+      "image_id": 18621,
+      "sentence_id": "00092926",
+      "caption": "a large airplane wing is just in front",
+      "id": 92926
+    },
+    {
+      "image_id": 18621,
+      "sentence_id": "00092927",
+      "caption": "many planes stand by on the left",
+      "id": 92927
+    },
+    {
+      "image_id": 18621,
+      "sentence_id": "00092928",
+      "caption": "an orange and white pontoon remained on the left side of the aircraft wing",
+      "id": 92928
+    },
+    {
+      "image_id": 18621,
+      "sentence_id": "00092929",
+      "caption": "the airport remained on the left side of the waiting planes",
+      "id": 92929
+    },
+    {
+      "image_id": 18621,
+      "sentence_id": "00092930",
+      "caption": "many security cameras are lined up at the front of the airport",
+      "id": 92930
+    },
+    {
+      "image_id": 17296,
+      "sentence_id": "00086321",
+      "caption": "multiple life jackets in a shop are photoed.",
+      "id": 86321
+    },
+    {
+      "image_id": 17296,
+      "sentence_id": "00086322",
+      "caption": "the life jackets are located on the racks in a shop.",
+      "id": 86322
+    },
+    {
+      "image_id": 17296,
+      "sentence_id": "00086323",
+      "caption": "tiled flooring is visible on the ground.",
+      "id": 86323
+    },
+    {
+      "image_id": 17296,
+      "sentence_id": "00086324",
+      "caption": "the color of the life jackets are orange.",
+      "id": 86324
+    },
+    {
+      "image_id": 17296,
+      "sentence_id": "00086325",
+      "caption": "two mannequin torsos are located on top of the racks.",
+      "id": 86325
+    },
+    {
+      "image_id": 43584,
+      "sentence_id": "00217706",
+      "caption": "Two garbage containers and lampposts on a path between some trees",
+      "id": 217706
+    },
+    {
+      "image_id": 43584,
+      "sentence_id": "00217707",
+      "caption": "The road is between green fields with trees",
+      "id": 217707
+    },
+    {
+      "image_id": 43584,
+      "sentence_id": "00217708",
+      "caption": "A pathway an some pavilions around it",
+      "id": 217708
+    },
+    {
+      "image_id": 43584,
+      "sentence_id": "00217709",
+      "caption": "Some pavilions and trees in a park",
+      "id": 217709
+    },
+    {
+      "image_id": 43584,
+      "sentence_id": "00217710",
+      "caption": "Grass areas on both sides of a path",
+      "id": 217710
+    },
+    {
+      "image_id": 4589,
+      "sentence_id": "00022941",
+      "caption": "three storeys building is located at right background of view",
+      "id": 22941
+    },
+    {
+      "image_id": 4589,
+      "sentence_id": "00022942",
+      "caption": "grassy area is on the right side of the area",
+      "id": 22942
+    },
+    {
+      "image_id": 4589,
+      "sentence_id": "00022943",
+      "caption": "Power lines stretch across along the way",
+      "id": 22943
+    },
+    {
+      "image_id": 4589,
+      "sentence_id": "00022944",
+      "caption": "Unfortunately, pruned bald trees without branches are on the roadsides on the pavement",
+      "id": 22944
+    },
+    {
+      "image_id": 4589,
+      "sentence_id": "00022945",
+      "caption": "A school bus is parked at the side of the view",
+      "id": 22945
+    },
+    {
+      "image_id": 13687,
+      "sentence_id": "00068296",
+      "caption": "The salt bottle is just across the street.",
+      "id": 68296
+    },
+    {
+      "image_id": 13687,
+      "sentence_id": "00068297",
+      "caption": "Herbal tea is next to salt.",
+      "id": 68297
+    },
+    {
+      "image_id": 13687,
+      "sentence_id": "00068298",
+      "caption": "The honey jar is behind the tea.",
+      "id": 68298
+    },
+    {
+      "image_id": 13687,
+      "sentence_id": "00068299",
+      "caption": "The honey in a bowl is in the middle.",
+      "id": 68299
+    },
+    {
+      "image_id": 13687,
+      "sentence_id": "00068300",
+      "caption": "The books are on the right.",
+      "id": 68300
+    },
+    {
+      "image_id": 16391,
+      "sentence_id": "00081796",
+      "caption": "an empty wooden table and chairs are under trees",
+      "id": 81796
+    },
+    {
+      "image_id": 16391,
+      "sentence_id": "00081797",
+      "caption": "pine trees are surrounding the kindergarten at background",
+      "id": 81797
+    },
+    {
+      "image_id": 16391,
+      "sentence_id": "00081798",
+      "caption": "wet benches in the park and playground in the back",
+      "id": 81798
+    },
+    {
+      "image_id": 16391,
+      "sentence_id": "00081799",
+      "caption": "wooden bench at the park is wet",
+      "id": 81799
+    },
+    {
+      "image_id": 16391,
+      "sentence_id": "00081800",
+      "caption": "pine trees are rising into sky from surface of park",
+      "id": 81800
+    },
+    {
+      "image_id": 15090,
+      "sentence_id": "00075291",
+      "caption": "Fresh persimmon fruits placed in a plastic box",
+      "id": 75291
+    },
+    {
+      "image_id": 15090,
+      "sentence_id": "00075292",
+      "caption": "the plastic box with fresh persimmon is on the ground",
+      "id": 75292
+    },
+    {
+      "image_id": 15090,
+      "sentence_id": "00075293",
+      "caption": "kaki persimmon fruits placed inside the crates",
+      "id": 75293
+    },
+    {
+      "image_id": 15090,
+      "sentence_id": "00075294",
+      "caption": "bakcground is almost covered by herbs and grass",
+      "id": 75294
+    },
+    {
+      "image_id": 15090,
+      "sentence_id": "00075295",
+      "caption": "Lots of diospyros kakis are put next to each other",
+      "id": 75295
+    },
+    {
+      "image_id": 20104,
+      "sentence_id": "00100336",
+      "caption": "outside of a facility is photoed.",
+      "id": 100336
+    },
+    {
+      "image_id": 20104,
+      "sentence_id": "00100337",
+      "caption": "outside of a mall is photoed.",
+      "id": 100337
+    },
+    {
+      "image_id": 20104,
+      "sentence_id": "00100338",
+      "caption": "two towers are located on the walls of the facility.",
+      "id": 100338
+    },
+    {
+      "image_id": 20104,
+      "sentence_id": "00100339",
+      "caption": "multiple horse statues are located in front of the facility.",
+      "id": 100339
+    },
+    {
+      "image_id": 20104,
+      "sentence_id": "00100340",
+      "caption": "a decorative pool is visible at the bottom of the photo.",
+      "id": 100340
+    },
+    {
+      "image_id": 40865,
+      "sentence_id": "00204111",
+      "caption": "A garbage bin next to a building with a street lamp and windows",
+      "id": 204111
+    },
+    {
+      "image_id": 40865,
+      "sentence_id": "00204112",
+      "caption": "The corner of an old building with a street lamp",
+      "id": 204112
+    },
+    {
+      "image_id": 40865,
+      "sentence_id": "00204113",
+      "caption": "Corner of a old building with some tiles on its walls",
+      "id": 204113
+    },
+    {
+      "image_id": 40865,
+      "sentence_id": "00204114",
+      "caption": "A lamp on the wall of an old building",
+      "id": 204114
+    },
+    {
+      "image_id": 40865,
+      "sentence_id": "00204115",
+      "caption": "A black trash can next to a building",
+      "id": 204115
+    },
+    {
+      "image_id": 4007,
+      "sentence_id": "00020031",
+      "caption": "narrow pavement is laying between apartments and asphalt road",
+      "id": 20031
+    },
+    {
+      "image_id": 4007,
+      "sentence_id": "00020032",
+      "caption": "a car is parked on the right side of the area",
+      "id": 20032
+    },
+    {
+      "image_id": 4007,
+      "sentence_id": "00020033",
+      "caption": "Two plants in pots in front of parked car",
+      "id": 20033
+    },
+    {
+      "image_id": 4007,
+      "sentence_id": "00020034",
+      "caption": "the floor is wet and the pavement's stones are old",
+      "id": 20034
+    },
+    {
+      "image_id": 4007,
+      "sentence_id": "00020035",
+      "caption": "A trashbin is put by the wall in the pavement.",
+      "id": 20035
+    },
+    {
+      "image_id": 4771,
+      "sentence_id": "00023851",
+      "caption": "all road's surface is wet and slippery",
+      "id": 23851
+    },
+    {
+      "image_id": 4771,
+      "sentence_id": "00023852",
+      "caption": "cars are moving on rainy day",
+      "id": 23852
+    },
+    {
+      "image_id": 4771,
+      "sentence_id": "00023853",
+      "caption": "A playground in front of the kindergarten on rainy day",
+      "id": 23853
+    },
+    {
+      "image_id": 4771,
+      "sentence_id": "00023854",
+      "caption": "two Red Crescent clothing collection boxes for people",
+      "id": 23854
+    },
+    {
+      "image_id": 4771,
+      "sentence_id": "00023855",
+      "caption": "Cars are passing by in the street.",
+      "id": 23855
+    },
+    {
+      "image_id": 9245,
+      "sentence_id": "00046211",
+      "caption": "two cars are photoed in a gallery.",
+      "id": 46211
+    },
+    {
+      "image_id": 9245,
+      "sentence_id": "00046212",
+      "caption": "the car on the left is in gray color.",
+      "id": 46212
+    },
+    {
+      "image_id": 9245,
+      "sentence_id": "00046213",
+      "caption": "the car on the right is in white, red and blue colors.",
+      "id": 46213
+    },
+    {
+      "image_id": 9245,
+      "sentence_id": "00046214",
+      "caption": "the ground of the gallery is red colored.",
+      "id": 46214
+    },
+    {
+      "image_id": 9245,
+      "sentence_id": "00046215",
+      "caption": "the wall behind the cars are red colored.",
+      "id": 46215
+    },
+    {
+      "image_id": 28534,
+      "sentence_id": "00142481",
+      "caption": "two recycle cans are placed next to each other in front of wall",
+      "id": 142481
+    },
+    {
+      "image_id": 28534,
+      "sentence_id": "00142482",
+      "caption": "a recycle bin is by the wall",
+      "id": 142482
+    },
+    {
+      "image_id": 28534,
+      "sentence_id": "00142483",
+      "caption": "a trash bag is placed inside the metal trash can",
+      "id": 142483
+    },
+    {
+      "image_id": 28534,
+      "sentence_id": "00142484",
+      "caption": "A college settlement plan in the frame against the wall",
+      "id": 142484
+    },
+    {
+      "image_id": 28534,
+      "sentence_id": "00142485",
+      "caption": "trash cans are in front of a billboard showing the layout of a university",
+      "id": 142485
+    }
+  ],
+  "images": [
+    {
+      "id": 1228
+    },
+    {
+      "id": 1906
+    },
+    {
+      "id": 2073
+    },
+    {
+      "id": 4007
+    },
+    {
+      "id": 4421
+    },
+    {
+      "id": 4589
+    },
+    {
+      "id": 4771
+    },
+    {
+      "id": 5483
+    },
+    {
+      "id": 5530
+    },
+    {
+      "id": 5563
+    },
+    {
+      "id": 6051
+    },
+    {
+      "id": 6360
+    },
+    {
+      "id": 6718
+    },
+    {
+      "id": 7494
+    },
+    {
+      "id": 7897
+    },
+    {
+      "id": 8013
+    },
+    {
+      "id": 8037
+    },
+    {
+      "id": 8640
+    },
+    {
+      "id": 8745
+    },
+    {
+      "id": 8898
+    },
+    {
+      "id": 9245
+    },
+    {
+      "id": 9709
+    },
+    {
+      "id": 10589
+    },
+    {
+      "id": 11188
+    },
+    {
+      "id": 11230
+    },
+    {
+      "id": 12232
+    },
+    {
+      "id": 12619
+    },
+    {
+      "id": 13039
+    },
+    {
+      "id": 13417
+    },
+    {
+      "id": 13687
+    },
+    {
+      "id": 13792
+    },
+    {
+      "id": 14562
+    },
+    {
+      "id": 15090
+    },
+    {
+      "id": 15186
+    },
+    {
+      "id": 15588
+    },
+    {
+      "id": 15898
+    },
+    {
+      "id": 16214
+    },
+    {
+      "id": 16391
+    },
+    {
+      "id": 17273
+    },
+    {
+      "id": 17296
+    },
+    {
+      "id": 17690
+    },
+    {
+      "id": 18177
+    },
+    {
+      "id": 18621
+    },
+    {
+      "id": 18765
+    },
+    {
+      "id": 19413
+    },
+    {
+      "id": 20104
+    },
+    {
+      "id": 20299
+    },
+    {
+      "id": 20354
+    },
+    {
+      "id": 20463
+    },
+    {
+      "id": 20896
+    },
+    {
+      "id": 21248
+    },
+    {
+      "id": 28534
+    },
+    {
+      "id": 31537
+    },
+    {
+      "id": 33165
+    },
+    {
+      "id": 34270
+    },
+    {
+      "id": 34503
+    },
+    {
+      "id": 36258
+    },
+    {
+      "id": 36848
+    },
+    {
+      "id": 37836
+    },
+    {
+      "id": 38614
+    },
+    {
+      "id": 40865
+    },
+    {
+      "id": 41603
+    },
+    {
+      "id": 41614
+    },
+    {
+      "id": 43342
+    },
+    {
+      "id": 43584
+    },
+    {
+      "id": 44093
+    },
+    {
+      "id": 44308
+    },
+    {
+      "id": 46168
+    },
+    {
+      "id": 46442
+    },
+    {
+      "id": 46823
+    },
+    {
+      "id": 49235
+    },
+    {
+      "id": 49921
+    },
+    {
+      "id": 50265
+    },
+    {
+      "id": 50917
+    }
+  ]
+}
