@@ -25,6 +25,11 @@ The ENVISAGE dataset was collected by visually impaired contributors and annotat
 - No punctuation in captions to simplify RNN/Transformer preprocessing
 - Multi‑label tags available per image using MSCOCO supercategories
 
+
+## 📄 Finetuned Model (BLIP2 OPT6.7B)
+https://drive.google.com/file/d/13KZD6wwr0EuFUrCB1ld0BPq-fUucdQP0/view?usp=drive_link
+
+
 ## Citation
 
 If you find this repository useful in your research, please cite our paper:
@@ -43,5 +48,3 @@ keywords = {Image captioning, Accessibility, Conformal prediction, Uncertainty e
 }
 
 
-## 📄 Finetuned Model (BLIP2 OPT6.7B)
-https://drive.google.com/file/d/13KZD6wwr0EuFUrCB1ld0BPq-fUucdQP0/view?usp=drive_link
